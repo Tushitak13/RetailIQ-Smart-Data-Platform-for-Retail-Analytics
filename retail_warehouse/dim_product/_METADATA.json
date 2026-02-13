@@ -1,0 +1,11 @@
+{
+  "table_name": "dim_product",
+  "partition_column": "Category",
+  "partitions": [
+    "Furniture",
+    "Office Supplies",
+    "Technology"
+  ],
+  "created_date": "2026-02-13T13:01:50.728016",
+  "record_count": 1621
+}

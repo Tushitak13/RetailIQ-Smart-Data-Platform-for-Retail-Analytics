@@ -1,0 +1,203 @@
+{
+  "table_name": "fact_sales",
+  "partition_columns": [
+    "order_year",
+    "order_month"
+  ],
+  "partitions": [
+    {
+      "order_year": 2014,
+      "order_month": 1
+    },
+    {
+      "order_year": 2014,
+      "order_month": 2
+    },
+    {
+      "order_year": 2014,
+      "order_month": 3
+    },
+    {
+      "order_year": 2014,
+      "order_month": 4
+    },
+    {
+      "order_year": 2014,
+      "order_month": 5
+    },
+    {
+      "order_year": 2014,
+      "order_month": 6
+    },
+    {
+      "order_year": 2014,
+      "order_month": 7
+    },
+    {
+      "order_year": 2014,
+      "order_month": 8
+    },
+    {
+      "order_year": 2014,
+      "order_month": 9
+    },
+    {
+      "order_year": 2014,
+      "order_month": 10
+    },
+    {
+      "order_year": 2014,
+      "order_month": 11
+    },
+    {
+      "order_year": 2014,
+      "order_month": 12
+    },
+    {
+      "order_year": 2015,
+      "order_month": 1
+    },
+    {
+      "order_year": 2015,
+      "order_month": 2
+    },
+    {
+      "order_year": 2015,
+      "order_month": 3
+    },
+    {
+      "order_year": 2015,
+      "order_month": 4
+    },
+    {
+      "order_year": 2015,
+      "order_month": 5
+    },
+    {
+      "order_year": 2015,
+      "order_month": 6
+    },
+    {
+      "order_year": 2015,
+      "order_month": 7
+    },
+    {
+      "order_year": 2015,
+      "order_month": 8
+    },
+    {
+      "order_year": 2015,
+      "order_month": 9
+    },
+    {
+      "order_year": 2015,
+      "order_month": 10
+    },
+    {
+      "order_year": 2015,
+      "order_month": 11
+    },
+    {
+      "order_year": 2015,
+      "order_month": 12
+    },
+    {
+      "order_year": 2016,
+      "order_month": 1
+    },
+    {
+      "order_year": 2016,
+      "order_month": 2
+    },
+    {
+      "order_year": 2016,
+      "order_month": 3
+    },
+    {
+      "order_year": 2016,
+      "order_month": 4
+    },
+    {
+      "order_year": 2016,
+      "order_month": 5
+    },
+    {
+      "order_year": 2016,
+      "order_month": 6
+    },
+    {
+      "order_year": 2016,
+      "order_month": 7
+    },
+    {
+      "order_year": 2016,
+      "order_month": 8
+    },
+    {
+      "order_year": 2016,
+      "order_month": 9
+    },
+    {
+      "order_year": 2016,
+      "order_month": 10
+    },
+    {
+      "order_year": 2016,
+      "order_month": 11
+    },
+    {
+      "order_year": 2016,
+      "order_month": 12
+    },
+    {
+      "order_year": 2017,
+      "order_month": 1
+    },
+    {
+      "order_year": 2017,
+      "order_month": 2
+    },
+    {
+      "order_year": 2017,
+      "order_month": 3
+    },
+    {
+      "order_year": 2017,
+      "order_month": 4
+    },
+    {
+      "order_year": 2017,
+      "order_month": 5
+    },
+    {
+      "order_year": 2017,
+      "order_month": 6
+    },
+    {
+      "order_year": 2017,
+      "order_month": 7
+    },
+    {
+      "order_year": 2017,
+      "order_month": 8
+    },
+    {
+      "order_year": 2017,
+      "order_month": 9
+    },
+    {
+      "order_year": 2017,
+      "order_month": 10
+    },
+    {
+      "order_year": 2017,
+      "order_month": 11
+    },
+    {
+      "order_year": 2017,
+      "order_month": 12
+    }
+  ],
+  "created_date": "2026-02-13T13:01:51.078218",
+  "record_count": 4042
+}

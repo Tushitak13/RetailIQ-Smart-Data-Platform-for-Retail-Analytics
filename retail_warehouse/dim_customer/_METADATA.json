@@ -1,0 +1,12 @@
+{
+  "table_name": "dim_customer",
+  "partition_column": "Region",
+  "partitions": [
+    "South",
+    "West",
+    "Central",
+    "East"
+  ],
+  "created_date": "2026-02-13T13:01:50.709396",
+  "record_count": 738
+}

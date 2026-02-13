@@ -1,0 +1,203 @@
+{
+  "table_name": "fact_shipments",
+  "partition_columns": [
+    "ship_year",
+    "ship_month"
+  ],
+  "partitions": [
+    {
+      "ship_year": 2014,
+      "ship_month": 1
+    },
+    {
+      "ship_year": 2014,
+      "ship_month": 2
+    },
+    {
+      "ship_year": 2014,
+      "ship_month": 3
+    },
+    {
+      "ship_year": 2014,
+      "ship_month": 4
+    },
+    {
+      "ship_year": 2014,
+      "ship_month": 5
+    },
+    {
+      "ship_year": 2014,
+      "ship_month": 6
+    },
+    {
+      "ship_year": 2014,
+      "ship_month": 7
+    },
+    {
+      "ship_year": 2014,
+      "ship_month": 8
+    },
+    {
+      "ship_year": 2014,
+      "ship_month": 9
+    },
+    {
+      "ship_year": 2014,
+      "ship_month": 10
+    },
+    {
+      "ship_year": 2014,
+      "ship_month": 11
+    },
+    {
+      "ship_year": 2014,
+      "ship_month": 12
+    },
+    {
+      "ship_year": 2015,
+      "ship_month": 1
+    },
+    {
+      "ship_year": 2015,
+      "ship_month": 2
+    },
+    {
+      "ship_year": 2015,
+      "ship_month": 3
+    },
+    {
+      "ship_year": 2015,
+      "ship_month": 4
+    },
+    {
+      "ship_year": 2015,
+      "ship_month": 5
+    },
+    {
+      "ship_year": 2015,
+      "ship_month": 6
+    },
+    {
+      "ship_year": 2015,
+      "ship_month": 7
+    },
+    {
+      "ship_year": 2015,
+      "ship_month": 8
+    },
+    {
+      "ship_year": 2015,
+      "ship_month": 9
+    },
+    {
+      "ship_year": 2015,
+      "ship_month": 10
+    },
+    {
+      "ship_year": 2015,
+      "ship_month": 11
+    },
+    {
+      "ship_year": 2015,
+      "ship_month": 12
+    },
+    {
+      "ship_year": 2016,
+      "ship_month": 1
+    },
+    {
+      "ship_year": 2016,
+      "ship_month": 2
+    },
+    {
+      "ship_year": 2016,
+      "ship_month": 3
+    },
+    {
+      "ship_year": 2016,
+      "ship_month": 4
+    },
+    {
+      "ship_year": 2016,
+      "ship_month": 5
+    },
+    {
+      "ship_year": 2016,
+      "ship_month": 6
+    },
+    {
+      "ship_year": 2016,
+      "ship_month": 7
+    },
+    {
+      "ship_year": 2016,
+      "ship_month": 8
+    },
+    {
+      "ship_year": 2016,
+      "ship_month": 9
+    },
+    {
+      "ship_year": 2016,
+      "ship_month": 10
+    },
+    {
+      "ship_year": 2016,
+      "ship_month": 11
+    },
+    {
+      "ship_year": 2016,
+      "ship_month": 12
+    },
+    {
+      "ship_year": 2017,
+      "ship_month": 1
+    },
+    {
+      "ship_year": 2017,
+      "ship_month": 2
+    },
+    {
+      "ship_year": 2017,
+      "ship_month": 3
+    },
+    {
+      "ship_year": 2017,
+      "ship_month": 4
+    },
+    {
+      "ship_year": 2017,
+      "ship_month": 5
+    },
+    {
+      "ship_year": 2017,
+      "ship_month": 6
+    },
+    {
+      "ship_year": 2017,
+      "ship_month": 7
+    },
+    {
+      "ship_year": 2017,
+      "ship_month": 8
+    },
+    {
+      "ship_year": 2017,
+      "ship_month": 9
+    },
+    {
+      "ship_year": 2017,
+      "ship_month": 10
+    },
+    {
+      "ship_year": 2017,
+      "ship_month": 11
+    },
+    {
+      "ship_year": 2017,
+      "ship_month": 12
+    }
+  ],
+  "created_date": "2026-02-13T13:01:51.368457",
+  "record_count": 3542
+}

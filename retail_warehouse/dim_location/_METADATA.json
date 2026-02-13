@@ -1,0 +1,6 @@
+{
+  "table_name": "dim_location",
+  "partitioned": false,
+  "record_count": 474,
+  "created_date": "2026-02-13T13:01:50.761818"
+}

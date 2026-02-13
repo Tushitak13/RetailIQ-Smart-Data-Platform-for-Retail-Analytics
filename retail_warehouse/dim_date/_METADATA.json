@@ -1,0 +1,12 @@
+{
+  "table_name": "dim_date",
+  "partition_column": "year",
+  "partitions": [
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "created_date": "2026-02-13T13:01:50.756716",
+  "record_count": 544
+}
