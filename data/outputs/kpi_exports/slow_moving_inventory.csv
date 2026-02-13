@@ -1,0 +1,1622 @@
+product_sk,last_movement_date,days_since_movement,is_slow_moving,Product_ID,Product_Name,Category,Sub_Category,Source_System
+1,2017-05-01,224,True,FUR-BO-10001798,Bush Somerset Collection Bookcase,Furniture,Bookcases,Supply_Chain
+2,2017-11-02,39,False,FUR-CH-10000454,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",Furniture,Chairs,Supply_Chain
+3,2016-09-02,465,True,OFF-LA-10000240,Self-Adhesive Address Labels for Typewriters by Universal,Office Supplies,Labels,Supply_Chain
+4,2015-10-11,792,True,FUR-TA-10000577,Bretford CR4500 Series Slim Rectangular Table,Furniture,Tables,Supply_Chain
+5,2017-01-07,338,True,OFF-ST-10000760,Eldon Fold 'N Roll Cart System,Office Supplies,Storage,Supply_Chain
+6,2017-12-05,6,False,FUR-FU-10001487,"Eldon Expressions Wood and Plastic Desk Accessories, Cherry Wood",Furniture,Furnishings,Supply_Chain
+7,2016-04-07,613,True,OFF-AR-10002833,Newell 322,Office Supplies,Art,Supply_Chain
+8,2016-08-04,494,True,TEC-PH-10002275,Mitel 5320 IP Phone VoIP phone,Technology,Phones,Supply_Chain
+9,2017-05-04,221,True,OFF-BI-10003910,DXL Angle-View Binders with Locking Rings by Samsill,Office Supplies,Binders,Supply_Chain
+10,2016-12-11,365,True,OFF-AP-10002892,Belkin F5C206VTEL 6 Outlet Surge,Office Supplies,Appliances,Supply_Chain
+11,2016-09-02,465,True,FUR-TA-10001539,Chromcraft Rectangular Conference Tables,Furniture,Tables,Supply_Chain
+12,2017-09-07,95,True,TEC-PH-10002033,Konftel 250 Conference phone - Charcoal black,Technology,Phones,Supply_Chain
+13,2017-07-01,163,True,OFF-BI-10003656,Fellowes PB200 Plastic Comb Binding Machine,Office Supplies,Binders,Supply_Chain
+14,2016-09-11,456,True,OFF-ST-10004186,"Stur-D-Stor Shelving, Vertical 5-Shelf: 72""H x 36""W x 18 1/2""D",Office Supplies,Storage,Supply_Chain
+15,2017-11-02,39,False,OFF-AR-10000246,Newell 318,Office Supplies,Art,Supply_Chain
+16,2017-09-02,100,True,OFF-AP-10001492,"Acco Six-Outlet Power Strip, 4' Cord Length",Office Supplies,Appliances,Supply_Chain
+17,2017-12-02,9,False,TEC-PH-10004977,GE 30524EE4,Technology,Phones,Supply_Chain
+18,2016-12-08,368,True,FUR-FU-10003664,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",Furniture,Furnishings,Supply_Chain
+19,2017-09-10,92,True,TEC-PH-10004093,Panasonic Kx-TS550,Technology,Phones,Supply_Chain
+20,2017-09-04,98,True,TEC-AC-10000171,"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 25/Pack",Technology,Accessories,Supply_Chain
+21,2017-09-07,95,True,OFF-BI-10003291,Wilson Jones Leather-Like Binders with DublLock Round Rings,Office Supplies,Binders,Supply_Chain
+22,2016-12-11,365,True,OFF-FA-10000304,Advantus Push Pins,Office Supplies,Fasteners,Supply_Chain
+23,2016-12-11,365,True,TEC-PH-10002447,AT&T CL83451 4-Handset Telephone,Technology,Phones,Supply_Chain
+24,2014-12-05,1102,True,OFF-AR-10002671,"Hunt BOSTON Model 1606 High-Volume Electric Pencil Sharpener, Beige",Office Supplies,Art,Supply_Chain
+25,2017-07-03,161,True,TEC-PH-10002726,netTALK DUO VoIP Telephone Service,Technology,Phones,Supply_Chain
+26,2016-12-06,370,True,OFF-PA-10000482,"Snap-A-Way Black Print Carbonless Ruled Speed Letter, Triplicate",Office Supplies,Paper,Supply_Chain
+27,2017-12-09,2,False,OFF-BI-10004182,Economy Binders,Office Supplies,Binders,Supply_Chain
+28,2017-12-09,2,False,FUR-FU-10000260,"6"" Cubicle Wall Clock, Black",Furniture,Furnishings,Supply_Chain
+29,2017-12-09,2,False,OFF-ST-10000615,"SimpliFile Personal File, Black Granite, 15w x 6-15/16d x 11-1/4h",Office Supplies,Storage,Supply_Chain
+30,2017-11-06,35,False,OFF-AP-10002118,"1.7 Cubic Foot Compact ""Cube"" Office Refrigerators",Office Supplies,Appliances,Supply_Chain
+31,2016-06-12,547,True,OFF-BI-10002309,Avery Heavy-Duty EZD  Binder With Locking Rings,Office Supplies,Binders,Supply_Chain
+32,2017-09-03,99,True,OFF-AR-10002053,"Premium Writing Pencils, Soft, #2 by Central Association for the Blind",Office Supplies,Art,Supply_Chain
+33,2017-06-11,183,True,OFF-ST-10002370,"Sortfiler Multipurpose Personal File Organizer, Black",Office Supplies,Storage,Supply_Chain
+34,2016-12-06,370,True,OFF-EN-10000927,Jet-Pak Recycled Peel 'N' Seal Padded Mailers,Office Supplies,Envelopes,Supply_Chain
+35,2016-11-06,400,True,OFF-ST-10003442,Eldon Portable Mobile Manager,Office Supplies,Storage,Supply_Chain
+36,2017-11-06,35,False,OFF-BI-10004738,Flexible Leather- Look Classic Collection Ring Binder,Office Supplies,Binders,Supply_Chain
+37,2017-11-09,32,False,FUR-FU-10000629,9-3/4 Diameter Round Wall Clock,Furniture,Furnishings,Supply_Chain
+38,2017-12-01,10,False,OFF-AP-10000358,Fellowes Basic Home/Office Series Surge Protectors,Office Supplies,Appliances,Supply_Chain
+39,2016-12-01,375,True,OFF-PA-10004040,Universal Premium White Copier/Laser Paper (20Lb. and 87 Bright),Office Supplies,Paper,Supply_Chain
+40,2017-09-04,98,True,OFF-AR-10000380,"Hunt PowerHouse Electric Pencil Sharpener, Blue",Office Supplies,Art,Supply_Chain
+41,2016-11-03,403,True,OFF-BI-10003981,"Avery Durable Plastic 1"" Binders",Office Supplies,Binders,Supply_Chain
+42,2016-09-02,465,True,FUR-TA-10001768,Hon Racetrack Conference Tables,Furniture,Tables,Supply_Chain
+43,2017-12-02,9,False,OFF-BI-10003650,GBC DocuBind 300 Electric Binding Machine,Office Supplies,Binders,Supply_Chain
+44,2016-06-12,547,True,FUR-FU-10002157,Artistic Insta-Plaque,Furniture,Furnishings,Supply_Chain
+45,2016-06-12,547,True,OFF-ST-10000777,"Companion Letter/Legal File, Black",Office Supplies,Storage,Supply_Chain
+46,2016-09-01,466,True,OFF-EN-10002500,Globe Weis Peel & Seel First Class Envelopes,Office Supplies,Envelopes,Supply_Chain
+47,2016-06-12,547,True,TEC-PH-10003875,KLD Oscar II Style Snap-on Ultra Thin Side Flip Synthetic Leather Cover Case for HTC One HTC M7,Technology,Phones,Supply_Chain
+48,2017-12-09,2,False,OFF-BI-10003274,"Avery Durable Slant Ring Binders, No Labels",Office Supplies,Binders,Supply_Chain
+49,2017-11-05,36,False,OFF-ST-10002974,"Trav-L-File Heavy-Duty Shuttle II, Black",Office Supplies,Storage,Supply_Chain
+50,2017-07-06,158,True,FUR-CH-10001146,"Global Task Chair, Black",Furniture,Chairs,Supply_Chain
+51,2016-11-06,400,True,FUR-FU-10003773,Eldon Cleatmat Plus Chair Mats for High Pile Carpets,Furniture,Furnishings,Supply_Chain
+52,2017-07-05,159,True,TEC-PH-10002293,Anker 36W 4-Port USB Wall Charger Travel Power Adapter for iPhone 5s 5c 5,Technology,Phones,Supply_Chain
+53,2017-10-06,66,False,OFF-PA-10002377,Xerox 1916,Office Supplies,Paper,Supply_Chain
+54,2017-10-05,67,False,OFF-FA-10002780,Staples,Office Supplies,Fasteners,Supply_Chain
+55,2017-08-07,126,True,FUR-FU-10004848,"Howard Miller 13-3/4"" Diameter Brushed Chrome Round Wall Clock",Furniture,Furnishings,Supply_Chain
+56,2015-09-07,826,True,OFF-ST-10003656,Safco Industrial Wire Shelving,Office Supplies,Storage,Supply_Chain
+57,2016-12-05,371,True,TEC-PH-10000215,Plantronics Cordless Phone Headset with In-line Volume - M214C,Technology,Phones,Supply_Chain
+58,2017-12-02,9,False,TEC-PH-10001448,Anker Astro 15000mAh USB Portable Charger,Technology,Phones,Supply_Chain
+59,2017-11-05,36,False,OFF-BI-10002735,GBC Prestige Therm-A-Bind Covers,Office Supplies,Binders,Supply_Chain
+60,2016-10-03,434,True,FUR-CH-10004063,Global Deluxe High-Back Manager's Chair,Furniture,Chairs,Supply_Chain
+61,2016-05-11,579,True,OFF-PA-10002751,Xerox 1920,Office Supplies,Paper,Supply_Chain
+62,2016-11-07,399,True,OFF-BI-10004002,Wilson Jones International Size A4 Ring Binders,Office Supplies,Binders,Supply_Chain
+63,2017-12-08,3,False,OFF-AR-10004441,BIC Brite Liner Highlighters,Office Supplies,Art,Supply_Chain
+64,2017-01-07,338,True,TEC-MA-10000822,Lexmark MX611dhe Monochrome Laser Printer,Technology,Machines,Supply_Chain
+65,2017-10-06,66,False,OFF-ST-10000991,Space Solutions HD Industrial Steel Shelving.,Office Supplies,Storage,Supply_Chain
+66,2016-07-08,521,True,FUR-CH-10004287,SAFCO Arco Folding Chair,Furniture,Chairs,Supply_Chain
+67,2014-09-08,1190,True,OFF-AR-10002656,Sanford Liquid Accent Highlighters,Office Supplies,Art,Supply_Chain
+68,2016-08-09,489,True,OFF-AP-10002518,Kensington 7 Outlet MasterPiece Power Center,Office Supplies,Appliances,Supply_Chain
+69,2017-08-01,132,True,TEC-PH-10003931,JBL Micro Wireless Portable Bluetooth Speaker,Technology,Phones,Supply_Chain
+70,2017-05-12,213,True,OFF-PA-10000659,"Adams Phone Message Book, Professional, 400 Message Capacity, 5 3/6 x 11",Office Supplies,Paper,Supply_Chain
+71,2014-09-09,1189,True,OFF-PA-10001144,Xerox 1913,Office Supplies,Paper,Supply_Chain
+72,2017-12-04,7,False,FUR-CH-10003817,"Global Value Steno Chair, Gray",Furniture,Chairs,Supply_Chain
+73,2016-09-02,465,True,OFF-ST-10003455,"Tenex File Box, Personal Filing Tote with Lid, Black",Office Supplies,Storage,Supply_Chain
+74,2017-05-06,219,True,TEC-AC-10004659,Imation Secure+ Hardware Encrypted USB 2.0 Flash Drive; 16GB,Technology,Accessories,Supply_Chain
+75,2015-10-12,791,True,FUR-BO-10002613,"Atlantic Metals Mobile 4-Shelf Bookcases, Custom Colors",Furniture,Bookcases,Supply_Chain
+76,2016-05-09,581,True,TEC-PH-10001552,I Need's 3d Hello Kitty Hybrid Silicone Case Cover for HTC One X 4g with 3d Hello Kitty Stylus Pen Green/pink,Technology,Phones,Supply_Chain
+77,2017-09-08,94,True,OFF-PA-10000061,Xerox 205,Office Supplies,Paper,Supply_Chain
+78,2016-01-08,703,True,FUR-BO-10002545,"Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",Furniture,Bookcases,Supply_Chain
+79,2017-07-03,161,True,OFF-AR-10003514,4009 Highlighters by Sanford,Office Supplies,Art,Supply_Chain
+80,2017-11-06,35,False,OFF-ST-10001414,Decoflex Hanging Personal Folder File,Office Supplies,Storage,Supply_Chain
+81,2017-07-06,158,True,OFF-BI-10000343,"Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Light Blue",Office Supplies,Binders,Supply_Chain
+82,2017-11-12,29,False,OFF-PA-10002749,"Wirebound Message Books, 5-1/2 x 4 Forms, 2 or 4 Forms per Page",Office Supplies,Paper,Supply_Chain
+83,2017-12-11,0,False,FUR-TA-10004289,BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables,Furniture,Tables,Supply_Chain
+84,2017-12-11,0,False,OFF-AP-10003622,"Bravo II Megaboss 12-Amp Hard Body Upright, Replacement Belts, 2 Belts per Pack",Office Supplies,Appliances,Supply_Chain
+85,2017-09-02,100,True,FUR-FU-10002960,"Eldon 200 Class Desk Accessories, Burgundy",Furniture,Furnishings,Supply_Chain
+86,2017-12-09,2,False,TEC-PH-10001918,Nortel Business Series Terminal T7208 Digital phone,Technology,Phones,Supply_Chain
+87,2017-12-01,10,False,OFF-ST-10000642,"Tennsco Lockers, Gray",Office Supplies,Storage,Supply_Chain
+88,2017-12-01,10,False,TEC-PH-10001700,Panasonic KX-TG6844B Expandable Digital Cordless Telephone,Technology,Phones,Supply_Chain
+89,2017-12-01,10,False,OFF-FA-10000134,"Advantus Push Pins, Aluminum Head",Office Supplies,Fasteners,Supply_Chain
+90,2017-12-01,10,False,OFF-ST-10001522,"Gould Plastics 18-Pocket Panel Bin, 34w x 5-1/4d x 20-1/2h",Office Supplies,Storage,Supply_Chain
+91,2017-12-07,4,False,TEC-AC-10001266,Memorex Micro Travel Drive 8 GB,Technology,Accessories,Supply_Chain
+92,2017-09-02,100,True,OFF-LA-10004544,Avery 505,Office Supplies,Labels,Supply_Chain
+93,2015-09-10,823,True,FUR-BO-10004695,O'Sullivan 2-Door Barrister Bookcase in Odessa Pine,Furniture,Bookcases,Supply_Chain
+94,2015-06-12,913,True,TEC-PH-10002844,Speck Products Candyshell Flip Case,Technology,Phones,Supply_Chain
+95,2015-01-02,1074,True,TEC-MA-10000864,Cisco 9971 IP Video Phone Charcoal,Technology,Machines,Supply_Chain
+96,2017-09-02,100,True,TEC-AC-10000109,Sony Micro Vault Click 16 GB USB 2.0 Flash Drive,Technology,Accessories,Supply_Chain
+97,2015-08-09,855,True,OFF-AR-10001026,"Sanford Uni-Blazer View Highlighters, Chisel Tip, Yellow",Office Supplies,Art,Supply_Chain
+98,2017-12-09,2,False,FUR-TA-10003748,Bevis 36 x 72 Conference Tables,Furniture,Tables,Supply_Chain
+99,2017-11-04,37,False,OFF-ST-10002485,Rogers Deluxe File Chest,Office Supplies,Storage,Supply_Chain
+100,2017-04-07,248,True,FUR-TA-10001705,Bush Advantage Collection Round Conference Table,Furniture,Tables,Supply_Chain
+101,2017-05-04,221,True,FUR-TA-10003473,Bretford Rectangular Conference Table Tops,Furniture,Tables,Supply_Chain
+102,2017-04-07,248,True,OFF-BI-10001679,GBC Instant Index System for Binding Systems,Office Supplies,Binders,Supply_Chain
+103,2017-04-07,248,True,FUR-FU-10004017,"Tenex Contemporary Contur Chairmats for Low and Medium Pile Carpet, Computer, 39"" x 49""",Furniture,Furnishings,Supply_Chain
+104,2017-12-05,6,False,TEC-AC-10003832,Logitech P710e Mobile Speakerphone,Technology,Accessories,Supply_Chain
+105,2017-11-12,29,False,OFF-PA-10002479,Xerox 4200 Series MultiUse Premium Copy Paper (20Lb. and 84 Bright),Office Supplies,Paper,Supply_Chain
+106,2016-06-04,555,True,OFF-PA-10003349,Xerox 1957,Office Supplies,Paper,Supply_Chain
+107,2016-06-04,555,True,FUR-FU-10000576,Luxo Professional Fluorescent Magnifier Lamp with Clamp-Mount Base,Furniture,Furnishings,Supply_Chain
+108,2017-12-03,8,False,FUR-FU-10004351,Staple-based wall hangings,Furniture,Furnishings,Supply_Chain
+109,2016-06-04,555,True,TEC-PH-10000011,PureGear Roll-On Screen Protector,Technology,Phones,Supply_Chain
+110,2017-09-01,101,True,FUR-TA-10002607,KI Conference Tables,Furniture,Tables,Supply_Chain
+111,2016-06-04,555,True,FUR-FU-10002505,Eldon 100 Class Desk Accessories,Furniture,Furnishings,Supply_Chain
+112,2017-11-02,39,False,OFF-AR-10004685,"Binney & Smith Crayola Metallic Colored Pencils, 8-Color Set",Office Supplies,Art,Supply_Chain
+113,2016-11-11,395,True,OFF-ST-10002276,Safco Steel Mobile File Cart,Office Supplies,Storage,Supply_Chain
+114,2017-09-12,90,False,OFF-PA-10004082,"Adams Telephone Message Book w/Frequently-Called Numbers Space, 400 Messages per Book",Office Supplies,Paper,Supply_Chain
+115,2017-06-01,193,True,OFF-AP-10002945,Honeywell Enviracaire Portable HEPA Air Cleaner for 17' x 22' Room,Office Supplies,Appliances,Supply_Chain
+116,2016-12-10,366,True,FUR-CH-10002965,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",Furniture,Chairs,Supply_Chain
+117,2017-04-10,245,True,OFF-PA-10004569,"Wirebound Message Books, Two 4 1/4"" x 5"" Forms per Page",Office Supplies,Paper,Supply_Chain
+118,2017-12-01,10,False,OFF-ST-10001228,"Fellowes Personal Hanging Folder Files, Navy",Office Supplies,Storage,Supply_Chain
+119,2016-12-10,366,True,OFF-EN-10003296,Tyvek Side-Opening Peel & Seel Expanding Envelopes,Office Supplies,Envelopes,Supply_Chain
+120,2017-12-01,10,False,TEC-AC-10000290,Sabrent 4-Port USB 2.0 Hub,Technology,Accessories,Supply_Chain
+121,2017-12-01,10,False,OFF-ST-10002790,Safco Industrial Shelving,Office Supplies,Storage,Supply_Chain
+122,2017-12-01,10,False,OFF-BI-10003460,Acco 3-Hole Punch,Office Supplies,Binders,Supply_Chain
+123,2017-06-08,186,True,OFF-AP-10002203,Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac,Office Supplies,Appliances,Supply_Chain
+124,2016-06-06,553,True,TEC-PH-10001433,Cisco Small Business SPA 502G VoIP phone,Technology,Phones,Supply_Chain
+125,2017-11-03,38,False,TEC-AC-10004469,Microsoft Sculpt Comfort Mouse,Technology,Accessories,Supply_Chain
+126,2017-12-09,2,False,OFF-ST-10004180,Safco Commercial Shelving,Office Supplies,Storage,Supply_Chain
+127,2017-12-09,2,False,OFF-EN-10004386,"Recycled Interoffice Envelopes with String and Button Closure, 10 x 13",Office Supplies,Envelopes,Supply_Chain
+128,2015-11-02,770,True,FUR-TA-10002903,"Bevis Round Bullnose 29"" High Table Top",Furniture,Tables,Supply_Chain
+129,2016-12-05,371,True,FUR-FU-10002671,Electrix 20W Halogen Replacement Bulb for Zoom-In Desk Lamp,Furniture,Furnishings,Supply_Chain
+130,2016-12-03,373,True,OFF-BI-10001072,"GBC Clear Cover, 8-1/2 x 11, unpunched, 25 covers per pack",Office Supplies,Binders,Supply_Chain
+131,2016-11-04,402,True,OFF-AR-10002135,Boston Heavy-Duty Trimline Electric Pencil Sharpeners,Office Supplies,Art,Supply_Chain
+132,2017-12-04,7,False,FUR-FU-10001918,C-Line Cubicle Keepers Polyproplyene Holder With Velcro Backings,Furniture,Furnishings,Supply_Chain
+133,2017-05-07,218,True,FUR-CH-10004086,Hon 4070 Series Pagoda Armless Upholstered Stacking Chairs,Furniture,Chairs,Supply_Chain
+134,2017-11-12,29,False,FUR-FU-10001756,"Eldon Expressions Desk Accessory, Wood Photo Frame, Mahogany",Furniture,Furnishings,Supply_Chain
+135,2016-09-12,455,True,OFF-LA-10000634,Avery 509,Office Supplies,Labels,Supply_Chain
+136,2014-08-09,1220,True,TEC-PH-10002398,AT&T 1070 Corded Phone,Technology,Phones,Supply_Chain
+137,2017-12-11,0,False,OFF-PA-10001937,Xerox 21,Office Supplies,Paper,Supply_Chain
+138,2017-12-01,10,False,FUR-CH-10002602,DMI Arturo Collection Mission-style Design Wood Chair,Furniture,Chairs,Supply_Chain
+139,2014-11-04,1133,True,TEC-MA-10002927,Canon imageCLASS MF7460 Monochrome Digital Laser Multifunction Copier,Technology,Machines,Supply_Chain
+140,2017-04-02,253,True,TEC-AC-10000892,NETGEAR N750 Dual Band Wi-Fi Gigabit Router,Technology,Accessories,Supply_Chain
+141,2017-11-03,38,False,FUR-FU-10001967,Telescoping Adjustable Floor Lamp,Furniture,Furnishings,Supply_Chain
+142,2017-10-01,71,False,OFF-BI-10001922,Storex Dura Pro Binders,Office Supplies,Binders,Supply_Chain
+143,2016-10-04,433,True,TEC-CO-10001449,Hewlett Packard LaserJet 3310 Copier,Technology,Copiers,Supply_Chain
+144,2017-09-10,92,True,OFF-BI-10004140,Avery Non-Stick Binders,Office Supplies,Binders,Supply_Chain
+145,2016-11-04,402,True,OFF-BI-10003314,Tuff Stuff Recycled Round Ring Binders,Office Supplies,Binders,Supply_Chain
+146,2017-11-06,35,False,FUR-TA-10004575,Hon 5100 Series Wood Tables,Furniture,Tables,Supply_Chain
+147,2017-07-08,156,True,OFF-AR-10004027,"Binney & Smith inkTank Erasable Desk Highlighter, Chisel Tip, Yellow, 12/Box",Office Supplies,Art,Supply_Chain
+148,2017-07-08,156,True,OFF-PA-10000249,Easy-staple paper,Office Supplies,Paper,Supply_Chain
+149,2017-09-09,93,True,OFF-AR-10001374,"BIC Brite Liner Highlighters, Chisel Tip",Office Supplies,Art,Supply_Chain
+150,2017-12-08,3,False,OFF-PA-10001970,Xerox 1881,Office Supplies,Paper,Supply_Chain
+151,2016-09-01,466,True,OFF-BI-10002160,Acco Hanging Data Binders,Office Supplies,Binders,Supply_Chain
+152,2016-09-01,466,True,OFF-BI-10004995,GBC DocuBind P400 Electric Binding System,Office Supplies,Binders,Supply_Chain
+153,2016-04-08,612,True,FUR-BO-10002268,Sauder Barrister Bookcases,Furniture,Bookcases,Supply_Chain
+154,2016-04-08,612,True,OFF-EN-10001137,"#10 Gummed Flap White Envelopes, 100/Box",Office Supplies,Envelopes,Supply_Chain
+155,2016-08-06,492,True,OFF-AR-10002399,"Dixon Prang Watercolor Pencils, 10-Color Set with Brush",Office Supplies,Art,Supply_Chain
+156,2017-12-08,3,False,OFF-PA-10002713,"Adams Phone Message Book, 200 Message Capacity, 8 1/16 x 11",Office Supplies,Paper,Supply_Chain
+157,2017-03-08,278,True,OFF-AP-10001124,Belkin 8 Outlet SurgeMaster II Gold Surge Protector with Phone Protection,Office Supplies,Appliances,Supply_Chain
+158,2017-03-08,278,True,OFF-LA-10001158,"Avery Address/Shipping Labels for Typewriters, 4"" x 2""",Office Supplies,Labels,Supply_Chain
+159,2015-12-03,739,True,TEC-MA-10001681,Lexmark MarkNet N8150 Wireless Print Server,Technology,Machines,Supply_Chain
+160,2016-12-11,365,True,FUR-FU-10001935,3M Hangers With Command Adhesive,Furniture,Furnishings,Supply_Chain
+161,2017-12-11,0,False,OFF-BI-10000050,"Angle-D Binders with Locking Rings, Label Holders",Office Supplies,Binders,Supply_Chain
+162,2017-12-11,0,False,TEC-AC-10001998,Logitech LS21 Speaker System - PC Multimedia - 2.1-CH - Wired,Technology,Accessories,Supply_Chain
+163,2017-12-09,2,False,OFF-BI-10003982,Wilson Jones Century Plastic Molded Ring Binders,Office Supplies,Binders,Supply_Chain
+164,2017-11-02,39,False,OFF-ST-10001580,Super Decoflex Portable Personal File,Office Supplies,Storage,Supply_Chain
+165,2017-06-08,186,True,FUR-BO-10004834,"Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",Furniture,Bookcases,Supply_Chain
+166,2016-09-08,459,True,OFF-ST-10000934,"Contico 72""H Heavy-Duty Storage System",Office Supplies,Storage,Supply_Chain
+167,2017-12-08,3,False,TEC-AC-10000158,Sony 64GB Class 10 Micro SDHC R40 Memory Card,Technology,Accessories,Supply_Chain
+168,2017-12-08,3,False,TEC-CO-10004115,Sharp AL-1530CS Digital Copier,Technology,Copiers,Supply_Chain
+169,2017-12-08,3,False,OFF-PA-10003724,"Wirebound Message Book, 4 per Page",Office Supplies,Paper,Supply_Chain
+170,2017-12-08,3,False,FUR-TA-10002041,"Bevis Round Conference Table Top, X-Base",Furniture,Tables,Supply_Chain
+171,2017-12-08,3,False,OFF-PA-10002893,"Wirebound Service Call Books, 5 1/2"" x 4""",Office Supplies,Paper,Supply_Chain
+172,2017-12-08,3,False,OFF-LA-10003766,Self-Adhesive Removable Labels,Office Supplies,Labels,Supply_Chain
+173,2017-12-08,3,False,FUR-BO-10001972,O'Sullivan 4-Shelf Bookcase in Odessa Pine,Furniture,Bookcases,Supply_Chain
+174,2017-12-08,3,False,FUR-CH-10003956,Novimex High-Tech Fabric Mesh Task Chair,Furniture,Chairs,Supply_Chain
+175,2017-11-06,35,False,OFF-PA-10000157,Xerox 191,Office Supplies,Paper,Supply_Chain
+176,2017-11-03,38,False,FUR-CH-10001891,Global Deluxe Office Fabric Chairs,Furniture,Chairs,Supply_Chain
+177,2017-11-06,35,False,OFF-PA-10003845,Xerox 1987,Office Supplies,Paper,Supply_Chain
+178,2017-03-04,282,True,OFF-AR-10001573,American Pencil,Office Supplies,Art,Supply_Chain
+179,2017-03-04,282,True,OFF-EN-10000483,"White Envelopes, White Envelopes with Clear Poly Window",Office Supplies,Envelopes,Supply_Chain
+180,2014-09-12,1186,True,TEC-MA-10000029,"Epson WorkForce WF-2530 All-in-One Printer, Copier Scanner",Technology,Machines,Supply_Chain
+181,2017-10-01,71,False,OFF-AR-10000369,Design Ebony Sketching Pencil,Office Supplies,Art,Supply_Chain
+182,2017-12-02,9,False,OFF-ST-10003306,Letter Size Cart,Office Supplies,Storage,Supply_Chain
+183,2016-06-12,547,True,TEC-MA-10002937,"Canon Color ImageCLASS MF8580Cdw Wireless Laser All-In-One Printer, Copier, Scanner",Technology,Machines,Supply_Chain
+184,2016-09-05,462,True,FUR-FU-10000246,Aluminum Document Frame,Furniture,Furnishings,Supply_Chain
+185,2017-12-10,1,False,OFF-ST-10000060,Fellowes Bankers Box Staxonsteel Drawer File/Stacking System,Office Supplies,Storage,Supply_Chain
+186,2016-09-05,462,True,OFF-ST-10003058,Eldon Mobile Mega Data Cart  Mega Stackable  Add-On Trays,Office Supplies,Storage,Supply_Chain
+187,2016-09-05,462,True,OFF-PA-10002222,"Xerox Color Copier Paper, 11"" x 17"", Ream",Office Supplies,Paper,Supply_Chain
+188,2017-10-08,64,False,FUR-CH-10002372,Office Star - Ergonomically Designed Knee Chair,Furniture,Chairs,Supply_Chain
+189,2017-12-03,8,False,OFF-LA-10001317,Avery 520,Office Supplies,Labels,Supply_Chain
+190,2017-03-06,280,True,OFF-AR-10000588,Newell 345,Office Supplies,Art,Supply_Chain
+191,2016-04-12,608,True,OFF-ST-10001469,Fellowes Bankers Box Recycled Super Stor/Drawer,Office Supplies,Storage,Supply_Chain
+192,2017-08-12,121,True,OFF-AR-10001953,Boston 1645 Deluxe Heavier-Duty Electric Pencil Sharpener,Office Supplies,Art,Supply_Chain
+193,2017-04-07,248,True,OFF-AR-10003156,50 Colored Long Pencils,Office Supplies,Art,Supply_Chain
+194,2016-04-01,619,True,OFF-AR-10004974,Newell 342,Office Supplies,Art,Supply_Chain
+195,2016-09-01,466,True,TEC-PH-10002365,Belkin Grip Candy Sheer Case / Cover for iPhone 5 and 5S,Technology,Phones,Supply_Chain
+196,2017-12-11,0,False,FUR-CH-10000225,"Global Geo Office Task Chair, Gray",Furniture,Chairs,Supply_Chain
+197,2017-01-01,344,True,OFF-ST-10002743,SAFCO Boltless Steel Shelving,Office Supplies,Storage,Supply_Chain
+198,2017-05-06,219,True,FUR-BO-10001601,"Sauder Mission Library with Doors, Fruitwood Finish",Furniture,Bookcases,Supply_Chain
+199,2015-09-07,826,True,TEC-PH-10002680,Samsung Galaxy Note 3,Technology,Phones,Supply_Chain
+200,2017-09-08,94,True,OFF-ST-10001321,"Decoflex Hanging Personal Folder File, Blue",Office Supplies,Storage,Supply_Chain
+201,2015-12-10,732,True,OFF-PA-10001509,"Recycled Desk Saver Line ""While You Were Out"" Book, 5 1/2"" X 4""",Office Supplies,Paper,Supply_Chain
+202,2016-02-07,673,True,OFF-PA-10003465,Xerox 1912,Office Supplies,Paper,Supply_Chain
+203,2017-03-10,276,True,TEC-PH-10000149,Cisco SPA525G2 IP Phone - Wireless,Technology,Phones,Supply_Chain
+204,2014-10-06,1162,True,TEC-AC-10001445,Imation USB 2.0 Swivel Flash Drive USB flash drive - 4 GB - Pink,Technology,Accessories,Supply_Chain
+205,2017-11-04,37,False,OFF-LA-10003923,Alphabetical Labels for Top Tab Filing,Office Supplies,Labels,Supply_Chain
+206,2017-06-10,184,True,FUR-BO-10001337,O'Sullivan Living Dimensions 2-Shelf Bookcases,Furniture,Bookcases,Supply_Chain
+207,2017-12-08,3,False,TEC-PH-10001924,iHome FM Clock Radio with Lightning Dock,Technology,Phones,Supply_Chain
+208,2016-11-10,396,True,TEC-PH-10000376,Square Credit Card Reader,Technology,Phones,Supply_Chain
+209,2017-11-04,37,False,TEC-AC-10000303,Logitech M510 Wireless Mouse,Technology,Accessories,Supply_Chain
+210,2016-05-09,581,True,TEC-AC-10000991,Sony Micro Vault Click 8 GB USB 2.0 Flash Drive,Technology,Accessories,Supply_Chain
+211,2017-12-09,2,False,OFF-ST-10004963,Eldon Gobal File Keepers,Office Supplies,Storage,Supply_Chain
+212,2015-09-03,830,True,OFF-SU-10002881,Martin Yale Chadless Opener Electric Letter Opener,Office Supplies,Supplies,Supply_Chain
+213,2017-11-02,39,False,OFF-EN-10001335,"White Business Envelopes with Contemporary Seam, Recycled White Business Envelopes",Office Supplies,Envelopes,Supply_Chain
+214,2017-06-12,182,True,FUR-CH-10000595,Safco Contoured Stacking Chairs,Furniture,Chairs,Supply_Chain
+215,2017-09-07,95,True,FUR-FU-10000448,Tenex Chairmats For Use With Carpeted Floors,Furniture,Furnishings,Supply_Chain
+216,2017-11-03,38,False,OFF-ST-10001325,Sterilite Officeware Hinged File Box,Office Supplies,Storage,Supply_Chain
+217,2017-12-02,9,False,OFF-BI-10002429,"Premier Elliptical Ring Binder, Black",Office Supplies,Binders,Supply_Chain
+218,2015-12-03,739,True,OFF-BI-10004528,Cardinal Poly Pocket Divider Pockets for Ring Binders,Office Supplies,Binders,Supply_Chain
+219,2017-12-05,6,False,OFF-AP-10001271,Eureka The Boss Cordless Rechargeable Stick Vac,Office Supplies,Appliances,Supply_Chain
+220,2016-12-01,375,True,FUR-CH-10002647,"Situations Contoured Folding Chairs, 4/Set",Furniture,Chairs,Supply_Chain
+221,2017-11-05,36,False,TEC-AC-10001432,Enermax Aurora Lite Keyboard,Technology,Accessories,Supply_Chain
+222,2017-11-06,35,False,TEC-AC-10001465,SanDisk Cruzer 64 GB USB Flash Drive,Technology,Accessories,Supply_Chain
+223,2015-11-01,771,True,TEC-PH-10002597,Xblue XB-1670-86 X16 Small Office Telephone - Titanium,Technology,Phones,Supply_Chain
+224,2017-09-09,93,True,FUR-FU-10000723,"Deflect-o EconoMat Studded, No Bevel Mat for Low Pile Carpeting",Furniture,Furnishings,Supply_Chain
+225,2017-09-11,91,True,FUR-FU-10003039,"Howard Miller 11-1/2"" Diameter Grantwood Wall Clock",Furniture,Furnishings,Supply_Chain
+226,2017-07-08,156,True,OFF-AR-10003560,Zebra Zazzle Fluorescent Highlighters,Office Supplies,Art,Supply_Chain
+227,2017-08-03,130,True,OFF-LA-10001297,Avery 473,Office Supplies,Labels,Supply_Chain
+228,2017-12-10,1,False,FUR-TA-10004256,Bretford Just In Time Height-Adjustable Multi-Task Work Tables,Furniture,Tables,Supply_Chain
+229,2017-08-11,122,True,OFF-PA-10003441,Xerox 226,Office Supplies,Paper,Supply_Chain
+230,2016-12-06,370,True,OFF-FA-10003467,"Alliance Big Bands Rubber Bands, 12/Pack",Office Supplies,Fasteners,Supply_Chain
+231,2017-12-07,4,False,TEC-PH-10002496,Cisco SPA301,Technology,Phones,Supply_Chain
+232,2017-10-01,71,False,OFF-PA-10004530,Personal Creations Ink Jet Cards and Labels,Office Supplies,Paper,Supply_Chain
+233,2017-10-01,71,False,OFF-BI-10001107,"GBC White Gloss Covers, Plain Front",Office Supplies,Binders,Supply_Chain
+234,2017-11-11,30,False,OFF-PA-10004451,Xerox 222,Office Supplies,Paper,Supply_Chain
+235,2017-10-01,71,False,FUR-CH-10004997,Hon Every-Day Series Multi-Task Chairs,Furniture,Chairs,Supply_Chain
+236,2016-11-12,394,True,OFF-AR-10003394,Newell 332,Office Supplies,Art,Supply_Chain
+237,2016-10-10,427,True,OFF-SU-10004498,Martin-Yale Premier Letter Opener,Office Supplies,Supplies,Supply_Chain
+238,2017-12-01,10,False,TEC-PH-10000586,AT&T SB67148 SynJ,Technology,Phones,Supply_Chain
+239,2017-12-01,10,False,OFF-BI-10002764,Recycled Pressboard Report Cover with Reinforced Top Hinge,Office Supplies,Binders,Supply_Chain
+240,2017-12-01,10,False,TEC-PH-10001254,Jabra BIZ 2300 Duo QD Duo Corded Headset,Technology,Phones,Supply_Chain
+241,2017-07-08,156,True,OFF-LA-10003930,"Dot Matrix Printer Tape Reel Labels, White, 5000/Box",Office Supplies,Labels,Supply_Chain
+242,2017-08-12,121,True,OFF-AR-10004078,Newell 312,Office Supplies,Art,Supply_Chain
+243,2017-11-12,29,False,OFF-AP-10004708,Fellowes Superior 10 Outlet Split Surge Protector,Office Supplies,Appliances,Supply_Chain
+244,2014-08-08,1221,True,FUR-FU-10001979,Dana Halogen Swing-Arm Architect Lamp,Furniture,Furnishings,Supply_Chain
+245,2016-09-11,456,True,OFF-PA-10001204,Xerox 1972,Office Supplies,Paper,Supply_Chain
+246,2016-09-11,456,True,TEC-PH-10004667,Cisco 8x8 Inc. 6753i IP Business Phone System,Technology,Phones,Supply_Chain
+247,2016-12-11,365,True,OFF-ST-10001963,Tennsco Regal Shelving Units,Office Supplies,Storage,Supply_Chain
+248,2016-12-11,365,True,TEC-AC-10001267,Imation 32GB Pocket Pro USB 3.0 Flash Drive - 32 GB - Black - 1 P ...,Technology,Accessories,Supply_Chain
+249,2016-12-12,364,True,TEC-PH-10002103,Jabra SPEAK 410,Technology,Phones,Supply_Chain
+250,2015-10-04,799,True,FUR-CH-10001482,Office Star - Mesh Screen back chair with Vinyl seat,Furniture,Chairs,Supply_Chain
+251,2017-10-07,65,False,OFF-FA-10003112,Staples,Office Supplies,Fasteners,Supply_Chain
+252,2017-12-03,8,False,OFF-AP-10002350,Belkin F9H710-06 7 Outlet SurgeMaster Surge Protector,Office Supplies,Appliances,Supply_Chain
+253,2016-12-11,365,True,TEC-PH-10003273,AT&T TR1909W,Technology,Phones,Supply_Chain
+254,2016-12-11,365,True,TEC-AC-10001142,First Data FD10 PIN Pad,Technology,Accessories,Supply_Chain
+255,2017-10-12,60,False,OFF-FA-10000621,"OIC Colored Binder Clips, Assorted Sizes",Office Supplies,Fasteners,Supply_Chain
+256,2017-06-08,186,True,OFF-SU-10004231,Acme Tagit Stainless Steel Antibacterial Scissors,Office Supplies,Supplies,Supply_Chain
+257,2017-06-08,186,True,OFF-PA-10000474,Easy-staple paper,Office Supplies,Paper,Supply_Chain
+258,2017-06-08,186,True,TEC-PH-10004042,ClearOne Communications CHAT 70 OC Speaker Phone,Technology,Phones,Supply_Chain
+259,2017-06-09,185,True,FUR-FU-10002759,12-1/2 Diameter Round Wall Clock,Furniture,Furnishings,Supply_Chain
+260,2017-06-09,185,True,FUR-TA-10000688,"Chromcraft Bull-Nose Wood Round Conference Table Top, Wood Base",Furniture,Tables,Supply_Chain
+261,2017-12-05,6,False,OFF-AP-10004532,Kensington 6 Outlet Guardian Standard Surge Protector,Office Supplies,Appliances,Supply_Chain
+262,2017-12-05,6,False,OFF-PA-10002137,"Southworth 100% Résumé Paper, 24lb.",Office Supplies,Paper,Supply_Chain
+263,2017-11-04,37,False,TEC-MA-10004125,Cubify CubeX 3D Printer Triple Head Print,Technology,Machines,Supply_Chain
+264,2017-11-04,37,False,OFF-AP-10002457,"Eureka The Boss Plus 12-Amp Hard Box Upright Vacuum, Red",Office Supplies,Appliances,Supply_Chain
+265,2017-11-05,36,False,TEC-AC-10003911,NETGEAR AC1750 Dual Band Gigabit Smart WiFi Router,Technology,Accessories,Supply_Chain
+266,2014-09-06,1192,True,OFF-LA-10001934,Avery 516,Office Supplies,Labels,Supply_Chain
+267,2017-12-07,4,False,OFF-PA-10000304,Xerox 1995,Office Supplies,Paper,Supply_Chain
+268,2017-12-01,10,False,FUR-FU-10003394,"Tenex ""The Solids"" Textured Chair Mats",Furniture,Furnishings,Supply_Chain
+269,2016-11-05,401,True,FUR-TA-10002774,Laminate Occasional Tables,Furniture,Tables,Supply_Chain
+270,2017-11-06,35,False,OFF-PA-10001800,Xerox 220,Office Supplies,Paper,Supply_Chain
+271,2016-12-11,365,True,OFF-AP-10001469,Fellowes 8 Outlet Superior Workstation Surge Protector,Office Supplies,Appliances,Supply_Chain
+272,2014-09-12,1186,True,TEC-AC-10002399,SanDisk Cruzer 32 GB USB Flash Drive,Technology,Accessories,Supply_Chain
+273,2017-07-03,161,True,TEC-AC-10003628,Logitech 910-002974 M325 Wireless Mouse for Web Scrolling,Technology,Accessories,Supply_Chain
+274,2016-03-10,641,True,FUR-BO-10003272,O'Sullivan Living Dimensions 5-Shelf Bookcases,Furniture,Bookcases,Supply_Chain
+275,2017-11-05,36,False,OFF-PA-10004071,"Eaton Premium Continuous-Feed Paper, 25% Cotton, Letter Size, White, 1000 Shts/Box",Office Supplies,Paper,Supply_Chain
+276,2017-11-12,29,False,OFF-EN-10001219,"#10- 4 1/8"" x 9 1/2"" Security-Tint Envelopes",Office Supplies,Envelopes,Supply_Chain
+277,2017-08-07,126,True,OFF-BI-10003355,Cardinal Holdit Business Card Pockets,Office Supplies,Binders,Supply_Chain
+278,2016-01-10,701,True,FUR-FU-10000010,"DAX Value U-Channel Document Frames, Easel Back",Furniture,Furnishings,Supply_Chain
+279,2016-12-06,370,True,OFF-BI-10001658,GBC Standard Therm-A-Bind Covers,Office Supplies,Binders,Supply_Chain
+280,2015-12-03,739,True,FUR-FU-10000222,"Seth Thomas 16"" Steel Case Clock",Furniture,Furnishings,Supply_Chain
+281,2017-10-02,70,False,OFF-SU-10004664,Acme Softgrip Scissors,Office Supplies,Supplies,Supply_Chain
+282,2016-12-03,373,True,OFF-PA-10001954,Xerox 1964,Office Supplies,Paper,Supply_Chain
+283,2017-03-10,276,True,FUR-TA-10002228,"Bevis Traditional Conference Table Top, Plinth Base",Furniture,Tables,Supply_Chain
+284,2016-12-03,373,True,OFF-ST-10004634,"Personal Folder Holder, Ebony",Office Supplies,Storage,Supply_Chain
+285,2017-10-12,60,False,TEC-AC-10001383,Logitech Wireless Touch Keyboard K400,Technology,Accessories,Supply_Chain
+286,2016-02-05,675,True,OFF-LA-10003223,Avery 508,Office Supplies,Labels,Supply_Chain
+287,2014-01-04,1437,True,OFF-BI-10004094,GBC Standard Plastic Binding Systems Combs,Office Supplies,Binders,Supply_Chain
+288,2017-10-02,70,False,OFF-BI-10003638,GBC Durable Plastic Covers,Office Supplies,Binders,Supply_Chain
+289,2017-10-09,63,False,FUR-FU-10003577,Nu-Dell Leatherette Frames,Furniture,Furnishings,Supply_Chain
+290,2017-10-02,70,False,OFF-AR-10003478,"Avery Hi-Liter EverBold Pen Style Fluorescent Highlighters, 4/Pack",Office Supplies,Art,Supply_Chain
+291,2017-10-02,70,False,OFF-BI-10000546,Avery Durable Binders,Office Supplies,Binders,Supply_Chain
+292,2016-09-02,465,True,TEC-CO-10002095,Hewlett Packard 610 Color Digital Copier / Printer,Technology,Copiers,Supply_Chain
+293,2017-11-03,38,False,OFF-LA-10004484,Avery 476,Office Supplies,Labels,Supply_Chain
+294,2015-12-11,731,True,OFF-BI-10001098,Acco D-Ring Binder w/DublLock,Office Supplies,Binders,Supply_Chain
+295,2017-10-12,60,False,TEC-AC-10002167,Imation 8gb Micro Traveldrive Usb 2.0 Flash Drive,Technology,Accessories,Supply_Chain
+296,2015-10-03,800,True,FUR-BO-10004409,"Safco Value Mate Series Steel Bookcases, Baked Enamel Finish on Steel, Gray",Furniture,Bookcases,Supply_Chain
+297,2016-12-11,365,True,TEC-AC-10000057,Microsoft Natural Ergonomic Keyboard 4000,Technology,Accessories,Supply_Chain
+298,2017-11-09,32,False,FUR-CH-10004675,"Lifetime Advantage Folding Chairs, 4/Carton",Furniture,Chairs,Supply_Chain
+299,2016-03-12,639,True,OFF-PA-10003953,Xerox 218,Office Supplies,Paper,Supply_Chain
+300,2017-09-05,97,True,OFF-AR-10001897,Model L Table or Wall-Mount Pencil Sharpener,Office Supplies,Art,Supply_Chain
+301,2017-12-02,9,False,TEC-PH-10001795,ClearOne CHATAttach 160 - speaker phone,Technology,Phones,Supply_Chain
+302,2016-09-04,463,True,FUR-FU-10003347,Coloredge Poster Frame,Furniture,Furnishings,Supply_Chain
+303,2016-11-10,396,True,TEC-AC-10004901,Kensington SlimBlade Notebook Wireless Mouse with Nano Receiver,Technology,Accessories,Supply_Chain
+304,2017-11-06,35,False,TEC-AC-10003441,Kingston Digital DataTraveler 32GB USB 2.0,Technology,Accessories,Supply_Chain
+305,2017-03-05,281,True,OFF-BI-10001071,GBC ProClick Punch Binding System,Office Supplies,Binders,Supply_Chain
+306,2017-11-04,37,False,OFF-PA-10001560,"Adams Telephone Message Books, 5 1/4 x 11",Office Supplies,Paper,Supply_Chain
+307,2017-04-01,254,True,OFF-BI-10001294,Fellowes Binding Cases,Office Supplies,Binders,Supply_Chain
+308,2017-12-09,2,False,OFF-BI-10001636,Ibico Plastic and Wire Spiral Binding Combs,Office Supplies,Binders,Supply_Chain
+309,2016-11-07,399,True,OFF-SU-10002503,Acme Preferred Stainless Steel Scissors,Office Supplies,Supplies,Supply_Chain
+310,2016-11-07,399,True,OFF-LA-10004093,Avery 486,Office Supplies,Labels,Supply_Chain
+311,2017-11-06,35,False,FUR-FU-10003878,"Linden 10"" Round Wall Clock, Black",Furniture,Furnishings,Supply_Chain
+312,2014-03-11,1371,True,TEC-AC-10000710,Maxell DVD-RAM Discs,Technology,Accessories,Supply_Chain
+313,2017-12-09,2,False,OFF-PA-10001019,Xerox 1884,Office Supplies,Paper,Supply_Chain
+314,2016-06-05,554,True,OFF-SU-10002537,Acme Box Cutter Scissors,Office Supplies,Supplies,Supply_Chain
+315,2017-12-06,5,False,OFF-ST-10003221,Staple magnet,Office Supplies,Storage,Supply_Chain
+316,2017-04-10,245,True,OFF-FA-10000624,OIC Binder Clips,Office Supplies,Fasteners,Supply_Chain
+317,2017-09-09,93,True,OFF-SU-10001225,Staple remover,Office Supplies,Supplies,Supply_Chain
+318,2015-12-04,738,True,OFF-AR-10003752,Deluxe Chalkboard Eraser Cleaner,Office Supplies,Art,Supply_Chain
+319,2017-10-05,67,False,TEC-AC-10001714,Logitech MX Performance Wireless Mouse,Technology,Accessories,Supply_Chain
+320,2017-03-10,276,True,OFF-AR-10003958,Newell 337,Office Supplies,Art,Supply_Chain
+321,2017-06-10,184,True,TEC-PH-10002923,"Logitech B530 USB Headset - headset - Full size, Binaural",Technology,Phones,Supply_Chain
+322,2017-07-11,153,True,OFF-LA-10004272,Avery 482,Office Supplies,Labels,Supply_Chain
+323,2016-11-10,396,True,FUR-FU-10000965,"Howard Miller 11-1/2"" Diameter Ridgewood Wall Clock",Furniture,Furnishings,Supply_Chain
+324,2015-07-10,885,True,OFF-BI-10003719,Large Capacity Hanging Post Binders,Office Supplies,Binders,Supply_Chain
+325,2017-01-12,333,True,OFF-BI-10000545,GBC Ibimaster 500 Manual ProClick Binding System,Office Supplies,Binders,Supply_Chain
+326,2014-12-10,1097,True,OFF-PA-10004470,"Adams Write n' Stick Phone Message Book, 11"" X 5 1/4"", 200 Messages",Office Supplies,Paper,Supply_Chain
+327,2016-09-04,463,True,OFF-BI-10000315,Poly Designer Cover & Back,Office Supplies,Binders,Supply_Chain
+328,2016-11-10,396,True,OFF-ST-10002205,File Shuttle I and Handi-File,Office Supplies,Storage,Supply_Chain
+329,2016-11-10,396,True,OFF-BI-10003364,Binding Machine Supplies,Office Supplies,Binders,Supply_Chain
+330,2016-10-03,434,True,OFF-EN-10001099,Staple envelope,Office Supplies,Envelopes,Supply_Chain
+331,2016-04-10,610,True,OFF-BI-10004716,Wilson Jones Hanging Recycled Pressboard Data Binders,Office Supplies,Binders,Supply_Chain
+332,2017-11-11,30,False,OFF-LA-10001045,Permanent Self-Adhesive File Folder Labels for Typewriters by Universal,Office Supplies,Labels,Supply_Chain
+333,2017-11-11,30,False,OFF-BI-10001510,Deluxe Heavy-Duty Vinyl Round Ring Binder,Office Supplies,Binders,Supply_Chain
+334,2017-11-03,38,False,OFF-PA-10002947,Xerox 1923,Office Supplies,Paper,Supply_Chain
+335,2017-11-12,29,False,OFF-ST-10002583,Fellowes Neat Ideas Storage Cubes,Office Supplies,Storage,Supply_Chain
+336,2016-04-08,612,True,OFF-PA-10000019,Xerox 1931,Office Supplies,Paper,Supply_Chain
+337,2017-09-02,100,True,TEC-PH-10001494,Polycom CX600 IP Phone VoIP phone,Technology,Phones,Supply_Chain
+338,2017-11-09,32,False,TEC-AC-10004666,Maxell iVDR EX 500GB Cartridge,Technology,Accessories,Supply_Chain
+339,2017-09-02,100,True,OFF-ST-10003816,Fellowes High-Stak Drawer Files,Office Supplies,Storage,Supply_Chain
+340,2016-09-11,456,True,OFF-EN-10000056,Cameo Buff Policy Envelopes,Office Supplies,Envelopes,Supply_Chain
+341,2016-12-11,365,True,OFF-ST-10001558,Acco Perma 4000 Stacking Storage Drawers,Office Supplies,Storage,Supply_Chain
+342,2015-06-12,913,True,OFF-ST-10002444,Recycled Eldon Regeneration Jumbo File,Office Supplies,Storage,Supply_Chain
+343,2017-09-07,95,True,TEC-AC-10002473,Maxell 4.7GB DVD-R,Technology,Accessories,Supply_Chain
+344,2017-12-02,9,False,TEC-PH-10004531,OtterBox Commuter Series Case - iPhone 5 & 5s,Technology,Phones,Supply_Chain
+345,2017-09-11,91,True,OFF-AP-10004487,Kensington 4 Outlet MasterPiece Compact Power Control Center,Office Supplies,Appliances,Supply_Chain
+346,2017-09-02,100,True,OFF-AR-10000658,Newell 324,Office Supplies,Art,Supply_Chain
+347,2017-11-07,34,False,OFF-AP-10000696,Holmes Odor Grabber,Office Supplies,Appliances,Supply_Chain
+348,2017-09-02,100,True,OFF-PA-10002195,"RSVP Cards & Envelopes, Blank White, 8-1/2"" X 11"", 24 Cards/25 Envelopes/Set",Office Supplies,Paper,Supply_Chain
+349,2017-12-10,1,False,FUR-FU-10001940,Staple-based wall hangings,Furniture,Furnishings,Supply_Chain
+350,2017-04-09,246,True,OFF-LA-10004055,Color-Coded Legal Exhibit Labels,Office Supplies,Labels,Supply_Chain
+351,2017-12-02,9,False,OFF-AR-10004344,Bulldog Vacuum Base Pencil Sharpener,Office Supplies,Art,Supply_Chain
+352,2017-04-09,246,True,OFF-PA-10004621,Xerox 212,Office Supplies,Paper,Supply_Chain
+353,2017-04-09,246,True,OFF-PA-10001281,Computer Printout Paper with Letter-Trim Fine Perforations,Office Supplies,Paper,Supply_Chain
+354,2017-04-09,246,True,OFF-LA-10001613,Avery File Folder Labels,Office Supplies,Labels,Supply_Chain
+355,2017-04-09,246,True,OFF-ST-10001097,Office Impressions Heavy Duty Welded Shelving & Multimedia Storage Drawers,Office Supplies,Storage,Supply_Chain
+356,2017-12-11,0,False,TEC-PH-10003555,Motorola HK250 Universal Bluetooth Headset,Technology,Phones,Supply_Chain
+357,2017-10-05,67,False,OFF-BI-10004492,Tuf-Vin Binders,Office Supplies,Binders,Supply_Chain
+358,2017-12-11,0,False,OFF-BI-10002012,Wilson Jones Easy Flow II Sheet Lifters,Office Supplies,Binders,Supply_Chain
+359,2017-06-03,191,True,OFF-PA-10004156,Xerox 188,Office Supplies,Paper,Supply_Chain
+360,2017-09-11,91,True,FUR-CH-10003199,Office Star - Contemporary Task Swivel Chair,Furniture,Chairs,Supply_Chain
+361,2016-12-05,371,True,OFF-AR-10000034,"BIC Brite Liner Grip Highlighters, Assorted, 5/Pack",Office Supplies,Art,Supply_Chain
+362,2016-12-05,371,True,TEC-PH-10000560,Samsung Galaxy S III - 16GB - pebble blue (T-Mobile),Technology,Phones,Supply_Chain
+363,2016-07-02,527,True,FUR-CH-10000665,"Global Airflow Leather Mesh Back Chair, Black",Furniture,Chairs,Supply_Chain
+364,2017-09-04,98,True,OFF-BI-10004022,Acco Suede Grain Vinyl Round Ring Binder,Office Supplies,Binders,Supply_Chain
+365,2017-11-10,31,False,OFF-BI-10001036,Cardinal EasyOpen D-Ring Binders,Office Supplies,Binders,Supply_Chain
+366,2017-05-05,220,True,OFF-EN-10002600,"Redi-Strip #10 Envelopes, 4 1/8 x 9 1/2",Office Supplies,Envelopes,Supply_Chain
+367,2017-06-03,191,True,OFF-BI-10002049,UniKeep View Case Binders,Office Supplies,Binders,Supply_Chain
+368,2015-07-06,889,True,FUR-FU-10002191,G.E. Halogen Desk Lamp Bulbs,Furniture,Furnishings,Supply_Chain
+369,2015-08-10,854,True,TEC-PH-10004188,OtterBox Commuter Series Case - Samsung Galaxy S4,Technology,Phones,Supply_Chain
+370,2016-03-11,640,True,OFF-ST-10001526,Iceberg Mobile Mega Data/Printer Cart,Office Supplies,Storage,Supply_Chain
+371,2017-05-03,222,True,OFF-PA-10001166,Xerox 2,Office Supplies,Paper,Supply_Chain
+372,2017-09-11,91,True,OFF-PA-10003656,Xerox 1935,Office Supplies,Paper,Supply_Chain
+373,2017-12-10,1,False,TEC-PH-10000148,Cyber Acoustics AC-202b Speech Recognition Stereo Headset,Technology,Phones,Supply_Chain
+374,2017-09-02,100,True,TEC-PH-10003885,Cisco SPA508G,Technology,Phones,Supply_Chain
+375,2017-12-01,10,False,FUR-CH-10003379,Global Commerce Series High-Back Swivel/Tilt Chairs,Furniture,Chairs,Supply_Chain
+376,2015-03-09,1008,True,OFF-LA-10001175,Avery 514,Office Supplies,Labels,Supply_Chain
+377,2016-09-06,461,True,TEC-AC-10004761,Maxell 4.7GB DVD+RW 3/Pack,Technology,Accessories,Supply_Chain
+378,2017-02-06,308,True,FUR-BO-10001811,"Atlantic Metals Mobile 5-Shelf Bookcases, Custom Colors",Furniture,Bookcases,Supply_Chain
+379,2017-10-03,69,False,OFF-AR-10001130,"Quartet Alpha White Chalk, 12/Pack",Office Supplies,Art,Supply_Chain
+380,2017-07-09,155,True,OFF-AP-10000055,Belkin F9S820V06 8 Outlet Surge,Office Supplies,Appliances,Supply_Chain
+381,2017-10-12,60,False,FUR-CH-10002304,"Global Stack Chair without Arms, Black",Furniture,Chairs,Supply_Chain
+382,2016-09-02,465,True,TEC-PH-10001530,Cisco Unified IP Phone 7945G VoIP phone,Technology,Phones,Supply_Chain
+383,2017-04-01,254,True,FUR-FU-10004006,"Deflect-o DuraMat Lighweight, Studded, Beveled Mat for Low Pile Carpeting",Furniture,Furnishings,Supply_Chain
+384,2017-07-09,155,True,FUR-FU-10000293,Eldon Antistatic Chair Mats for Low to Medium Pile Carpets,Furniture,Furnishings,Supply_Chain
+385,2017-03-03,283,True,OFF-PA-10001307,"Important Message Pads, 50 4-1/4 x 5-1/2 Forms per Pad",Office Supplies,Paper,Supply_Chain
+386,2015-07-03,892,True,FUR-FU-10004460,"Howard Miller 12"" Round Wall Clock",Furniture,Furnishings,Supply_Chain
+387,2017-12-04,7,False,OFF-AR-10000716,DIXON Ticonderoga Erasable Checking Pencils,Office Supplies,Art,Supply_Chain
+388,2017-09-03,99,True,FUR-FU-10004622,Eldon Advantage Foldable Chair Mats for Low Pile Carpets,Furniture,Furnishings,Supply_Chain
+389,2015-04-04,982,True,OFF-BI-10003529,Avery Round Ring Poly Binders,Office Supplies,Binders,Supply_Chain
+390,2017-12-10,1,False,OFF-BI-10001097,Avery Hole Reinforcements,Office Supplies,Binders,Supply_Chain
+391,2017-12-10,1,False,OFF-BI-10001597,"Wilson Jones Ledger-Size, Piano-Hinge Binder, 2"", Blue",Office Supplies,Binders,Supply_Chain
+392,2016-12-06,370,True,OFF-BI-10003727,Avery Durable Slant Ring Binders With Label Holder,Office Supplies,Binders,Supply_Chain
+393,2016-11-12,394,True,OFF-BI-10004967,Round Ring Binders,Office Supplies,Binders,Supply_Chain
+394,2016-11-12,394,True,TEC-AC-10003447,Micropad Numeric Keypads,Technology,Accessories,Supply_Chain
+395,2017-11-03,38,False,FUR-TA-10001095,Chromcraft Round Conference Tables,Furniture,Tables,Supply_Chain
+396,2017-11-06,35,False,OFF-PA-10003127,Easy-staple paper,Office Supplies,Paper,Supply_Chain
+397,2017-11-09,32,False,OFF-ST-10003208,Adjustable Depth Letter/Legal Cart,Office Supplies,Storage,Supply_Chain
+398,2016-03-01,650,True,TEC-MA-10003979,Ativa V4110MDD Micro-Cut Shredder,Technology,Machines,Supply_Chain
+399,2016-08-12,486,True,OFF-PA-10000029,Xerox 224,Office Supplies,Paper,Supply_Chain
+400,2017-06-04,190,True,TEC-PH-10001819,Innergie mMini Combo Duo USB Travel Charging Kit,Technology,Phones,Supply_Chain
+401,2015-12-06,736,True,OFF-AR-10002952,Stanley Contemporary Battery Pencil Sharpeners,Office Supplies,Art,Supply_Chain
+402,2017-12-03,8,False,TEC-PH-10000576,AT&T 1080 Corded phone,Technology,Phones,Supply_Chain
+403,2017-10-07,65,False,TEC-AC-10002049,Logitech G19 Programmable Gaming Keyboard,Technology,Accessories,Supply_Chain
+404,2015-09-04,829,True,OFF-PA-10000141,"Ampad Evidence Wirebond Steno Books, 6"" x 9""",Office Supplies,Paper,Supply_Chain
+405,2016-03-12,639,True,OFF-EN-10004459,Security-Tint Envelopes,Office Supplies,Envelopes,Supply_Chain
+406,2017-04-04,251,True,OFF-EN-10001532,Brown Kraft Recycled Envelopes,Office Supplies,Envelopes,Supply_Chain
+407,2017-10-05,67,False,FUR-TA-10004086,KI Adjustable-Height Table,Furniture,Tables,Supply_Chain
+408,2016-09-10,457,True,OFF-PA-10000100,Xerox 1945,Office Supplies,Paper,Supply_Chain
+409,2017-07-07,157,True,OFF-PA-10004100,Xerox 216,Office Supplies,Paper,Supply_Chain
+410,2016-11-07,399,True,OFF-ST-10003479,"Eldon Base for stackable storage shelf, platinum",Office Supplies,Storage,Supply_Chain
+411,2016-06-05,554,True,OFF-LA-10000973,Avery 502,Office Supplies,Labels,Supply_Chain
+412,2016-12-11,365,True,OFF-ST-10001476,Steel Personal Filing/Posting Tote,Office Supplies,Storage,Supply_Chain
+413,2016-11-12,394,True,OFF-EN-10002831,"Tyvek  Top-Opening Peel & Seel  Envelopes, Gray",Office Supplies,Envelopes,Supply_Chain
+414,2016-11-12,394,True,OFF-PA-10001763,Xerox 1896,Office Supplies,Paper,Supply_Chain
+415,2017-06-01,193,True,OFF-BI-10002072,Cardinal Slant-D Ring Binders,Office Supplies,Binders,Supply_Chain
+416,2015-11-10,762,True,OFF-AP-10003849,Hoover Shoulder Vac Commercial Portable Vacuum,Office Supplies,Appliances,Supply_Chain
+417,2015-04-04,982,True,OFF-FA-10000735,Staples,Office Supplies,Fasteners,Supply_Chain
+418,2016-09-03,464,True,OFF-BI-10003350,Acco Expandable Hanging Binders,Office Supplies,Binders,Supply_Chain
+419,2017-06-08,186,True,TEC-PH-10000307,Shocksock Galaxy S4 Armband,Technology,Phones,Supply_Chain
+420,2016-12-06,370,True,TEC-CO-10004202,Brother DCP1000 Digital 3 in 1 Multifunction Machine,Technology,Copiers,Supply_Chain
+421,2016-11-11,395,True,FUR-FU-10001852,"Eldon Regeneration Recycled Desk Accessories, Smoke",Furniture,Furnishings,Supply_Chain
+422,2016-07-02,527,True,FUR-CH-10002126,Hon Deluxe Fabric Upholstered Stacking Chairs,Furniture,Chairs,Supply_Chain
+423,2015-12-06,736,True,OFF-AR-10004042,"BOSTON Model 1800 Electric Pencil Sharpeners, Putty/Woodgrain",Office Supplies,Art,Supply_Chain
+424,2017-03-12,274,True,TEC-PH-10004700,PowerGen Dual USB Car Charger,Technology,Phones,Supply_Chain
+425,2016-12-11,365,True,OFF-BI-10004593,Ibico Laser Imprintable Binding System Covers,Office Supplies,Binders,Supply_Chain
+426,2017-12-01,10,False,OFF-BI-10003429,"Cardinal HOLDit! Binder Insert Strips,Extra Strips",Office Supplies,Binders,Supply_Chain
+427,2017-08-07,126,True,TEC-AC-10001552,Logitech K350 2.4Ghz Wireless Keyboard,Technology,Accessories,Supply_Chain
+428,2017-12-08,3,False,FUR-FU-10004952,"C-Line Cubicle Keepers Polyproplyene Holder w/Velcro Back, 8-1/2x11, 25/Bx",Furniture,Furnishings,Supply_Chain
+429,2017-12-08,3,False,OFF-ST-10004123,Safco Industrial Wire Shelving System,Office Supplies,Storage,Supply_Chain
+430,2017-12-08,3,False,OFF-PA-10003172,Xerox 1996,Office Supplies,Paper,Supply_Chain
+431,2017-12-08,3,False,OFF-ST-10002352,Iris Project Case,Office Supplies,Storage,Supply_Chain
+432,2014-09-08,1190,True,OFF-PA-10002259,"Geographics Note Cards, Blank, White, 8 1/2"" x 11""",Office Supplies,Paper,Supply_Chain
+433,2017-05-09,216,True,FUR-CH-10001270,Harbour Creations Steel Folding Chair,Furniture,Chairs,Supply_Chain
+434,2017-12-03,8,False,TEC-AC-10001990,Kensington Orbit Wireless Mobile Trackball for PC and Mac,Technology,Accessories,Supply_Chain
+435,2017-12-04,7,False,FUR-CH-10004540,Global Chrome Stack Chair,Furniture,Chairs,Supply_Chain
+436,2017-08-01,132,True,TEC-PH-10002660,Nortel Networks T7316 E Nt8 B27,Technology,Phones,Supply_Chain
+437,2017-12-04,7,False,FUR-CH-10004860,Global Low Back Tilter Chair,Furniture,Chairs,Supply_Chain
+438,2017-09-09,93,True,OFF-BI-10002432,Wilson Jones Standard D-Ring Binders,Office Supplies,Binders,Supply_Chain
+439,2017-09-09,93,True,OFF-BI-10000069,"GBC Prepunched Paper, 19-Hole, for Binding Systems, 24-lb",Office Supplies,Binders,Supply_Chain
+440,2017-09-09,93,True,OFF-AR-10003602,"Quartet Omega Colored Chalk, 12/Pack",Office Supplies,Art,Supply_Chain
+441,2017-09-09,93,True,FUR-FU-10001867,"Eldon Expressions Punched Metal & Wood Desk Accessories, Pewter & Cherry",Furniture,Furnishings,Supply_Chain
+442,2017-09-09,93,True,TEC-AC-10003174,Plantronics S12 Corded Telephone Headset System,Technology,Accessories,Supply_Chain
+443,2017-11-10,31,False,TEC-PH-10002200,Samsung Galaxy Note 2,Technology,Phones,Supply_Chain
+444,2014-07-12,1248,True,OFF-ST-10000107,Fellowes Super Stor/Drawer,Office Supplies,Storage,Supply_Chain
+445,2017-08-07,126,True,TEC-PH-10000439,GE DSL Phone Line Filter,Technology,Phones,Supply_Chain
+446,2016-12-04,372,True,FUR-FU-10001602,"Eldon Delta Triangular Chair Mat, 52"" x 58"", Clear",Furniture,Furnishings,Supply_Chain
+447,2016-12-04,372,True,OFF-BI-10004656,Peel & Stick Add-On Corner Pockets,Office Supplies,Binders,Supply_Chain
+448,2017-09-07,95,True,OFF-PA-10001685,Easy-staple paper,Office Supplies,Paper,Supply_Chain
+449,2016-12-04,372,True,OFF-ST-10001418,Carina Media Storage Towers in Natural & Black,Office Supplies,Storage,Supply_Chain
+450,2016-12-04,372,True,OFF-ST-10000676,Fellowes Econo/Stor Drawers,Office Supplies,Storage,Supply_Chain
+451,2017-11-11,30,False,FUR-FU-10001424,Dax Clear Box Frame,Furniture,Furnishings,Supply_Chain
+452,2017-11-06,35,False,OFF-AR-10001022,SANFORD Liquid Accent Tank-Style Highlighters,Office Supplies,Art,Supply_Chain
+453,2017-10-02,70,False,FUR-FU-10003691,"Eldon Image Series Desk Accessories, Ebony",Furniture,Furnishings,Supply_Chain
+454,2017-12-02,9,False,OFF-AR-10003903,Sanford 52201 APSCO Electric Pencil Sharpener,Office Supplies,Art,Supply_Chain
+455,2017-11-11,30,False,OFF-FA-10004854,"Vinyl Coated Wire Paper Clips in Organizer Box, 800/Box",Office Supplies,Fasteners,Supply_Chain
+456,2016-12-11,365,True,FUR-TA-10004619,Hon Non-Folding Utility Tables,Furniture,Tables,Supply_Chain
+457,2017-05-11,214,True,FUR-BO-10004467,Bestar Classic Bookcase,Furniture,Bookcases,Supply_Chain
+458,2015-11-08,764,True,TEC-PH-10004165,Mitel MiVoice 5330e IP Phone,Technology,Phones,Supply_Chain
+459,2017-04-02,253,True,FUR-FU-10003724,Westinghouse Clip-On Gooseneck Lamps,Furniture,Furnishings,Supply_Chain
+460,2017-11-08,33,False,FUR-FU-10003535,Howard Miller Distant Time Traveler Alarm Clock,Furniture,Furnishings,Supply_Chain
+461,2017-09-04,98,True,OFF-BI-10001634,Wilson Jones Active Use Binders,Office Supplies,Binders,Supply_Chain
+462,2017-09-02,100,True,OFF-AR-10000422,Pencil and Crayon Sharpener,Office Supplies,Art,Supply_Chain
+463,2017-06-04,190,True,OFF-PA-10002870,"Ampad Phone Message Book, Recycled, 400 Message Capacity, 5 ¾ x 11",Office Supplies,Paper,Supply_Chain
+464,2017-12-02,9,False,OFF-AR-10004022,Panasonic KP-380BK Classic Electric Pencil Sharpener,Office Supplies,Art,Supply_Chain
+465,2016-09-08,459,True,TEC-AC-10004209,Memorex Froggy Flash Drive 4 GB,Technology,Accessories,Supply_Chain
+466,2014-11-02,1135,True,TEC-AC-10000023,"Maxell 74 Minute CD-R Spindle, 50/Pack",Technology,Accessories,Supply_Chain
+467,2017-02-05,309,True,TEC-PH-10003505,Geemarc AmpliPOWER60,Technology,Phones,Supply_Chain
+468,2017-04-09,246,True,OFF-LA-10000121,Avery 48,Office Supplies,Labels,Supply_Chain
+469,2017-04-09,246,True,OFF-BI-10002026,Avery Arch Ring Binders,Office Supplies,Binders,Supply_Chain
+470,2017-10-01,71,False,OFF-PA-10000994,Xerox 1915,Office Supplies,Paper,Supply_Chain
+471,2016-11-03,403,True,OFF-BI-10002813,Avery Reinforcements for Hole-Punch Pages,Office Supplies,Binders,Supply_Chain
+472,2017-10-03,69,False,OFF-AR-10004817,Colorific Watercolor Pencils,Office Supplies,Art,Supply_Chain
+473,2017-09-02,100,True,OFF-BI-10004970,"ACCOHIDE 3-Ring Binder, Blue, 1""",Office Supplies,Binders,Supply_Chain
+474,2016-09-06,461,True,OFF-ST-10001590,"Tenex Personal Project File with Scoop Front Design, Black",Office Supplies,Storage,Supply_Chain
+475,2017-07-03,161,True,FUR-FU-10002554,"Westinghouse Floor Lamp with Metal Mesh Shade, Black",Furniture,Furnishings,Supply_Chain
+476,2017-08-11,122,True,TEC-PH-10001557,Pyle PMP37LED,Technology,Phones,Supply_Chain
+477,2016-12-09,367,True,OFF-LA-10001404,Avery 517,Office Supplies,Labels,Supply_Chain
+478,2016-12-09,367,True,OFF-LA-10001474,Avery 477,Office Supplies,Labels,Supply_Chain
+479,2017-12-10,1,False,TEC-AC-10003116,Memorex Froggy Flash Drive 8 GB,Technology,Accessories,Supply_Chain
+480,2016-03-06,645,True,TEC-PH-10004586,Wilson SignalBoost 841262 DB PRO Amplifier Kit,Technology,Phones,Supply_Chain
+481,2017-12-05,6,False,OFF-BI-10002071,Fellowes Black Plastic Comb Bindings,Office Supplies,Binders,Supply_Chain
+482,2017-02-03,311,True,OFF-ST-10001490,"Hot File 7-Pocket, Floor Stand",Office Supplies,Storage,Supply_Chain
+483,2017-03-03,283,True,OFF-AP-10004859,Acco 6 Outlet Guardian Premium Surge Suppressor,Office Supplies,Appliances,Supply_Chain
+484,2017-10-09,63,False,OFF-PA-10002659,Avoid Verbal Orders Carbonless Minifold Book,Office Supplies,Paper,Supply_Chain
+485,2017-11-12,29,False,TEC-PH-10000347,Cush Cases Heavy Duty Rugged Cover Case for Samsung Galaxy S5 - Purple,Technology,Phones,Supply_Chain
+486,2017-06-02,192,True,OFF-ST-10004507,Advantus Rolling Storage Box,Office Supplies,Storage,Supply_Chain
+487,2017-05-03,222,True,OFF-BI-10003684,Wilson Jones Legal Size Ring Binders,Office Supplies,Binders,Supply_Chain
+488,2017-01-02,343,True,TEC-MA-10002178,Cisco CP-7937G Unified IP Conference Station Phone,Technology,Machines,Supply_Chain
+489,2017-05-04,221,True,OFF-BI-10003694,"Avery 3 1/2"" Diskette Storage Pages, 10/Pack",Office Supplies,Binders,Supply_Chain
+490,2017-11-05,36,False,OFF-BI-10000474,Avery Recycled Flexi-View Covers for Binding Systems,Office Supplies,Binders,Supply_Chain
+491,2017-10-05,67,False,FUR-CH-10002880,"Global High-Back Leather Tilter, Burgundy",Furniture,Chairs,Supply_Chain
+492,2017-05-04,221,True,TEC-PH-10003092,Motorola L804,Technology,Phones,Supply_Chain
+493,2017-05-04,221,True,OFF-PA-10002250,Things To Do Today Pad,Office Supplies,Paper,Supply_Chain
+494,2017-05-12,213,True,OFF-ST-10000563,Fellowes Bankers Box Stor/Drawer Steel Plus,Office Supplies,Storage,Supply_Chain
+495,2016-05-05,585,True,OFF-PA-10003641,Xerox 1909,Office Supplies,Paper,Supply_Chain
+496,2017-11-10,31,False,TEC-MA-10003183,DYMO CardScan Personal V9 Business Card Scanner,Technology,Machines,Supply_Chain
+497,2017-11-10,31,False,TEC-AC-10001314,Case Logic 2.4GHz Wireless Keyboard,Technology,Accessories,Supply_Chain
+498,2017-11-10,31,False,TEC-PH-10002563,Adtran 1202752G1,Technology,Phones,Supply_Chain
+499,2017-11-10,31,False,FUR-CH-10003312,Hon 2090 Pillow Soft Series Mid Back Swivel/Tilt Chairs,Furniture,Chairs,Supply_Chain
+500,2017-07-08,156,True,FUR-FU-10001588,"Deflect-o SuperTray Unbreakable Stackable Tray, Letter, Black",Furniture,Furnishings,Supply_Chain
+501,2017-12-10,1,False,TEC-AC-10004510,Logitech Desktop MK120 Mouse and keyboard Combo,Technology,Accessories,Supply_Chain
+502,2016-11-05,401,True,OFF-LA-10002312,Avery 490,Office Supplies,Labels,Supply_Chain
+503,2014-04-01,1350,True,OFF-BI-10000042,"Pressboard Data Binder, Crimson, 12"" X 8 1/2""",Office Supplies,Binders,Supply_Chain
+504,2017-12-08,3,False,OFF-AP-10003590,Hoover WindTunnel Plus Canister Vacuum,Office Supplies,Appliances,Supply_Chain
+505,2017-03-04,282,True,OFF-PA-10000806,Xerox 1934,Office Supplies,Paper,Supply_Chain
+506,2016-09-05,462,True,OFF-AR-10000896,Newell 329,Office Supplies,Art,Supply_Chain
+507,2016-12-06,370,True,TEC-PH-10002310,Panasonic KX T7731-B Digital phone,Technology,Phones,Supply_Chain
+508,2017-11-09,32,False,OFF-ST-10002289,"Safco Wire Cube Shelving System, For Use as 4 or 5 14"" Cubes, Black",Office Supplies,Storage,Supply_Chain
+509,2016-11-11,395,True,OFF-BI-10002852,Ibico Standard Transparent Covers,Office Supplies,Binders,Supply_Chain
+510,2017-11-04,37,False,OFF-ST-10002344,"Carina 42""Hx23 3/4""W Media Storage Unit",Office Supplies,Storage,Supply_Chain
+511,2016-02-05,675,True,OFF-PA-10001289,White Computer Printout Paper by Universal,Office Supplies,Paper,Supply_Chain
+512,2016-02-05,675,True,OFF-FA-10000053,Revere Boxed Rubber Bands by Revere,Office Supplies,Fasteners,Supply_Chain
+513,2016-02-05,675,True,FUR-FU-10004091,"Eldon 200 Class Desk Accessories, Black",Furniture,Furnishings,Supply_Chain
+514,2017-02-10,304,True,FUR-BO-10004015,"Bush Andora Bookcase, Maple/Graphite Gray Finish",Furniture,Bookcases,Supply_Chain
+515,2016-02-05,675,True,OFF-EN-10003001,Ames Color-File Green Diamond Border X-ray Mailers,Office Supplies,Envelopes,Supply_Chain
+516,2017-08-10,123,True,TEC-PH-10003645,Aastra 57i VoIP phone,Technology,Phones,Supply_Chain
+517,2017-12-03,8,False,OFF-PA-10000357,"White Dual Perf Computer Printout Paper, 2700 Sheets, 1 Part, Heavyweight, 20 lbs., 14 7/8 x 11",Office Supplies,Paper,Supply_Chain
+518,2017-06-11,183,True,OFF-ST-10004804,"Belkin 19"" Vented Equipment Shelf, Black",Office Supplies,Storage,Supply_Chain
+519,2016-02-05,675,True,OFF-PA-10003892,Xerox 1943,Office Supplies,Paper,Supply_Chain
+520,2017-12-03,8,False,FUR-TA-10002958,"Bevis Oval Conference Table, Walnut",Furniture,Tables,Supply_Chain
+521,2017-10-09,63,False,FUR-TA-10001676,Hon 61000 Series Interactive Training Tables,Furniture,Tables,Supply_Chain
+522,2016-12-09,367,True,TEC-PH-10003988,"LF Elite 3D Dazzle Designer Hard Case Cover, Lf Stylus Pen and Wiper For Apple Iphone 5c Mini Lite",Technology,Phones,Supply_Chain
+523,2016-11-01,405,True,OFF-EN-10002230,Airmail Envelopes,Office Supplies,Envelopes,Supply_Chain
+524,2017-10-07,65,False,FUR-TA-10001039,KI Adjustable-Height Table,Furniture,Tables,Supply_Chain
+525,2016-09-02,465,True,OFF-AR-10002240,Panasonic KP-150 Electric Pencil Sharpener,Office Supplies,Art,Supply_Chain
+526,2017-12-02,9,False,FUR-CH-10002335,Hon GuestStacker Chair,Furniture,Chairs,Supply_Chain
+527,2017-12-04,7,False,OFF-BI-10004364,Storex Dura Pro Binders,Office Supplies,Binders,Supply_Chain
+528,2017-04-12,243,True,OFF-PA-10001712,Xerox 1948,Office Supplies,Paper,Supply_Chain
+529,2015-05-01,955,True,TEC-PH-10004348,OtterBox Defender Series Case - iPhone 5c,Technology,Phones,Supply_Chain
+530,2017-11-11,30,False,OFF-BI-10000977,Ibico Plastic Spiral Binding Combs,Office Supplies,Binders,Supply_Chain
+531,2017-06-12,182,True,FUR-TA-10002530,"Iceberg OfficeWorks 42"" Round Tables",Furniture,Tables,Supply_Chain
+532,2017-08-12,121,True,FUR-FU-10001473,DAX Wood Document Frame,Furniture,Furnishings,Supply_Chain
+533,2015-12-01,741,True,OFF-BI-10001765,Wilson Jones Heavy-Duty Casebound Ring Binders with Metal Hinges,Office Supplies,Binders,Supply_Chain
+534,2017-04-11,244,True,TEC-AC-10001767,SanDisk Ultra 64 GB MicroSDHC Class 10 Memory Card,Technology,Accessories,Supply_Chain
+535,2017-12-09,2,False,FUR-CH-10000847,Global Executive Mid-Back Manager's Chair,Furniture,Chairs,Supply_Chain
+536,2017-12-09,2,False,OFF-PA-10001293,Xerox 1946,Office Supplies,Paper,Supply_Chain
+537,2017-12-03,8,False,FUR-FU-10004270,"Eldon Image Series Desk Accessories, Burgundy",Furniture,Furnishings,Supply_Chain
+538,2017-09-11,91,True,OFF-PA-10002262,Xerox 192,Office Supplies,Paper,Supply_Chain
+539,2017-02-10,304,True,OFF-PA-10002464,HP Office Recycled Paper (20Lb. and 87 Bright),Office Supplies,Paper,Supply_Chain
+540,2017-10-03,69,False,OFF-ST-10002214,X-Rack File for Hanging Folders,Office Supplies,Storage,Supply_Chain
+541,2017-09-10,92,True,TEC-PH-10003580,Cisco IP Phone 7961G-GE VoIP phone,Technology,Phones,Supply_Chain
+542,2016-12-09,367,True,TEC-AC-10001109,Logitech Trackman Marble Mouse,Technology,Accessories,Supply_Chain
+543,2017-09-04,98,True,OFF-AR-10003759,"Crayola Anti Dust Chalk, 12/Pack",Office Supplies,Art,Supply_Chain
+544,2017-09-04,98,True,OFF-ST-10004950,Acco Perma 3000 Stacking Storage Drawers,Office Supplies,Storage,Supply_Chain
+545,2017-09-04,98,True,OFF-AR-10001940,"Sanford Colorific Eraseable Coloring Pencils, 12 Count",Office Supplies,Art,Supply_Chain
+546,2017-11-12,29,False,OFF-PA-10003823,Xerox 197,Office Supplies,Paper,Supply_Chain
+547,2017-11-12,29,False,OFF-ST-10003716,Tennsco Double-Tier Lockers,Office Supplies,Storage,Supply_Chain
+548,2017-12-02,9,False,OFF-AR-10001868,Prang Dustless Chalk Sticks,Office Supplies,Art,Supply_Chain
+549,2015-08-01,863,True,FUR-TA-10003715,Hon 2111 Invitation Series Corner Table,Furniture,Tables,Supply_Chain
+550,2017-12-10,1,False,OFF-BI-10004965,Ibico Covers for Plastic or Wire Binding Elements,Office Supplies,Binders,Supply_Chain
+551,2017-12-11,0,False,FUR-CH-10002961,"Leather Task Chair, Black",Furniture,Chairs,Supply_Chain
+552,2017-11-06,35,False,OFF-BI-10002827,Avery Durable Poly Binders,Office Supplies,Binders,Supply_Chain
+553,2017-12-01,10,False,OFF-BI-10001759,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Dark Blue",Office Supplies,Binders,Supply_Chain
+554,2016-05-02,588,True,FUR-FU-10002253,"Howard Miller 13"" Diameter Pewter Finish Round Wall Clock",Furniture,Furnishings,Supply_Chain
+555,2017-09-10,92,True,OFF-PA-10002586,Xerox 1970,Office Supplies,Paper,Supply_Chain
+556,2017-12-05,6,False,OFF-PA-10003039,Xerox 1960,Office Supplies,Paper,Supply_Chain
+557,2016-11-07,399,True,OFF-FA-10004968,Rubber Band Ball,Office Supplies,Fasteners,Supply_Chain
+558,2015-11-07,765,True,OFF-PA-10001274,Loose Memo Sheets,Office Supplies,Paper,Supply_Chain
+559,2017-11-11,30,False,OFF-ST-10003324,Belkin OmniView SE Rackmount Kit,Office Supplies,Storage,Supply_Chain
+560,2014-03-11,1371,True,FUR-FU-10003981,Eldon Wave Desk Accessories,Furniture,Furnishings,Supply_Chain
+561,2017-12-11,0,False,OFF-FA-10001561,Stockwell Push Pins,Office Supplies,Fasteners,Supply_Chain
+562,2015-12-11,731,True,OFF-BI-10004230,GBC Recycled Grain Textured Covers,Office Supplies,Binders,Supply_Chain
+563,2014-02-04,1406,True,OFF-PA-10000350,"Message Book, Standard Line ""While You Were Out"", 5 1/2"" X 4"", 200 Sets/Book",Office Supplies,Paper,Supply_Chain
+564,2017-12-09,2,False,TEC-CO-10001046,Canon Imageclass D680 Copier / Fax,Technology,Copiers,Supply_Chain
+565,2017-11-04,37,False,OFF-LA-10002195,Avery 481,Office Supplies,Labels,Supply_Chain
+566,2017-12-04,7,False,OFF-AR-10001315,Newell 310,Office Supplies,Art,Supply_Chain
+567,2017-08-10,123,True,OFF-EN-10003134,Staple envelope,Office Supplies,Envelopes,Supply_Chain
+568,2017-06-11,183,True,OFF-AR-10001955,Newell 319,Office Supplies,Art,Supply_Chain
+569,2017-04-10,245,True,OFF-BI-10003712,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Light Blue",Office Supplies,Binders,Supply_Chain
+570,2017-09-02,100,True,OFF-LA-10001641,Avery 518,Office Supplies,Labels,Supply_Chain
+571,2017-09-05,97,True,OFF-AR-10003732,Newell 333,Office Supplies,Art,Supply_Chain
+572,2016-06-07,552,True,OFF-PA-10004000,"While You Were Out Pads, 50 per Pad, 4 x 5 1/4, Green Cycle",Office Supplies,Paper,Supply_Chain
+573,2017-02-09,305,True,OFF-ST-10001370,Sensible Storage WireTech Storage Systems,Office Supplies,Storage,Supply_Chain
+574,2017-11-05,36,False,TEC-PH-10003012,Nortel Meridian M3904 Professional Digital phone,Technology,Phones,Supply_Chain
+575,2017-08-06,127,True,FUR-FU-10001706,Longer-Life Soft White Bulbs,Furniture,Furnishings,Supply_Chain
+576,2015-08-09,855,True,TEC-PH-10000984,Panasonic KX-TG9471B,Technology,Phones,Supply_Chain
+577,2017-10-06,66,False,OFF-PA-10001357,Xerox 1886,Office Supplies,Paper,Supply_Chain
+578,2017-09-11,91,True,OFF-FA-10000992,"Acco Clips to Go Binder Clips, 24 Clips in Two Sizes",Office Supplies,Fasteners,Supply_Chain
+579,2015-08-09,855,True,TEC-AC-10002600,Belkin QODE FastFit Bluetooth Keyboard,Technology,Accessories,Supply_Chain
+580,2017-12-02,9,False,OFF-AR-10001662,Rogers Handheld Barrel Pencil Sharpener,Office Supplies,Art,Supply_Chain
+581,2017-12-02,9,False,FUR-FU-10001488,"Tenex 46"" x 60"" Computer Anti-Static Chairmat, Rectangular Shaped",Furniture,Furnishings,Supply_Chain
+582,2017-09-03,99,True,OFF-AR-10003251,Prang Drawing Pencil Set,Office Supplies,Art,Supply_Chain
+583,2015-08-10,854,True,OFF-LA-10002787,Avery 480,Office Supplies,Labels,Supply_Chain
+584,2015-09-12,821,True,OFF-LA-10002043,Avery 489,Office Supplies,Labels,Supply_Chain
+585,2015-08-10,854,True,OFF-AR-10001915,Peel-Off China Markers,Office Supplies,Art,Supply_Chain
+586,2016-11-10,396,True,OFF-ST-10000352,Acco Perma 2700 Stacking Storage Drawers,Office Supplies,Storage,Supply_Chain
+587,2017-12-09,2,False,OFF-PA-10000575,"Wirebound Message Books, Four 2 3/4 x 5 White Forms per Page",Office Supplies,Paper,Supply_Chain
+588,2017-07-08,156,True,FUR-FU-10002937,"GE 48"" Fluorescent Tube, Cool White Energy Saver, 34 Watts, 30/Box",Furniture,Furnishings,Supply_Chain
+589,2017-07-08,156,True,TEC-AC-10003063,Micro Innovations USB RF Wireless Keyboard with Mouse,Technology,Accessories,Supply_Chain
+590,2016-05-08,582,True,OFF-ST-10002011,Smead Adjustable Mobile File Trolley with Lockable Top,Office Supplies,Storage,Supply_Chain
+591,2016-05-08,582,True,OFF-PA-10002986,Xerox 1898,Office Supplies,Paper,Supply_Chain
+592,2017-09-07,95,True,OFF-ST-10000649,Hanging Personal Folder File,Office Supplies,Storage,Supply_Chain
+593,2017-11-04,37,False,TEC-AC-10002323,SanDisk Ultra 32 GB MicroSDHC Class 10 Memory Card,Technology,Accessories,Supply_Chain
+594,2017-07-07,157,True,OFF-FA-10001135,"Brites Rubber Bands, 1 1/2 oz. Box",Office Supplies,Fasteners,Supply_Chain
+595,2017-09-02,100,True,FUR-TA-10001889,Bush Advantage Collection Racetrack Conference Table,Furniture,Tables,Supply_Chain
+596,2017-09-04,98,True,TEC-PH-10003589,invisibleSHIELD by ZAGG Smudge-Free Screen Protector,Technology,Phones,Supply_Chain
+597,2016-11-10,396,True,FUR-FU-10000758,DAX Natural Wood-Tone Poster Frame,Furniture,Furnishings,Supply_Chain
+598,2014-09-07,1191,True,TEC-MA-10004679,StarTech.com 10/100 VDSL2 Ethernet Extender Kit,Technology,Machines,Supply_Chain
+599,2017-09-07,95,True,FUR-FU-10002597,"C-Line Magnetic Cubicle Keepers, Clear Polypropylene",Furniture,Furnishings,Supply_Chain
+600,2017-12-10,1,False,OFF-PA-10000788,Xerox 210,Office Supplies,Paper,Supply_Chain
+601,2017-12-11,0,False,FUR-FU-10004306,Electrix Halogen Magnifier Lamp,Furniture,Furnishings,Supply_Chain
+602,2017-09-04,98,True,OFF-FA-10001843,Staples,Office Supplies,Fasteners,Supply_Chain
+603,2017-10-02,70,False,OFF-BI-10003676,"GBC Standard Recycled Report Covers, Clear Plastic Sheets",Office Supplies,Binders,Supply_Chain
+604,2017-10-07,65,False,FUR-BO-10003965,O'Sullivan Manor Hill 2-Door Library in Brianna Oak,Furniture,Bookcases,Supply_Chain
+605,2016-07-10,519,True,OFF-ST-10000689,"Fellowes Strictly Business Drawer File, Letter/Legal Size",Office Supplies,Storage,Supply_Chain
+606,2017-06-03,191,True,TEC-AC-10003038,Kingston Digital DataTraveler 16GB USB 2.0,Technology,Accessories,Supply_Chain
+607,2017-07-03,161,True,TEC-AC-10003590,"TRENDnet 56K USB 2.0 Phone, Internet and Fax Modem",Technology,Accessories,Supply_Chain
+608,2017-04-01,254,True,OFF-LA-10000262,Avery 494,Office Supplies,Labels,Supply_Chain
+609,2017-12-02,9,False,OFF-ST-10004340,"Fellowes Mobile File Cart, Black",Office Supplies,Storage,Supply_Chain
+610,2017-12-02,9,False,OFF-PA-10004475,Xerox 1940,Office Supplies,Paper,Supply_Chain
+611,2017-12-02,9,False,OFF-PA-10003893,Xerox 1962,Office Supplies,Paper,Supply_Chain
+612,2017-11-02,39,False,TEC-PH-10001817,Wilson Electronics DB Pro Signal Booster,Technology,Phones,Supply_Chain
+613,2017-12-09,2,False,TEC-AC-10001013,Logitech ClearChat Comfort/USB Headset H390,Technology,Accessories,Supply_Chain
+614,2015-09-05,828,True,FUR-BO-10000330,"Sauder Camden County Barrister Bookcase, Planked Cherry Finish",Furniture,Bookcases,Supply_Chain
+615,2017-05-12,213,True,OFF-BI-10001900,"DXL Angle-View Binders with Locking Rings, Black",Office Supplies,Binders,Supply_Chain
+616,2017-12-08,3,False,FUR-BO-10003159,"Sauder Camden County Collection Libraries, Planked Cherry Finish",Furniture,Bookcases,Supply_Chain
+617,2017-08-06,127,True,OFF-SU-10002573,"Acme 10"" Easy Grip Assistive Scissors",Office Supplies,Supplies,Supply_Chain
+618,2016-08-04,494,True,FUR-FU-10001591,Advantus Panel Wall Certificate Holder - 8.5x11,Furniture,Furnishings,Supply_Chain
+619,2016-08-04,494,True,OFF-LA-10002034,Avery 478,Office Supplies,Labels,Supply_Chain
+620,2017-12-02,9,False,OFF-SU-10001935,Staple remover,Office Supplies,Supplies,Supply_Chain
+621,2016-07-07,522,True,OFF-PA-10001609,Tops Wirebound Message Log Books,Office Supplies,Paper,Supply_Chain
+622,2017-12-02,9,False,FUR-CH-10001854,Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat,Furniture,Chairs,Supply_Chain
+623,2016-12-09,367,True,OFF-AR-10000475,"Hunt BOSTON Vista Battery-Operated Pencil Sharpener, Black",Office Supplies,Art,Supply_Chain
+624,2016-11-12,394,True,OFF-FA-10000585,OIC Bulk Pack Metal Binder Clips,Office Supplies,Fasteners,Supply_Chain
+625,2016-08-08,490,True,OFF-PA-10001994,"Ink Jet Note and Greeting Cards, 8-1/2"" x 5-1/2"" Card Size",Office Supplies,Paper,Supply_Chain
+626,2017-04-01,254,True,TEC-PH-10004897,Mediabridge Sport Armband iPhone 5s,Technology,Phones,Supply_Chain
+627,2017-04-02,253,True,FUR-TA-10004534,Bevis 44 x 96 Conference Tables,Furniture,Tables,Supply_Chain
+628,2017-09-09,93,True,OFF-LA-10000443,Avery 501,Office Supplies,Labels,Supply_Chain
+629,2016-02-08,672,True,TEC-PH-10002624,Samsung Galaxy S4 Mini,Technology,Phones,Supply_Chain
+630,2017-08-01,132,True,TEC-MA-10000488,Bady BDG101FRU Card Printer,Technology,Machines,Supply_Chain
+631,2017-12-03,8,False,OFF-PA-10003729,Xerox 1998,Office Supplies,Paper,Supply_Chain
+632,2017-09-01,101,True,OFF-AP-10001005,Honeywell Quietcare HEPA Air Cleaner,Office Supplies,Appliances,Supply_Chain
+633,2015-02-09,1036,True,OFF-LA-10001074,Round Specialty Laser Printer Labels,Office Supplies,Labels,Supply_Chain
+634,2015-02-09,1036,True,FUR-FU-10001986,"Dana Fluorescent Magnifying Lamp, White, 36""",Furniture,Furnishings,Supply_Chain
+635,2017-01-12,333,True,OFF-PA-10001804,Xerox 195,Office Supplies,Paper,Supply_Chain
+636,2017-01-12,333,True,FUR-FU-10004973,Flat Face Poster Frame,Furniture,Furnishings,Supply_Chain
+637,2017-05-12,213,True,OFF-BI-10002133,"Wilson Jones Elliptical Ring 3 1/2"" Capacity Binders, 800 sheets",Office Supplies,Binders,Supply_Chain
+638,2016-12-09,367,True,OFF-AP-10002311,"Holmes Replacement Filter for HEPA Air Cleaner, Very Large Room, HEPA Filter",Office Supplies,Appliances,Supply_Chain
+639,2015-09-03,830,True,TEC-PH-10004959,Classic Ivory Antique Telephone ZL1810,Technology,Phones,Supply_Chain
+640,2015-10-05,798,True,OFF-ST-10001328,"Personal Filing Tote with Lid, Black/Gray",Office Supplies,Storage,Supply_Chain
+641,2017-11-12,29,False,TEC-PH-10002824,Jabra SPEAK 410 Multidevice Speakerphone,Technology,Phones,Supply_Chain
+642,2017-01-12,333,True,OFF-EN-10002621,Staple envelope,Office Supplies,Envelopes,Supply_Chain
+643,2017-12-02,9,False,OFF-AR-10001446,Newell 309,Office Supplies,Art,Supply_Chain
+644,2017-10-03,69,False,OFF-BI-10001359,GBC DocuBind TL300 Electric Binding System,Office Supplies,Binders,Supply_Chain
+645,2017-12-04,7,False,FUR-FU-10004093,Hand-Finished Solid Wood Document Frame,Furniture,Furnishings,Supply_Chain
+646,2017-08-07,126,True,OFF-PA-10001878,Xerox 1891,Office Supplies,Paper,Supply_Chain
+647,2017-07-03,161,True,TEC-MA-10003674,Hewlett-Packard Deskjet 5550 Printer,Technology,Machines,Supply_Chain
+648,2016-11-11,395,True,OFF-ST-10002562,Staple magnet,Office Supplies,Storage,Supply_Chain
+649,2017-04-04,251,True,TEC-PH-10004345,Cisco SPA 502G IP Phone,Technology,Phones,Supply_Chain
+650,2017-03-09,277,True,TEC-AC-10001908,Logitech Wireless Headset h800,Technology,Accessories,Supply_Chain
+651,2016-07-04,525,True,TEC-PH-10001198,Avaya 4621SW VoIP phone,Technology,Phones,Supply_Chain
+652,2017-08-06,127,True,FUR-BO-10000468,O'Sullivan 2-Shelf Heavy-Duty Bookcases,Furniture,Bookcases,Supply_Chain
+653,2017-10-12,60,False,OFF-BI-10002082,GBC Twin Loop Wire Binding Elements,Office Supplies,Binders,Supply_Chain
+654,2016-07-08,521,True,OFF-ST-10001505,"Perma STOR-ALL Hanging File Box, 13 1/8""W x 12 1/4""D x 10 1/2""H",Office Supplies,Storage,Supply_Chain
+655,2017-09-02,100,True,FUR-FU-10001196,DAX Cubicle Frames - 8x10,Furniture,Furnishings,Supply_Chain
+656,2017-09-02,100,True,OFF-AR-10004582,BIC Brite Liner Grip Highlighters,Office Supplies,Art,Supply_Chain
+657,2017-10-12,60,False,TEC-AC-10002842,WD My Passport Ultra 2TB Portable External Hard Drive,Technology,Accessories,Supply_Chain
+658,2017-09-10,92,True,OFF-BI-10003669,3M Organizer Strips,Office Supplies,Binders,Supply_Chain
+659,2017-09-10,92,True,OFF-AP-10004785,"Holmes Replacement Filter for HEPA Air Cleaner, Medium Room",Office Supplies,Appliances,Supply_Chain
+660,2017-12-08,3,False,TEC-AC-10003023,Logitech G105 Gaming Keyboard,Technology,Accessories,Supply_Chain
+661,2017-09-10,92,True,TEC-AC-10002217,Imation Clip USB flash drive - 8 GB,Technology,Accessories,Supply_Chain
+662,2017-09-10,92,True,OFF-BI-10002954,Newell 3-Hole Punched Plastic Slotted Magazine Holders for Binders,Office Supplies,Binders,Supply_Chain
+663,2017-09-10,92,True,OFF-ST-10000025,Fellowes Stor/Drawer Steel Plus Storage Drawers,Office Supplies,Storage,Supply_Chain
+664,2017-09-10,92,True,OFF-AP-10003281,Acco 6 Outlet Guardian Standard Surge Suppressor,Office Supplies,Appliances,Supply_Chain
+665,2017-05-06,219,True,OFF-AR-10004752,Blackstonian Pencils,Office Supplies,Art,Supply_Chain
+666,2017-04-11,244,True,OFF-AR-10000127,Newell 321,Office Supplies,Art,Supply_Chain
+667,2017-11-07,34,False,TEC-PH-10003811,Jabra Supreme Plus Driver Edition Headset,Technology,Phones,Supply_Chain
+668,2017-11-03,38,False,OFF-BI-10002393,Binder Posts,Office Supplies,Binders,Supply_Chain
+669,2017-09-11,91,True,FUR-TA-10002855,Bevis Round Conference Table Top & Single Column Base,Furniture,Tables,Supply_Chain
+670,2015-11-09,763,True,OFF-EN-10000781,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Office Supplies,Envelopes,Supply_Chain
+671,2017-11-12,29,False,OFF-PA-10002160,Xerox 1978,Office Supplies,Paper,Supply_Chain
+672,2017-12-02,9,False,OFF-AP-10002534,3.6 Cubic Foot Counter Height Office Refrigerator,Office Supplies,Appliances,Supply_Chain
+673,2017-12-02,9,False,FUR-FU-10004020,Advantus Panel Wall Acrylic Frame,Furniture,Furnishings,Supply_Chain
+674,2015-12-06,736,True,TEC-PH-10001615,AT&T CL82213,Technology,Phones,Supply_Chain
+675,2017-04-11,244,True,OFF-AR-10001221,"Dixon Ticonderoga Erasable Colored Pencil Set, 12-Color",Office Supplies,Art,Supply_Chain
+676,2017-10-09,63,False,FUR-BO-10003034,"O'Sullivan Elevations Bookcase, Cherry Finish",Furniture,Bookcases,Supply_Chain
+677,2015-12-11,731,True,TEC-AC-10001606,Logitech Wireless Performance Mouse MX for PC and Mac,Technology,Accessories,Supply_Chain
+678,2015-12-11,731,True,OFF-ST-10000943,Eldon ProFile File 'N Store Portable File Tub Letter/Legal Size Black,Office Supplies,Storage,Supply_Chain
+679,2017-09-03,99,True,OFF-BI-10002225,"Square Ring Data Binders, Rigid 75 Pt. Covers, 11"" x 14-7/8""",Office Supplies,Binders,Supply_Chain
+680,2017-08-05,128,True,OFF-BI-10001989,Premium Transparent Presentation Covers by GBC,Office Supplies,Binders,Supply_Chain
+681,2015-10-02,801,True,OFF-BI-10004817,GBC Personal VeloBind Strips,Office Supplies,Binders,Supply_Chain
+682,2017-09-09,93,True,FUR-CH-10003833,Novimex Fabric Task Chair,Furniture,Chairs,Supply_Chain
+683,2017-07-08,156,True,FUR-FU-10003142,"Master Big Foot Doorstop, Beige",Furniture,Furnishings,Supply_Chain
+684,2017-11-07,34,False,TEC-AC-10003289,Anker Ultra-Slim Mini Bluetooth 3.0 Wireless Keyboard,Technology,Accessories,Supply_Chain
+685,2017-11-07,34,False,TEC-PH-10002468,"Plantronics CS 50-USB - headset - Convertible, Monaural",Technology,Phones,Supply_Chain
+686,2015-07-12,883,True,FUR-FU-10001861,"Floodlight Indoor Halogen Bulbs, 1 Bulb per Pack, 60 Watts",Furniture,Furnishings,Supply_Chain
+687,2017-11-01,40,False,OFF-PA-10004243,Xerox 1939,Office Supplies,Paper,Supply_Chain
+688,2017-09-07,95,True,TEC-AC-10002926,Logitech Wireless Marathon Mouse M705,Technology,Accessories,Supply_Chain
+689,2016-08-12,486,True,OFF-ST-10000078,Tennsco 6- and 18-Compartment Lockers,Office Supplies,Storage,Supply_Chain
+690,2016-09-04,463,True,OFF-AR-10001044,"BOSTON Ranger #55 Pencil Sharpener, Black",Office Supplies,Art,Supply_Chain
+691,2015-10-12,791,True,FUR-TA-10001307,"SAFCO PlanMaster Heigh-Adjustable Drafting Table Base, 43w x 30d x 30-37h, Black",Furniture,Tables,Supply_Chain
+692,2017-12-05,6,False,OFF-BI-10000145,Zipper Ring Binder Pockets,Office Supplies,Binders,Supply_Chain
+693,2017-11-09,32,False,FUR-CH-10003061,"Global Leather Task Chair, Black",Furniture,Chairs,Supply_Chain
+694,2017-12-01,10,False,OFF-EN-10003040,Quality Park Security Envelopes,Office Supplies,Envelopes,Supply_Chain
+695,2017-12-01,10,False,TEC-PH-10000923,"Belkin SportFit Armband For iPhone 5s/5c, Fuchsia",Technology,Phones,Supply_Chain
+696,2017-09-07,95,True,FUR-FU-10003623,"DataProducts Ampli Magnifier Task Lamp, Black,",Furniture,Furnishings,Supply_Chain
+697,2016-12-09,367,True,OFF-SU-10001664,Acme Office Executive Series Stainless Steel Trimmers,Office Supplies,Supplies,Supply_Chain
+698,2016-10-01,436,True,FUR-TA-10003238,"Chromcraft Bull-Nose Wood 48"" x 96"" Rectangular Conference Tables",Furniture,Tables,Supply_Chain
+699,2016-09-01,466,True,OFF-PA-10004675,"Telephone Message Books with Fax/Mobile Section, 5 1/2"" x 3 3/16""",Office Supplies,Paper,Supply_Chain
+700,2017-05-02,223,True,FUR-FU-10003975,Eldon Advantage Chair Mats for Low to Medium Pile Carpets,Furniture,Furnishings,Supply_Chain
+701,2017-12-09,2,False,OFF-BI-10004236,"XtraLife ClearVue Slant-D Ring Binder, White, 3""",Office Supplies,Binders,Supply_Chain
+702,2016-01-07,704,True,OFF-AR-10003696,Panasonic KP-350BK Electric Pencil Sharpener with Auto Stop,Office Supplies,Art,Supply_Chain
+703,2015-01-05,1071,True,OFF-BI-10004506,Wilson Jones data.warehouse D-Ring Binders with DublLock,Office Supplies,Binders,Supply_Chain
+704,2017-06-08,186,True,OFF-BI-10000309,"GBC Twin Loop Wire Binding Elements, 9/16"" Spine, Black",Office Supplies,Binders,Supply_Chain
+705,2016-05-07,583,True,FUR-CH-10002084,Hon Mobius Operator's Chair,Furniture,Chairs,Supply_Chain
+706,2017-08-10,123,True,FUR-FU-10003708,"Tenex Traditional Chairmats for Medium Pile Carpet, Standard Lip, 36"" x 48""",Furniture,Furnishings,Supply_Chain
+707,2016-12-10,366,True,OFF-BI-10001718,GBC DocuBind P50 Personal Binding Machine,Office Supplies,Binders,Supply_Chain
+708,2016-12-10,366,True,OFF-AP-10002082,Holmes HEPA Air Purifier,Office Supplies,Appliances,Supply_Chain
+709,2016-12-10,366,True,OFF-PA-10001125,Xerox 1988,Office Supplies,Paper,Supply_Chain
+710,2017-02-02,312,True,OFF-AP-10000252,Harmony HEPA Quiet Air Purifiers,Office Supplies,Appliances,Supply_Chain
+711,2017-10-12,60,False,OFF-AR-10000940,Newell 343,Office Supplies,Art,Supply_Chain
+712,2016-12-05,371,True,FUR-FU-10004748,"Howard Miller 16"" Diameter Gallery Wall Clock",Furniture,Furnishings,Supply_Chain
+713,2016-09-10,457,True,OFF-AR-10000538,"Boston Model 1800 Electric Pencil Sharpener, Gray",Office Supplies,Art,Supply_Chain
+714,2017-10-01,71,False,OFF-AP-10000576,"Belkin 325VA UPS Surge Protector, 6'",Office Supplies,Appliances,Supply_Chain
+715,2017-10-01,71,False,FUR-CH-10000553,"Metal Folding Chairs, Beige, 4/Carton",Furniture,Chairs,Supply_Chain
+716,2015-12-06,736,True,TEC-PH-10001578,Polycom SoundStation2 EX Conference phone,Technology,Phones,Supply_Chain
+717,2017-07-09,155,True,OFF-ST-10003692,Recycled Steel Personal File for Hanging File Folders,Office Supplies,Storage,Supply_Chain
+718,2017-09-02,100,True,OFF-FA-10002280,Advantus Plastic Paper Clips,Office Supplies,Fasteners,Supply_Chain
+719,2017-10-12,60,False,OFF-PA-10003919,Xerox 1989,Office Supplies,Paper,Supply_Chain
+720,2015-11-08,764,True,FUR-FU-10000308,Deflect-o Glass Clear Studded Chair Mats,Furniture,Furnishings,Supply_Chain
+721,2016-09-04,463,True,TEC-CO-10003763,Canon PC1060 Personal Laser Copier,Technology,Copiers,Supply_Chain
+722,2014-10-03,1165,True,FUR-TA-10001866,Bevis Round Conference Room Tables and Bases,Furniture,Tables,Supply_Chain
+723,2016-06-09,550,True,FUR-CH-10002774,"Global Deluxe Stacking Chair, Gray",Furniture,Chairs,Supply_Chain
+724,2017-04-01,254,True,OFF-AP-10002222,Staple holder,Office Supplies,Appliances,Supply_Chain
+725,2016-05-10,580,True,OFF-PA-10003971,Xerox 1965,Office Supplies,Paper,Supply_Chain
+726,2017-06-03,191,True,OFF-AP-10002287,"Eureka Sanitaire  Multi-Pro Heavy-Duty Upright, Disposable Bags",Office Supplies,Appliances,Supply_Chain
+727,2017-06-10,184,True,OFF-AR-10002375,Newell 351,Office Supplies,Art,Supply_Chain
+728,2017-01-08,337,True,FUR-TA-10001950,Balt Solid Wood Round Tables,Furniture,Tables,Supply_Chain
+729,2017-12-11,0,False,TEC-PH-10001527,Plantronics MX500i Earset,Technology,Phones,Supply_Chain
+730,2017-12-10,1,False,TEC-AC-10001838,Razer Tiamat Over Ear 7.1 Surround Sound PC Gaming Headset,Technology,Accessories,Supply_Chain
+731,2017-06-11,183,True,FUR-CH-10001394,Global Leather Executive Chair,Furniture,Chairs,Supply_Chain
+732,2017-06-11,183,True,OFF-AR-10002956,Boston 16801 Nautilus Battery Pencil Sharpener,Office Supplies,Art,Supply_Chain
+733,2017-09-09,93,True,OFF-ST-10001809,Fellowes Officeware Wire Shelving,Office Supplies,Storage,Supply_Chain
+734,2017-12-10,1,False,OFF-EN-10004030,Convenience Packs of Business Envelopes,Office Supplies,Envelopes,Supply_Chain
+735,2017-12-10,1,False,OFF-AP-10000026,Tripp Lite Isotel 6 Outlet Surge Protector with Fax/Modem Protection,Office Supplies,Appliances,Supply_Chain
+736,2016-11-10,396,True,OFF-AR-10004999,Newell 315,Office Supplies,Art,Supply_Chain
+737,2017-12-02,9,False,OFF-BI-10004187,3-ring staple pack,Office Supplies,Binders,Supply_Chain
+738,2017-12-02,9,False,OFF-BI-10000632,Satellite Sectional Post Binders,Office Supplies,Binders,Supply_Chain
+739,2017-12-02,9,False,OFF-AP-10002765,Fellowes Advanced Computer Series Surge Protectors,Office Supplies,Appliances,Supply_Chain
+740,2017-09-03,99,True,TEC-AC-10004353,Hypercom P1300 Pinpad,Technology,Accessories,Supply_Chain
+741,2017-09-11,91,True,OFF-FA-10000936,Acco Hot Clips Clips to Go,Office Supplies,Fasteners,Supply_Chain
+742,2017-03-03,283,True,FUR-CH-10000785,Global Ergonomic Managers Chair,Furniture,Chairs,Supply_Chain
+743,2015-12-06,736,True,OFF-PA-10003883,"Message Book, Phone, Wirebound Standard Line Memo, 2 3/4"" X 5""",Office Supplies,Paper,Supply_Chain
+744,2016-05-06,584,True,OFF-FA-10004248,Advantus T-Pin Paper Clips,Office Supplies,Fasteners,Supply_Chain
+745,2017-10-05,67,False,OFF-PA-10002581,Xerox 1951,Office Supplies,Paper,Supply_Chain
+746,2015-12-12,730,True,OFF-FA-10001229,Staples,Office Supplies,Fasteners,Supply_Chain
+747,2015-12-12,730,True,OFF-BI-10002437,Recycled Premium Regency Composition Covers,Office Supplies,Binders,Supply_Chain
+748,2015-12-06,736,True,OFF-PA-10004255,Xerox 219,Office Supplies,Paper,Supply_Chain
+749,2015-12-06,736,True,OFF-PA-10001184,Xerox 1903,Office Supplies,Paper,Supply_Chain
+750,2016-05-03,587,True,TEC-AC-10002637,Logitech VX Revolution Cordless Laser Mouse for Notebooks (Black),Technology,Accessories,Supply_Chain
+751,2015-12-06,736,True,FUR-FU-10002878,"Seth Thomas 14"" Day/Date Wall Clock",Furniture,Furnishings,Supply_Chain
+752,2017-04-01,254,True,OFF-EN-10001990,Staple envelope,Office Supplies,Envelopes,Supply_Chain
+753,2017-10-07,65,False,TEC-PH-10000702,"Square Credit Card Reader, 4 1/2"" x 4 1/2"" x 1"", White",Technology,Phones,Supply_Chain
+754,2014-11-12,1125,True,OFF-PA-10001947,Xerox 1974,Office Supplies,Paper,Supply_Chain
+755,2014-11-12,1125,True,FUR-TA-10002356,Bevis Boat-Shaped Conference Table,Furniture,Tables,Supply_Chain
+756,2017-06-03,191,True,FUR-BO-10002824,Bush Mission Pointe Library,Furniture,Bookcases,Supply_Chain
+757,2017-11-09,32,False,TEC-AC-10004171,Razer Kraken 7.1 Surround Sound Over Ear USB Gaming Headset,Technology,Accessories,Supply_Chain
+758,2016-06-11,548,True,OFF-BI-10003784,Computer Printout Index Tabs,Office Supplies,Binders,Supply_Chain
+759,2017-12-05,6,False,OFF-BI-10001617,GBC Wire Binding Combs,Office Supplies,Binders,Supply_Chain
+760,2016-06-11,548,True,FUR-FU-10004415,"Stacking Tray, Side-Loading, Legal, Smoke",Furniture,Furnishings,Supply_Chain
+761,2016-11-05,401,True,OFF-BI-10003963,Cardinal Holdit Data Disk Pockets,Office Supplies,Binders,Supply_Chain
+762,2017-12-05,6,False,OFF-BI-10001524,GBC Premium Transparent Covers with Diagonal Lined Pattern,Office Supplies,Binders,Supply_Chain
+763,2017-12-03,8,False,OFF-BI-10001553,SpineVue Locking Slant-D Ring Binders by Cardinal,Office Supplies,Binders,Supply_Chain
+764,2017-05-04,221,True,OFF-PA-10000726,"Black Print Carbonless Snap-Off Rapid Letter, 8 1/2"" x 7""",Office Supplies,Paper,Supply_Chain
+765,2017-05-04,221,True,OFF-PA-10004983,Xerox 23,Office Supplies,Paper,Supply_Chain
+766,2017-05-04,221,True,OFF-ST-10001291,"Tenex Personal Self-Stacking Standard File Box, Black/Gray",Office Supplies,Storage,Supply_Chain
+767,2017-10-05,67,False,FUR-CH-10001190,Global Deluxe High-Back Office Chair in Storm,Furniture,Chairs,Supply_Chain
+768,2017-08-03,130,True,TEC-AC-10000682,Kensington K72356US Mouse-in-a-Box USB Desktop Mouse,Technology,Accessories,Supply_Chain
+769,2017-05-11,214,True,OFF-LA-10004545,Avery 50,Office Supplies,Labels,Supply_Chain
+770,2016-11-03,403,True,OFF-AP-10003057,Honeywell Enviracaire Portable HEPA Air Cleaner for 16' x 20' Room,Office Supplies,Appliances,Supply_Chain
+771,2017-10-02,70,False,FUR-TA-10000198,Chromcraft Bull-Nose Wood Oval Conference Tables & Bases,Furniture,Tables,Supply_Chain
+772,2017-12-08,3,False,OFF-ST-10001837,"SAFCO Mobile Desk Side File, Wire Frame",Office Supplies,Storage,Supply_Chain
+773,2015-12-11,731,True,OFF-AR-10001473,Newell 313,Office Supplies,Art,Supply_Chain
+774,2015-01-02,1074,True,OFF-PA-10004285,Xerox 1959,Office Supplies,Paper,Supply_Chain
+775,2016-05-12,578,True,TEC-PH-10001835,Jawbone JAMBOX Wireless Bluetooth Speaker,Technology,Phones,Supply_Chain
+776,2017-12-11,0,False,OFF-PA-10002245,Xerox 1895,Office Supplies,Paper,Supply_Chain
+777,2016-09-10,457,True,TEC-PH-10000895,Polycom VVX 310 VoIP phone,Technology,Phones,Supply_Chain
+778,2017-12-02,9,False,OFF-AP-10001293,Belkin 8 Outlet Surge Protector,Office Supplies,Appliances,Supply_Chain
+779,2017-03-02,284,True,TEC-PH-10000675,Panasonic KX TS3282B Corded phone,Technology,Phones,Supply_Chain
+780,2017-12-04,7,False,TEC-AC-10000580,Logitech G13 Programmable Gameboard with LCD Display,Technology,Accessories,Supply_Chain
+781,2016-11-11,395,True,TEC-AC-10003280,Belkin F8E887 USB Wired Ergonomic Keyboard,Technology,Accessories,Supply_Chain
+782,2014-09-05,1193,True,OFF-ST-10000585,Economy Rollaway Files,Office Supplies,Storage,Supply_Chain
+783,2016-11-10,396,True,TEC-AC-10002550,Maxell 4.7GB DVD-RW 3/Pack,Technology,Accessories,Supply_Chain
+784,2017-12-11,0,False,OFF-BI-10004209,"Fellowes Twister Kit, Gray/Clear, 3/pkg",Office Supplies,Binders,Supply_Chain
+785,2015-04-06,980,True,OFF-PA-10001526,Xerox 1949,Office Supplies,Paper,Supply_Chain
+786,2017-09-10,92,True,TEC-AC-10003499,Memorex Mini Travel Drive 8 GB USB 2.0 Flash Drive,Technology,Accessories,Supply_Chain
+787,2016-12-08,368,True,FUR-BO-10003450,"Bush Westfield Collection Bookcases, Dark Cherry Finish",Furniture,Bookcases,Supply_Chain
+788,2017-12-05,6,False,OFF-LA-10000248,Avery 52,Office Supplies,Labels,Supply_Chain
+789,2016-10-08,429,True,FUR-FU-10004909,Contemporary Wood/Metal Frame,Furniture,Furnishings,Supply_Chain
+790,2017-11-04,37,False,OFF-BI-10001308,GBC Standard Plastic Binding Systems' Combs,Office Supplies,Binders,Supply_Chain
+791,2017-11-01,40,False,FUR-TA-10003954,Hon 94000 Series Round Tables,Furniture,Tables,Supply_Chain
+792,2017-09-07,95,True,OFF-ST-10003282,"Advantus 10-Drawer Portable Organizer, Chrome Metal Frame, Smoke Drawers",Office Supplies,Storage,Supply_Chain
+793,2017-11-02,39,False,TEC-AC-10004145,Logitech diNovo Edge Keyboard,Technology,Accessories,Supply_Chain
+794,2017-11-06,35,False,FUR-FU-10004671,"Executive Impressions 12"" Wall Clock",Furniture,Furnishings,Supply_Chain
+795,2016-09-08,459,True,FUR-TA-10003569,Bretford CR8500 Series Meeting Room Furniture,Furniture,Tables,Supply_Chain
+796,2017-12-09,2,False,OFF-PA-10000349,Easy-staple paper,Office Supplies,Paper,Supply_Chain
+797,2016-06-04,555,True,TEC-MA-10003356,Panasonic KX MC6040 Color Laser Multifunction Printer,Technology,Machines,Supply_Chain
+798,2016-06-04,555,True,FUR-BO-10000362,Sauder Inglewood Library Bookcases,Furniture,Bookcases,Supply_Chain
+799,2017-10-02,70,False,OFF-AR-10003727,Berol Giant Pencil Sharpener,Office Supplies,Art,Supply_Chain
+800,2017-04-01,254,True,OFF-LA-10003663,Avery 498,Office Supplies,Labels,Supply_Chain
+801,2017-12-01,10,False,OFF-PA-10001972,Xerox 214,Office Supplies,Paper,Supply_Chain
+802,2017-10-12,60,False,OFF-PA-10000477,Xerox 1952,Office Supplies,Paper,Supply_Chain
+803,2017-04-10,245,True,FUR-FU-10003829,Stackable Trays,Furniture,Furnishings,Supply_Chain
+804,2017-11-09,32,False,OFF-BI-10004728,Wilson Jones Turn Tabs Binder Tool for Ring Binders,Office Supplies,Binders,Supply_Chain
+805,2017-06-12,182,True,OFF-PA-10000697,"TOPS Voice Message Log Book, Flash Format",Office Supplies,Paper,Supply_Chain
+806,2017-06-12,182,True,OFF-BI-10000848,Angle-D Ring Binders,Office Supplies,Binders,Supply_Chain
+807,2017-06-12,182,True,OFF-AR-10004691,Boston 1730 StandUp Electric Pencil Sharpener,Office Supplies,Art,Supply_Chain
+808,2014-09-07,1191,True,OFF-BI-10000948,"GBC Laser Imprintable Binding System Covers, Desert Sand",Office Supplies,Binders,Supply_Chain
+809,2017-08-12,121,True,OFF-PA-10000223,Xerox 2000,Office Supplies,Paper,Supply_Chain
+810,2017-04-08,247,True,FUR-FU-10004665,"3M Polarizing Task Lamp with Clamp Arm, Light Gray",Furniture,Furnishings,Supply_Chain
+811,2017-04-02,253,True,OFF-LA-10001569,Avery 499,Office Supplies,Labels,Supply_Chain
+812,2014-09-09,1189,True,FUR-CH-10003761,Global Italian Leather Office Chair,Furniture,Chairs,Supply_Chain
+813,2016-09-06,461,True,OFF-PA-10004665,Advantus Motivational Note Cards,Office Supplies,Paper,Supply_Chain
+814,2016-09-06,461,True,OFF-EN-10003055,"Blue String-Tie & Button Interoffice Envelopes, 10 x 13",Office Supplies,Envelopes,Supply_Chain
+815,2017-10-09,63,False,OFF-BI-10001031,Pressboard Data Binders by Wilson Jones,Office Supplies,Binders,Supply_Chain
+816,2017-12-01,10,False,OFF-BI-10002003,Ibico Presentation Index for Binding Systems,Office Supplies,Binders,Supply_Chain
+817,2017-05-02,223,True,OFF-PA-10003016,"Adams ""While You Were Out"" Message Pads",Office Supplies,Paper,Supply_Chain
+818,2016-04-03,617,True,TEC-PH-10000673,Plantronics Voyager Pro HD - Bluetooth Headset,Technology,Phones,Supply_Chain
+819,2014-09-07,1191,True,TEC-PH-10002075,AT&T EL51110 DECT,Technology,Phones,Supply_Chain
+820,2017-06-10,184,True,OFF-LA-10004689,Avery 512,Office Supplies,Labels,Supply_Chain
+821,2017-04-09,246,True,OFF-BI-10002867,GBC Recycled Regency Composition Covers,Office Supplies,Binders,Supply_Chain
+822,2017-11-07,34,False,FUR-TA-10000849,Bevis Rectangular Conference Tables,Furniture,Tables,Supply_Chain
+823,2017-08-07,126,True,TEC-AC-10004571,Logitech G700s Rechargeable Gaming Mouse,Technology,Accessories,Supply_Chain
+824,2014-11-07,1130,True,FUR-CH-10002758,"Hon Deluxe Fabric Upholstered Stacking Chairs, Squared Back",Furniture,Chairs,Supply_Chain
+825,2017-12-04,7,False,OFF-ST-10000532,Advantus Rolling Drawer Organizers,Office Supplies,Storage,Supply_Chain
+826,2017-02-09,305,True,TEC-AC-10002402,Razer Kraken PRO Over Ear PC and Music Headset,Technology,Accessories,Supply_Chain
+827,2017-10-12,60,False,TEC-AC-10003709,Maxell 4.7GB DVD-R 5/Pack,Technology,Accessories,Supply_Chain
+828,2017-10-12,60,False,OFF-BI-10001191,Canvas Sectional Post Binders,Office Supplies,Binders,Supply_Chain
+829,2016-06-12,547,True,OFF-AP-10001242,APC 7 Outlet Network SurgeArrest Surge Protector,Office Supplies,Appliances,Supply_Chain
+830,2017-09-02,100,True,OFF-ST-10000918,Crate-A-Files,Office Supplies,Storage,Supply_Chain
+831,2017-10-08,64,False,TEC-PH-10001336,Digium D40 VoIP phone,Technology,Phones,Supply_Chain
+832,2016-11-05,401,True,TEC-PH-10003187,Anker Astro Mini 3000mAh Ultra-Compact Portable Charger,Technology,Phones,Supply_Chain
+833,2015-11-07,765,True,OFF-AR-10001683,Lumber Crayons,Office Supplies,Art,Supply_Chain
+834,2017-09-11,91,True,OFF-PA-10004239,Xerox 1953,Office Supplies,Paper,Supply_Chain
+835,2017-07-01,163,True,OFF-ST-10001128,"Carina Mini System Audio Rack, Model AR050B",Office Supplies,Storage,Supply_Chain
+836,2017-11-11,30,False,OFF-AP-10003971,Belkin 6 Outlet Metallic Surge Strip,Office Supplies,Appliances,Supply_Chain
+837,2017-12-01,10,False,OFF-PA-10000520,Xerox 201,Office Supplies,Paper,Supply_Chain
+838,2017-09-10,92,True,OFF-BI-10003527,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,Office Supplies,Binders,Supply_Chain
+839,2017-04-08,247,True,FUR-FU-10003832,"Eldon Expressions Punched Metal & Wood Desk Accessories, Black & Cherry",Furniture,Furnishings,Supply_Chain
+840,2017-11-06,35,False,OFF-ST-10000736,Carina Double Wide Media Storage Towers in Natural & Black,Office Supplies,Storage,Supply_Chain
+841,2017-06-12,182,True,FUR-FU-10001546,Dana Swing-Arm Lamps,Furniture,Furnishings,Supply_Chain
+842,2017-11-02,39,False,OFF-PA-10000791,"Wirebound Message Books, Four 2 3/4 x 5 Forms per Page, 200 Sets per Book",Office Supplies,Paper,Supply_Chain
+843,2017-08-12,121,True,TEC-CO-10000971,Hewlett Packard 310 Color Digital Copier,Technology,Copiers,Supply_Chain
+844,2017-11-03,38,False,OFF-PA-10000327,Xerox 1971,Office Supplies,Paper,Supply_Chain
+845,2017-11-03,38,False,OFF-LA-10001771,Avery 513,Office Supplies,Labels,Supply_Chain
+846,2016-03-08,643,True,TEC-PH-10002890,AT&T 17929 Lendline Telephone,Technology,Phones,Supply_Chain
+847,2017-09-08,94,True,TEC-PH-10001750,Samsung Rugby III,Technology,Phones,Supply_Chain
+848,2016-12-02,374,True,OFF-AP-10001303,"Holmes Cool Mist Humidifier for the Whole House with 8-Gallon Output per Day, Extended Life Filter",Office Supplies,Appliances,Supply_Chain
+849,2017-01-01,344,True,FUR-FU-10002116,"Tenex Carpeted, Granite-Look or Clear Contemporary Contour Shape Chair Mats",Furniture,Furnishings,Supply_Chain
+850,2017-07-10,154,True,FUR-FU-10000771,"Eldon 200 Class Desk Accessories, Smoke",Furniture,Furnishings,Supply_Chain
+851,2017-06-04,190,True,OFF-AR-10002255,Newell 346,Office Supplies,Art,Supply_Chain
+852,2017-06-04,190,True,OFF-BI-10002557,Presstex Flexible Ring Binders,Office Supplies,Binders,Supply_Chain
+853,2016-12-06,370,True,TEC-PH-10002834,Google Nexus 5,Technology,Phones,Supply_Chain
+854,2016-12-06,370,True,OFF-PA-10001736,Xerox 1880,Office Supplies,Paper,Supply_Chain
+855,2017-11-12,29,False,FUR-CH-10004875,Harbour Creations 67200 Series Stacking Chairs,Furniture,Chairs,Supply_Chain
+856,2017-11-12,29,False,FUR-FU-10000305,"Tenex V2T-RE Standard Weight Series Chair Mat, 45"" x 53"", Lip 25"" x 12""",Furniture,Furnishings,Supply_Chain
+857,2017-11-12,29,False,TEC-PH-10001459,Samsung Galaxy Mega 6.3,Technology,Phones,Supply_Chain
+858,2015-05-07,949,True,OFF-PA-10000213,Xerox 198,Office Supplies,Paper,Supply_Chain
+859,2017-12-04,7,False,FUR-CH-10001797,"Safco Chair Connectors, 6/Carton",Furniture,Chairs,Supply_Chain
+860,2017-05-08,217,True,OFF-PA-10003848,Xerox 1997,Office Supplies,Paper,Supply_Chain
+861,2017-11-04,37,False,OFF-BI-10003094,Self-Adhesive Ring Binder Labels,Office Supplies,Binders,Supply_Chain
+862,2017-03-11,275,True,OFF-BI-10003091,GBC DocuBind TL200 Manual Binding Machine,Office Supplies,Binders,Supply_Chain
+863,2016-10-06,431,True,OFF-BI-10004654,VariCap6 Expandable Binder,Office Supplies,Binders,Supply_Chain
+864,2017-10-09,63,False,OFF-BI-10003655,Durable Pressboard Binders,Office Supplies,Binders,Supply_Chain
+865,2016-09-08,459,True,OFF-AP-10003779,Kensington 7 Outlet MasterPiece Power Center with Fax/Phone Line Protection,Office Supplies,Appliances,Supply_Chain
+866,2015-11-08,764,True,OFF-FA-10002701,Alliance Rubber Bands,Office Supplies,Fasteners,Supply_Chain
+867,2017-11-11,30,False,FUR-FU-10004090,"Executive Impressions 14"" Contract Wall Clock",Furniture,Furnishings,Supply_Chain
+868,2016-09-11,456,True,OFF-PA-10001667,Great White Multi-Use Recycled Paper (20Lb. and 84 Bright),Office Supplies,Paper,Supply_Chain
+869,2015-11-12,760,True,OFF-BI-10002799,"SlimView Poly Binder, 3/8""",Office Supplies,Binders,Supply_Chain
+870,2015-12-10,732,True,OFF-AR-10003582,"Boston Electric Pencil Sharpener, Model 1818, Charcoal Black",Office Supplies,Art,Supply_Chain
+871,2017-10-05,67,False,FUR-FU-10004666,DAX Clear Channel Poster Frame,Furniture,Furnishings,Supply_Chain
+872,2017-10-03,69,False,FUR-TA-10001520,"Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table",Furniture,Tables,Supply_Chain
+873,2017-09-11,91,True,OFF-EN-10002312,#10 Self-Seal White Envelopes,Office Supplies,Envelopes,Supply_Chain
+874,2017-09-11,91,True,FUR-CH-10002320,Hon Pagoda Stacking Chairs,Furniture,Chairs,Supply_Chain
+875,2017-11-06,35,False,OFF-AR-10001216,Newell 339,Office Supplies,Art,Supply_Chain
+876,2017-10-06,66,False,FUR-FU-10003247,36X48 HARDFLOOR CHAIRMAT,Furniture,Furnishings,Supply_Chain
+877,2017-10-06,66,False,OFF-AP-10004336,"Conquest 14 Commercial Heavy-Duty Upright Vacuum, Collection System, Accessory Kit",Office Supplies,Appliances,Supply_Chain
+878,2017-10-06,66,False,OFF-PA-10001295,Computer Printout Paper with Letter-Trim Perforations,Office Supplies,Paper,Supply_Chain
+879,2017-03-11,275,True,TEC-PH-10002555,Nortel Meridian M5316 Digital phone,Technology,Phones,Supply_Chain
+880,2016-04-09,611,True,OFF-BI-10000831,Storex Flexible Poly Binders with Double Pockets,Office Supplies,Binders,Supply_Chain
+881,2016-11-07,399,True,TEC-AC-10002800,Plantronics Audio 478 Stereo USB Headset,Technology,Accessories,Supply_Chain
+882,2017-02-09,305,True,OFF-BI-10004584,GBC ProClick 150 Presentation Binding System,Office Supplies,Binders,Supply_Chain
+883,2017-02-09,305,True,FUR-FU-10000550,Stacking Trays by OIC,Furniture,Furnishings,Supply_Chain
+884,2016-03-03,648,True,OFF-PA-10001977,Xerox 194,Office Supplies,Paper,Supply_Chain
+885,2016-12-08,368,True,OFF-BI-10001267,"Universal Recycled Hanging Pressboard Report Binders, Letter Size",Office Supplies,Binders,Supply_Chain
+886,2015-06-11,914,True,FUR-FU-10003464,"Seth Thomas 8 1/2"" Cubicle Clock",Furniture,Furnishings,Supply_Chain
+887,2017-04-08,247,True,OFF-ST-10001780,Tennsco 16-Compartment Lockers with Coat Rack,Office Supplies,Storage,Supply_Chain
+888,2017-10-02,70,False,OFF-PA-10004438,Xerox 1907,Office Supplies,Paper,Supply_Chain
+889,2017-11-12,29,False,OFF-BI-10000666,Surelock Post Binders,Office Supplies,Binders,Supply_Chain
+890,2017-11-12,29,False,TEC-PH-10004908,Panasonic KX TS3282W Corded phone,Technology,Phones,Supply_Chain
+891,2017-11-12,29,False,TEC-AC-10004568,Maxell LTO Ultrium - 800 GB,Technology,Accessories,Supply_Chain
+892,2017-02-11,303,True,FUR-CH-10004495,"Global Leather and Oak Executive Chair, Black",Furniture,Chairs,Supply_Chain
+893,2017-11-04,37,False,OFF-BI-10004040,Wilson Jones Impact Binders,Office Supplies,Binders,Supply_Chain
+894,2017-11-11,30,False,OFF-AR-10004260,Boston 1799 Powerhouse Electric Pencil Sharpener,Office Supplies,Art,Supply_Chain
+895,2017-09-10,92,True,OFF-PA-10004911,"Rediform S.O.S. 1-Up Phone Message Bk, 4-1/4x3-1/16 Bk, 1 Form/Pg, 40 Messages/Bk, 3/Pk",Office Supplies,Paper,Supply_Chain
+896,2017-12-05,6,False,FUR-FU-10000521,"Seth Thomas 14"" Putty-Colored Wall Clock",Furniture,Furnishings,Supply_Chain
+897,2014-11-07,1130,True,OFF-EN-10004773,Staple envelope,Office Supplies,Envelopes,Supply_Chain
+898,2017-10-02,70,False,TEC-PH-10002115,Plantronics 81402,Technology,Phones,Supply_Chain
+899,2017-11-11,30,False,OFF-BI-10002949,Prestige Round Ring Binders,Office Supplies,Binders,Supply_Chain
+900,2016-10-07,430,True,OFF-FA-10001883,"Alliance Super-Size Bands, Assorted Sizes",Office Supplies,Fasteners,Supply_Chain
+901,2015-10-01,802,True,OFF-BI-10003196,Accohide Poly Flexible Ring Binders,Office Supplies,Binders,Supply_Chain
+902,2014-12-01,1106,True,TEC-PH-10001644,"BlueLounge Milo Smartphone Stand, White/Metallic",Technology,Phones,Supply_Chain
+903,2014-12-08,1099,True,FUR-FU-10000397,Luxo Economy Swing Arm Lamp,Furniture,Furnishings,Supply_Chain
+904,2016-06-05,554,True,OFF-LA-10000407,Avery White Multi-Purpose Labels,Office Supplies,Labels,Supply_Chain
+905,2016-01-09,702,True,TEC-AC-10000420,Logitech G500s Laser Gaming Mouse with Adjustable Weight Tuning,Technology,Accessories,Supply_Chain
+906,2017-07-08,156,True,OFF-LA-10002762,Avery 485,Office Supplies,Labels,Supply_Chain
+907,2017-11-10,31,False,OFF-BI-10003925,Fellowes PB300 Plastic Comb Binding Machine,Office Supplies,Binders,Supply_Chain
+908,2017-12-04,7,False,OFF-PA-10001838,"Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4""X8 1/2"", 300/Messages",Office Supplies,Paper,Supply_Chain
+909,2016-06-06,553,True,TEC-PH-10001760,Bose SoundLink Bluetooth Speaker,Technology,Phones,Supply_Chain
+910,2017-11-02,39,False,OFF-EN-10004846,Letter or Legal Size Expandable Poly String Tie Envelopes,Office Supplies,Envelopes,Supply_Chain
+911,2015-09-05,828,True,OFF-SU-10003567,Stiletto Hand Letter Openers,Office Supplies,Supplies,Supply_Chain
+912,2015-10-10,793,True,OFF-ST-10004459,Tennsco Single-Tier Lockers,Office Supplies,Storage,Supply_Chain
+913,2017-09-01,101,True,FUR-FU-10004960,"Seth Thomas 12"" Clock w/ Goldtone Case",Furniture,Furnishings,Supply_Chain
+914,2017-12-01,10,False,TEC-PH-10004912,Cisco SPA112 2 Port Phone Adapter,Technology,Phones,Supply_Chain
+915,2017-12-10,1,False,OFF-AR-10000799,Col-Erase Pencils with Erasers,Office Supplies,Art,Supply_Chain
+916,2016-07-08,521,True,TEC-PH-10001580,Logitech Mobile Speakerphone P710e - speaker phone,Technology,Phones,Supply_Chain
+917,2017-11-12,29,False,OFF-FA-10003495,Staples,Office Supplies,Fasteners,Supply_Chain
+918,2017-12-09,2,False,OFF-AR-10004757,Crayola Colored Pencils,Office Supplies,Art,Supply_Chain
+919,2017-10-01,71,False,TEC-MA-10002428,Fellowes Powershred HS-440 4-Sheet High Security Shredder,Technology,Machines,Supply_Chain
+920,2017-12-09,2,False,OFF-BI-10001116,"Wilson Jones 1"" Hanging DublLock Ring Binders",Office Supplies,Binders,Supply_Chain
+921,2017-11-10,31,False,FUR-FU-10001468,Tenex Antistatic Computer Chair Mats,Furniture,Furnishings,Supply_Chain
+922,2015-09-11,822,True,OFF-AR-10004648,Boston 19500 Mighty Mite Electric Pencil Sharpener,Office Supplies,Art,Supply_Chain
+923,2015-09-11,822,True,OFF-LA-10003190,Avery 474,Office Supplies,Labels,Supply_Chain
+924,2017-11-01,40,False,OFF-PA-10001033,Xerox 1893,Office Supplies,Paper,Supply_Chain
+925,2016-05-06,584,True,OFF-BI-10000773,Insertable Tab Post Binder Dividers,Office Supplies,Binders,Supply_Chain
+926,2016-03-03,648,True,FUR-FU-10000672,"Executive Impressions 10"" Spectator Wall Clock",Furniture,Furnishings,Supply_Chain
+927,2017-09-07,95,True,OFF-PA-10003072,"Eureka Recycled Copy Paper 8 1/2"" x 11"", Ream",Office Supplies,Paper,Supply_Chain
+928,2016-11-04,402,True,FUR-FU-10002445,"DAX Two-Tone Rosewood/Black Document Frame, Desktop, 5 x 7",Furniture,Furnishings,Supply_Chain
+929,2015-12-04,738,True,OFF-EN-10004147,Wausau Papers Astrobrights Colored Envelopes,Office Supplies,Envelopes,Supply_Chain
+930,2017-09-08,94,True,FUR-CH-10003535,"Global Armless Task Chair, Royal Blue",Furniture,Chairs,Supply_Chain
+931,2017-10-07,65,False,TEC-PH-10004447,Toshiba IPT2010-SD IP Telephone,Technology,Phones,Supply_Chain
+932,2017-12-08,3,False,OFF-BI-10002854,"Performers Binder/Pad Holder, Black",Office Supplies,Binders,Supply_Chain
+933,2014-08-09,1220,True,TEC-PH-10000038,Jawbone MINI JAMBOX Wireless Bluetooth Speaker,Technology,Phones,Supply_Chain
+934,2017-12-07,4,False,OFF-PA-10000380,"REDIFORM Incoming/Outgoing Call Register, 11"" X 8 1/2"", 100 Messages",Office Supplies,Paper,Supply_Chain
+935,2016-09-02,465,True,OFF-FA-10002676,Colored Push Pins,Office Supplies,Fasteners,Supply_Chain
+936,2017-07-03,161,True,OFF-PA-10000174,"Message Book, Wirebound, Four 5 1/2"" X 4"" Forms/Pg., 200 Dupl. Sets/Book",Office Supplies,Paper,Supply_Chain
+937,2017-12-03,8,False,OFF-PA-10002246,"Wirebound Four 2-3/4 x 5 Forms per Page, 400 Sets per Book",Office Supplies,Paper,Supply_Chain
+938,2017-12-08,3,False,OFF-ST-10003327,Akro-Mils 12-Gallon Tote,Office Supplies,Storage,Supply_Chain
+939,2017-12-08,3,False,FUR-FU-10002703,"Tenex Traditional Chairmats for Hard Floors, Average Lip, 36"" x 48""",Furniture,Furnishings,Supply_Chain
+940,2017-12-08,3,False,OFF-PA-10003651,Xerox 1968,Office Supplies,Paper,Supply_Chain
+941,2017-09-02,100,True,OFF-AR-10001919,"OIC #2 Pencils, Medium Soft",Office Supplies,Art,Supply_Chain
+942,2017-09-04,98,True,OFF-BI-10004001,GBC Recycled VeloBinder Covers,Office Supplies,Binders,Supply_Chain
+943,2015-03-10,1007,True,OFF-ST-10002406,Pizazz Global Quick File,Office Supplies,Storage,Supply_Chain
+944,2016-06-07,552,True,OFF-FA-10002988,Ideal Clamps,Office Supplies,Fasteners,Supply_Chain
+945,2017-11-04,37,False,OFF-AR-10000657,"Binney & Smith inkTank Desk Highlighter, Chisel Tip, Yellow, 12/Box",Office Supplies,Art,Supply_Chain
+946,2016-03-12,639,True,OFF-AP-10003842,Euro-Pro Shark Turbo Vacuum,Office Supplies,Appliances,Supply_Chain
+947,2017-11-12,29,False,OFF-PA-10003673,Strathmore Photo Mount Cards,Office Supplies,Paper,Supply_Chain
+948,2017-11-12,29,False,TEC-AC-10003614,"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 10/Pack",Technology,Accessories,Supply_Chain
+949,2016-12-08,368,True,OFF-AR-10003056,Newell 341,Office Supplies,Art,Supply_Chain
+950,2016-12-08,368,True,OFF-PA-10003363,Xerox 204,Office Supplies,Paper,Supply_Chain
+951,2017-11-06,35,False,FUR-CH-10003774,"Global Wood Trimmed Manager's Task Chair, Khaki",Furniture,Chairs,Supply_Chain
+952,2017-10-12,60,False,FUR-TA-10001932,"Chromcraft 48"" x 96"" Racetrack Double Pedestal Table",Furniture,Tables,Supply_Chain
+953,2017-09-11,91,True,OFF-PA-10004101,Xerox 1894,Office Supplies,Paper,Supply_Chain
+954,2017-09-04,98,True,FUR-BO-10000112,"Bush Birmingham Collection Bookcase, Dark Cherry",Furniture,Bookcases,Supply_Chain
+955,2017-09-04,98,True,OFF-PA-10004041,"It's Hot Message Books with Stickers, 2 3/4"" x 5""",Office Supplies,Paper,Supply_Chain
+956,2017-09-04,98,True,OFF-AR-10001149,"Sanford Colorific Colored Pencils, 12/Box",Office Supplies,Art,Supply_Chain
+957,2016-08-09,489,True,OFF-PA-10000130,Xerox 199,Office Supplies,Paper,Supply_Chain
+958,2016-08-09,489,True,TEC-PH-10002350,Apple EarPods with Remote and Mic,Technology,Phones,Supply_Chain
+959,2017-11-03,38,False,TEC-AC-10002345,HP Standard 104 key PS/2 Keyboard,Technology,Accessories,Supply_Chain
+960,2017-12-10,1,False,OFF-BI-10003476,Avery Metallic Poly Binders,Office Supplies,Binders,Supply_Chain
+961,2014-05-09,1312,True,OFF-LA-10003121,Avery 506,Office Supplies,Labels,Supply_Chain
+962,2014-05-09,1312,True,OFF-PA-10002689,Weyerhaeuser First Choice Laser/Copy Paper (20Lb. and 88 Bright),Office Supplies,Paper,Supply_Chain
+963,2017-12-01,10,False,OFF-PA-10004735,Xerox 1905,Office Supplies,Paper,Supply_Chain
+964,2017-11-07,34,False,OFF-BI-10002982,Avery Self-Adhesive Photo Pockets for Polaroid Photos,Office Supplies,Binders,Supply_Chain
+965,2017-11-07,34,False,TEC-AC-10004975,Plantronics Audio 995 Wireless Stereo Headset,Technology,Accessories,Supply_Chain
+966,2017-09-04,98,True,OFF-AR-10002335,DIXON Oriole Pencils,Office Supplies,Art,Supply_Chain
+967,2017-12-05,6,False,OFF-PA-10000007,"Telephone Message Books with Fax/Mobile Section, 4 1/4"" x 6""",Office Supplies,Paper,Supply_Chain
+968,2016-07-03,526,True,OFF-PA-10000552,Xerox 200,Office Supplies,Paper,Supply_Chain
+969,2017-07-03,161,True,TEC-MA-10001148,Okidata MB491 Multifunction Printer,Technology,Machines,Supply_Chain
+970,2017-08-07,126,True,OFF-AR-10004062,Staples in misc. colors,Office Supplies,Art,Supply_Chain
+971,2016-08-11,487,True,OFF-BI-10003305,Avery Hanging File Binders,Office Supplies,Binders,Supply_Chain
+972,2015-12-10,732,True,FUR-CH-10004289,Global Super Steno Chair,Furniture,Chairs,Supply_Chain
+973,2017-01-02,343,True,OFF-ST-10002615,"Dual Level, Single-Width Filing Carts",Office Supplies,Storage,Supply_Chain
+974,2017-09-07,95,True,TEC-AC-10002134,Rosewill 107 Normal Keys USB Wired Standard Keyboard,Technology,Accessories,Supply_Chain
+975,2015-12-11,731,True,FUR-FU-10002456,"Master Caster Door Stop, Large Neon Orange",Furniture,Furnishings,Supply_Chain
+976,2017-11-03,38,False,TEC-PH-10002549,Polycom SoundPoint IP 450 VoIP phone,Technology,Phones,Supply_Chain
+977,2016-09-05,462,True,OFF-BI-10004410,"C-Line Peel & Stick Add-On Filing Pockets, 8-3/4 x 5-1/8, 10/Pack",Office Supplies,Binders,Supply_Chain
+978,2017-09-04,98,True,OFF-BI-10004632,Ibico Hi-Tech Manual Binding System,Office Supplies,Binders,Supply_Chain
+979,2017-09-04,98,True,TEC-PH-10002185,QVS USB Car Charger 2-Port 2.1Amp for iPod/iPhone/iPad/iPad 2/iPad 3,Technology,Phones,Supply_Chain
+980,2017-12-11,0,False,OFF-BI-10004600,Ibico Ibimaster 300 Manual Binding System,Office Supplies,Binders,Supply_Chain
+981,2017-05-03,222,True,OFF-ST-10000464,"Multi-Use Personal File Cart and Caster Set, Three Stacking Bins",Office Supplies,Storage,Supply_Chain
+982,2016-11-10,396,True,OFF-PA-10004039,Xerox 1882,Office Supplies,Paper,Supply_Chain
+983,2017-08-11,122,True,OFF-PA-10001776,"Wirebound Message Books, Four 2 3/4"" x 5"" Forms per Page, 600 Sets per Book",Office Supplies,Paper,Supply_Chain
+984,2017-06-01,193,True,OFF-PA-10000682,Xerox 1924,Office Supplies,Paper,Supply_Chain
+985,2017-12-09,2,False,TEC-AC-10004859,"Maxell Pro 80 Minute CD-R, 10/Pack",Technology,Accessories,Supply_Chain
+986,2017-12-09,2,False,OFF-AR-10001860,BIC Liqua Brite Liner,Office Supplies,Art,Supply_Chain
+987,2017-09-08,94,True,TEC-AC-10002558,Imation Swivel Flash Drive USB flash drive - 8 GB,Technology,Accessories,Supply_Chain
+988,2015-03-12,1005,True,FUR-FU-10003194,"Eldon Expressions Desk Accessory, Wood Pencil Holder, Oak",Furniture,Furnishings,Supply_Chain
+989,2016-02-02,678,True,FUR-FU-10001731,Acrylic Self-Standing Desk Frames,Furniture,Furnishings,Supply_Chain
+990,2016-09-02,465,True,OFF-BI-10001132,"Acco PRESSTEX Data Binder with Storage Hooks, Dark Blue, 9 1/2"" X 11""",Office Supplies,Binders,Supply_Chain
+991,2017-10-05,67,False,TEC-PH-10003095,Samsung HM1900 Bluetooth Headset,Technology,Phones,Supply_Chain
+992,2014-12-08,1099,True,OFF-SU-10000432,Acco Side-Punched Conventional Columnar Pads,Office Supplies,Supplies,Supply_Chain
+993,2017-11-12,29,False,TEC-AC-10004227,SanDisk Ultra 16 GB MicroSDHC Class 10 Memory Card,Technology,Accessories,Supply_Chain
+994,2017-12-09,2,False,OFF-LA-10004409,Avery 492,Office Supplies,Labels,Supply_Chain
+995,2014-12-08,1099,True,OFF-PA-10001569,Xerox 232,Office Supplies,Paper,Supply_Chain
+996,2017-09-08,94,True,OFF-ST-10001031,Adjustable Personal File Tote,Office Supplies,Storage,Supply_Chain
+997,2017-03-02,284,True,OFF-BI-10004224,Catalog Binders with Expanding Posts,Office Supplies,Binders,Supply_Chain
+998,2017-03-05,281,True,OFF-FA-10002763,Advantus Map Pennant Flags and Round Head Tacks,Office Supplies,Fasteners,Supply_Chain
+999,2015-07-09,886,True,FUR-FU-10002918,Eldon ClusterMat Chair Mat with Cordless Antistatic Protection,Furniture,Furnishings,Supply_Chain
+1000,2015-07-09,886,True,OFF-LA-10000476,"Avery 05222 Permanent Self-Adhesive File Folder Labels for Typewriters, on Rolls, White, 250/Roll",Office Supplies,Labels,Supply_Chain
+1001,2017-07-09,155,True,OFF-AR-10002987,Prismacolor Color Pencil Set,Office Supplies,Art,Supply_Chain
+1002,2015-07-09,886,True,OFF-ST-10003722,Project Tote Personal File,Office Supplies,Storage,Supply_Chain
+1003,2017-08-04,129,True,OFF-EN-10001141,"Manila Recycled Extra-Heavyweight Clasp Envelopes, 6"" x 9""",Office Supplies,Envelopes,Supply_Chain
+1004,2017-04-03,252,True,OFF-AR-10003045,Prang Colored Pencils,Office Supplies,Art,Supply_Chain
+1005,2017-06-09,185,True,OFF-ST-10001496,Standard Rollaway File with Lock,Office Supplies,Storage,Supply_Chain
+1006,2017-12-09,2,False,OFF-AR-10000122,Newell 314,Office Supplies,Art,Supply_Chain
+1007,2017-05-06,219,True,OFF-PA-10002254,Xerox 1883,Office Supplies,Paper,Supply_Chain
+1008,2017-12-03,8,False,OFF-PA-10001892,"Rediform Wirebound ""Phone Memo"" Message Book, 11 x 5-3/4",Office Supplies,Paper,Supply_Chain
+1009,2017-12-02,9,False,FUR-CH-10004983,Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms,Furniture,Chairs,Supply_Chain
+1010,2017-03-10,276,True,TEC-PH-10004896,Nokia Lumia 521 (T-Mobile),Technology,Phones,Supply_Chain
+1011,2016-03-03,648,True,OFF-FA-10001332,"Acco Banker's Clasps, 5 3/4""-Long",Office Supplies,Fasteners,Supply_Chain
+1012,2016-11-09,397,True,TEC-AC-10002001,Logitech Wireless Gaming Headset G930,Technology,Accessories,Supply_Chain
+1013,2015-06-04,921,True,TEC-AC-10001874,Logitech Wireless Anywhere Mouse MX for PC and Mac,Technology,Accessories,Supply_Chain
+1014,2015-05-03,953,True,FUR-FU-10002298,"Rubbermaid ClusterMat Chairmats, Mat Size- 66"" x 60"", Lip 20"" x 11"" -90 Degree Angle",Furniture,Furnishings,Supply_Chain
+1015,2015-07-09,886,True,TEC-PH-10003072,Panasonic KX-TG9541B DECT 6.0 Digital 2-Line Expandable Cordless Phone With Digital Answering System,Technology,Phones,Supply_Chain
+1016,2016-09-04,463,True,OFF-AR-10002804,Faber Castell Col-Erase Pencils,Office Supplies,Art,Supply_Chain
+1017,2017-12-08,3,False,OFF-BI-10001670,Vinyl Sectional Post Binders,Office Supplies,Binders,Supply_Chain
+1018,2017-11-04,37,False,TEC-PH-10002483,Motorola Moto X,Technology,Phones,Supply_Chain
+1019,2015-11-12,760,True,OFF-AR-10001246,Newell 317,Office Supplies,Art,Supply_Chain
+1020,2016-12-11,365,True,FUR-CH-10003298,"Office Star - Contemporary Task Swivel chair with Loop Arms, Charcoal",Furniture,Chairs,Supply_Chain
+1021,2017-06-03,191,True,TEC-PH-10000441,VTech DS6151,Technology,Phones,Supply_Chain
+1022,2016-12-01,375,True,FUR-CH-10004477,"Global Push Button Manager's Chair, Indigo",Furniture,Chairs,Supply_Chain
+1023,2017-03-05,281,True,OFF-LA-10003537,Avery 515,Office Supplies,Labels,Supply_Chain
+1024,2017-12-09,2,False,OFF-PA-10004965,Xerox 1921,Office Supplies,Paper,Supply_Chain
+1025,2017-10-09,63,False,OFF-PA-10000069,"TOPS 4 x 6 Fluorescent Color Memo Sheets, 500 Sheets per Pack",Office Supplies,Paper,Supply_Chain
+1026,2017-05-07,218,True,FUR-CH-10002017,SAFCO Optional Arm Kit for Workspace Cribbage Stacking Chair,Furniture,Chairs,Supply_Chain
+1027,2017-05-07,218,True,OFF-AP-10001563,Belkin Premiere Surge Master II 8-outlet surge protector,Office Supplies,Appliances,Supply_Chain
+1028,2017-12-07,4,False,OFF-FA-10000611,Binder Clips by OIC,Office Supplies,Fasteners,Supply_Chain
+1029,2017-06-02,192,True,OFF-PA-10004733,Things To Do Today Spiral Book,Office Supplies,Paper,Supply_Chain
+1030,2017-06-06,188,True,FUR-FU-10004164,"Eldon 300 Class Desk Accessories, Black",Furniture,Furnishings,Supply_Chain
+1031,2017-06-06,188,True,OFF-ST-10002957,Sterilite Show Offs Storage Containers,Office Supplies,Storage,Supply_Chain
+1032,2015-10-02,801,True,OFF-BI-10004828,GBC Poly Designer Binding Covers,Office Supplies,Binders,Supply_Chain
+1033,2016-09-11,456,True,TEC-PH-10003171,Plantronics Encore H101 Dual Earpieces Headset,Technology,Phones,Supply_Chain
+1034,2014-06-02,1288,True,OFF-AR-10004511,"Sanford Colorific Scented Colored Pencils, 12/Pack",Office Supplies,Art,Supply_Chain
+1035,2014-11-11,1126,True,TEC-PH-10001425,Mophie Juice Pack Helium for iPhone,Technology,Phones,Supply_Chain
+1036,2017-05-01,224,True,TEC-AC-10002331,"Maxell 74 Minute CDR, 10/Pack",Technology,Accessories,Supply_Chain
+1037,2017-12-07,4,False,TEC-AC-10002567,Logitech G602 Wireless Gaming Mouse,Technology,Accessories,Supply_Chain
+1038,2016-06-12,547,True,OFF-AP-10004036,Bionaire 99.97% HEPA Air Cleaner,Office Supplies,Appliances,Supply_Chain
+1039,2016-11-12,394,True,FUR-FU-10001037,"DAX Charcoal/Nickel-Tone Document Frame, 5 x 7",Furniture,Furnishings,Supply_Chain
+1040,2017-09-03,99,True,FUR-BO-10004218,"Bush Heritage Pine Collection 5-Shelf Bookcase, Albany Pine Finish, *Special Order",Furniture,Bookcases,Supply_Chain
+1041,2017-06-05,189,True,TEC-PH-10001619,LG G3,Technology,Phones,Supply_Chain
+1042,2017-12-03,8,False,OFF-BI-10004233,"GBC Pre-Punched Binding Paper, Plastic, White, 8-1/2"" x 11""",Office Supplies,Binders,Supply_Chain
+1043,2017-09-02,100,True,TEC-PH-10003484,Ooma Telo VoIP Home Phone System,Technology,Phones,Supply_Chain
+1044,2016-03-01,650,True,TEC-PH-10003535,RCA ViSYS 25423RE1 Corded phone,Technology,Phones,Supply_Chain
+1045,2017-05-03,222,True,OFF-AR-10003651,Newell 350,Office Supplies,Art,Supply_Chain
+1046,2016-11-11,395,True,OFF-BI-10001890,Avery Poly Binder Pockets,Office Supplies,Binders,Supply_Chain
+1047,2015-09-08,825,True,OFF-PA-10002606,Xerox 1928,Office Supplies,Paper,Supply_Chain
+1048,2017-10-02,70,False,TEC-PH-10003800,i.Sound Portable Power - 8000 mAh,Technology,Phones,Supply_Chain
+1049,2017-04-08,247,True,OFF-PA-10002923,Xerox 1942,Office Supplies,Paper,Supply_Chain
+1050,2017-11-02,39,False,OFF-AP-10001962,Black & Decker Filter for Double Action Dustbuster Cordless Vac BLDV7210,Office Supplies,Appliances,Supply_Chain
+1051,2017-05-12,213,True,OFF-SU-10000157,Compact Automatic Electric Letter Opener,Office Supplies,Supplies,Supply_Chain
+1052,2017-09-08,94,True,FUR-FU-10001095,DAX Black Cherry Wood-Tone Poster Frame,Furniture,Furnishings,Supply_Chain
+1053,2015-05-01,955,True,OFF-SU-10004261,"Fiskars 8"" Scissors, 2/Pack",Office Supplies,Supplies,Supply_Chain
+1054,2015-03-08,1009,True,FUR-BO-10002916,"Rush Hierlooms Collection 1"" Thick Stackable Bookcases",Furniture,Bookcases,Supply_Chain
+1055,2015-03-08,1009,True,OFF-AR-10002704,Boston 1900 Electric Pencil Sharpener,Office Supplies,Art,Supply_Chain
+1056,2017-06-03,191,True,TEC-AC-10002942,WD My Passport Ultra 1TB Portable External Hard Drive,Technology,Accessories,Supply_Chain
+1057,2016-03-03,648,True,FUR-TA-10004915,"Office Impressions End Table, 20-1/2""H x 24""W x 20""D",Furniture,Tables,Supply_Chain
+1058,2016-03-03,648,True,TEC-MA-10001016,Canon PC170 Desktop Personal Copier,Technology,Machines,Supply_Chain
+1059,2017-02-05,309,True,OFF-AR-10003087,Staples in misc. colors,Office Supplies,Art,Supply_Chain
+1060,2017-11-03,38,False,TEC-AC-10001553,"Memorex 25GB 6X Branded Blu-Ray Recordable Disc, 15/Pack",Technology,Accessories,Supply_Chain
+1061,2017-07-03,161,True,FUR-FU-10001215,"Howard Miller 11-1/2"" Diameter Brentwood Wall Clock",Furniture,Furnishings,Supply_Chain
+1062,2017-12-02,9,False,OFF-BI-10003707,Aluminum Screw Posts,Office Supplies,Binders,Supply_Chain
+1063,2014-11-01,1136,True,OFF-FA-10003021,Staples,Office Supplies,Fasteners,Supply_Chain
+1064,2014-11-01,1136,True,OFF-AR-10000634,Newell 320,Office Supplies,Art,Supply_Chain
+1065,2014-12-01,1106,True,TEC-PH-10004434,Cisco IP Phone 7961G VoIP phone - Dark gray,Technology,Phones,Supply_Chain
+1066,2016-09-01,466,True,OFF-SU-10001574,Acme Value Line Scissors,Office Supplies,Supplies,Supply_Chain
+1067,2017-08-07,126,True,OFF-BI-10000404,Avery Printable Repositionable Plastic Tabs,Office Supplies,Binders,Supply_Chain
+1068,2016-07-04,525,True,OFF-ST-10002486,Eldon Shelf Savers Cubes and Bins,Office Supplies,Storage,Supply_Chain
+1069,2015-09-07,826,True,FUR-TA-10003837,Anderson Hickey Conga Table Tops & Accessories,Furniture,Tables,Supply_Chain
+1070,2017-09-04,98,True,TEC-AC-10000199,Kingston Digital DataTraveler 8GB USB 2.0,Technology,Accessories,Supply_Chain
+1071,2017-05-11,214,True,OFF-BI-10000962,"Acco Flexible ACCOHIDE Square Ring Data Binder, Dark Blue, 11 1/2"" X 14"" 7/8""",Office Supplies,Binders,Supply_Chain
+1072,2014-12-02,1105,True,OFF-AP-10004249,Staple holder,Office Supplies,Appliances,Supply_Chain
+1073,2017-05-06,219,True,OFF-AR-10003179,Dixon Ticonderoga Core-Lock Colored Pencils,Office Supplies,Art,Supply_Chain
+1074,2017-12-01,10,False,FUR-FU-10003798,"Ultra Door Kickplate, 8""H x 34""W",Furniture,Furnishings,Supply_Chain
+1075,2017-09-07,95,True,OFF-LA-10002475,Avery 519,Office Supplies,Labels,Supply_Chain
+1076,2017-09-07,95,True,OFF-EN-10001509,Poly String Tie Envelopes,Office Supplies,Envelopes,Supply_Chain
+1077,2016-05-02,588,True,OFF-PA-10000533,Southworth Parchment Paper & Envelopes,Office Supplies,Paper,Supply_Chain
+1078,2016-11-04,402,True,FUR-CH-10000229,Global Enterprise Series Seating High-Back Swivel/Tilt Chairs,Furniture,Chairs,Supply_Chain
+1079,2016-07-01,528,True,OFF-BI-10002215,"Wilson Jones Hanging View Binder, White, 1""",Office Supplies,Binders,Supply_Chain
+1080,2017-11-07,34,False,OFF-BI-10000756,Storex DuraTech Recycled Plastic Frosted Binders,Office Supplies,Binders,Supply_Chain
+1081,2017-12-04,7,False,TEC-AC-10001539,Logitech G430 Surround Sound Gaming Headset with Dolby 7.1 Technology,Technology,Accessories,Supply_Chain
+1082,2016-12-05,371,True,FUR-BO-10002853,O'Sullivan 5-Shelf Heavy-Duty Bookcases,Furniture,Bookcases,Supply_Chain
+1083,2015-07-08,887,True,OFF-PA-10004248,Xerox 1990,Office Supplies,Paper,Supply_Chain
+1084,2016-12-03,373,True,OFF-AP-10000179,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 Room,Office Supplies,Appliances,Supply_Chain
+1085,2016-11-10,396,True,OFF-PA-10001363,Xerox 1933,Office Supplies,Paper,Supply_Chain
+1086,2017-03-08,278,True,OFF-BI-10003876,"Green Canvas Binder for 8-1/2"" x 14"" Sheets",Office Supplies,Binders,Supply_Chain
+1087,2017-04-01,254,True,FUR-BO-10003894,"Safco Value Mate Steel Bookcase, Baked Enamel Finish on Steel, Black",Furniture,Bookcases,Supply_Chain
+1088,2017-04-01,254,True,TEC-MA-10000418,Cubify CubeX 3D Printer Double Head Print,Technology,Machines,Supply_Chain
+1089,2017-06-11,183,True,TEC-MA-10001570,Cisco Desktop Collaboration Experience DX650 IP Video Phone,Technology,Machines,Supply_Chain
+1090,2017-12-09,2,False,FUR-BO-10001519,O'Sullivan 3-Shelf Heavy-Duty Bookcases,Furniture,Bookcases,Supply_Chain
+1091,2017-12-08,3,False,FUR-CH-10003396,Global Deluxe Steno Chair,Furniture,Chairs,Supply_Chain
+1092,2017-07-05,159,True,FUR-FU-10003601,"Deflect-o RollaMat Studded, Beveled Mat for Medium Pile Carpeting",Furniture,Furnishings,Supply_Chain
+1093,2017-07-05,159,True,OFF-PA-10000232,Xerox 1975,Office Supplies,Paper,Supply_Chain
+1094,2017-12-03,8,False,TEC-AC-10002006,Memorex Micro Travel Drive 16 GB,Technology,Accessories,Supply_Chain
+1095,2017-11-03,38,False,OFF-BI-10000216,"Mead 1st Gear 2"" Zipper Binder, Asst. Colors",Office Supplies,Binders,Supply_Chain
+1096,2016-11-05,401,True,FUR-BO-10000780,O'Sullivan Plantations 2-Door Library in Landvery Oak,Furniture,Bookcases,Supply_Chain
+1097,2016-11-05,401,True,TEC-AC-10004001,Logitech Wireless Headset H600 Over-The-Head Design,Technology,Accessories,Supply_Chain
+1098,2017-05-04,221,True,OFF-AP-10002684,"Acco 7-Outlet Masterpiece Power Center, Wihtout Fax/Phone Line Protection",Office Supplies,Appliances,Supply_Chain
+1099,2017-12-09,2,False,OFF-AP-10001394,Harmony Air Purifier,Office Supplies,Appliances,Supply_Chain
+1100,2017-09-04,98,True,OFF-ST-10000419,"Rogers Jumbo File, Granite",Office Supplies,Storage,Supply_Chain
+1101,2017-03-05,281,True,OFF-EN-10003862,Laser & Ink Jet Business Envelopes,Office Supplies,Envelopes,Supply_Chain
+1102,2014-11-04,1133,True,TEC-PH-10001079,Polycom SoundPoint Pro SE-225 Corded phone,Technology,Phones,Supply_Chain
+1103,2014-11-04,1133,True,TEC-MA-10003246,Hewlett-Packard Deskjet D4360 Printer,Technology,Machines,Supply_Chain
+1104,2017-12-07,4,False,FUR-FU-10000175,DAX Wood Document Frame.,Furniture,Furnishings,Supply_Chain
+1105,2017-10-03,69,False,OFF-PA-10000556,Xerox 208,Office Supplies,Paper,Supply_Chain
+1106,2017-10-03,69,False,OFF-AP-10000804,Hoover Portapower Portable Vacuum,Office Supplies,Appliances,Supply_Chain
+1107,2017-12-10,1,False,TEC-PH-10003215,Jackery Bar Premium Fast-charging Portable Charger,Technology,Phones,Supply_Chain
+1108,2017-12-10,1,False,OFF-PA-10002005,Xerox 225,Office Supplies,Paper,Supply_Chain
+1109,2017-12-11,0,False,FUR-CH-10003973,GuestStacker Chair with Chrome Finish Legs,Furniture,Chairs,Supply_Chain
+1110,2017-09-11,91,True,OFF-PA-10003657,Xerox 1927,Office Supplies,Paper,Supply_Chain
+1111,2017-11-06,35,False,OFF-LA-10000414,Avery 503,Office Supplies,Labels,Supply_Chain
+1112,2014-09-02,1196,True,OFF-AR-10002445,SANFORD Major Accent Highlighters,Office Supplies,Art,Supply_Chain
+1113,2014-05-06,1315,True,OFF-LA-10004425,Staple-on labels,Office Supplies,Labels,Supply_Chain
+1114,2016-11-03,403,True,OFF-AR-10001770,Economy #2 Pencils,Office Supplies,Art,Supply_Chain
+1115,2017-12-01,10,False,FUR-FU-10002885,Magna Visual Magnetic Picture Hangers,Furniture,Furnishings,Supply_Chain
+1116,2016-11-03,403,True,OFF-AR-10003772,Boston 16750 Black Compact Battery Pencil Sharpener,Office Supplies,Art,Supply_Chain
+1117,2016-11-12,394,True,FUR-TA-10003392,Global Adaptabilities Conference Tables,Furniture,Tables,Supply_Chain
+1118,2017-12-10,1,False,OFF-BI-10000014,Heavy-Duty E-Z-D Binders,Office Supplies,Binders,Supply_Chain
+1119,2016-05-03,587,True,OFF-AR-10003217,Newell 316,Office Supplies,Art,Supply_Chain
+1120,2016-05-03,587,True,OFF-AP-10002403,Acco Smartsocket Color-Coded Six-Outlet AC Adapter Model Surge Protectors,Office Supplies,Appliances,Supply_Chain
+1121,2016-07-04,525,True,FUR-FU-10000221,"Master Caster Door Stop, Brown",Furniture,Furnishings,Supply_Chain
+1122,2016-09-02,465,True,OFF-EN-10003567,"Inter-Office Recycled Envelopes, Brown Kraft, Button-String,10"" x 13"" , 100/Box",Office Supplies,Envelopes,Supply_Chain
+1123,2016-11-03,403,True,OFF-AP-10002998,Holmes 99% HEPA Air Purifier,Office Supplies,Appliances,Supply_Chain
+1124,2016-11-03,403,True,OFF-PA-10001725,Xerox 1892,Office Supplies,Paper,Supply_Chain
+1125,2017-12-09,2,False,OFF-PA-10004359,Multicolor Computer Printout Paper,Office Supplies,Paper,Supply_Chain
+1126,2017-07-11,153,True,OFF-BI-10003708,"Acco Four Pocket Poly Ring Binder with Label Holder, Smoke, 1""",Office Supplies,Binders,Supply_Chain
+1127,2015-11-10,762,True,TEC-CO-10001571,Sharp 1540cs Digital Laser Copier,Technology,Copiers,Supply_Chain
+1128,2016-02-03,677,True,FUR-CH-10000015,Hon Multipurpose Stacking Arm Chairs,Furniture,Chairs,Supply_Chain
+1129,2017-06-05,189,True,OFF-PA-10002787,Xerox 227,Office Supplies,Paper,Supply_Chain
+1130,2016-04-10,610,True,OFF-BI-10000174,"Wilson Jones Clip & Carry Folder Binder Tool for Ring Binders, Clear",Office Supplies,Binders,Supply_Chain
+1131,2016-12-03,373,True,FUR-FU-10001085,3M Polarizing Light Filter Sleeves,Furniture,Furnishings,Supply_Chain
+1132,2017-09-04,98,True,OFF-ST-10003805,"24 Capacity Maxi Data Binder Racks, Pearl",Office Supplies,Storage,Supply_Chain
+1133,2014-11-02,1135,True,FUR-FU-10004018,Tensor Computer Mounted Lamp,Furniture,Furnishings,Supply_Chain
+1134,2017-09-08,94,True,TEC-AC-10004864,Memorex Micro Travel Drive 32 GB,Technology,Accessories,Supply_Chain
+1135,2017-12-05,6,False,OFF-BI-10001543,GBC VeloBinder Manual Binding System,Office Supplies,Binders,Supply_Chain
+1136,2015-07-12,883,True,TEC-PH-10000526,Vtech CS6719,Technology,Phones,Supply_Chain
+1137,2015-07-12,883,True,OFF-AR-10003190,Newell 32,Office Supplies,Art,Supply_Chain
+1138,2015-07-12,883,True,TEC-PH-10003963,GE 2-Jack Phone Line Splitter,Technology,Phones,Supply_Chain
+1139,2016-12-01,375,True,TEC-PH-10000193,Jensen SMPS-640 - speaker phone,Technology,Phones,Supply_Chain
+1140,2015-12-04,738,True,FUR-FU-10002111,"Master Caster Door Stop, Large Brown",Furniture,Furnishings,Supply_Chain
+1141,2016-12-12,364,True,OFF-ST-10000885,Fellowes Desktop Hanging File Manager,Office Supplies,Storage,Supply_Chain
+1142,2016-09-12,455,True,OFF-LA-10003720,Avery 487,Office Supplies,Labels,Supply_Chain
+1143,2017-11-02,39,False,OFF-AR-10003469,Nontoxic Chalk,Office Supplies,Art,Supply_Chain
+1144,2017-11-02,39,False,OFF-BI-10003718,GBC Therma-A-Bind 250T Electric Binding System,Office Supplies,Binders,Supply_Chain
+1145,2017-11-02,39,False,OFF-FA-10004838,"Super Bands, 12/Pack",Office Supplies,Fasteners,Supply_Chain
+1146,2017-11-02,39,False,FUR-FU-10002508,Document Clip Frames,Furniture,Furnishings,Supply_Chain
+1147,2017-11-02,39,False,OFF-ST-10001511,Space Solutions Commercial Steel Shelving,Office Supplies,Storage,Supply_Chain
+1148,2017-12-01,10,False,FUR-FU-10000023,Eldon Wave Desk Accessories,Furniture,Furnishings,Supply_Chain
+1149,2017-09-09,93,True,OFF-ST-10000046,Fellowes Super Stor/Drawer Files,Office Supplies,Storage,Supply_Chain
+1150,2017-09-08,94,True,TEC-CO-10001943,Canon PC-428 Personal Copier,Technology,Copiers,Supply_Chain
+1151,2016-10-07,430,True,TEC-MA-10001972,Okidata C331dn Printer,Technology,Machines,Supply_Chain
+1152,2015-05-03,953,True,OFF-AR-10001468,"Sanford Prismacolor Professional Thick Lead Art Pencils, 36-Color Set",Office Supplies,Art,Supply_Chain
+1153,2015-11-08,764,True,OFF-AP-10003266,"Holmes Replacement Filter for HEPA Air Cleaner, Large Room",Office Supplies,Appliances,Supply_Chain
+1154,2015-05-03,953,True,OFF-PA-10002230,Xerox 1897,Office Supplies,Paper,Supply_Chain
+1155,2015-05-03,953,True,TEC-AC-10001542,SanDisk Cruzer 16 GB USB Flash Drive,Technology,Accessories,Supply_Chain
+1156,2017-10-04,68,False,FUR-FU-10000076,24-Hour Round Wall Clock,Furniture,Furnishings,Supply_Chain
+1157,2016-01-10,701,True,TEC-AC-10002335,Logitech Media Keyboard K200,Technology,Accessories,Supply_Chain
+1158,2017-05-06,219,True,OFF-ST-10001932,Fellowes Staxonsteel Drawer Files,Office Supplies,Storage,Supply_Chain
+1159,2017-05-11,214,True,OFF-AR-10003481,Newell 348,Office Supplies,Art,Supply_Chain
+1160,2017-09-01,101,True,OFF-AR-10001166,Staples in misc. colors,Office Supplies,Art,Supply_Chain
+1161,2016-11-11,395,True,OFF-AP-10001058,Sanyo 2.5 Cubic Foot Mid-Size Office Refrigerators,Office Supplies,Appliances,Supply_Chain
+1162,2017-12-01,10,False,OFF-LA-10004853,Avery 483,Office Supplies,Labels,Supply_Chain
+1163,2017-11-12,29,False,OFF-AR-10000315,"Dixon Ticonderoga Maple Cedar Pencil, #2",Office Supplies,Art,Supply_Chain
+1164,2017-11-12,29,False,OFF-SU-10000381,Acme Forged Steel Scissors with Black Enamel Handles,Office Supplies,Supplies,Supply_Chain
+1165,2017-03-05,281,True,OFF-ST-10000877,Recycled Steel Personal File for Standard File Folders,Office Supplies,Storage,Supply_Chain
+1166,2017-12-03,8,False,OFF-SU-10004782,"Elite 5"" Scissors",Office Supplies,Supplies,Supply_Chain
+1167,2016-12-09,367,True,TEC-PH-10000169,ARKON Windshield Dashboard Air Vent Car Mount Holder,Technology,Phones,Supply_Chain
+1168,2017-07-07,157,True,TEC-AC-10002018,AmazonBasics 3-Button USB Wired Mouse,Technology,Accessories,Supply_Chain
+1169,2017-02-03,311,True,OFF-BI-10000301,GBC Instant Report Kit,Office Supplies,Binders,Supply_Chain
+1170,2017-08-06,127,True,OFF-PA-10004381,14-7/8 x 11 Blue Bar Computer Printout Paper,Office Supplies,Paper,Supply_Chain
+1171,2015-03-09,1008,True,TEC-PH-10001809,Panasonic KX T7736-B Digital phone,Technology,Phones,Supply_Chain
+1172,2014-11-07,1130,True,OFF-BI-10000201,"Avery Triangle Shaped Sheet Lifters, Black, 2/Pack",Office Supplies,Binders,Supply_Chain
+1173,2014-11-07,1130,True,OFF-SU-10004115,Acme Stainless Steel Office Snips,Office Supplies,Supplies,Supply_Chain
+1174,2017-04-04,251,True,OFF-AR-10001545,Newell 326,Office Supplies,Art,Supply_Chain
+1175,2015-12-11,731,True,TEC-AC-10004396,Logitech Keyboard K120,Technology,Accessories,Supply_Chain
+1176,2015-12-11,731,True,OFF-PA-10003256,Avery Personal Creations Heavyweight Cards,Office Supplies,Paper,Supply_Chain
+1177,2017-11-11,30,False,OFF-AP-10002651,Hoover Upright Vacuum With Dirt Cup,Office Supplies,Appliances,Supply_Chain
+1178,2015-05-12,944,True,OFF-ST-10004258,Portable Personal File Box,Office Supplies,Storage,Supply_Chain
+1179,2017-10-05,67,False,OFF-BI-10002571,"Avery Framed View Binder, EZD Ring (Locking), Navy, 1 1/2""",Office Supplies,Binders,Supply_Chain
+1180,2014-12-12,1095,True,OFF-ST-10000617,Woodgrain Magazine Files by Perma,Office Supplies,Storage,Supply_Chain
+1181,2017-03-08,278,True,OFF-AR-10001972,Newell 323,Office Supplies,Art,Supply_Chain
+1182,2017-12-08,3,False,OFF-LA-10003510,"Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",Office Supplies,Labels,Supply_Chain
+1183,2017-06-01,193,True,FUR-CH-10003746,Hon 4070 Series Pagoda Round Back Stacking Chairs,Furniture,Chairs,Supply_Chain
+1184,2017-10-09,63,False,FUR-CH-10001802,Hon Every-Day Chair Series Swivel Task Chairs,Furniture,Chairs,Supply_Chain
+1185,2016-01-02,709,True,FUR-BO-10004709,"Bush Westfield Collection Bookcases, Medium Cherry Finish",Furniture,Bookcases,Supply_Chain
+1186,2016-01-02,709,True,TEC-PH-10000455,GE 30522EE2,Technology,Phones,Supply_Chain
+1187,2017-09-10,92,True,OFF-AR-10003338,"Eberhard Faber 3 1/2"" Golf Pencils",Office Supplies,Art,Supply_Chain
+1188,2017-12-01,10,False,FUR-CH-10000155,Global Comet Stacking Armless Chair,Furniture,Chairs,Supply_Chain
+1189,2015-02-06,1039,True,FUR-CH-10001708,Office Star - Contemporary Swivel Chair with Padded Adjustable Arms and Flex Back,Furniture,Chairs,Supply_Chain
+1190,2017-12-01,10,False,FUR-BO-10002598,"Hon Metal Bookcases, Putty",Furniture,Bookcases,Supply_Chain
+1191,2017-12-08,3,False,OFF-AP-10002670,Belkin 8-Outlet Premiere SurgeMaster II Surge Protectors,Office Supplies,Appliances,Supply_Chain
+1192,2014-06-09,1281,True,FUR-FU-10002685,"Executive Impressions 13-1/2"" Indoor/Outdoor Wall Clock",Furniture,Furnishings,Supply_Chain
+1193,2015-08-11,853,True,OFF-AR-10001427,Newell 330,Office Supplies,Art,Supply_Chain
+1194,2017-11-02,39,False,FUR-CH-10001973,Office Star Flex Back Scooter Chair with White Frame,Furniture,Chairs,Supply_Chain
+1195,2016-11-06,400,True,FUR-CH-10000513,High-Back Leather Manager's Chair,Furniture,Chairs,Supply_Chain
+1196,2016-11-10,396,True,OFF-PA-10002421,Embossed Ink Jet Note Cards,Office Supplies,Paper,Supply_Chain
+1197,2015-09-07,826,True,OFF-FA-10003059,Assorted Color Push Pins,Office Supplies,Fasteners,Supply_Chain
+1198,2017-12-07,4,False,OFF-BI-10001120,Ibico EPK-21 Electric Binding System,Office Supplies,Binders,Supply_Chain
+1199,2017-03-10,276,True,OFF-AP-10000390,Euro Pro Shark Stick Mini Vacuum,Office Supplies,Appliances,Supply_Chain
+1200,2017-05-07,218,True,TEC-AC-10000736,Logitech G600 MMO Gaming Mouse,Technology,Accessories,Supply_Chain
+1201,2017-11-06,35,False,OFF-PA-10000143,Astroparche Fine Business Paper,Office Supplies,Paper,Supply_Chain
+1202,2015-11-09,763,True,TEC-MA-10000045,Zebra ZM400 Thermal Label Printer,Technology,Machines,Supply_Chain
+1203,2015-09-07,826,True,OFF-BI-10004781,GBC Wire Binding Strips,Office Supplies,Binders,Supply_Chain
+1204,2015-08-09,855,True,FUR-BO-10004690,O'Sullivan Cherrywood Estates Traditional Barrister Bookcase,Furniture,Bookcases,Supply_Chain
+1205,2016-11-10,396,True,OFF-AR-10001227,Newell 338,Office Supplies,Art,Supply_Chain
+1206,2015-01-03,1073,True,TEC-AC-10003198,Enermax Acrylux Wireless Keyboard,Technology,Accessories,Supply_Chain
+1207,2017-09-02,100,True,OFF-BI-10004330,"GBC Velobind Prepunched Cover Sets, Regency Series",Office Supplies,Binders,Supply_Chain
+1208,2014-08-08,1221,True,OFF-AP-10002495,"Acco Smartsocket Table Surge Protector, 6 Color-Coded Adapter Outlets",Office Supplies,Appliances,Supply_Chain
+1209,2016-02-04,676,True,FUR-FU-10002088,Nu-Dell Float Frame 11 x 14 1/2,Furniture,Furnishings,Supply_Chain
+1210,2014-10-10,1158,True,TEC-PH-10001128,Motorola Droid Maxx,Technology,Phones,Supply_Chain
+1211,2016-09-08,459,True,OFF-PA-10000501,Petty Cash Envelope,Office Supplies,Paper,Supply_Chain
+1212,2016-11-10,396,True,TEC-PH-10000562,Samsung Convoy 3,Technology,Phones,Supply_Chain
+1213,2015-03-05,1012,True,TEC-AC-10001101,Sony 16GB Class 10 Micro SDHC R40 Memory Card,Technology,Accessories,Supply_Chain
+1214,2017-08-04,129,True,OFF-PA-10001752,Hammermill CopyPlus Copy Paper (20Lb. and 84 Bright),Office Supplies,Paper,Supply_Chain
+1215,2015-08-07,857,True,OFF-BI-10002194,Cardinal Hold-It CD Pocket,Office Supplies,Binders,Supply_Chain
+1216,2017-09-12,90,False,OFF-PA-10003797,Xerox 209,Office Supplies,Paper,Supply_Chain
+1217,2015-11-08,764,True,TEC-AC-10001956,Microsoft Arc Touch Mouse,Technology,Accessories,Supply_Chain
+1218,2016-04-01,619,True,OFF-SU-10000946,Staple remover,Office Supplies,Supplies,Supply_Chain
+1219,2017-03-06,280,True,OFF-ST-10000675,"File Shuttle II and Handi-File, Black",Office Supplies,Storage,Supply_Chain
+1220,2017-03-03,283,True,FUR-CH-10003968,Novimex Turbo Task Chair,Furniture,Chairs,Supply_Chain
+1221,2017-05-05,220,True,OFF-EN-10003448,"Peel & Seel Recycled Catalog Envelopes, Brown",Office Supplies,Envelopes,Supply_Chain
+1222,2016-11-05,401,True,OFF-EN-10001434,"Strathmore #10 Envelopes, Ultimate White",Office Supplies,Envelopes,Supply_Chain
+1223,2016-03-03,648,True,OFF-SU-10000151,High Speed Automatic Electric Letter Opener,Office Supplies,Supplies,Supply_Chain
+1224,2016-03-03,648,True,TEC-AC-10002857,"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 1/Pack",Technology,Accessories,Supply_Chain
+1225,2015-11-07,765,True,OFF-ST-10001713,"Gould Plastics 9-Pocket Panel Bin, 18-3/8w x 5-1/4d x 20-1/2h, Black",Office Supplies,Storage,Supply_Chain
+1226,2015-11-09,763,True,OFF-FA-10000490,"OIC Binder Clips, Mini, 1/4"" Capacity, Black",Office Supplies,Fasteners,Supply_Chain
+1227,2017-05-09,216,True,OFF-EN-10002504,"Tyvek  Top-Opening Peel & Seel Envelopes, Plain White",Office Supplies,Envelopes,Supply_Chain
+1228,2017-09-09,93,True,OFF-EN-10000461,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Office Supplies,Envelopes,Supply_Chain
+1229,2016-08-02,496,True,FUR-TA-10001691,"Barricks Non-Folding Utility Table with Steel Legs, Laminate Tops",Furniture,Tables,Supply_Chain
+1230,2016-08-02,496,True,OFF-BI-10000285,XtraLife ClearVue Slant-D Ring Binders by Cardinal,Office Supplies,Binders,Supply_Chain
+1231,2016-08-08,490,True,OFF-PA-10003270,Xerox 1954,Office Supplies,Paper,Supply_Chain
+1232,2017-10-09,63,False,OFF-PA-10001745,"Wirebound Message Books, 2 7/8"" x 5"", 3 Forms per Page",Office Supplies,Paper,Supply_Chain
+1233,2017-05-09,216,True,FUR-TA-10004154,"Riverside Furniture Oval Coffee Table, Oval End Table, End Table with Drawer",Furniture,Tables,Supply_Chain
+1234,2015-05-10,946,True,TEC-AC-10002718,Belkin Standard 104 key USB Keyboard,Technology,Accessories,Supply_Chain
+1235,2017-12-10,1,False,FUR-FU-10002364,"Eldon Expressions Wood Desk Accessories, Oak",Furniture,Furnishings,Supply_Chain
+1236,2017-10-02,70,False,FUR-FU-10004864,Eldon 500 Class Desk Accessories,Furniture,Furnishings,Supply_Chain
+1237,2017-10-02,70,False,OFF-BI-10003984,Lock-Up Easel 'Spel-Binder',Office Supplies,Binders,Supply_Chain
+1238,2015-12-04,738,True,OFF-AR-10003723,Avery Hi-Liter Fluorescent Desk Style Markers,Office Supplies,Art,Supply_Chain
+1239,2016-09-04,463,True,OFF-BI-10001460,Plastic Binding Combs,Office Supplies,Binders,Supply_Chain
+1240,2017-07-09,155,True,OFF-ST-10002554,Tennsco Industrial Shelving,Office Supplies,Storage,Supply_Chain
+1241,2016-09-02,465,True,OFF-ST-10000321,Akro Stacking Bins,Office Supplies,Storage,Supply_Chain
+1242,2016-07-07,522,True,OFF-AR-10004602,Boston KS Multi-Size Manual Pencil Sharpener,Office Supplies,Art,Supply_Chain
+1243,2017-11-06,35,False,OFF-PA-10003302,Xerox 1906,Office Supplies,Paper,Supply_Chain
+1244,2017-09-02,100,True,FUR-FU-10004188,Luxo Professional Combination Clamp-On Lamps,Furniture,Furnishings,Supply_Chain
+1245,2017-11-05,36,False,OFF-PA-10001870,Xerox 202,Office Supplies,Paper,Supply_Chain
+1246,2017-09-09,93,True,OFF-PA-10002036,Xerox 1930,Office Supplies,Paper,Supply_Chain
+1247,2017-03-12,274,True,OFF-BI-10000829,Avery Non-Stick Binders,Office Supplies,Binders,Supply_Chain
+1248,2017-12-09,2,False,OFF-BI-10000088,GBC Imprintable Covers,Office Supplies,Binders,Supply_Chain
+1249,2017-12-08,3,False,OFF-PA-10003022,Standard Line While You Were Out Hardbound Telephone Message Book,Office Supplies,Paper,Supply_Chain
+1250,2017-11-10,31,False,OFF-BI-10004099,GBC VeloBinder Strips,Office Supplies,Binders,Supply_Chain
+1251,2017-11-03,38,False,OFF-PA-10001215,Xerox 1963,Office Supplies,Paper,Supply_Chain
+1252,2016-12-03,373,True,TEC-AC-10003870,Logitech Z-906 Speaker sys - home theater - 5.1-CH,Technology,Accessories,Supply_Chain
+1253,2017-07-02,162,True,OFF-BI-10001787,Wilson Jones Four-Pocket Poly Binders,Office Supplies,Binders,Supply_Chain
+1254,2015-06-09,916,True,FUR-FU-10003192,Luxo Adjustable Task Clamp Lamp,Furniture,Furnishings,Supply_Chain
+1255,2017-09-09,93,True,OFF-PA-10000859,Unpadded Memo Slips,Office Supplies,Paper,Supply_Chain
+1256,2014-09-12,1186,True,OFF-BI-10004519,GBC DocuBind P100 Manual Binding Machine,Office Supplies,Binders,Supply_Chain
+1257,2017-09-04,98,True,FUR-TA-10001771,"Bush Cubix Conference Tables, Fully Assembled",Furniture,Tables,Supply_Chain
+1258,2017-10-08,64,False,TEC-AC-10002305,KeyTronic E03601U1 - Keyboard - Beige,Technology,Accessories,Supply_Chain
+1259,2017-10-08,64,False,TEC-AC-10003610,Logitech Illuminated - Keyboard,Technology,Accessories,Supply_Chain
+1260,2017-10-08,64,False,OFF-ST-10002301,Tennsco Commercial Shelving,Office Supplies,Storage,Supply_Chain
+1261,2015-09-04,829,True,OFF-BI-10001249,Avery Heavy-Duty EZD View Binder with Locking Rings,Office Supplies,Binders,Supply_Chain
+1262,2017-11-02,39,False,FUR-FU-10001847,Eldon Image Series Black Desk Accessories,Furniture,Furnishings,Supply_Chain
+1263,2017-11-02,39,False,OFF-EN-10003845,Colored Envelopes,Office Supplies,Envelopes,Supply_Chain
+1264,2016-10-08,429,True,OFF-PA-10000167,Xerox 1925,Office Supplies,Paper,Supply_Chain
+1265,2016-04-08,612,True,OFF-EN-10002973,Ampad #10 Peel & Seel Holiday Envelopes,Office Supplies,Envelopes,Supply_Chain
+1266,2017-12-04,7,False,OFF-PA-10002709,Xerox 1956,Office Supplies,Paper,Supply_Chain
+1267,2016-12-06,370,True,OFF-BI-10001721,Trimflex Flexible Post Binders,Office Supplies,Binders,Supply_Chain
+1268,2016-06-06,553,True,OFF-BI-10000591,Avery Binder Labels,Office Supplies,Binders,Supply_Chain
+1269,2016-06-06,553,True,OFF-PA-10001534,Xerox 230,Office Supplies,Paper,Supply_Chain
+1270,2017-09-07,95,True,FUR-FU-10002396,"DAX Copper Panel Document Frame, 5 x 7 Size",Furniture,Furnishings,Supply_Chain
+1271,2017-09-07,95,True,TEC-PH-10002807,Motorla HX550 Universal Bluetooth Headset,Technology,Phones,Supply_Chain
+1272,2016-10-11,426,True,OFF-AR-10003183,Avery Fluorescent Highlighter Four-Color Set,Office Supplies,Art,Supply_Chain
+1273,2017-10-02,70,False,FUR-FU-10002963,"Master Caster Door Stop, Gray",Furniture,Furnishings,Supply_Chain
+1274,2015-12-06,736,True,OFF-PA-10000048,Xerox 20,Office Supplies,Paper,Supply_Chain
+1275,2014-12-05,1102,True,OFF-PA-10003036,"Black Print Carbonless 8 1/2"" x 8 1/4"" Rapid Memo Book",Office Supplies,Paper,Supply_Chain
+1276,2016-09-12,455,True,TEC-PH-10001870,Lunatik TT5L-002 Taktik Strike Impact Protection System for iPhone 5,Technology,Phones,Supply_Chain
+1277,2017-09-09,93,True,OFF-AR-10003829,Newell 35,Office Supplies,Art,Supply_Chain
+1278,2016-12-12,364,True,OFF-AR-10000462,Sanford Pocket Accent Highlighters,Office Supplies,Art,Supply_Chain
+1279,2017-11-03,38,False,OFF-AR-10004010,Hunt Boston Vacuum Mount KS Pencil Sharpener,Office Supplies,Art,Supply_Chain
+1280,2017-09-11,91,True,OFF-AP-10001626,"Commercial WindTunnel Clean Air Upright Vacuum, Replacement Belts, Filtration Bags",Office Supplies,Appliances,Supply_Chain
+1281,2017-09-02,100,True,OFF-ST-10003994,"Belkin 19"" Center-Weighted Shelf, Gray",Office Supplies,Storage,Supply_Chain
+1282,2017-09-03,99,True,TEC-AC-10000474,Kensington Expert Mouse Optical USB Trackball for PC or Mac,Technology,Accessories,Supply_Chain
+1283,2016-04-01,619,True,FUR-FU-10003274,Regeneration Desk Collection,Furniture,Furnishings,Supply_Chain
+1284,2016-06-11,548,True,TEC-AC-10003095,Logitech G35 7.1-Channel Surround Sound Headset,Technology,Accessories,Supply_Chain
+1285,2017-12-11,0,False,TEC-PH-10004522,Dexim XPower Skin Super-Thin Power Case for iPhone 5 - Black,Technology,Phones,Supply_Chain
+1286,2017-03-11,275,True,OFF-BI-10002794,"Avery Trapezoid Ring Binder, 3"" Capacity, Black, 1040 sheets",Office Supplies,Binders,Supply_Chain
+1287,2017-12-02,9,False,OFF-AR-10000817,Manco Dry-Lighter Erasable Highlighter,Office Supplies,Art,Supply_Chain
+1288,2014-11-03,1134,True,OFF-SU-10002522,Acme Kleen Earth Office Shears,Office Supplies,Supplies,Supply_Chain
+1289,2014-03-01,1381,True,TEC-PH-10003655,Sannysis Cute Owl Design Soft Skin Case Cover for Samsung Galaxy S4,Technology,Phones,Supply_Chain
+1290,2017-03-02,284,True,OFF-EN-10003286,Staple envelope,Office Supplies,Envelopes,Supply_Chain
+1291,2015-09-06,827,True,TEC-PH-10002922,ShoreTel ShorePhone IP 230 VoIP phone,Technology,Phones,Supply_Chain
+1292,2016-12-08,368,True,TEC-AC-10004877,Imation 30456 USB Flash Drive 8GB,Technology,Accessories,Supply_Chain
+1293,2017-08-12,121,True,OFF-AP-10000828,Avanti 4.4 Cu. Ft. Refrigerator,Office Supplies,Appliances,Supply_Chain
+1294,2017-10-10,62,False,FUR-CH-10001545,Hon Comfortask Task/Swivel Chairs,Furniture,Chairs,Supply_Chain
+1295,2016-09-10,457,True,OFF-BI-10004826,JM Magazine Binder,Office Supplies,Binders,Supply_Chain
+1296,2014-11-11,1126,True,FUR-CH-10000988,Hon Olson Stacker Stools,Furniture,Chairs,Supply_Chain
+1297,2015-04-02,984,True,TEC-MA-10003329,"Vtech AT&T CL2940 Corded Speakerphone, Black",Technology,Machines,Supply_Chain
+1298,2016-12-05,371,True,OFF-AR-10001547,Newell 311,Office Supplies,Art,Supply_Chain
+1299,2015-12-12,730,True,OFF-EN-10003072,Peel & Seel Envelopes,Office Supplies,Envelopes,Supply_Chain
+1300,2017-05-12,213,True,OFF-AR-10003504,Newell 347,Office Supplies,Art,Supply_Chain
+1301,2016-09-04,463,True,OFF-AP-10001205,Belkin 5 Outlet SurgeMaster Power Centers,Office Supplies,Appliances,Supply_Chain
+1302,2017-05-12,213,True,OFF-AP-10004868,Hoover Commercial Soft Guard Upright Vacuum And Disposable Filtration Bags,Office Supplies,Appliances,Supply_Chain
+1303,2017-09-03,99,True,OFF-PA-10000418,Xerox 189,Office Supplies,Paper,Supply_Chain
+1304,2017-09-03,99,True,FUR-CH-10004626,Office Star Flex Back Scooter Chair with Aluminum Finish Frame,Furniture,Chairs,Supply_Chain
+1305,2016-12-03,373,True,FUR-CH-10004754,"Global Stack Chair with Arms, Black",Furniture,Chairs,Supply_Chain
+1306,2017-07-09,155,True,OFF-PA-10001497,Xerox 1914,Office Supplies,Paper,Supply_Chain
+1307,2016-05-01,589,True,OFF-PA-10003936,Xerox 1994,Office Supplies,Paper,Supply_Chain
+1308,2014-08-05,1224,True,OFF-AR-10004165,"Binney & Smith inkTank Erasable Pocket Highlighter, Chisel Tip, Yellow",Office Supplies,Art,Supply_Chain
+1309,2016-11-07,399,True,FUR-CH-10001215,Global Troy Executive Leather Low-Back Tilter,Furniture,Chairs,Supply_Chain
+1310,2017-06-04,190,True,OFF-BI-10002353,GBC VeloBind Cover Sets,Office Supplies,Binders,Supply_Chain
+1311,2017-06-04,190,True,OFF-BI-10004141,Insertable Tab Indexes For Data Binders,Office Supplies,Binders,Supply_Chain
+1312,2015-04-07,979,True,OFF-AR-10001954,Newell 331,Office Supplies,Art,Supply_Chain
+1313,2016-09-05,462,True,OFF-PA-10001815,Xerox 1885,Office Supplies,Paper,Supply_Chain
+1314,2015-05-07,949,True,OFF-PA-10001952,Xerox 1902,Office Supplies,Paper,Supply_Chain
+1315,2017-09-10,92,True,OFF-BI-10004876,Wilson Jones Suede Grain Vinyl Binders,Office Supplies,Binders,Supply_Chain
+1316,2017-09-09,93,True,OFF-ST-10003123,Fellowes Bases and Tops For Staxonsteel/High-Stak Systems,Office Supplies,Storage,Supply_Chain
+1317,2017-08-05,128,True,OFF-LA-10003498,Avery 475,Office Supplies,Labels,Supply_Chain
+1318,2014-11-01,1136,True,OFF-PA-10004947,Easy-staple paper,Office Supplies,Paper,Supply_Chain
+1319,2016-04-03,617,True,FUR-FU-10003799,"Seth Thomas 13 1/2"" Wall Clock",Furniture,Furnishings,Supply_Chain
+1320,2017-11-06,35,False,OFF-PA-10002764,Easy-staple paper,Office Supplies,Paper,Supply_Chain
+1321,2016-12-02,374,True,FUR-FU-10003026,"Eldon Regeneration Recycled Desk Accessories, Black",Furniture,Furnishings,Supply_Chain
+1322,2017-11-03,38,False,FUR-TA-10001086,"SAFCO PlanMaster Boards, 60w x 37-1/2d, White Melamine",Furniture,Tables,Supply_Chain
+1323,2015-09-11,822,True,FUR-FU-10002107,Eldon Pizzaz Desk Accessories,Furniture,Furnishings,Supply_Chain
+1324,2017-07-07,157,True,TEC-PH-10001363,Apple iPhone 5S,Technology,Phones,Supply_Chain
+1325,2017-07-07,157,True,OFF-ST-10004835,Plastic Stacking Crates & Casters,Office Supplies,Storage,Supply_Chain
+1326,2017-10-12,60,False,TEC-AC-10003033,Plantronics CS510 - Over-the-Head monaural Wireless Headset System,Technology,Accessories,Supply_Chain
+1327,2017-09-11,91,True,TEC-PH-10002564,OtterBox Defender Series Case - Samsung Galaxy S4,Technology,Phones,Supply_Chain
+1328,2017-03-05,281,True,OFF-AP-10000891,Kensington 7 Outlet MasterPiece HOMEOFFICE Power Control Center,Office Supplies,Appliances,Supply_Chain
+1329,2014-11-11,1126,True,FUR-FU-10000409,"GE 4 Foot Flourescent Tube, 40 Watt",Furniture,Furnishings,Supply_Chain
+1330,2017-12-01,10,False,OFF-ST-10002756,"Tennsco Stur-D-Stor Boltless Shelving, 5 Shelves, 24"" Deep, Sand",Office Supplies,Storage,Supply_Chain
+1331,2014-11-11,1126,True,OFF-PA-10003625,Xerox 1979,Office Supplies,Paper,Supply_Chain
+1332,2014-09-07,1191,True,FUR-CH-10004698,"Padded Folding Chairs, Black, 4/Carton",Furniture,Chairs,Supply_Chain
+1333,2016-12-11,365,True,FUR-TA-10003008,"Lesro Round Back Collection Coffee Table, End Table",Furniture,Tables,Supply_Chain
+1334,2016-03-10,641,True,OFF-PA-10004405,Rediform Voice Mail Log Books,Office Supplies,Paper,Supply_Chain
+1335,2016-08-01,497,True,TEC-PH-10002885,Apple iPhone 5,Technology,Phones,Supply_Chain
+1336,2014-04-06,1345,True,FUR-FU-10000747,Tenex B1-RE Series Chair Mats for Low Pile Carpets,Furniture,Furnishings,Supply_Chain
+1337,2014-04-06,1345,True,OFF-PA-10003309,Xerox 211,Office Supplies,Paper,Supply_Chain
+1338,2014-11-06,1131,True,OFF-PA-10000587,"Array Parchment Paper, Assorted Colors",Office Supplies,Paper,Supply_Chain
+1339,2016-09-01,466,True,TEC-AC-10003399,Memorex Mini Travel Drive 64 GB USB 2.0 Flash Drive,Technology,Accessories,Supply_Chain
+1340,2017-08-05,128,True,OFF-ST-10001172,"Tennsco Lockers, Sand",Office Supplies,Storage,Supply_Chain
+1341,2016-09-11,456,True,OFF-LA-10001982,Smead Alpha-Z Color-Coded Name Labels First Letter Starter Set,Office Supplies,Labels,Supply_Chain
+1342,2017-12-01,10,False,OFF-PA-10001593,Xerox 1947,Office Supplies,Paper,Supply_Chain
+1343,2016-04-08,612,True,FUR-BO-10001608,"Hon Metal Bookcases, Black",Furniture,Bookcases,Supply_Chain
+1344,2017-08-07,126,True,TEC-AC-10004803,Sony Micro Vault Click 4 GB USB 2.0 Flash Drive,Technology,Accessories,Supply_Chain
+1345,2014-08-02,1227,True,OFF-BI-10001758,Wilson Jones 14 Line Acrylic Coated Pressboard Data Binders,Office Supplies,Binders,Supply_Chain
+1346,2014-08-02,1227,True,TEC-AC-10003237,Memorex Micro Travel Drive 4 GB,Technology,Accessories,Supply_Chain
+1347,2016-12-11,365,True,FUR-CH-10004218,"Global Fabric Manager's Chair, Dark Gray",Furniture,Chairs,Supply_Chain
+1348,2017-03-02,284,True,FUR-BO-10003660,"Bush Cubix Collection Bookcases, Fully Assembled",Furniture,Bookcases,Supply_Chain
+1349,2017-11-07,34,False,FUR-CH-10000422,Global Highback Leather Tilter in Burgundy,Furniture,Chairs,Supply_Chain
+1350,2017-11-04,37,False,TEC-PH-10000127,iOttie XL Car Mount,Technology,Phones,Supply_Chain
+1351,2017-02-03,311,True,FUR-FU-10004597,Eldon Cleatmat Chair Mats for Medium Pile Carpets,Furniture,Furnishings,Supply_Chain
+1352,2014-04-07,1344,True,TEC-PH-10004922,RCA Visys Integrated PBX 8-Line Router,Technology,Phones,Supply_Chain
+1353,2017-09-09,93,True,OFF-LA-10000134,Avery 511,Office Supplies,Labels,Supply_Chain
+1354,2016-09-02,465,True,OFF-BI-10003166,GBC Plasticlear Binding Covers,Office Supplies,Binders,Supply_Chain
+1355,2017-11-02,39,False,OFF-SU-10000646,Premier Automatic Letter Opener,Office Supplies,Supplies,Supply_Chain
+1356,2017-12-11,0,False,TEC-AC-10001284,Enermax Briskie RF Wireless Keyboard and Mouse Combo,Technology,Accessories,Supply_Chain
+1357,2016-11-04,402,True,OFF-SU-10002301,Serrated Blade or Curved Handle Hand Letter Openers,Office Supplies,Supplies,Supply_Chain
+1358,2016-11-04,402,True,OFF-PA-10004353,Southworth 25% Cotton Premium Laser Paper and Envelopes,Office Supplies,Paper,Supply_Chain
+1359,2016-11-04,402,True,OFF-PA-10000176,Xerox 1887,Office Supplies,Paper,Supply_Chain
+1360,2017-10-05,67,False,TEC-MA-10001047,"3D Systems Cube Printer, 2nd Generation, Magenta",Technology,Machines,Supply_Chain
+1361,2015-05-01,955,True,OFF-ST-10000876,Eldon Simplefile Box Office,Office Supplies,Storage,Supply_Chain
+1362,2017-04-04,251,True,TEC-PH-10004006,Panasonic KX - TS880B Telephone,Technology,Phones,Supply_Chain
+1363,2017-04-04,251,True,TEC-PH-10002262,LG Electronics Tone+ HBS-730 Bluetooth Headset,Technology,Phones,Supply_Chain
+1364,2017-12-05,6,False,FUR-FU-10001934,Magnifier Swing Arm Lamp,Furniture,Furnishings,Supply_Chain
+1365,2017-08-06,127,True,TEC-PH-10003601,"Ativa D5772 2-Line 5.8GHz Digital Expandable Corded/Cordless Phone System with Answering & Caller ID/Call Waiting, Black/Silver",Technology,Phones,Supply_Chain
+1366,2017-03-04,282,True,OFF-LA-10002381,Avery 497,Office Supplies,Labels,Supply_Chain
+1367,2016-12-02,374,True,OFF-ST-10000142,Deluxe Rollaway Locking File with Drawer,Office Supplies,Storage,Supply_Chain
+1368,2017-06-03,191,True,OFF-PA-10000809,Xerox 206,Office Supplies,Paper,Supply_Chain
+1369,2017-06-03,191,True,TEC-MA-10003173,Hewlett-Packard 300S Scientific Calculator,Technology,Machines,Supply_Chain
+1370,2015-06-01,924,True,TEC-PH-10001299,Polycom CX300 Desktop Phone USB VoIP phone,Technology,Phones,Supply_Chain
+1371,2016-10-09,428,True,FUR-FU-10004071,Luxo Professional Magnifying Clamp-On Fluorescent Lamps,Furniture,Furnishings,Supply_Chain
+1372,2017-03-06,280,True,OFF-AR-10003158,Fluorescent Highlighters by Dixon,Office Supplies,Art,Supply_Chain
+1373,2017-03-06,280,True,OFF-LA-10004559,Avery 49,Office Supplies,Labels,Supply_Chain
+1374,2016-07-07,522,True,OFF-LA-10002945,"Permanent Self-Adhesive File Folder Labels for Typewriters, 1 1/8 x 3 1/2, White",Office Supplies,Labels,Supply_Chain
+1375,2017-06-11,183,True,OFF-BI-10001525,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Executive Red",Office Supplies,Binders,Supply_Chain
+1376,2017-12-04,7,False,TEC-AC-10004595,First Data TMFD35 PIN Pad,Technology,Accessories,Supply_Chain
+1377,2014-03-01,1381,True,FUR-CH-10000863,Novimex Swivel Fabric Task Chair,Furniture,Chairs,Supply_Chain
+1378,2016-06-02,557,True,OFF-BI-10001078,"Acco PRESSTEX Data Binder with Storage Hooks, Dark Blue, 14 7/8"" X 11""",Office Supplies,Binders,Supply_Chain
+1379,2017-11-05,36,False,FUR-TA-10003469,Balt Split Level Computer Training Table,Furniture,Tables,Supply_Chain
+1380,2014-05-07,1314,True,OFF-AR-10002578,Newell 335,Office Supplies,Art,Supply_Chain
+1381,2017-03-03,283,True,TEC-AC-10000990,Imation Bio 2GB USB Flash Drive Imation Corp,Technology,Accessories,Supply_Chain
+1382,2014-06-06,1284,True,OFF-PA-10002319,Xerox 1944,Office Supplies,Paper,Supply_Chain
+1383,2014-12-02,1105,True,FUR-FU-10003849,"DAX Metal Frame, Desktop, Stepped-Edge",Furniture,Furnishings,Supply_Chain
+1384,2017-09-04,98,True,OFF-BI-10001757,Pressboard Hanging Data Binders for Unburst Sheets,Office Supplies,Binders,Supply_Chain
+1385,2015-08-08,856,True,OFF-AR-10004587,"Boston 1827 Commercial Additional Cutter, Drive Gear & Gear Rack for 1606",Office Supplies,Art,Supply_Chain
+1386,2017-05-12,213,True,FUR-FU-10000719,"DAX Cubicle Frames, 8-1/2 x 11",Furniture,Furnishings,Supply_Chain
+1387,2017-05-12,213,True,OFF-LA-10002271,Smead Alpha-Z Color-Coded Second Alphabetical Labels and Starter Set,Office Supplies,Labels,Supply_Chain
+1388,2017-11-11,30,False,OFF-SU-10004661,Acme Titanium Bonded Scissors,Office Supplies,Supplies,Supply_Chain
+1389,2017-12-03,8,False,FUR-FU-10000820,Tensor Brushed Steel Torchiere Floor Lamp,Furniture,Furnishings,Supply_Chain
+1390,2017-09-02,100,True,OFF-PA-10002499,Xerox 1890,Office Supplies,Paper,Supply_Chain
+1391,2016-05-12,578,True,FUR-FU-10000320,OIC Stacking Trays,Furniture,Furnishings,Supply_Chain
+1392,2016-12-06,370,True,OFF-BI-10004318,Ibico EB-19 Dual Function Manual Binding System,Office Supplies,Binders,Supply_Chain
+1393,2016-12-02,374,True,OFF-PA-10000062,Green Bar Computer Printout Paper,Office Supplies,Paper,Supply_Chain
+1394,2017-10-12,60,False,OFF-PA-10001934,Xerox 1993,Office Supplies,Paper,Supply_Chain
+1395,2017-12-05,6,False,FUR-FU-10003268,Eldon Radial Chair Mat for Low to Medium Pile Carpets,Furniture,Furnishings,Supply_Chain
+1396,2016-11-04,402,True,FUR-FU-10001889,Ultra Door Pull Handle,Furniture,Furnishings,Supply_Chain
+1397,2017-05-08,217,True,OFF-AP-10000692,Fellowes Mighty 8 Compact Surge Protector,Office Supplies,Appliances,Supply_Chain
+1398,2016-04-10,610,True,OFF-AP-10004980,3M Replacement Filter for Office Air Cleaner for 20' x 33' Room,Office Supplies,Appliances,Supply_Chain
+1399,2017-05-09,216,True,OFF-ST-10000636,Rogers Profile Extra Capacity Storage Tub,Office Supplies,Storage,Supply_Chain
+1400,2017-12-11,0,False,OFF-BI-10002498,Clear Mylar Reinforcing Strips,Office Supplies,Binders,Supply_Chain
+1401,2016-09-02,465,True,TEC-MA-10003230,Okidata C610n Printer,Technology,Machines,Supply_Chain
+1402,2017-12-09,2,False,OFF-BI-10000279,"Acco Recycled 2"" Capacity Laser Printer Hanging Data Binders",Office Supplies,Binders,Supply_Chain
+1403,2016-11-04,402,True,OFF-BI-10000494,Acco Economy Flexible Poly Round Ring Binder,Office Supplies,Binders,Supply_Chain
+1404,2016-11-04,402,True,OFF-PA-10000295,Xerox 229,Office Supplies,Paper,Supply_Chain
+1405,2016-11-10,396,True,FUR-FU-10003731,"Eldon Expressions Wood and Plastic Desk Accessories, Oak",Furniture,Furnishings,Supply_Chain
+1406,2017-11-02,39,False,OFF-AP-10003040,Fellowes 8 Outlet Superior Workstation Surge Protector w/o Phone/Fax/Modem Protection,Office Supplies,Appliances,Supply_Chain
+1407,2016-10-02,435,True,TEC-CO-10004722,Canon imageCLASS 2200 Advanced Copier,Technology,Copiers,Supply_Chain
+1408,2017-12-11,0,False,OFF-AR-10001958,Stanley Bostitch Contemporary Electric Pencil Sharpeners,Office Supplies,Art,Supply_Chain
+1409,2017-02-05,309,True,OFF-AP-10000275,"Sanyo Counter Height Refrigerator with Crisper, 3.6 Cubic Foot, Stainless Steel/Black",Office Supplies,Appliances,Supply_Chain
+1410,2016-09-12,455,True,OFF-FA-10002975,Staples,Office Supplies,Fasteners,Supply_Chain
+1411,2016-09-12,455,True,FUR-CH-10002073,Hon Olson Stacker Chairs,Furniture,Chairs,Supply_Chain
+1412,2016-05-09,581,True,OFF-PA-10001260,"TOPS Money Receipt Book, Consecutively Numbered in Red,",Office Supplies,Paper,Supply_Chain
+1413,2017-09-09,93,True,OFF-AP-10003278,Belkin 7-Outlet SurgeMaster Home Series,Office Supplies,Appliances,Supply_Chain
+1414,2016-09-02,465,True,FUR-FU-10000277,Deflect-o DuraMat Antistatic Studded Beveled Mat for Medium Pile Carpeting,Furniture,Furnishings,Supply_Chain
+1415,2016-11-05,401,True,TEC-AC-10004420,Cherry 142-key Programmable Keyboard,Technology,Accessories,Supply_Chain
+1416,2015-10-02,801,True,TEC-PH-10000369,HTC One Mini,Technology,Phones,Supply_Chain
+1417,2017-11-10,31,False,OFF-AR-10002221,12 Colored Short Pencils,Office Supplies,Art,Supply_Chain
+1418,2016-06-02,557,True,OFF-PA-10000246,Riverleaf Stik-Withit Designer Note Cubes,Office Supplies,Paper,Supply_Chain
+1419,2016-09-01,466,True,OFF-BI-10000320,GBC Plastic Binding Combs,Office Supplies,Binders,Supply_Chain
+1420,2017-12-11,0,False,OFF-AP-10001634,Hoover Commercial Lightweight Upright Vacuum,Office Supplies,Appliances,Supply_Chain
+1421,2017-09-11,91,True,OFF-AP-10002578,"Fellowes Premier Superior Surge Suppressor, 10-Outlet, With Phone and Remote",Office Supplies,Appliances,Supply_Chain
+1422,2017-08-12,121,True,TEC-PH-10002538,Grandstream GXP1160 VoIP phone,Technology,Phones,Supply_Chain
+1423,2016-11-11,395,True,OFF-AR-10003373,"Boston School Pro Electric Pencil Sharpener, 1670",Office Supplies,Art,Supply_Chain
+1424,2016-12-11,365,True,OFF-AR-10000914,Boston 16765 Mini Stand Up Battery Pencil Sharpener,Office Supplies,Art,Supply_Chain
+1425,2017-12-04,7,False,OFF-PA-10000241,"IBM Multi-Purpose Copy Paper, 8 1/2 x 11"", Case",Office Supplies,Paper,Supply_Chain
+1426,2016-12-11,365,True,OFF-BI-10002824,Recycled Easel Ring Binders,Office Supplies,Binders,Supply_Chain
+1427,2017-05-04,221,True,OFF-BI-10002897,"Black Avery Memo-Size 3-Ring Binder, 5 1/2"" x 8 1/2""",Office Supplies,Binders,Supply_Chain
+1428,2016-09-05,462,True,OFF-PA-10004971,Xerox 196,Office Supplies,Paper,Supply_Chain
+1429,2017-12-09,2,False,OFF-AP-10000159,Belkin F9M820V08 8 Outlet Surge,Office Supplies,Appliances,Supply_Chain
+1430,2015-01-09,1067,True,OFF-PA-10004996,"Speediset Carbonless Redi-Letter 7"" x 8 1/2""",Office Supplies,Paper,Supply_Chain
+1431,2017-03-11,275,True,OFF-ST-10004946,Desktop 3-Pocket Hot File,Office Supplies,Storage,Supply_Chain
+1432,2014-07-04,1256,True,OFF-PA-10004734,Southworth Structures Collection,Office Supplies,Paper,Supply_Chain
+1433,2016-10-01,436,True,OFF-AR-10003631,Staples in misc. colors,Office Supplies,Art,Supply_Chain
+1434,2015-08-11,853,True,TEC-PH-10004614,AT&T 841000 Phone,Technology,Phones,Supply_Chain
+1435,2017-10-02,70,False,TEC-MA-10002930,Ricoh - Ink Collector Unit for GX3000 Series Printers,Technology,Machines,Supply_Chain
+1436,2016-09-11,456,True,OFF-PA-10001837,Xerox 1976,Office Supplies,Paper,Supply_Chain
+1437,2017-09-02,100,True,OFF-BI-10000138,Acco Translucent Poly Ring Binders,Office Supplies,Binders,Supply_Chain
+1438,2015-05-03,953,True,TEC-AC-10000844,Logitech Gaming G510s - Keyboard,Technology,Accessories,Supply_Chain
+1439,2015-05-03,953,True,OFF-BI-10001575,GBC Linen Binding Covers,Office Supplies,Binders,Supply_Chain
+1440,2016-07-10,519,True,TEC-MA-10000904,"Brother MFC-9340CDW LED All-In-One Printer, Copier Scanner",Technology,Machines,Supply_Chain
+1441,2014-03-03,1379,True,OFF-LA-10000305,Avery 495,Office Supplies,Labels,Supply_Chain
+1442,2016-09-12,455,True,OFF-PA-10003790,Xerox 1991,Office Supplies,Paper,Supply_Chain
+1443,2017-06-10,184,True,OFF-AR-10001231,"Sanford EarthWrite Recycled Pencils, Medium Soft, #2",Office Supplies,Art,Supply_Chain
+1444,2014-09-02,1196,True,TEC-MA-10002210,Epson TM-T88V Direct Thermal Printer - Monochrome - Desktop,Technology,Machines,Supply_Chain
+1445,2017-12-04,7,False,TEC-MA-10001856,Okidata C610n Printer,Technology,Machines,Supply_Chain
+1446,2014-05-04,1317,True,OFF-AR-10001725,Boston Home & Office Model 2000 Electric Pencil Sharpeners,Office Supplies,Art,Supply_Chain
+1447,2014-05-04,1317,True,OFF-FA-10000840,OIC Thumb-Tacks,Office Supplies,Fasteners,Supply_Chain
+1448,2017-09-04,98,True,OFF-PA-10000289,Xerox 213,Office Supplies,Paper,Supply_Chain
+1449,2017-06-10,184,True,OFF-FA-10004395,Plymouth Boxed Rubber Bands by Plymouth,Office Supplies,Fasteners,Supply_Chain
+1450,2017-10-06,66,False,OFF-AR-10001761,Avery Hi-Liter Smear-Safe Highlighters,Office Supplies,Art,Supply_Chain
+1451,2017-05-11,214,True,OFF-AR-10004456,Panasonic KP-4ABK Battery-Operated Pencil Sharpener,Office Supplies,Art,Supply_Chain
+1452,2017-09-03,99,True,OFF-PA-10003424,"""While you Were Out"" Message Book, One Form per Page",Office Supplies,Paper,Supply_Chain
+1453,2017-12-07,4,False,OFF-AP-10004540,"Eureka The Boss Lite 10-Amp Upright Vacuum, Blue",Office Supplies,Appliances,Supply_Chain
+1454,2015-04-11,975,True,FUR-FU-10001290,Executive Impressions Supervisor Wall Clock,Furniture,Furnishings,Supply_Chain
+1455,2015-04-11,975,True,FUR-FU-10000087,"Executive Impressions 14"" Two-Color Numerals Wall Clock",Furniture,Furnishings,Supply_Chain
+1456,2017-11-10,31,False,TEC-AC-10001772,Memorex Mini Travel Drive 16 GB USB 2.0 Flash Drive,Technology,Accessories,Supply_Chain
+1457,2017-01-07,338,True,OFF-SU-10004884,Acme Galleria Hot Forged Steel Scissors with Colored Handles,Office Supplies,Supplies,Supply_Chain
+1458,2017-05-02,223,True,OFF-AR-10001615,Newell 34,Office Supplies,Art,Supply_Chain
+1459,2017-11-05,36,False,OFF-PA-10002615,"Ampad Gold Fibre Wirebound Steno Books, 6"" x 9"", Gregg Ruled",Office Supplies,Paper,Supply_Chain
+1460,2014-04-08,1343,True,FUR-TA-10004442,Riverside Furniture Stanwyck Manor Table Series,Furniture,Tables,Supply_Chain
+1461,2017-09-02,100,True,FUR-TA-10004607,Hon 2111 Invitation Series Straight Table,Furniture,Tables,Supply_Chain
+1462,2017-12-08,3,False,OFF-ST-10000036,"Recycled Data-Pak for Archival Bound Computer Printouts, 12-1/2 x 12-1/2 x 16",Office Supplies,Storage,Supply_Chain
+1463,2016-10-03,434,True,OFF-PA-10004610,Xerox 1900,Office Supplies,Paper,Supply_Chain
+1464,2016-11-07,399,True,OFF-ST-10001272,"Mini 13-1/2 Capacity Data Binder Rack, Pearl",Office Supplies,Storage,Supply_Chain
+1465,2014-01-06,1435,True,TEC-PH-10004539,Wireless Extenders zBoost YX545 SOHO Signal Booster,Technology,Phones,Supply_Chain
+1466,2014-01-06,1435,True,OFF-PA-10000955,Southworth 25% Cotton Granite Paper & Envelopes,Office Supplies,Paper,Supply_Chain
+1467,2017-12-02,9,False,FUR-BO-10003546,Hon 4-Shelf Metal Bookcases,Furniture,Bookcases,Supply_Chain
+1468,2017-12-02,9,False,TEC-PH-10000213,Seidio BD2-HK3IPH5-BK DILEX Case and Holster Combo for Apple iPhone 5/5s - Black,Technology,Phones,Supply_Chain
+1469,2017-12-02,9,False,TEC-PH-10004833,Macally Suction Cup Mount,Technology,Phones,Supply_Chain
+1470,2015-12-08,734,True,TEC-AC-10000865,WD My Passport Ultra 500GB Portable External Hard Drive,Technology,Accessories,Supply_Chain
+1471,2016-09-05,462,True,FUR-CH-10000309,Global Comet Stacking Arm Chair,Furniture,Chairs,Supply_Chain
+1472,2016-10-06,431,True,TEC-MA-10001695,Zebra GK420t Direct Thermal/Thermal Transfer Printer,Technology,Machines,Supply_Chain
+1473,2014-09-09,1189,True,TEC-MA-10002073,"3D Systems Cube Printer, 2nd Generation, White",Technology,Machines,Supply_Chain
+1474,2016-10-04,433,True,OFF-ST-10000136,Letter Size File,Office Supplies,Storage,Supply_Chain
+1475,2017-09-09,93,True,TEC-AC-10001114,Microsoft Wireless Mobile Mouse 4000,Technology,Accessories,Supply_Chain
+1476,2015-09-10,823,True,FUR-CH-10003981,Global Commerce Series Low-Back Swivel/Tilt Chairs,Furniture,Chairs,Supply_Chain
+1477,2017-06-02,192,True,OFF-PA-10000743,Xerox 1977,Office Supplies,Paper,Supply_Chain
+1478,2017-08-12,121,True,FUR-CH-10002331,Hon 4700 Series Mobuis Mid-Back Task Chairs with Adjustable Arms,Furniture,Chairs,Supply_Chain
+1479,2017-11-05,36,False,OFF-BI-10002706,Avery Premier Heavy-Duty Binder with Round Locking Rings,Office Supplies,Binders,Supply_Chain
+1480,2016-11-04,402,True,FUR-TA-10002533,BPI Conference Tables,Furniture,Tables,Supply_Chain
+1481,2016-11-04,402,True,OFF-SU-10003505,Premier Electric Letter Opener,Office Supplies,Supplies,Supply_Chain
+1482,2016-12-06,370,True,TEC-PH-10004080,Avaya 5410 Digital phone,Technology,Phones,Supply_Chain
+1483,2014-12-09,1098,True,OFF-AP-10003287,Tripp Lite TLP810NET Broadband Surge for Modem/Fax,Office Supplies,Appliances,Supply_Chain
+1484,2017-12-03,8,False,OFF-AR-10003856,Newell 344,Office Supplies,Art,Supply_Chain
+1485,2017-12-03,8,False,FUR-FU-10004053,DAX Two-Tone Silver Metal Document Frame,Furniture,Furnishings,Supply_Chain
+1486,2016-12-03,373,True,FUR-TA-10004147,Hon 4060 Series Tables,Furniture,Tables,Supply_Chain
+1487,2017-10-05,67,False,OFF-AP-10004052,"Hoover Replacement Belts For Soft Guard & Commercial Ltweight Upright Vacs, 2/Pk",Office Supplies,Appliances,Supply_Chain
+1488,2016-10-10,427,True,FUR-BO-10001567,"Bush Westfield Collection Bookcases, Dark Cherry Finish, Fully Assembled",Furniture,Bookcases,Supply_Chain
+1489,2016-10-10,427,True,TEC-PH-10002583,iOttie HLCRIO102 Car Mount,Technology,Phones,Supply_Chain
+1490,2016-10-10,427,True,FUR-CH-10004853,"Global Manager's Adjustable Task Chair, Storm",Furniture,Chairs,Supply_Chain
+1491,2016-01-11,700,True,FUR-FU-10002268,Ultra Door Push Plate,Furniture,Furnishings,Supply_Chain
+1492,2017-06-04,190,True,FUR-FU-10002501,Nu-Dell Executive Frame,Furniture,Furnishings,Supply_Chain
+1493,2015-09-11,822,True,OFF-ST-10003641,Space Solutions Industrial Galvanized Steel Shelving.,Office Supplies,Storage,Supply_Chain
+1494,2017-03-11,275,True,FUR-FU-10001379,"Executive Impressions 16-1/2"" Circular Wall Clock",Furniture,Furnishings,Supply_Chain
+1495,2016-07-03,526,True,OFF-AP-10000938,Avanti 1.7 Cu. Ft. Refrigerator,Office Supplies,Appliances,Supply_Chain
+1496,2017-11-08,33,False,OFF-AR-10002818,Panasonic KP-310 Heavy-Duty Electric Pencil Sharpener,Office Supplies,Art,Supply_Chain
+1497,2016-03-10,641,True,TEC-MA-10000984,Okidata MB760 Printer,Technology,Machines,Supply_Chain
+1498,2014-12-09,1098,True,TEC-CO-10001766,Canon PC940 Copier,Technology,Copiers,Supply_Chain
+1499,2015-02-06,1039,True,OFF-ST-10003470,"Tennsco Snap-Together Open Shelving Units, Starter Sets and Add-On Units",Office Supplies,Storage,Supply_Chain
+1500,2016-10-04,433,True,FUR-TA-10002622,"Bush Andora Conference Table, Maple/Graphite Gray Finish",Furniture,Tables,Supply_Chain
+1501,2015-11-02,770,True,FUR-BO-10004357,O'Sullivan Living Dimensions 3-Shelf Bookcases,Furniture,Bookcases,Supply_Chain
+1502,2015-12-06,736,True,OFF-PA-10004519,Spiral Phone Message Books with Labels by Adams,Office Supplies,Paper,Supply_Chain
+1503,2015-11-08,764,True,FUR-FU-10002240,Nu-Dell EZ-Mount Plastic Wall Frames,Furniture,Furnishings,Supply_Chain
+1504,2016-11-07,399,True,FUR-FU-10002030,"Executive Impressions 14"" Contract Wall Clock with Quartz Movement",Furniture,Furnishings,Supply_Chain
+1505,2014-10-03,1165,True,OFF-BI-10002609,Avery Hidden Tab Dividers for Binding Systems,Office Supplies,Binders,Supply_Chain
+1506,2014-10-03,1165,True,OFF-FA-10000254,Sterling Rubber Bands by Alliance,Office Supplies,Fasteners,Supply_Chain
+1507,2016-06-12,547,True,OFF-PA-10004782,Xerox 228,Office Supplies,Paper,Supply_Chain
+1508,2017-05-01,224,True,OFF-SU-10001212,Kleencut Forged Office Shears by Acme United Corporation,Office Supplies,Supplies,Supply_Chain
+1509,2017-05-01,224,True,FUR-CH-10002024,HON 5400 Series Task Chairs for Big and Tall,Furniture,Chairs,Supply_Chain
+1510,2016-11-10,396,True,TEC-PH-10003691,BlackBerry Q10,Technology,Phones,Supply_Chain
+1511,2015-05-10,946,True,OFF-AP-10002439,Tripp Lite Isotel 8 Ultra 8 Outlet Metal Surge,Office Supplies,Appliances,Supply_Chain
+1512,2017-08-12,121,True,OFF-PA-10003134,Xerox 1937,Office Supplies,Paper,Supply_Chain
+1513,2017-08-12,121,True,TEC-AC-10000397,"Perixx PERIBOARD-512B, Ergonomic Split Keyboard",Technology,Accessories,Supply_Chain
+1514,2017-08-12,121,True,OFF-BI-10004308,Avery Legal 4-Ring Binder,Office Supplies,Binders,Supply_Chain
+1515,2016-08-11,487,True,OFF-BI-10003007,"Premium Transparent Presentation Covers, No Pattern/Clear, 8 1/2"" x 11""",Office Supplies,Binders,Supply_Chain
+1516,2017-10-06,66,False,OFF-PA-10004888,Xerox 217,Office Supplies,Paper,Supply_Chain
+1517,2017-11-07,34,False,TEC-AC-10002370,Maxell CD-R Discs,Technology,Accessories,Supply_Chain
+1518,2016-03-09,642,True,OFF-PA-10001801,Xerox 193,Office Supplies,Paper,Supply_Chain
+1519,2016-07-02,527,True,OFF-AR-10003986,Avery Hi-Liter Pen Style Six-Color Fluorescent Set,Office Supplies,Art,Supply_Chain
+1520,2017-11-05,36,False,FUR-FU-10004245,"Career Cubicle Clock, 8 1/4"", Black",Furniture,Furnishings,Supply_Chain
+1521,2017-09-11,91,True,OFF-AP-10000027,Hoover Commercial SteamVac,Office Supplies,Appliances,Supply_Chain
+1522,2015-10-02,801,True,OFF-SU-10004290,"Acme Design Line 8"" Stainless Steel Bent Scissors w/Champagne Handles, 3-1/8"" Cut",Office Supplies,Supplies,Supply_Chain
+1523,2014-09-09,1189,True,OFF-PA-10001622,"Ampad Poly Cover Wirebound Steno Book, 6"" x 9"" Assorted Colors, Gregg Ruled",Office Supplies,Paper,Supply_Chain
+1524,2016-12-01,375,True,FUR-FU-10002045,"Executive Impressions 14""",Furniture,Furnishings,Supply_Chain
+1525,2017-07-08,156,True,FUR-FU-10001057,Tensor Track Tree Floor Lamp,Furniture,Furnishings,Supply_Chain
+1526,2017-07-08,156,True,OFF-AR-10001419,Newell 325,Office Supplies,Art,Supply_Chain
+1527,2017-05-09,216,True,OFF-ST-10000604,Home/Office Personal File Carts,Office Supplies,Storage,Supply_Chain
+1528,2017-10-12,60,False,FUR-BO-10003404,"Global Adaptabilites Bookcase, Cherry/Storm Gray Finish",Furniture,Bookcases,Supply_Chain
+1529,2016-03-12,639,True,OFF-PA-10004022,Hammermill Color Copier Paper (28Lb. and 96 Bright),Office Supplies,Paper,Supply_Chain
+1530,2016-02-02,678,True,TEC-MA-10001127,"HP Designjet T520 Inkjet Large Format Printer - 24"" Color",Technology,Machines,Supply_Chain
+1531,2016-03-08,643,True,TEC-AC-10004633,"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 3/Pack",Technology,Accessories,Supply_Chain
+1532,2016-03-08,643,True,OFF-EN-10001453,"Tyvek Interoffice Envelopes, 9 1/2"" x 12 1/2"", 100/Box",Office Supplies,Envelopes,Supply_Chain
+1533,2017-12-04,7,False,FUR-FU-10002506,"Tensor ""Hersey Kiss"" Styled Floor Lamp",Furniture,Furnishings,Supply_Chain
+1534,2017-11-10,31,False,FUR-CH-10001714,"Global Leather & Oak Executive Chair, Burgundy",Furniture,Chairs,Supply_Chain
+1535,2016-06-06,553,True,OFF-LA-10000452,Avery 488,Office Supplies,Labels,Supply_Chain
+1536,2015-09-11,822,True,FUR-FU-10000073,Deflect-O Glasstique Clear Desk Accessories,Furniture,Furnishings,Supply_Chain
+1537,2017-11-09,32,False,TEC-PH-10004094,Motorola L703CM,Technology,Phones,Supply_Chain
+1538,2015-09-07,826,True,OFF-ST-10003638,Mobile Personal File Cube,Office Supplies,Storage,Supply_Chain
+1539,2015-09-07,826,True,OFF-BI-10000605,"Acco Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Executive Red",Office Supplies,Binders,Supply_Chain
+1540,2015-03-01,1016,True,OFF-AP-10002906,Hoover Replacement Belt for Commercial Guardsman Heavy-Duty Upright Vacuum,Office Supplies,Appliances,Supply_Chain
+1541,2015-12-03,739,True,FUR-BO-10002213,"Sauder Forest Hills Library, Woodland Oak Finish",Furniture,Bookcases,Supply_Chain
+1542,2017-07-11,153,True,TEC-PH-10000004,Belkin iPhone and iPad Lightning Cable,Technology,Phones,Supply_Chain
+1543,2017-02-02,312,True,TEC-MA-10002109,"HP Officejet Pro 8600 e-All-In-One Printer, Copier, Scanner, Fax",Technology,Machines,Supply_Chain
+1544,2016-05-05,585,True,OFF-PA-10001001,"Snap-A-Way Black Print Carbonless Speed Message, No Reply Area, Duplicate",Office Supplies,Paper,Supply_Chain
+1545,2017-09-09,93,True,OFF-BI-10001628,"Acco Data Flex Cable Posts For Top & Bottom Load Binders, 6"" Capacity",Office Supplies,Binders,Supply_Chain
+1546,2016-11-10,396,True,FUR-BO-10003966,"Sauder Facets Collection Library, Sky Alder Finish",Furniture,Bookcases,Supply_Chain
+1547,2016-09-12,455,True,FUR-FU-10002813,"DAX Contemporary Wood Frame with Silver Metal Mat, Desktop, 11 x 14 Size",Furniture,Furnishings,Supply_Chain
+1548,2016-03-08,643,True,OFF-AP-10004233,Honeywell Enviracaire Portable Air Cleaner for up to 8 x 10 Room,Office Supplies,Appliances,Supply_Chain
+1549,2016-03-08,643,True,OFF-AR-10002766,Prang Drawing Pencil Set,Office Supplies,Art,Supply_Chain
+1550,2017-11-03,38,False,TEC-CO-10003236,Canon Image Class D660 Copier,Technology,Copiers,Supply_Chain
+1551,2015-06-05,920,True,OFF-PA-10000528,Xerox 1981,Office Supplies,Paper,Supply_Chain
+1552,2015-09-11,822,True,OFF-AP-10003860,Fellowes Advanced 8 Outlet Surge Suppressor with Phone/Fax Protection,Office Supplies,Appliances,Supply_Chain
+1553,2016-11-04,402,True,TEC-MA-10003176,Okidata B400 Printer,Technology,Machines,Supply_Chain
+1554,2014-10-10,1158,True,TEC-MA-10002694,Hewlett-Packard Deskjet F4180 All-in-One Color Ink-jet - Printer / copier / scanner,Technology,Machines,Supply_Chain
+1555,2016-07-01,528,True,TEC-AC-10001635,KeyTronic KT400U2 - Keyboard - Black,Technology,Accessories,Supply_Chain
+1556,2016-07-01,528,True,OFF-PA-10001950,Southworth 25% Cotton Antique Laid Paper & Envelopes,Office Supplies,Paper,Supply_Chain
+1557,2016-05-09,581,True,OFF-PA-10004327,Xerox 1911,Office Supplies,Paper,Supply_Chain
+1558,2016-11-03,403,True,TEC-MA-10003337,Okidata B401 Printer,Technology,Machines,Supply_Chain
+1559,2016-11-05,401,True,FUR-FU-10003806,"Tenex Chairmat w/ Average Lip, 45"" x 53""",Furniture,Furnishings,Supply_Chain
+1560,2016-11-03,403,True,FUR-CH-10004886,Bevis Steel Folding Chairs,Furniture,Chairs,Supply_Chain
+1561,2014-02-06,1404,True,OFF-BI-10001196,"Avery Flip-Chart Easel Binder, Black",Office Supplies,Binders,Supply_Chain
+1562,2017-10-01,71,False,TEC-AC-10004708,Sony 32GB Class 10 Micro SDHC R40 Memory Card,Technology,Accessories,Supply_Chain
+1563,2015-04-05,981,True,OFF-AR-10002467,Dixon Ticonderoga Pencils,Office Supplies,Art,Supply_Chain
+1564,2015-10-01,802,True,TEC-AC-10003657,Lenovo 17-Key USB Numeric Keypad,Technology,Accessories,Supply_Chain
+1565,2015-06-01,924,True,TEC-PH-10001300,"iKross Bluetooth Portable Keyboard + Cell Phone Stand Holder + Brush for Apple iPhone 5S 5C 5, 4S 4",Technology,Phones,Supply_Chain
+1566,2015-06-01,924,True,OFF-LA-10004178,Avery 491,Office Supplies,Labels,Supply_Chain
+1567,2017-10-12,60,False,TEC-PH-10002085,Clarity 53712,Technology,Phones,Supply_Chain
+1568,2015-11-07,765,True,FUR-FU-10000193,Tenex Chairmats For Use with Hard Floors,Furniture,Furnishings,Supply_Chain
+1569,2015-11-07,765,True,OFF-ST-10000129,Fellowes Recycled Storage Drawers,Office Supplies,Storage,Supply_Chain
+1570,2016-06-06,553,True,OFF-PA-10000210,Xerox Blank Computer Paper,Office Supplies,Paper,Supply_Chain
+1571,2017-09-04,98,True,OFF-BI-10002931,"Avery Trapezoid Extra Heavy Duty 4"" Binders",Office Supplies,Binders,Supply_Chain
+1572,2016-04-12,608,True,OFF-PA-10000807,"TOPS ""Important Message"" Pads, Canary, 4-1/4 x 5-1/2, 50 Sheets per Pad",Office Supplies,Paper,Supply_Chain
+1573,2016-08-09,489,True,OFF-BI-10004465,Avery Durable Slant Ring Binders,Office Supplies,Binders,Supply_Chain
+1574,2015-06-08,917,True,TEC-AC-10003433,Maxell 4.7GB DVD+R 5/Pack,Technology,Accessories,Supply_Chain
+1575,2016-12-01,375,True,OFF-ST-10002292,"Sauder Facets Collection Locker/File Cabinet, Sky Alder Finish",Office Supplies,Storage,Supply_Chain
+1576,2017-06-12,182,True,OFF-PA-10001639,Xerox 203,Office Supplies,Paper,Supply_Chain
+1577,2017-08-07,126,True,TEC-PH-10002415,Polycom VoiceStation 500 Conference phone,Technology,Phones,Supply_Chain
+1578,2017-08-07,126,True,FUR-CH-10002317,Global Enterprise Series Seating Low-Back Swivel/Tilt Chairs,Furniture,Chairs,Supply_Chain
+1579,2014-05-10,1311,True,OFF-SU-10004737,Acme Design Stainless Steel Bent Scissors,Office Supplies,Supplies,Supply_Chain
+1580,2017-08-03,130,True,OFF-ST-10003996,"Letter/Legal File Tote with Clear Snap-On Lid, Black Granite",Office Supplies,Storage,Supply_Chain
+1581,2017-12-11,0,False,OFF-EN-10003160,Pastel Pink Envelopes,Office Supplies,Envelopes,Supply_Chain
+1582,2014-07-09,1251,True,OFF-PA-10002365,Xerox 1967,Office Supplies,Paper,Supply_Chain
+1583,2015-10-09,794,True,OFF-AP-10002191,Belkin 8 Outlet SurgeMaster II Gold Surge Protector,Office Supplies,Appliances,Supply_Chain
+1584,2014-10-10,1158,True,OFF-AR-10000937,"Dixon Ticonderoga Core-Lock Colored Pencils, 48-Color Set",Office Supplies,Art,Supply_Chain
+1585,2016-04-05,615,True,TEC-PH-10000141,Clearsounds A400,Technology,Phones,Supply_Chain
+1586,2015-11-12,760,True,OFF-EN-10001539,Staple envelope,Office Supplies,Envelopes,Supply_Chain
+1587,2015-12-01,741,True,OFF-PA-10001826,Xerox 207,Office Supplies,Paper,Supply_Chain
+1588,2015-12-01,741,True,OFF-AR-10000823,Newell 307,Office Supplies,Art,Supply_Chain
+1589,2017-05-07,218,True,TEC-PH-10003437,Blue Parrot B250XT Professional Grade Wireless Bluetooth Headset with,Technology,Phones,Supply_Chain
+1590,2016-05-10,580,True,OFF-EN-10001535,Grip Seal Envelopes,Office Supplies,Envelopes,Supply_Chain
+1591,2017-12-10,1,False,FUR-FU-10001475,"Contract Clock, 14"", Brown",Furniture,Furnishings,Supply_Chain
+1592,2017-10-02,70,False,OFF-AP-10001947,Acco 6 Outlet Guardian Premium Plus Surge Suppressor,Office Supplies,Appliances,Supply_Chain
+1593,2014-10-12,1156,True,OFF-SU-10000898,"Acme Hot Forged Carbon Steel Scissors with Nickel-Plated Handles, 3 7/8"" Cut, 8""L",Office Supplies,Supplies,Supply_Chain
+1594,2014-09-08,1190,True,OFF-BI-10000822,"Acco PRESSTEX Data Binder with Storage Hooks, Light Blue, 9 1/2"" X 11""",Office Supplies,Binders,Supply_Chain
+1595,2016-12-02,374,True,FUR-BO-10003893,Sauder Camden County Collection Library,Furniture,Bookcases,Supply_Chain
+1596,2016-01-03,708,True,FUR-TA-10000617,"Hon Practical Foundations 30 x 60 Training Table, Light Gray/Charcoal",Furniture,Tables,Supply_Chain
+1597,2016-05-12,578,True,TEC-AC-10004518,Memorex Mini Travel Drive 32 GB USB 2.0 Flash Drive,Technology,Accessories,Supply_Chain
+1598,2017-11-05,36,False,OFF-PA-10000565,Easy-staple paper,Office Supplies,Paper,Supply_Chain
+1599,2016-05-03,587,True,FUR-FU-10001876,"Computer Room Manger, 14""",Furniture,Furnishings,Supply_Chain
+1600,2016-05-03,587,True,TEC-MA-10003589,Cisco 8961 IP Phone Charcoal,Technology,Machines,Supply_Chain
+1601,2016-05-03,587,True,OFF-LA-10000081,Avery 496,Office Supplies,Labels,Supply_Chain
+1602,2015-11-02,770,True,OFF-AP-10003099,"Eureka Hand Vacuum, Bagless",Office Supplies,Appliances,Supply_Chain
+1603,2017-11-12,29,False,OFF-PA-10001846,Xerox 1899,Office Supplies,Paper,Supply_Chain
+1604,2014-03-07,1375,True,OFF-AR-10000390,Newell Chalk Holder,Office Supplies,Art,Supply_Chain
+1605,2014-03-07,1375,True,FUR-CH-10002780,Office Star - Task Chair with Contemporary Loop Arms,Furniture,Chairs,Supply_Chain
+1606,2017-06-08,186,True,OFF-BI-10000778,GBC VeloBinder Electric Binding Machine,Office Supplies,Binders,Supply_Chain
+1607,2016-05-06,584,True,FUR-FU-10001617,"Executive Impressions 8-1/2"" Career Panel/Partition Cubicle Clock",Furniture,Furnishings,Supply_Chain
+1608,2017-11-12,29,False,OFF-ST-10002574,"SAFCO Commercial Wire Shelving, Black",Office Supplies,Storage,Supply_Chain
+1609,2015-01-12,1064,True,TEC-PH-10000912,Anker 24W Portable Micro USB Car Charger,Technology,Phones,Supply_Chain
+1610,2015-01-12,1064,True,TEC-AC-10000487,SanDisk Cruzer 4 GB USB Flash Drive,Technology,Accessories,Supply_Chain
+1611,2015-06-08,917,True,FUR-FU-10001185,"Advantus Employee of the Month Certificate Frame, 11 x 13-1/2",Furniture,Furnishings,Supply_Chain
+1612,2016-10-10,427,True,FUR-FU-10004963,"Eldon 400 Class Desk Accessories, Black Carbon",Furniture,Furnishings,Supply_Chain
+1613,2016-05-02,588,True,FUR-FU-10000732,Eldon 200 Class Desk Accessories,Furniture,Furnishings,Supply_Chain
+1614,2017-10-06,66,False,OFF-AR-10004790,Staples in misc. colors,Office Supplies,Art,Supply_Chain
+1615,2016-12-10,366,True,OFF-PA-10004609,Xerox 221,Office Supplies,Paper,Supply_Chain
+1616,2014-04-03,1348,True,OFF-EN-10001415,Staple envelope,Office Supplies,Envelopes,Supply_Chain
+1617,2016-06-06,553,True,FUR-FU-10004845,"Deflect-o EconoMat Nonstudded, No Bevel Mat",Furniture,Furnishings,Supply_Chain
+1618,2014-11-12,1125,True,FUR-FU-10004587,"GE General Use Halogen Bulbs, 100 Watts, 1 Bulb per Pack",Furniture,Furnishings,Supply_Chain
+1619,2016-04-07,613,True,OFF-ST-10001627,Eldon Jumbo ProFile Portable File Boxes Graphite/Black,Office Supplies,Storage,Supply_Chain
+1620,2016-12-12,364,True,OFF-SU-10000952,Fiskars Home & Office Scissors,Office Supplies,Supplies,Supply_Chain
+1621,2016-12-05,371,True,OFF-EN-10004483,"#10 White Business Envelopes,4 1/8 x 9 1/2",Office Supplies,Envelopes,Supply_Chain

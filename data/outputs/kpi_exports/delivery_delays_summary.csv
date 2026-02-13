@@ -1,0 +1,5 @@
+Delivery_Status,Shipment_Count,Percentage,Avg_Days
+Same/Next Day,1190,33.6,0.13277310924369748
+On Time (<=3 days),733,20.69,2.421555252387449
+Acceptable (4-5 days),1317,37.18,4.398633257403189
+Delayed (6-7 days),302,8.53,6.274834437086093

@@ -1,0 +1,739 @@
+customer_sk,customer_lifetime_value,total_orders,total_quantity,average_order_value,Customer_ID,Customer_Name,Segment,Region,Source_System,clv_segment
+433,18437.140000000003,2,24,9218.570000000002,TC-20980,Tamara Chand,Corporate,Central,Supply_Chain,High Value
+36,11432.849999999999,3,57,3810.9499999999994,BM-11140,Becky Martin,Consumer,Central,Supply_Chain,High Value
+163,10402.53,5,54,2080.5060000000003,SE-20110,Sanjit Engle,Consumer,East,Supply_Chain,High Value
+416,9536.56,4,43,2384.14,KF-16285,Karen Ferguson,Home Office,West,Supply_Chain,High Value
+122,9351.199999999999,3,26,3117.066666666666,GT-14635,Grant Thornton,Corporate,South,Supply_Chain,High Value
+300,9166.27,4,52,2291.5675,CJ-12010,Caroline Jumper,Consumer,East,Supply_Chain,High Value
+245,8866.710000000001,5,52,1773.342,ME-17320,Maria Etezadi,Home Office,South,Supply_Chain,High Value
+13,8282.36,5,64,1656.4720000000002,KD-16270,Karen Daniels,Consumer,South,Supply_Chain,High Value
+394,7426.900000000001,4,43,1856.7250000000001,DR-12940,Daniel Raglin,Home Office,East,Supply_Chain,High Value
+71,7354.22,4,39,1838.555,AB-10060,Adam Bellavance,Home Office,East,Supply_Chain,High Value
+476,7279.55,5,45,1455.91,KD-16495,Keith Dawkins,Corporate,Central,Supply_Chain,High Value
+207,7174.72,4,35,1793.68,NP-18700,Nora Preis,Consumer,West,Supply_Chain,High Value
+577,6856.02,3,30,2285.34,TS-21370,Todd Sumrall,Corporate,West,Supply_Chain,High Value
+448,6221.06,5,65,1244.212,Dp-13240,Dean percer,Home Office,South,Supply_Chain,High Value
+4,6011.21,5,72,1202.242,BH-11710,Brosina Hoffman,Consumer,West,Supply_Chain,High Value
+521,5741.4,3,21,1913.8,NC-18535,Nick Crebassa,Corporate,West,Supply_Chain,High Value
+355,5574.27,2,25,2787.135,GM-14695,Greg Maxwell,Corporate,West,Supply_Chain,High Value
+465,5322.16,2,35,2661.08,HW-14935,Helen Wasserman,Corporate,Central,Supply_Chain,High Value
+66,5321.4800000000005,3,21,1773.8266666666668,NM-18445,Nathan Mautz,Home Office,East,Supply_Chain,High Value
+313,5124.19,5,39,1024.838,LW-17215,Luke Weiss,Consumer,West,Supply_Chain,High Value
+219,4947.48,6,31,824.5799999999999,QJ-19255,Quincy Jones,Corporate,Central,Supply_Chain,High Value
+325,4925.599999999999,6,52,820.9333333333333,IL-15100,Ivan Liston,Consumer,West,Supply_Chain,High Value
+236,4733.2300000000005,3,52,1577.7433333333336,VD-21670,Valerie Dominguez,Consumer,West,Supply_Chain,High Value
+360,4708.91,5,41,941.7819999999999,BB-11545,Brenda Bowman,Corporate,Central,Supply_Chain,High Value
+112,4702.75,5,52,940.55,LR-16915,Lena Radford,Consumer,West,Supply_Chain,High Value
+52,4658.54,3,31,1552.8466666666666,DW-13480,Dianna Wilson,Home Office,Central,Supply_Chain,High Value
+542,4608.13,4,70,1152.0325,RL-19615,Rob Lucas,Consumer,Central,Supply_Chain,High Value
+323,4589.9400000000005,7,96,655.7057142857144,WB-21850,William Brown,Consumer,West,Supply_Chain,High Value
+204,4459.12,5,53,891.824,SP-20620,Stefania Perrino,Corporate,East,Supply_Chain,High Value
+220,4433.030000000001,2,16,2216.5150000000003,AA-10315,Alex Avila,Consumer,West,Supply_Chain,High Value
+656,4278.610000000001,2,31,2139.3050000000003,TW-21025,Tamara Willingham,Home Office,South,Supply_Chain,High Value
+473,4261.5,2,17,2130.75,JK-15640,Jim Kriz,Home Office,West,Supply_Chain,High Value
+320,4240.5,4,25,1060.125,KT-16480,Kean Thornton,Consumer,West,Supply_Chain,High Value
+263,4161.65,5,42,832.3299999999999,DB-13270,Deborah Brumfield,Home Office,West,Supply_Chain,High Value
+78,4055.4900000000002,2,48,2027.7450000000001,KH-16510,Keith Herrera,Consumer,West,Supply_Chain,High Value
+687,3915.92,3,45,1305.3066666666666,CM-12715,Craig Molinari,Corporate,Central,Supply_Chain,High Value
+83,3866.64,4,33,966.66,PO-19180,Philisse Overcash,Home Office,Central,Supply_Chain,High Value
+97,3828.27,8,60,478.53375,EP-13915,Emily Phan,Consumer,Central,Supply_Chain,High Value
+189,3817.8900000000003,3,49,1272.63,NP-18325,Naresj Patel,Consumer,West,Supply_Chain,High Value
+54,3802.91,2,23,1901.455,KC-16540,Kelly Collister,Consumer,West,Supply_Chain,High Value
+432,3774.9700000000003,3,40,1258.3233333333335,BM-11650,Brian Moss,Corporate,East,Supply_Chain,High Value
+47,3755.7300000000005,6,60,625.955,VW-21775,Victoria Wilson,Corporate,East,Supply_Chain,High Value
+424,3703.15,3,32,1234.3833333333334,JE-15610,Jim Epp,Corporate,South,Supply_Chain,High Value
+613,3598.98,3,32,1199.66,NW-18400,Natalie Webber,Consumer,East,Supply_Chain,High Value
+253,3595.61,4,29,898.9025,CM-12655,Corinna Mitchell,Home Office,West,Supply_Chain,High Value
+288,3589.2899999999995,4,36,897.3224999999999,TB-21175,Thomas Boland,Corporate,Central,Supply_Chain,High Value
+504,3589.04,2,49,1794.52,DK-12895,Dana Kaydos,Consumer,Central,Supply_Chain,High Value
+630,3588.0899999999997,1,26,3588.0899999999997,SP-20920,Susan Pistek,Consumer,East,Supply_Chain,High Value
+86,3573.44,3,48,1191.1466666666668,JP-15520,Jeremy Pistek,Consumer,West,Supply_Chain,High Value
+554,3517.47,5,49,703.4939999999999,LB-16795,Laurel Beltran,Home Office,South,Supply_Chain,High Value
+161,3480.96,1,13,3480.96,BE-11335,Bill Eplett,Home Office,Central,Supply_Chain,High Value
+290,3470.77,5,50,694.154,JF-15565,Jill Fjeld,Consumer,Central,Supply_Chain,High Value
+238,3453.35,4,89,863.3375,PP-18955,Paul Prost,Home Office,South,Supply_Chain,High Value
+194,3422.25,5,49,684.45,FH-14275,Frank Hawley,Corporate,Central,Supply_Chain,High Value
+443,3389.83,3,9,1129.9433333333334,PS-19045,Penelope Sewall,Home Office,West,Supply_Chain,High Value
+702,3384.45,1,6,3384.45,RH-19510,Rick Huthwaite,Home Office,West,Supply_Chain,High Value
+272,3327.08,4,16,831.77,MM-17920,Michael Moore,Consumer,East,Supply_Chain,High Value
+408,3279.5699999999997,3,32,1093.1899999999998,EM-14140,Eugene Moren,Home Office,West,Supply_Chain,High Value
+23,3232.8599999999997,6,47,538.81,CL-12565,Clay Ludtke,Consumer,Central,Supply_Chain,High Value
+449,3222.01,4,38,805.5025,MG-17650,Matthew Grinstein,Home Office,West,Supply_Chain,High Value
+170,3174.51,3,19,1058.17,BW-11110,Bart Watters,Corporate,Central,Supply_Chain,High Value
+182,3161.2,5,37,632.24,ZC-21910,Zuschuss Carroll,Consumer,South,Supply_Chain,High Value
+503,3138.1200000000003,2,12,1569.0600000000002,CC-12370,Christopher Conant,Consumer,West,Supply_Chain,High Value
+397,3124.44,5,26,624.888,DM-13345,Denise Monton,Corporate,South,Supply_Chain,High Value
+158,3098.2000000000003,6,64,516.3666666666667,MS-17365,Maribeth Schnelling,Consumer,Central,Supply_Chain,High Value
+403,3067.6000000000004,5,41,613.5200000000001,DL-12925,Daniel Lacy,Consumer,Central,Supply_Chain,High Value
+72,3037.21,3,42,1012.4033333333333,JL-15505,Jeremy Lonsdale,Consumer,East,Supply_Chain,High Value
+124,3029.12,4,18,757.28,AS-10285,Alejandro Savely,Corporate,West,Supply_Chain,High Value
+123,2971.77,4,26,742.9425,MC-17845,Michael Chen,Consumer,South,Supply_Chain,High Value
+77,2943.49,4,24,735.8725,AG-10675,Anna Gayman,Consumer,Central,Supply_Chain,High Value
+30,2931.62,4,27,732.905,JD-15895,Jonathan Doherty,Corporate,East,Supply_Chain,High Value
+287,2929.11,5,25,585.822,RP-19390,Resi Pölking,Consumer,Central,Supply_Chain,High Value
+6,2917.95,5,50,583.5899999999999,PK-19075,Pete Kriz,Consumer,Central,Supply_Chain,High Value
+74,2895.68,4,44,723.92,DK-13225,Dean Katz,Corporate,East,Supply_Chain,High Value
+518,2892.21,4,53,723.0525,MA-17560,Matt Abelman,Home Office,East,Supply_Chain,High Value
+105,2886.4700000000003,5,32,577.2940000000001,FP-14320,Frank Preis,Consumer,West,Supply_Chain,High Value
+604,2854.57,2,30,1427.285,JK-16090,Juliana Krohn,Consumer,Central,Supply_Chain,High Value
+107,2830.05,5,38,566.01,SF-20200,Sarah Foster,Consumer,West,Supply_Chain,High Value
+738,2824.23,1,8,2824.23,IM-15055,Ionia McGrath,Consumer,West,Supply_Chain,High Value
+304,2784.61,3,22,928.2033333333334,RW-19540,Rick Wilson,Corporate,West,Supply_Chain,High Value
+49,2782.08,5,35,556.4159999999999,CS-12400,Christopher Schild,Home Office,South,Supply_Chain,High Value
+548,2748.91,3,45,916.3033333333333,BS-11380,Bill Stewart,Corporate,West,Supply_Chain,High Value
+721,2676.67,1,9,2676.67,LC-16960,Lindsay Castell,Home Office,West,Supply_Chain,High Value
+32,2672.57,2,29,1336.285,JE-16165,Justin Ellison,Corporate,Central,Supply_Chain,High Value
+282,2642.2000000000003,2,19,1321.1000000000001,ED-13885,Emily Ducich,Home Office,West,Supply_Chain,High Value
+59,2634.3900000000003,4,25,658.5975000000001,AH-10210,Alan Hwang,Consumer,West,Supply_Chain,High Value
+348,2622.89,2,29,1311.445,SG-20605,Speros Goranitis,Consumer,East,Supply_Chain,High Value
+269,2611.0099999999998,5,48,522.202,MD-17350,Maribeth Dona,Consumer,East,Supply_Chain,High Value
+589,2608.0,4,22,652.0,EJ-14155,Eva Jacobs,Consumer,West,Supply_Chain,High Value
+45,2602.2099999999996,4,35,650.5524999999999,JH-15985,Joseph Holt,Consumer,Central,Supply_Chain,High Value
+706,2590.76,3,33,863.5866666666667,BO-11350,Bill Overfelt,Corporate,East,Supply_Chain,High Value
+109,2590.73,4,42,647.6825,DV-13465,Dianna Vittorini,Consumer,West,Supply_Chain,High Value
+308,2579.33,2,47,1289.665,JE-15715,Joe Elijah,Consumer,West,Supply_Chain,High Value
+209,2528.2400000000002,8,42,316.03000000000003,CC-12220,Chris Cortes,Consumer,Central,Supply_Chain,High Value
+188,2498.02,4,23,624.505,LW-16990,Lindsay Williams,Corporate,South,Supply_Chain,High Value
+229,2475.84,4,33,618.96,AS-10045,Aaron Smayling,Corporate,South,Supply_Chain,High Value
+498,2474.65,5,43,494.93,SV-20785,Stewart Visinsky,Consumer,South,Supply_Chain,High Value
+266,2438.9,5,50,487.78000000000003,EB-13750,Edward Becker,Corporate,West,Supply_Chain,High Value
+3,2417.33,4,42,604.3325,SO-20335,Sean O'Donnell,Consumer,South,Supply_Chain,High Value
+370,2401.79,2,18,1200.895,RR-19525,Rick Reed,Corporate,East,Supply_Chain,High Value
+26,2393.13,5,72,478.62600000000003,SC-20725,Steven Cartwright,Consumer,East,Supply_Chain,High Value
+206,2354.13,4,22,588.5325,GM-14680,Greg Matthias,Consumer,West,Supply_Chain,High Value
+699,2353.94,2,27,1176.97,NP-18670,Nora Paige,Consumer,Central,Supply_Chain,High Value
+533,2340.81,3,35,780.27,JL-15835,John Lee,Consumer,East,Supply_Chain,High Value
+511,2332.03,3,32,777.3433333333334,PV-18985,Paul Van Hugh,Home Office,West,Supply_Chain,High Value
+5,2322.83,4,51,580.7075,IM-15070,Irene Maddox,Consumer,West,Supply_Chain,High Value
+586,2271.1600000000003,3,18,757.0533333333334,FC-14335,Fred Chung,Corporate,West,Supply_Chain,High Value
+309,2255.87,1,40,2255.87,AC-10615,Ann Chong,Corporate,East,Supply_Chain,High Value
+491,2252.15,2,16,1126.075,KL-16555,Kelly Lampkin,Corporate,South,Supply_Chain,High Value
+285,2246.5099999999998,4,33,561.6274999999999,AG-10900,Arthur Gainer,Consumer,West,Supply_Chain,High Value
+363,2238.96,3,21,746.32,CM-12235,Chris McAfee,Consumer,Central,Supply_Chain,High Value
+306,2203.0299999999997,4,29,550.7574999999999,MZ-17515,Mary Zewe,Corporate,East,Supply_Chain,High Value
+85,2195.45,4,21,548.8625,SC-20095,Sanjit Chand,Consumer,West,Supply_Chain,High Value
+283,2193.79,2,24,1096.895,TT-21460,Tonja Turnell,Home Office,Central,Supply_Chain,High Value
+609,2181.4700000000003,2,14,1090.7350000000001,NF-18385,Natalie Fritzler,Consumer,South,Supply_Chain,High Value
+409,2173.6,8,41,271.7,SH-20395,Shahid Hopkins,Consumer,East,Supply_Chain,High Value
+574,2170.76,3,15,723.5866666666667,HG-14965,Henry Goldwyn,Corporate,Central,Supply_Chain,High Value
+691,2167.89,3,23,722.63,TS-21655,Trudy Schmidt,Consumer,West,Supply_Chain,High Value
+391,2162.88,3,40,720.96,KN-16450,Kean Nguyen,Corporate,West,Supply_Chain,High Value
+180,2156.94,9,93,239.66,NS-18640,Noel Staavos,Corporate,Central,Supply_Chain,High Value
+515,2148.35,5,25,429.66999999999996,RS-19765,Roland Schwarz,Corporate,South,Supply_Chain,High Value
+341,2142.4,3,16,714.1333333333333,RS-19420,Ricardo Sperren,Corporate,West,Supply_Chain,High Value
+453,2124.31,6,52,354.0516666666667,AH-10690,Anna Häberlin,Corporate,East,Supply_Chain,High Value
+178,2118.79,3,46,706.2633333333333,LA-16780,Laura Armstrong,Corporate,East,Supply_Chain,High Value
+635,2083.99,2,40,1041.995,JF-15415,Jennifer Ferguson,Consumer,West,Supply_Chain,High Value
+93,2079.67,2,36,1039.835,MG-18145,Mike Gockenbach,Consumer,East,Supply_Chain,High Value
+480,2060.0099999999998,4,46,515.0024999999999,DB-13555,Dorothy Badders,Corporate,East,Supply_Chain,High Value
+210,2058.94,3,28,686.3133333333334,PF-19225,Phillip Flathmann,Consumer,West,Supply_Chain,High Value
+462,2056.74,2,41,1028.37,RH-19600,Rob Haberlin,Consumer,Central,Supply_Chain,High Value
+388,2048.32,4,65,512.08,BT-11680,Brian Thompson,Consumer,South,Supply_Chain,High Value
+732,2031.3899999999999,1,11,2031.3899999999999,CM-12385,Christopher Martinez,Consumer,West,Supply_Chain,High Value
+142,2027.15,1,7,2027.15,RA-19915,Russell Applegate,Consumer,West,Supply_Chain,High Value
+115,2012.52,4,20,503.13,DJ-13420,Denny Joy,Corporate,South,Supply_Chain,High Value
+585,2009.4300000000003,4,38,502.3575000000001,SC-20020,Sam Craven,Consumer,Central,Supply_Chain,High Value
+536,2008.71,4,41,502.1775,AA-10645,Anna Andreadi,Consumer,West,Supply_Chain,High Value
+18,1994.19,3,32,664.73,GM-14455,Gary Mitchum,Home Office,Central,Supply_Chain,High Value
+140,1991.96,3,34,663.9866666666667,LT-17110,Liz Thompson,Consumer,West,Supply_Chain,High Value
+24,1953.96,4,14,488.49,DK-13090,Dave Kipp,Consumer,West,Supply_Chain,High Value
+254,1924.39,4,24,481.0975,JD-15790,John Dryer,Consumer,Central,Supply_Chain,High Value
+250,1911.3,7,43,273.04285714285714,KN-16390,Katherine Nockton,Corporate,West,Supply_Chain,High Value
+319,1895.92,3,58,631.9733333333334,RD-19900,Ruben Dartt,Consumer,West,Supply_Chain,High Value
+317,1891.0700000000002,3,14,630.3566666666667,RD-19480,Rick Duston,Consumer,Central,Supply_Chain,High Value
+251,1885.8200000000002,4,34,471.45500000000004,NM-18520,Neoma Murray,Consumer,Central,Supply_Chain,High Value
+113,1884.22,3,24,628.0733333333334,GD-14590,Giulietta Dortch,Corporate,East,Supply_Chain,High Value
+697,1872.93,1,17,1872.93,CR-12580,Clay Rozendal,Home Office,West,Supply_Chain,High Value
+303,1864.19,2,16,932.095,AC-10450,Amy Cox,Consumer,Central,Supply_Chain,High Value
+516,1858.04,3,24,619.3466666666667,JK-15730,Joe Kamberova,Consumer,Central,Supply_Chain,High Value
+259,1856.71,3,40,618.9033333333333,TB-21400,Tom Boeckenhauer,Consumer,West,Supply_Chain,High Value
+530,1853.29,4,21,463.3225,RO-19780,Rose O'Brian,Consumer,South,Supply_Chain,Medium Value
+459,1849.74,4,21,462.435,MH-17455,Mark Hamilton,Consumer,South,Supply_Chain,Medium Value
+581,1843.89,3,22,614.63,AH-10465,Amy Hunt,Consumer,Central,Supply_Chain,Medium Value
+176,1840.72,5,52,368.144,KM-16225,Kalyca Meade,Corporate,East,Supply_Chain,Medium Value
+68,1837.67,4,21,459.4175,DB-13615,Doug Bickford,Consumer,West,Supply_Chain,Medium Value
+114,1836.8000000000002,5,30,367.36,FM-14380,Fred McMath,Consumer,West,Supply_Chain,Medium Value
+582,1836.3500000000001,2,22,918.1750000000001,TP-21130,Theone Pippenger,Consumer,South,Supply_Chain,Medium Value
+31,1827.83,5,39,365.566,HA-14920,Helen Andreada,Consumer,West,Supply_Chain,Medium Value
+273,1820.51,5,28,364.102,RD-19585,Rob Dowd,Consumer,Central,Supply_Chain,Medium Value
+507,1812.8899999999999,2,26,906.4449999999999,MC-17275,Marc Crier,Consumer,East,Supply_Chain,Medium Value
+607,1804.39,4,41,451.0975,LC-17050,Liz Carlisle,Consumer,West,Supply_Chain,Medium Value
+94,1802.89,4,17,450.7225,KB-16240,Karen Bern,Corporate,West,Supply_Chain,Medium Value
+532,1799.47,2,16,899.735,MA-17995,Michelle Arnett,Home Office,Central,Supply_Chain,Medium Value
+564,1778.2400000000002,4,25,444.56000000000006,JO-15145,Jack O'Briant,Corporate,South,Supply_Chain,Medium Value
+347,1755.83,4,64,438.9575,BF-11020,Barry Französisch,Corporate,Central,Supply_Chain,Medium Value
+39,1750.95,4,46,437.7375,MP-17470,Mark Packer,Home Office,East,Supply_Chain,Medium Value
+553,1747.37,3,32,582.4566666666666,NR-18550,Nick Radford,Consumer,Central,Supply_Chain,Medium Value
+258,1745.6,5,45,349.12,AI-10855,Arianne Irving,Consumer,East,Supply_Chain,Medium Value
+40,1738.99,5,30,347.798,VM-21685,Valerie Mitchum,Home Office,East,Supply_Chain,Medium Value
+500,1736.6,2,42,868.3,VT-21700,Valerie Takahito,Home Office,East,Supply_Chain,Medium Value
+292,1721.69,4,30,430.4225,FO-14305,Frank Olsen,Consumer,South,Supply_Chain,Medium Value
+228,1710.74,4,49,427.685,JF-15190,Jamie Frazer,Consumer,West,Supply_Chain,Medium Value
+673,1689.7,2,25,844.85,MH-17290,Marc Harrigan,Home Office,East,Supply_Chain,Medium Value
+610,1672.0100000000002,3,58,557.3366666666667,AG-10495,Andrew Gjertsen,Corporate,South,Supply_Chain,Medium Value
+715,1671.0700000000002,1,22,1671.0700000000002,DP-13105,Dave Poirier,Corporate,East,Supply_Chain,Medium Value
+312,1669.08,2,18,834.54,ND-18460,Neil Ducich,Corporate,South,Supply_Chain,Medium Value
+275,1648.9,4,47,412.225,SB-20290,Sean Braxton,Corporate,East,Supply_Chain,Medium Value
+336,1643.04,2,14,821.52,JL-15850,John Lucas,Consumer,West,Supply_Chain,Medium Value
+133,1636.02,7,39,233.71714285714285,SC-20695,Steve Chapman,Corporate,South,Supply_Chain,Medium Value
+51,1629.8799999999999,4,37,407.46999999999997,KL-16645,Ken Lonsdale,Consumer,Central,Supply_Chain,Medium Value
+12,1627.3600000000001,2,15,813.6800000000001,BS-11590,Brendan Sweed,Corporate,West,Supply_Chain,Medium Value
+472,1618.68,2,6,809.34,RD-19660,Robert Dilbeck,Home Office,Central,Supply_Chain,Medium Value
+401,1608.64,3,14,536.2133333333334,EB-13975,Erica Bern,Corporate,South,Supply_Chain,Medium Value
+640,1598.9399999999998,3,32,532.9799999999999,TP-21565,Tracy Poddar,Corporate,West,Supply_Chain,Medium Value
+137,1587.18,3,14,529.0600000000001,YC-21895,Yoseph Carroll,Corporate,West,Supply_Chain,Medium Value
+134,1578.59,3,26,526.1966666666666,EG-13900,Emily Grady,Consumer,East,Supply_Chain,Medium Value
+606,1567.46,5,44,313.492,EA-14035,Erin Ashbrook,Corporate,East,Supply_Chain,Medium Value
+366,1562.69,1,11,1562.69,EN-13780,Edward Nazzal,Consumer,East,Supply_Chain,Medium Value
+676,1538.1499999999999,2,11,769.0749999999999,JS-15880,John Stevenson,Consumer,South,Supply_Chain,Medium Value
+695,1515.19,1,4,1515.19,MG-17680,Maureen Gastineau,Home Office,West,Supply_Chain,Medium Value
+343,1496.6100000000001,4,25,374.15250000000003,BC-11125,Becky Castell,Home Office,West,Supply_Chain,Medium Value
+129,1494.0100000000002,4,42,373.50250000000005,AP-10915,Arthur Prichep,Consumer,South,Supply_Chain,Medium Value
+41,1490.87,3,23,496.95666666666665,FH-14365,Fred Hopkins,Corporate,East,Supply_Chain,Medium Value
+232,1475.05,1,28,1475.05,AB-10600,Ann Blume,Corporate,West,Supply_Chain,Medium Value
+249,1456.71,5,30,291.342,DK-12835,Damala Kotsonis,Corporate,Central,Supply_Chain,Medium Value
+65,1455.0400000000002,4,33,363.76000000000005,AG-10525,Andy Gerbode,Corporate,South,Supply_Chain,Medium Value
+418,1452.3899999999999,6,41,242.06499999999997,NZ-18565,Nick Zandusky,Home Office,West,Supply_Chain,Medium Value
+154,1441.15,2,14,720.575,PK-18910,Paul Knutson,Home Office,East,Supply_Chain,Medium Value
+629,1432.73,2,16,716.365,CP-12340,Christine Phan,Corporate,South,Supply_Chain,Medium Value
+359,1428.31,6,33,238.05166666666665,DB-12910,Daniel Byrd,Home Office,South,Supply_Chain,Medium Value
+414,1426.02,3,23,475.34,JG-15160,James Galang,Consumer,South,Supply_Chain,Medium Value
+479,1420.75,4,40,355.1875,DB-13210,Dean Braden,Consumer,Central,Supply_Chain,Medium Value
+151,1414.96,2,25,707.48,AJ-10795,Anthony Johnson,Corporate,South,Supply_Chain,Medium Value
+316,1409.64,4,64,352.41,CK-12595,Clytie Kelty,Consumer,East,Supply_Chain,Medium Value
+277,1408.8,4,36,352.2,HF-14995,Herbert Flentye,Consumer,Central,Supply_Chain,Medium Value
+247,1397.03,5,34,279.406,MB-18085,Mick Brown,Consumer,East,Supply_Chain,Medium Value
+440,1390.42,6,28,231.73666666666668,CC-12475,Cindy Chapman,Consumer,East,Supply_Chain,Medium Value
+623,1389.12,4,34,347.28,RB-19465,Rick Bensley,Home Office,West,Supply_Chain,Medium Value
+103,1388.7800000000002,1,11,1388.7800000000002,OT-18730,Olvera Toch,Consumer,West,Supply_Chain,Medium Value
+118,1385.01,4,23,346.2525,AR-10825,Anthony Rawles,Corporate,West,Supply_Chain,Medium Value
+166,1380.52,3,11,460.17333333333335,RA-19885,Ruben Ausman,Corporate,West,Supply_Chain,Medium Value
+597,1376.8,3,33,458.93333333333334,DM-13525,Don Miller,Corporate,Central,Supply_Chain,Medium Value
+199,1368.07,3,57,456.0233333333333,AP-10720,Anne Pryor,Home Office,East,Supply_Chain,Medium Value
+8,1361.24,2,15,680.62,GH-14485,Gene Hale,Corporate,Central,Supply_Chain,Medium Value
+368,1348.02,3,24,449.34,SB-20170,Sarah Bern,Consumer,East,Supply_Chain,Medium Value
+82,1335.55,6,55,222.59166666666667,KH-16630,Ken Heidel,Corporate,Central,Supply_Chain,Medium Value
+53,1321.4,5,31,264.28000000000003,LH-17155,Logan Haushalter,Consumer,West,Supply_Chain,Medium Value
+286,1320.29,5,38,264.058,ML-17755,Max Ludwig,Home Office,South,Supply_Chain,Medium Value
+235,1317.86,2,20,658.93,KM-16720,Kunst Miller,Consumer,West,Supply_Chain,Medium Value
+195,1316.92,2,17,658.46,NC-18340,Nat Carroll,Consumer,Central,Supply_Chain,Medium Value
+501,1299.16,4,33,324.79,AB-10105,Adrian Barton,Consumer,Central,Supply_Chain,Medium Value
+351,1298.62,4,32,324.655,JA-15970,Joseph Airdo,Consumer,West,Supply_Chain,Medium Value
+302,1286.97,5,43,257.394,AS-10090,Adam Shillingsburg,Consumer,South,Supply_Chain,Medium Value
+125,1280.8300000000002,3,25,426.9433333333334,JK-15370,Jay Kimmel,Consumer,West,Supply_Chain,Medium Value
+255,1278.95,3,25,426.31666666666666,NG-18430,Nathan Gelder,Consumer,Central,Supply_Chain,Medium Value
+591,1271.56,2,14,635.78,KT-16465,Kean Takahito,Consumer,Central,Supply_Chain,Medium Value
+223,1260.03,6,33,210.005,MC-17575,Matt Collins,Consumer,East,Supply_Chain,Medium Value
+563,1259.04,3,15,419.68,LW-17125,Liz Willingham,Consumer,East,Supply_Chain,Medium Value
+279,1256.81,3,26,418.93666666666667,MM-18055,Michelle Moray,Consumer,Central,Supply_Chain,Medium Value
+35,1255.1,5,29,251.01999999999998,MJ-17740,Max Jones,Consumer,West,Supply_Chain,Medium Value
+310,1250.64,2,44,625.32,RW-19690,Robert Waldorf,Consumer,Central,Supply_Chain,Medium Value
+415,1249.18,4,23,312.295,ZD-21925,Zuschuss Donatelli,Consumer,South,Supply_Chain,Medium Value
+572,1249.1299999999999,3,20,416.3766666666666,TS-21205,Thomas Seio,Corporate,West,Supply_Chain,Medium Value
+50,1236.92,5,31,247.38400000000001,DB-13120,David Bremer,Corporate,West,Supply_Chain,Medium Value
+467,1234.21,4,39,308.5525,ML-17395,Marina Lichtenstein,Corporate,West,Supply_Chain,Medium Value
+330,1226.7,5,22,245.34,DK-13375,Dennis Kane,Consumer,East,Supply_Chain,Medium Value
+566,1221.47,4,38,305.3675,SH-19975,Sally Hughsby,Corporate,East,Supply_Chain,Medium Value
+651,1219.79,1,11,1219.79,EJ-13720,Ed Jacobs,Consumer,West,Supply_Chain,Medium Value
+301,1219.14,3,31,406.38000000000005,LF-17185,Luke Foster,Consumer,East,Supply_Chain,Medium Value
+650,1215.52,2,11,607.76,JH-16180,Justin Hirsh,Consumer,East,Supply_Chain,Medium Value
+172,1209.27,2,19,604.635,TZ-21580,Tracy Zic,Consumer,West,Supply_Chain,Medium Value
+468,1199.24,5,37,239.848,SU-20665,Stephanie Ulpright,Home Office,South,Supply_Chain,Medium Value
+396,1191.98,3,29,397.32666666666665,SN-20560,Skye Norling,Home Office,Central,Supply_Chain,Medium Value
+21,1184.81,2,20,592.405,ER-13855,Elpida Rittenbach,Corporate,Central,Supply_Chain,Medium Value
+230,1184.27,3,14,394.75666666666666,BP-11290,Beth Paige,Consumer,Central,Supply_Chain,Medium Value
+490,1178.68,3,15,392.8933333333334,JB-16045,Julia Barnett,Home Office,West,Supply_Chain,Medium Value
+405,1177.91,3,12,392.6366666666667,BP-11155,Becky Pak,Consumer,South,Supply_Chain,Medium Value
+33,1171.87,2,7,585.935,DB-13060,Dave Brooks,Consumer,West,Supply_Chain,Medium Value
+407,1169.46,1,27,1169.46,GT-14710,Greg Tran,Consumer,West,Supply_Chain,Medium Value
+237,1169.3899999999999,6,36,194.8983333333333,JK-16120,Julie Kriz,Home Office,Central,Supply_Chain,Medium Value
+458,1166.3,4,45,291.575,EH-13765,Edward Hooks,Corporate,East,Supply_Chain,Medium Value
+324,1165.56,5,27,233.112,CS-11950,Carlos Soltero,Consumer,Central,Supply_Chain,Medium Value
+224,1164.49,5,40,232.898,LP-17095,Liz Preis,Consumer,South,Supply_Chain,Medium Value
+171,1160.56,6,21,193.42666666666665,EB-13870,Emily Burns,Consumer,East,Supply_Chain,Medium Value
+547,1158.88,1,31,1158.88,NL-18310,Nancy Lomonaco,Home Office,West,Supply_Chain,Medium Value
+384,1146.48,5,28,229.296,JP-16135,Julie Prescott,Home Office,South,Supply_Chain,Medium Value
+537,1145.04,2,10,572.52,GW-14605,Giulietta Weimer,Consumer,East,Supply_Chain,Medium Value
+294,1127.98,1,3,1127.98,CH-12070,Cathy Hwang,Home Office,South,Supply_Chain,Medium Value
+506,1115.01,3,9,371.67,NP-18685,Nora Pelletier,Home Office,Central,Supply_Chain,Medium Value
+525,1111.05,3,17,370.34999999999997,AT-10435,Alyssa Tate,Home Office,West,Supply_Chain,Medium Value
+196,1107.3400000000001,5,37,221.46800000000002,CB-12535,Claudia Bergmann,Corporate,East,Supply_Chain,Medium Value
+568,1106.25,3,13,368.75,MC-17605,Matt Connell,Corporate,Central,Supply_Chain,Medium Value
+463,1106.04,2,30,553.02,CA-12055,Cathy Armstrong,Home Office,West,Supply_Chain,Medium Value
+130,1104.89,4,19,276.2225,SV-20365,Seth Vernon,Consumer,East,Supply_Chain,Medium Value
+200,1103.6599999999999,2,11,551.8299999999999,PM-18940,Paul MacIntyre,Consumer,Central,Supply_Chain,Medium Value
+168,1101.38,4,32,275.345,CV-12805,Cynthia Voltz,Corporate,West,Supply_Chain,Medium Value
+406,1099.99,2,15,549.995,CT-11995,Carol Triggs,Consumer,Central,Supply_Chain,Medium Value
+64,1090.3799999999999,4,34,272.59499999999997,BP-11185,Ben Peterman,Corporate,West,Supply_Chain,Medium Value
+187,1082.77,4,64,270.6925,LC-16870,Lena Cacioppo,Consumer,Central,Supply_Chain,Medium Value
+543,1080.24,4,24,270.06,HM-14860,Harry Marie,Corporate,West,Supply_Chain,Medium Value
+2,1076.98,3,21,358.99333333333334,DV-13045,Darrin Van Huff,Corporate,West,Supply_Chain,Medium Value
+338,1073.24,5,32,214.648,FM-14215,Filia McAdams,Corporate,East,Supply_Chain,Medium Value
+447,1063.3999999999999,3,29,354.46666666666664,CS-12490,Cindy Schnelling,Corporate,Central,Supply_Chain,Medium Value
+256,1061.49,2,18,530.745,PC-19000,Pauline Chand,Home Office,West,Supply_Chain,Medium Value
+427,1061.08,2,10,530.54,CS-11845,Cari Sayre,Corporate,West,Supply_Chain,Medium Value
+127,1058.62,2,20,529.31,DP-13165,David Philippe,Consumer,East,Supply_Chain,Medium Value
+271,1058.1100000000001,1,14,1058.1100000000001,JC-15385,Jenna Caffey,Consumer,West,Supply_Chain,Medium Value
+55,1055.21,5,37,211.042,DL-13315,Delfina Latchford,Consumer,East,Supply_Chain,Medium Value
+11,1045.21,1,12,1045.21,JM-15265,Janet Molinari,Corporate,East,Supply_Chain,Medium Value
+735,1043.05,1,20,1043.05,SM-20905,Susan MacKendrick,Consumer,East,Supply_Chain,Medium Value
+143,1042.72,5,30,208.544,PG-18820,Patrick Gardner,Consumer,West,Supply_Chain,Medium Value
+233,1040.79,7,41,148.68428571428572,SZ-20035,Sam Zeldin,Home Office,West,Supply_Chain,Medium Value
+61,1038.84,1,5,1038.84,JO-15280,Jas O'Carroll,Consumer,West,Supply_Chain,Medium Value
+478,1036.08,2,28,518.04,DB-12970,Darren Budd,Corporate,West,Supply_Chain,Medium Value
+307,1032.84,3,17,344.28,SC-20230,Scot Coram,Corporate,Central,Supply_Chain,Medium Value
+684,1004.59,2,4,502.295,TG-21310,Toby Gnade,Consumer,South,Supply_Chain,Medium Value
+524,1000.59,2,14,500.295,SJ-20500,Shirley Jackson,Consumer,East,Supply_Chain,Medium Value
+75,999.11,4,19,249.7775,MV-18190,Mike Vittorini,Consumer,East,Supply_Chain,Medium Value
+1,993.9000000000001,1,5,993.9000000000001,CG-12520,Claire Gute,Consumer,South,Supply_Chain,Medium Value
+508,991.48,3,17,330.49333333333334,NC-18625,Noah Childs,Corporate,Central,Supply_Chain,Medium Value
+25,984.68,4,30,246.17,GG-14650,Greg Guthrie,Corporate,South,Supply_Chain,Medium Value
+190,984.0600000000001,3,25,328.02000000000004,CS-12355,Christine Sundaresam,Consumer,South,Supply_Chain,Medium Value
+270,982.56,4,38,245.64,CA-12775,Cynthia Arntzen,Consumer,South,Supply_Chain,Medium Value
+555,981.99,4,29,245.4975,LH-16900,Lena Hernandez,Consumer,West,Supply_Chain,Medium Value
+89,975.55,2,26,487.775,MT-18070,Michelle Tran,Home Office,West,Supply_Chain,Medium Value
+239,967.19,4,15,241.7975,YS-21880,Yana Sorensen,Corporate,South,Supply_Chain,Medium Value
+248,961.25,6,33,160.20833333333334,MB-17305,Maria Bertelson,Consumer,West,Supply_Chain,Medium Value
+356,961.1500000000001,4,51,240.28750000000002,TB-21250,Tim Brockman,Consumer,East,Supply_Chain,Medium Value
+357,959.94,4,25,239.985,RB-19435,Richard Bierner,Consumer,Central,Supply_Chain,Medium Value
+587,955.6,2,17,477.8,AZ-10750,Annie Zypern,Consumer,East,Supply_Chain,Medium Value
+700,954.9,1,39,954.9,JM-15250,Janet Martin,Consumer,Central,Supply_Chain,Medium Value
+674,946.97,4,30,236.7425,MY-18295,Muhammed Yedwab,Corporate,East,Supply_Chain,Medium Value
+576,938.24,2,21,469.12,LR-17035,Lisa Ryan,Corporate,East,Supply_Chain,Medium Value
+147,932.83,5,31,186.566,CK-12760,Cyma Kinney,Corporate,East,Supply_Chain,Medium Value
+217,932.0699999999999,2,9,466.03499999999997,AD-10180,Alan Dominguez,Home Office,East,Supply_Chain,Medium Value
+579,928.78,3,12,309.5933333333333,HR-14770,Hallie Redmond,Home Office,Central,Supply_Chain,Medium Value
+371,921.34,3,9,307.11333333333334,TC-21295,Toby Carlisle,Consumer,West,Supply_Chain,Medium Value
+340,920.3600000000001,3,20,306.7866666666667,BW-11200,Ben Wallace,Consumer,West,Supply_Chain,Medium Value
+404,919.2600000000001,5,22,183.85200000000003,JM-16195,Justin MacKendrick,Consumer,East,Supply_Chain,Medium Value
+632,918.4399999999999,2,6,459.21999999999997,GM-14440,Gary McGarr,Consumer,West,Supply_Chain,Medium Value
+281,912.0400000000001,4,34,228.01000000000002,CA-12265,Christina Anderson,Consumer,South,Supply_Chain,Medium Value
+441,911.13,3,16,303.71,SJ-20215,Sarah Jordon,Consumer,Central,Supply_Chain,Medium Value
+201,907.9499999999999,2,10,453.97499999999997,SW-20275,Scott Williamson,Consumer,Central,Supply_Chain,Medium Value
+602,904.47,2,13,452.235,TH-21115,Thea Hudgings,Corporate,East,Supply_Chain,Medium Value
+7,894.47,7,54,127.78142857142858,KB-16585,Ken Black,Corporate,Central,Supply_Chain,Medium Value
+689,892.22,1,3,892.22,CA-11965,Carol Adams,Corporate,West,Supply_Chain,Medium Value
+520,887.74,2,21,443.87,PF-19120,Peter Fuller,Consumer,South,Supply_Chain,Medium Value
+260,882.32,3,40,294.1066666666667,GH-14425,Gary Hwang,Consumer,West,Supply_Chain,Medium Value
+552,879.3199999999999,4,16,219.82999999999998,EM-13960,Eric Murdock,Consumer,East,Supply_Chain,Medium Value
+600,879.16,3,18,293.05333333333334,TA-21385,Tom Ashbrook,Home Office,Central,Supply_Chain,Medium Value
+88,878.48,6,56,146.41333333333333,XP-21865,Xylona Preis,Consumer,West,Supply_Chain,Medium Value
+573,873.53,2,11,436.765,AB-10015,Aaron Bergman,Consumer,West,Supply_Chain,Medium Value
+69,868.22,2,14,434.11,AC-10420,Alyssa Crouse,Corporate,West,Supply_Chain,Medium Value
+106,856.4,2,27,428.2,EB-13840,Ellis Ballard,Corporate,West,Supply_Chain,Medium Value
+558,837.6,1,3,837.6,DL-13495,Dionis Lloyd,Corporate,West,Supply_Chain,Medium Value
+197,837.0500000000001,7,23,119.57857142857144,GB-14530,George Bell,Corporate,West,Supply_Chain,Medium Value
+305,835.49,3,16,278.49666666666667,HA-14905,Helen Abelman,Consumer,East,Supply_Chain,Medium Value
+92,835.15,5,31,167.03,EB-13705,Ed Braxton,Corporate,East,Supply_Chain,Medium Value
+373,831.88,3,21,277.29333333333335,RA-19285,Ralph Arnett,Consumer,Central,Supply_Chain,Medium Value
+354,821.69,3,31,273.8966666666667,SC-20380,Shahid Collister,Consumer,West,Supply_Chain,Medium Value
+218,820.1800000000001,4,27,205.04500000000002,CC-12430,Chuck Clark,Home Office,West,Supply_Chain,Medium Value
+179,813.96,2,12,406.98,MO-17500,Mary O'Rourke,Consumer,East,Supply_Chain,Medium Value
+264,812.46,3,23,270.82,AB-10150,Aimee Bixby,Consumer,East,Supply_Chain,Medium Value
+639,810.47,3,18,270.1566666666667,ME-17725,Max Engle,Consumer,South,Supply_Chain,Medium Value
+512,807.6600000000001,4,34,201.91500000000002,CB-12025,Cassandra Brandow,Consumer,East,Supply_Chain,Medium Value
+438,807.01,3,31,269.00333333333333,ES-14080,Erin Smith,Corporate,West,Supply_Chain,Medium Value
+417,805.72,2,14,402.86,TC-21475,Tony Chapman,Home Office,South,Supply_Chain,Medium Value
+643,805.0699999999999,3,29,268.3566666666666,FC-14245,Frank Carlisle,Home Office,West,Supply_Chain,Medium Value
+102,803.27,3,23,267.75666666666666,AJ-10945,Ashley Jarboe,Consumer,South,Supply_Chain,Medium Value
+540,802.31,3,17,267.43666666666667,TN-21040,Tanja Norvell,Home Office,West,Supply_Chain,Medium Value
+48,800.1100000000001,3,16,266.7033333333334,DS-13180,David Smith,Corporate,Central,Supply_Chain,Medium Value
+731,796.03,1,22,796.03,CD-12280,Christina DeMoss,Consumer,East,Supply_Chain,Medium Value
+90,785.85,3,20,261.95,CW-11905,Carl Weiss,Home Office,Central,Supply_Chain,Medium Value
+541,785.17,2,22,392.585,VF-21715,Vicky Freymann,Home Office,West,Supply_Chain,Medium Value
+146,784.39,5,37,156.878,GA-14725,Guy Armstrong,Consumer,East,Supply_Chain,Medium Value
+252,778.9900000000001,3,36,259.66333333333336,MK-18160,Mike Kennedy,Consumer,West,Supply_Chain,Medium Value
+104,761.1600000000001,4,14,190.29000000000002,JF-15490,Jeremy Farry,Consumer,West,Supply_Chain,Medium Value
+169,760.8,1,17,760.8,BS-11800,Bryan Spruell,Home Office,East,Supply_Chain,Medium Value
+647,759.6300000000001,5,33,151.92600000000002,SP-20650,Stephanie Phelps,Corporate,East,Supply_Chain,Medium Value
+486,756.3999999999999,2,17,378.19999999999993,JK-15625,Jim Karlsson,Consumer,West,Supply_Chain,Medium Value
+244,756.1899999999999,5,12,151.238,JB-15400,Jennifer Braxton,Corporate,West,Supply_Chain,Medium Value
+618,755.35,3,24,251.78333333333333,CS-12175,Charles Sheldon,Corporate,West,Supply_Chain,Medium Value
+421,753.66,2,14,376.83,KB-16405,Katrina Bavinger,Home Office,West,Supply_Chain,Medium Value
+100,753.47,3,19,251.15666666666667,PG-18895,Paul Gonzalez,Consumer,Central,Supply_Chain,Medium Value
+10,753.08,4,34,188.27,ON-18715,Odella Nelson,Corporate,Central,Supply_Chain,Medium Value
+615,751.29,2,13,375.645,PM-19135,Peter McVee,Home Office,Central,Supply_Chain,Medium Value
+628,749.46,2,12,374.73,BF-11215,Benjamin Farhat,Home Office,Central,Supply_Chain,Medium Value
+612,744.56,2,16,372.28,TG-21640,Trudy Glocke,Consumer,West,Supply_Chain,Medium Value
+98,737.52,3,13,245.84,DK-12985,Darren Koutras,Consumer,South,Supply_Chain,Medium Value
+595,735.4799999999999,2,9,367.73999999999995,NH-18610,Nicole Hansen,Corporate,Central,Supply_Chain,Medium Value
+653,734.49,3,21,244.83,VP-21760,Victoria Pisteka,Corporate,West,Supply_Chain,Medium Value
+231,727.03,3,12,242.34333333333333,ND-18370,Natalie DeCherney,Consumer,South,Supply_Chain,Medium Value
+289,722.13,4,23,180.5325,BE-11455,Brad Eason,Home Office,Central,Supply_Chain,Medium Value
+46,721.99,4,36,180.4975,MS-17980,Michael Stewart,Corporate,Central,Supply_Chain,Medium Value
+428,712.9300000000001,3,27,237.64333333333335,RD-19810,Ross DeVincentis,Home Office,East,Supply_Chain,Medium Value
+539,706.07,5,46,141.214,RD-19720,Roger Demir,Consumer,East,Supply_Chain,Medium Value
+57,695.36,4,13,173.84,Dl-13600,Dorris liebe,Corporate,Central,Supply_Chain,Medium Value
+457,694.72,4,15,173.68,EM-13825,Elizabeth Moffitt,Corporate,Central,Supply_Chain,Medium Value
+686,692.73,1,6,692.73,AR-10540,Andy Reiter,Consumer,West,Supply_Chain,Medium Value
+580,687.4499999999999,1,5,687.4499999999999,SC-20260,Scott Cohen,Corporate,West,Supply_Chain,Medium Value
+358,687.0899999999999,2,11,343.54499999999996,MY-17380,Maribeth Yedwab,Corporate,West,Supply_Chain,Medium Value
+681,682.34,3,13,227.4466666666667,DO-13645,Doug O'Connell,Consumer,South,Supply_Chain,Medium Value
+517,681.9100000000001,1,10,681.9100000000001,CR-12820,Cyra Reiten,Home Office,East,Supply_Chain,Medium Value
+352,681.24,2,15,340.62,ML-18040,Michelle Lonsdale,Corporate,West,Supply_Chain,Medium Value
+145,675.55,3,21,225.1833333333333,EM-14095,Eudokia Martin,Corporate,West,Supply_Chain,Medium Value
+73,674.32,2,11,337.16,VB-21745,Victoria Brennan,Corporate,South,Supply_Chain,Medium Value
+495,673.0899999999999,5,37,134.618,KE-16420,Katrina Edelman,Corporate,South,Supply_Chain,Medium Value
+659,662.93,3,15,220.97666666666666,RP-19855,Roy Phan,Corporate,Central,Supply_Chain,Medium Value
+192,656.63,2,32,328.315,BD-11605,Brian Dahlen,Consumer,South,Supply_Chain,Medium Value
+212,653.6899999999999,5,19,130.738,BD-11770,Bryan Davis,Consumer,Central,Supply_Chain,Medium Value
+624,647.6800000000001,2,17,323.84000000000003,TS-21430,Tom Stivers,Corporate,East,Supply_Chain,Medium Value
+425,646.9,3,9,215.63333333333333,EB-14110,Eugene Barchas,Consumer,East,Supply_Chain,Medium Value
+487,641.73,2,14,320.865,JL-15235,Janet Lee,Consumer,East,Supply_Chain,Medium Value
+372,637.47,3,18,212.49,KB-16315,Karl Braun,Consumer,South,Supply_Chain,Medium Value
+139,628.84,3,19,209.61333333333334,BM-11785,Bryan Mills,Consumer,East,Supply_Chain,Medium Value
+509,625.67,2,27,312.835,LP-17080,Liz Pelletier,Consumer,West,Supply_Chain,Medium Value
+648,625.67,2,18,312.835,SP-20545,Sibella Parks,Corporate,East,Supply_Chain,Medium Value
+663,619.75,2,27,309.875,JS-15595,Jill Stevenson,Corporate,Central,Supply_Chain,Medium Value
+22,617.79,4,14,154.4475,GZ-14470,Gary Zandusky,Consumer,Central,Supply_Chain,Medium Value
+284,617.41,3,12,205.8033333333333,RM-19375,Raymond Messe,Consumer,Central,Supply_Chain,Medium Value
+382,616.54,2,24,308.27,TM-21010,Tamara Manning,Consumer,West,Supply_Chain,Medium Value
+696,612.55,3,22,204.1833333333333,SF-20065,Sandra Flanagan,Consumer,East,Supply_Chain,Medium Value
+28,610.83,3,24,203.61,LS-16975,Lindsay Shagiari,Home Office,West,Supply_Chain,Medium Value
+550,609.5,2,18,304.75,AH-10120,Adrian Hane,Home Office,West,Supply_Chain,Medium Value
+345,609.46,2,10,304.73,MN-17935,Michael Nguyen,Consumer,East,Supply_Chain,Medium Value
+531,608.5500000000001,1,5,608.5500000000001,RR-19315,Ralph Ritter,Consumer,Central,Supply_Chain,Medium Value
+276,606.23,2,16,303.115,AW-10840,Anthony Witt,Consumer,East,Supply_Chain,Medium Value
+489,606.2099999999999,1,12,606.2099999999999,JG-15310,Jason Gross,Corporate,Central,Supply_Chain,Medium Value
+596,605.01,3,19,201.67,NB-18655,Nona Balk,Corporate,East,Supply_Chain,Medium Value
+499,603.72,3,18,201.24,MS-17770,Maxwell Schwartz,Consumer,Central,Supply_Chain,Medium Value
+222,601.74,2,13,300.87,LW-16825,Laurel Workman,Corporate,South,Supply_Chain,Medium Value
+655,601.44,1,11,601.44,DB-13405,Denny Blanton,Consumer,East,Supply_Chain,Medium Value
+708,597.73,2,32,298.865,HE-14800,Harold Engle,Corporate,East,Supply_Chain,Medium Value
+665,592.0799999999999,2,21,296.03999999999996,HM-14980,Henry MacAllister,Consumer,West,Supply_Chain,Medium Value
+599,588.78,1,2,588.78,EH-14185,Evan Henry,Consumer,East,Supply_Chain,Medium Value
+43,581.62,3,14,193.87333333333333,HK-14890,Heather Kirkland,Corporate,South,Supply_Chain,Medium Value
+364,575.4,5,25,115.08,CS-12250,Chris Selesnick,Corporate,Central,Supply_Chain,Medium Value
+42,573.79,3,12,191.26333333333332,BS-11755,Bruce Stewart,Consumer,West,Supply_Chain,Medium Value
+644,572.7,2,18,286.35,DS-13030,Darrin Sayre,Home Office,East,Supply_Chain,Medium Value
+395,566.87,4,31,141.7175,DM-13015,Darrin Martin,Consumer,West,Supply_Chain,Medium Value
+333,565.72,3,9,188.57333333333335,MV-17485,Mark Van Huff,Consumer,South,Supply_Chain,Medium Value
+549,564.77,1,4,564.77,Co-12640,Corey-Lock,Consumer,West,Supply_Chain,Medium Value
+470,563.89,2,9,281.945,TS-21505,Tony Sayre,Consumer,West,Supply_Chain,Medium Value
+84,560.78,1,22,560.78,RB-19360,Raymond Buch,Consumer,East,Supply_Chain,Medium Value
+475,560.5999999999999,5,49,112.11999999999998,FM-14290,Frank Merwin,Home Office,West,Supply_Chain,Medium Value
+116,555.4300000000001,2,17,277.71500000000003,SC-20305,Sean Christensen,Consumer,Central,Supply_Chain,Medium Value
+645,551.5300000000001,2,32,275.76500000000004,AW-10930,Arthur Wiediger,Home Office,East,Supply_Chain,Medium Value
+221,550.64,2,13,275.32,CS-12460,Chuck Sachs,Consumer,South,Supply_Chain,Medium Value
+332,547.95,2,7,273.975,MZ-17335,Maria Zettner,Home Office,West,Supply_Chain,Medium Value
+119,547.66,3,14,182.5533333333333,TH-21235,Tiffany House,Corporate,Central,Supply_Chain,Medium Value
+110,541.62,2,12,270.81,BD-11725,Bruce Degenhardt,Consumer,South,Supply_Chain,Medium Value
+621,534.64,3,22,178.21333333333334,SS-20410,Shahid Shariari,Consumer,South,Supply_Chain,Medium Value
+334,534.4200000000001,2,7,267.21000000000004,SM-20320,Sean Miller,Home Office,South,Supply_Chain,Medium Value
+183,534.19,2,15,267.095,DG-13300,Deirdre Greer,Corporate,East,Supply_Chain,Medium Value
+205,530.65,3,27,176.88333333333333,BF-11170,Ben Ferrer,Home Office,West,Supply_Chain,Medium Value
+135,524.78,2,18,262.39,PO-19195,Phillina Ober,Home Office,Central,Supply_Chain,Medium Value
+9,523.9,4,25,130.975,LC-16930,Linda Cazamias,Corporate,Central,Supply_Chain,Medium Value
+419,523.18,1,4,523.18,SW-20350,Sean Wendt,Home Office,Central,Supply_Chain,Medium Value
+211,514.6800000000001,2,16,257.34000000000003,DC-12850,Dan Campbell,Consumer,South,Supply_Chain,Medium Value
+588,511.77,2,14,255.885,JM-15865,John Murray,Consumer,West,Supply_Chain,Medium Value
+626,511.65000000000003,2,15,255.82500000000002,BD-11635,Brian Derr,Consumer,East,Supply_Chain,Medium Value
+560,509.14,3,7,169.71333333333334,CS-11860,Cari Schnelling,Consumer,South,Supply_Chain,Medium Value
+538,497.15,2,5,248.575,BG-11740,Bruce Geld,Consumer,Central,Supply_Chain,Medium Value
+733,497.05,1,21,497.05,PB-18805,Patrick Bzostek,Home Office,West,Supply_Chain,Medium Value
+399,489.91,3,27,163.30333333333334,AF-10885,Art Foster,Consumer,East,Supply_Chain,Medium Value
+298,489.78999999999996,2,13,244.89499999999998,RF-19840,Roy Französisch,Consumer,Central,Supply_Chain,Medium Value
+262,487.85,5,35,97.57000000000001,CK-12205,Chloris Kastensmidt,Consumer,East,Supply_Chain,Medium Value
+148,485.14,3,38,161.71333333333334,BK-11260,Berenike Kampe,Consumer,East,Supply_Chain,Medium Value
+717,479.97,1,3,479.97,PF-19165,Philip Fox,Consumer,West,Supply_Chain,Medium Value
+160,478.65,4,29,119.6625,LC-17140,Logan Currie,Consumer,West,Supply_Chain,Medium Value
+44,474.66999999999996,2,9,237.33499999999998,LE-16810,Laurel Elliston,Consumer,West,Supply_Chain,Medium Value
+37,472.03999999999996,1,12,472.03999999999996,CS-12130,Chad Sievert,Consumer,West,Supply_Chain,Medium Value
+60,471.43,2,14,235.715,CA-12310,Christine Abelman,Corporate,East,Supply_Chain,Medium Value
+29,469.63,3,22,156.54333333333332,DW-13585,Dorothy Wardle,Corporate,East,Supply_Chain,Medium Value
+99,468.9,1,6,468.9,BD-11500,Bradley Drucker,Consumer,Central,Supply_Chain,Medium Value
+734,467.65,1,13,467.65,RP-19270,Rachel Payne,Corporate,Central,Supply_Chain,Medium Value
+101,462.98,3,7,154.32666666666668,RC-19960,Ryan Crowe,Consumer,South,Supply_Chain,Medium Value
+202,461.55,3,15,153.85,JE-15745,Joel Eaton,Consumer,East,Supply_Chain,Medium Value
+342,458.61,2,11,229.305,SV-20935,Susan Vittorini,Consumer,East,Supply_Chain,Medium Value
+672,458.36,2,17,229.18,MF-18250,Monica Federle,Corporate,East,Supply_Chain,Medium Value
+704,457.74,1,27,457.74,DH-13675,Duane Huffman,Home Office,South,Supply_Chain,Medium Value
+431,455.74,3,17,151.91333333333333,SM-20950,Suzanne McNair,Corporate,East,Supply_Chain,Medium Value
+117,453.25,3,21,151.08333333333334,BB-10990,Barry Blumstein,Corporate,West,Supply_Chain,Medium Value
+322,450.14,3,25,150.04666666666665,EH-14005,Erica Hernandez,Home Office,East,Supply_Chain,Medium Value
+79,447.0,1,11,447.0,KC-16675,Kimberly Carter,Corporate,West,Supply_Chain,Medium Value
+361,443.53,3,31,147.84333333333333,TT-21220,Thomas Thornton,Consumer,Central,Supply_Chain,Medium Value
+513,443.14,4,15,110.785,SW-20245,Scot Wooten,Consumer,East,Supply_Chain,Medium Value
+562,442.66999999999996,3,10,147.55666666666664,TB-21625,Trudy Brown,Consumer,West,Supply_Chain,Medium Value
+436,441.81,3,14,147.27,VG-21790,Vivek Gonzalez,Consumer,West,Supply_Chain,Medium Value
+716,440.04999999999995,1,10,440.04999999999995,BT-11440,Bobby Trafton,Consumer,East,Supply_Chain,Medium Value
+705,435.84999999999997,1,13,435.84999999999997,PS-18760,Pamela Stobb,Consumer,East,Supply_Chain,Medium Value
+527,434.47,5,24,86.894,PO-18850,Patrick O'Brill,Consumer,South,Supply_Chain,Medium Value
+296,433.91999999999996,3,27,144.64,FA-14230,Frank Atkinson,Corporate,Central,Supply_Chain,Medium Value
+38,433.56,1,9,433.56,DK-13150,David Kendrick,Corporate,Central,Supply_Chain,Medium Value
+280,431.91,3,15,143.97,DC-13285,Debra Catini,Consumer,West,Supply_Chain,Medium Value
+494,424.02,2,14,212.01,JM-15655,Jim Mitchum,Corporate,West,Supply_Chain,Medium Value
+56,416.27000000000004,3,16,138.7566666666667,CC-12670,Craig Carreira,Consumer,East,Supply_Chain,Medium Value
+377,414.02,3,9,138.00666666666666,CP-12085,Cathy Prescott,Corporate,East,Supply_Chain,Medium Value
+329,413.79,1,20,413.79,NS-18505,Neola Schneider,Consumer,West,Supply_Chain,Medium Value
+349,410.98,3,13,136.99333333333334,AS-10630,Ann Steele,Home Office,East,Supply_Chain,Medium Value
+214,410.59999999999997,3,14,136.86666666666665,TR-21325,Toby Ritter,Consumer,Central,Supply_Chain,Medium Value
+96,407.12,5,22,81.424,AA-10375,Allen Armold,Consumer,West,Supply_Chain,Medium Value
+523,406.16999999999996,2,29,203.08499999999998,LS-16945,Linda Southworth,Corporate,Central,Supply_Chain,Medium Value
+569,405.91999999999996,1,5,405.91999999999996,BM-11575,Brendan Murry,Corporate,East,Supply_Chain,Medium Value
+642,403.28999999999996,2,5,201.64499999999998,BF-11275,Beth Fritzler,Corporate,South,Supply_Chain,Medium Value
+274,402.5,3,5,134.16666666666666,SW-20455,Shaun Weien,Consumer,South,Supply_Chain,Medium Value
+455,401.69,5,30,80.338,DP-13390,Dennis Pardue,Home Office,West,Supply_Chain,Medium Value
+718,399.67,1,7,399.67,BT-11395,Bill Tyler,Corporate,West,Supply_Chain,Medium Value
+81,398.7,3,14,132.9,SD-20485,Shirley Daniels,Home Office,East,Supply_Chain,Medium Value
+121,398.47,2,15,199.235,RB-19570,Rob Beeghly,Consumer,Central,Supply_Chain,Medium Value
+422,397.73,1,10,397.73,TP-21415,Tom Prescott,Consumer,Central,Supply_Chain,Medium Value
+423,392.17999999999995,2,11,196.08999999999997,FG-14260,Frank Gastineau,Home Office,Central,Supply_Chain,Medium Value
+184,389.34000000000003,4,38,97.33500000000001,NF-18595,Nicole Fjeld,Home Office,East,Supply_Chain,Medium Value
+578,387.24,2,13,193.62,CV-12295,Christina VanderZanden,Consumer,Central,Supply_Chain,Medium Value
+678,386.62,1,13,386.62,CM-12115,Chad McGuire,Consumer,West,Supply_Chain,Medium Value
+646,386.14,1,6,386.14,DB-13360,Dennis Bolton,Home Office,East,Supply_Chain,Medium Value
+633,383.84,1,4,383.84,AM-10705,Anne McFarland,Consumer,Central,Supply_Chain,Medium Value
+492,382.55,2,16,191.275,HG-14845,Harry Greene,Consumer,East,Supply_Chain,Medium Value
+314,378.89000000000004,2,11,189.44500000000002,SC-20050,Sample Company A,Home Office,Central,Supply_Chain,Medium Value
+556,375.71,1,11,375.71,JD-16060,Julia Dunbar,Consumer,Central,Supply_Chain,Medium Value
+614,370.89,2,6,185.445,BW-11065,Barry Weirich,Consumer,South,Supply_Chain,Medium Value
+299,370.78,1,3,370.78,NG-18355,Nat Gilpin,Corporate,East,Supply_Chain,Medium Value
+711,370.14,1,3,370.14,IG-15085,Ivan Gibson,Consumer,East,Supply_Chain,Medium Value
+662,368.39,2,9,184.195,CC-12610,Corey Catlett,Corporate,South,Supply_Chain,Medium Value
+181,368.32,2,22,184.16,SN-20710,Steve Nguyen,Home Office,Central,Supply_Chain,Medium Value
+669,364.07,1,13,364.07,CC-12685,Craig Carroll,Consumer,South,Supply_Chain,Medium Value
+58,363.52000000000004,3,9,121.17333333333335,RC-19825,Roy Collins,Consumer,Central,Supply_Chain,Medium Value
+111,359.83000000000004,3,11,119.94333333333334,MS-17830,Melanie Seite,Consumer,Central,Supply_Chain,Medium Value
+720,359.5,1,3,359.5,PW-19240,Pierre Wener,Consumer,West,Supply_Chain,Medium Value
+529,357.62,2,21,178.81,AG-10330,Alex Grayson,Consumer,West,Supply_Chain,Medium Value
+131,356.54999999999995,3,24,118.84999999999998,CK-12325,Christine Kargatis,Home Office,West,Supply_Chain,Medium Value
+413,354.65999999999997,2,3,177.32999999999998,MG-17875,Michael Grace,Home Office,East,Supply_Chain,Medium Value
+149,353.04,5,41,70.608,SJ-20125,Sanjit Jacobs,Home Office,East,Supply_Chain,Medium Value
+261,344.17,4,18,86.0425,MP-18175,Mike Pelletier,Home Office,West,Supply_Chain,Medium Value
+654,338.86,1,17,338.86,PO-18865,Patrick O'Donnell,Consumer,Central,Supply_Chain,Medium Value
+136,338.56,2,25,169.28,RF-19735,Roland Fjeld,Consumer,Central,Supply_Chain,Medium Value
+380,337.29999999999995,2,4,168.64999999999998,MS-17530,MaryBeth Skach,Consumer,West,Supply_Chain,Medium Value
+590,337.22999999999996,2,18,168.61499999999998,EC-14050,Erin Creighton,Consumer,South,Supply_Chain,Medium Value
+63,334.68,1,9,334.68,CR-12625,Corey Roper,Home Office,East,Supply_Chain,Medium Value
+638,334.43,1,7,334.43,RM-19675,Robert Marley,Home Office,East,Supply_Chain,Medium Value
+198,329.87,3,8,109.95666666666666,LT-16765,Larry Tron,Consumer,West,Supply_Chain,Medium Value
+454,329.09,3,20,109.69666666666666,KN-16705,Kristina Nunn,Home Office,South,Supply_Chain,Medium Value
+227,325.4,2,15,162.7,HP-14815,Harold Pawlan,Home Office,West,Supply_Chain,Medium Value
+460,322.59000000000003,4,32,80.64750000000001,SF-20965,Sylvia Foulston,Corporate,East,Supply_Chain,Medium Value
+670,318.96,1,9,318.96,CD-11980,Carol Darley,Consumer,East,Supply_Chain,Medium Value
+67,318.24,5,22,63.648,DJ-13510,Don Jones,Corporate,South,Supply_Chain,Medium Value
+138,318.23,4,34,79.5575,LH-17020,Lisa Hazard,Consumer,East,Supply_Chain,Medium Value
+389,315.56,2,4,157.78,LD-17005,Lisa DeCherney,Consumer,Central,Supply_Chain,Medium Value
+692,312.31,2,15,156.155,JG-15115,Jack Garza,Consumer,South,Supply_Chain,Medium Value
+240,310.64,3,12,103.54666666666667,KM-16375,Katherine Murray,Home Office,South,Supply_Chain,Medium Value
+185,309.40999999999997,2,10,154.70499999999998,BD-11620,Brian DeCherney,Consumer,West,Supply_Chain,Medium Value
+120,305.52,2,21,152.76,MO-17800,Meg O'Connel,Home Office,Central,Supply_Chain,Medium Value
+175,304.63000000000005,4,20,76.15750000000001,AT-10735,Annie Thurman,Consumer,Central,Supply_Chain,Medium Value
+311,303.37,1,9,303.37,JS-16030,Joy Smith,Consumer,Central,Supply_Chain,Medium Value
+293,303.29,2,20,151.645,LL-16840,Lauren Leatherbury,Consumer,West,Supply_Chain,Medium Value
+346,302.88,3,13,100.96,MP-17965,Michael Paige,Corporate,East,Supply_Chain,Medium Value
+429,300.52,5,40,60.104,GH-14410,Gary Hansen,Home Office,West,Supply_Chain,Medium Value
+426,297.66999999999996,2,10,148.83499999999998,CY-12745,Craig Yedwab,Corporate,Central,Supply_Chain,Medium Value
+535,297.46,4,26,74.365,CB-12415,Christy Brittain,Consumer,Central,Supply_Chain,Medium Value
+215,291.25,2,10,145.625,SA-20830,Sue Ann Reed,Consumer,South,Supply_Chain,Medium Value
+481,286.68,2,14,143.34,EH-14125,Eugene Hildebrand,Home Office,East,Supply_Chain,Medium Value
+34,284.85,3,19,94.95,TT-21070,Ted Trevino,Consumer,West,Supply_Chain,Medium Value
+484,282.21000000000004,2,21,141.10500000000002,DO-13435,Denny Ordway,Consumer,West,Supply_Chain,Medium Value
+570,279.96999999999997,3,9,93.32333333333332,AR-10345,Alex Russell,Corporate,East,Supply_Chain,Medium Value
+376,274.59,4,26,68.6475,JD-16015,Joy Daniels,Consumer,East,Supply_Chain,Medium Value
+690,274.39,2,22,137.195,VS-21820,Vivek Sundaresam,Consumer,Central,Supply_Chain,Medium Value
+559,272.63,2,10,136.315,JB-15925,Joni Blumstein,Consumer,Central,Supply_Chain,Medium Value
+162,272.29999999999995,3,14,90.76666666666665,RW-19630,Rob Williams,Corporate,Central,Supply_Chain,Medium Value
+203,271.96,1,5,271.96,LH-16750,Larry Hughes,Consumer,South,Supply_Chain,Medium Value
+27,269.86,3,14,89.95333333333333,TS-21610,Troy Staebel,Consumer,West,Supply_Chain,Medium Value
+337,265.78,1,4,265.78,AR-10405,Allen Rosenblatt,Corporate,West,Supply_Chain,Medium Value
+701,265.27,2,7,132.635,SR-20425,Sharelle Roach,Home Office,East,Supply_Chain,Medium Value
+485,262.72,3,15,87.57333333333334,MF-17665,Maureen Fritzler,Corporate,East,Supply_Chain,Medium Value
+62,261.88,3,6,87.29333333333334,AS-10225,Alan Schoenberger,Corporate,East,Supply_Chain,Medium Value
+410,260.05999999999995,2,18,130.02999999999997,GB-14575,Giulietta Baptist,Consumer,East,Supply_Chain,Medium Value
+592,259.13,3,9,86.37666666666667,DP-13000,Darren Powers,Consumer,Central,Supply_Chain,Medium Value
+707,258.75,2,6,129.375,MH-17440,Mark Haberlin,Corporate,Central,Supply_Chain,Medium Value
+318,258.28,2,26,129.14,BF-11080,Bart Folk,Consumer,East,Supply_Chain,Medium Value
+519,255.22,2,3,127.61,AH-10585,Angele Hood,Consumer,Central,Supply_Chain,Medium Value
+657,254.16,2,13,127.08,TB-21055,Ted Butterfield,Consumer,East,Supply_Chain,Medium Value
+365,252.14999999999998,1,4,252.14999999999998,BF-11005,Barry Franz,Home Office,West,Supply_Chain,Medium Value
+683,250.41,1,9,250.41,JF-15295,Jason Fortune-,Consumer,West,Supply_Chain,Medium Value
+241,250.32999999999998,3,22,83.44333333333333,BD-11320,Bill Donatelli,Consumer,East,Supply_Chain,Medium Value
+15,244.1,2,15,122.05,SC-20770,Stewart Carmichael,Corporate,South,Supply_Chain,Medium Value
+584,241.34,1,7,241.34,KW-16570,Kelly Williams,Consumer,Central,Supply_Chain,Medium Value
+383,239.97,1,3,239.97,ES-14020,Erica Smith,Consumer,East,Supply_Chain,Medium Value
+420,237.06,2,22,118.53,RE-19450,Richard Eichhorn,Consumer,Central,Supply_Chain,Medium Value
+331,236.42,2,7,118.21,JH-15820,John Huston,Consumer,Central,Supply_Chain,Medium Value
+437,235.97,1,10,235.97,JP-15460,Jennifer Patt,Corporate,East,Supply_Chain,Medium Value
+661,230.45,4,10,57.6125,BG-11035,Barry Gonzalez,Consumer,South,Supply_Chain,Medium Value
+295,226.17,3,21,75.39,BF-10975,Barbara Fisher,Corporate,South,Supply_Chain,Medium Value
+156,225.82999999999998,1,10,225.82999999999998,PC-18745,Pamela Coakley,Corporate,West,Supply_Chain,Medium Value
+362,222.95,2,12,111.475,LO-17170,Lori Olson,Corporate,West,Supply_Chain,Medium Value
+165,221.85999999999999,2,4,110.92999999999999,RK-19300,Ralph Kennedy,Consumer,East,Supply_Chain,Medium Value
+242,220.48000000000002,3,11,73.49333333333334,PW-19030,Pauline Webber,Corporate,South,Supply_Chain,Medium Value
+608,219.95,3,13,73.31666666666666,PS-18970,Paul Stevenson,Home Office,East,Supply_Chain,Medium Value
+17,213.37,2,10,106.685,JC-16105,Julie Creighton,Corporate,South,Supply_Chain,Medium Value
+327,211.82,2,10,105.91,BT-11305,Beth Thompson,Home Office,West,Supply_Chain,Medium Value
+493,209.17000000000002,2,18,104.58500000000001,JG-15805,John Grady,Corporate,Central,Supply_Chain,Medium Value
+452,208.78,2,18,104.39,KA-16525,Kelly Andreada,Consumer,East,Supply_Chain,Medium Value
+393,206.62,2,14,103.31,CS-12505,Cindy Stewart,Consumer,West,Supply_Chain,Medium Value
+315,206.32,1,5,206.32,SC-20800,Stuart Calhoun,Consumer,Central,Supply_Chain,Medium Value
+353,204.03,2,5,102.015,MC-17590,Matt Collister,Corporate,West,Supply_Chain,Medium Value
+126,203.11,2,9,101.555,BN-11470,Brad Norvell,Corporate,South,Supply_Chain,Medium Value
+675,201.22,2,15,100.61,JK-15205,Jamie Kunitz,Consumer,South,Supply_Chain,Medium Value
+641,201.05,3,16,67.01666666666667,RB-19795,Ross Baird,Home Office,Central,Supply_Chain,Medium Value
+712,200.73,1,5,200.73,DH-13075,Dave Hallsten,Corporate,West,Supply_Chain,Medium Value
+625,199.99,1,13,199.99,AY-10555,Andy Yotov,Corporate,West,Supply_Chain,Medium Value
+722,199.3,1,7,199.3,EB-13930,Eric Barreto,Consumer,South,Supply_Chain,Medium Value
+155,195.19,2,16,97.595,SM-20005,Sally Matthias,Consumer,East,Supply_Chain,Medium Value
+466,195.1,3,10,65.03333333333333,DM-12955,Dario Medina,Corporate,West,Supply_Chain,Medium Value
+164,195.0,2,11,97.5,JJ-15760,Joel Jenkins,Home Office,South,Supply_Chain,Medium Value
+267,194.72,2,5,97.36,CM-12190,Charlotte Melton,Consumer,East,Supply_Chain,Medium Value
+344,194.25,2,21,97.125,AM-10360,Alice McCarthy,Corporate,West,Supply_Chain,Medium Value
+132,190.35999999999999,3,12,63.453333333333326,MR-17545,Mathew Reese,Home Office,East,Supply_Chain,Medium Value
+565,189.92,1,12,189.92,FH-14350,Fred Harton,Consumer,East,Supply_Chain,Medium Value
+593,187.06,1,9,187.06,DL-12865,Dan Lawera,Consumer,South,Supply_Chain,Medium Value
+91,182.17000000000002,3,10,60.723333333333336,SS-20590,Sonia Sunley,Consumer,West,Supply_Chain,Medium Value
+20,181.85,3,13,60.61666666666667,PN-18775,Parhena Norris,Home Office,East,Supply_Chain,Medium Value
+213,181.63,2,8,90.815,KC-16255,Karen Carlisle,Corporate,South,Supply_Chain,Medium Value
+482,175.32,1,5,175.32,ML-17410,Maris LaWare,Consumer,East,Supply_Chain,Medium Value
+714,174.3,2,24,87.15,HD-14785,Harold Dahlen,Home Office,East,Supply_Chain,Medium Value
+369,171.78,2,6,85.89,HG-15025,Hunter Glantz,Consumer,Central,Supply_Chain,Low Value
+350,167.5,2,7,83.75,EM-13810,Eleni McCrary,Corporate,West,Supply_Chain,Low Value
+464,164.02,2,20,82.01,RD-19930,Russell D'Ascenzo,Consumer,Central,Supply_Chain,Low Value
+16,160.21,2,10,80.105,DN-13690,Duane Noonan,Consumer,West,Supply_Chain,Low Value
+502,156.46,2,10,78.23,DW-13540,Don Weiss,Consumer,East,Supply_Chain,Low Value
+461,155.0,2,3,77.5,PJ-19015,Pauline Johnson,Consumer,South,Supply_Chain,Low Value
+583,154.77,2,12,77.385,JM-15580,Jill Matthias,Consumer,South,Supply_Chain,Low Value
+386,154.29,2,14,77.145,MO-17950,Michael Oakman,Consumer,Central,Supply_Chain,Low Value
+598,153.87,2,7,76.935,PR-18880,Patrick Ryan,Consumer,South,Supply_Chain,Low Value
+193,153.73,2,14,76.865,JS-15940,Joni Sundaresam,Home Office,East,Supply_Chain,Low Value
+144,153.18,2,14,76.59,JL-15175,James Lanier,Home Office,South,Supply_Chain,Low Value
+561,152.8,2,6,76.4,MH-18025,Michelle Huthwaite,Consumer,East,Supply_Chain,Low Value
+679,151.98000000000002,3,18,50.660000000000004,MC-18100,Mick Crebagga,Consumer,Central,Supply_Chain,Low Value
+444,148.97,2,9,74.485,AH-10195,Alan Haines,Corporate,Central,Supply_Chain,Low Value
+505,148.95,2,13,74.475,KM-16660,Khloe Miller,Consumer,South,Supply_Chain,Low Value
+727,147.57,1,2,147.57,MM-17260,Magdelene Morse,Consumer,East,Supply_Chain,Low Value
+243,147.07999999999998,2,8,73.53999999999999,SC-20440,Shaun Chance,Corporate,West,Supply_Chain,Low Value
+737,146.69,1,9,146.69,TB-21595,Troy Blackwell,Consumer,West,Supply_Chain,Low Value
+724,145.51,1,5,145.51,MG-17695,Maureen Gnade,Consumer,Central,Supply_Chain,Low Value
+668,143.55,2,9,71.775,GA-14515,George Ashbrook,Consumer,West,Supply_Chain,Low Value
+660,143.48999999999998,2,13,71.74499999999999,VM-21835,Vivian Mathis,Consumer,East,Supply_Chain,Low Value
+265,141.79000000000002,2,13,70.89500000000001,JW-16075,Julia West,Consumer,East,Supply_Chain,Low Value
+522,139.07999999999998,4,10,34.769999999999996,SR-20740,Steven Roelle,Home Office,West,Supply_Chain,Low Value
+76,137.32999999999998,3,12,45.776666666666664,BP-11095,Bart Pistole,Corporate,Central,Supply_Chain,Low Value
+14,133.6,3,18,44.53333333333333,KB-16600,Ken Brennan,Corporate,Central,Supply_Chain,Low Value
+159,130.73000000000002,2,7,65.36500000000001,JR-16210,Justin Ritter,Corporate,East,Supply_Chain,Low Value
+186,127.45,2,19,63.725,MS-17710,Maurice Satty,Consumer,West,Supply_Chain,Low Value
+510,126.08,2,10,63.04,BG-11695,Brooke Gillingham,Corporate,East,Supply_Chain,Low Value
+652,125.93,1,7,125.93,SV-20815,Stuart Van,Corporate,Central,Supply_Chain,Low Value
+545,123.83999999999999,2,6,61.919999999999995,AG-10765,Anthony Garverick,Home Office,South,Supply_Chain,Low Value
+446,122.47999999999999,3,17,40.82666666666666,TC-21535,Tracy Collins,Home Office,East,Supply_Chain,Low Value
+226,121.58,3,9,40.526666666666664,AB-10255,Alejandro Ballentine,Home Office,East,Supply_Chain,Low Value
+551,118.44999999999999,2,8,59.224999999999994,KH-16330,Katharine Harms,Corporate,Central,Supply_Chain,Low Value
+514,118.17,2,9,59.085,JF-15355,Jay Fein,Consumer,South,Supply_Chain,Low Value
+474,116.47999999999999,1,12,116.47999999999999,JW-15955,Joni Wasserman,Consumer,East,Supply_Chain,Low Value
+603,115.3,1,3,115.3,TB-21355,Todd Boyes,Corporate,Central,Supply_Chain,Low Value
+439,114.9,1,5,114.9,BN-11515,Bradley Nguyen,Consumer,East,Supply_Chain,Low Value
+390,114.78,1,17,114.78,MD-17860,Michael Dominguez,Corporate,Central,Supply_Chain,Low Value
+177,114.49,2,14,57.245,DE-13255,Deanra Eno,Home Office,East,Supply_Chain,Low Value
+191,112.03999999999999,1,7,112.03999999999999,PA-19060,Pete Armstrong,Home Office,Central,Supply_Chain,Low Value
+658,111.96,1,4,111.96,CM-11815,Candace McMahon,Corporate,West,Supply_Chain,Low Value
+378,110.10000000000001,1,7,110.10000000000001,DF-13135,David Flashing,Consumer,West,Supply_Chain,Low Value
+685,109.62,1,13,109.62,DD-13570,Dorothy Dickinson,Consumer,West,Supply_Chain,Low Value
+108,109.60000000000001,3,8,36.53333333333334,CC-12145,Charles Crestani,Consumer,West,Supply_Chain,Low Value
+87,108.72,2,8,54.36,KH-16690,Kristen Hastings,Corporate,West,Supply_Chain,Low Value
+728,107.65,1,2,107.65,KD-16615,Ken Dana,Corporate,West,Supply_Chain,Low Value
+80,107.55000000000001,3,12,35.85,SP-20860,Sung Pak,Corporate,West,Supply_Chain,Low Value
+730,104.7,1,1,104.7,MH-17785,Maya Herman,Corporate,West,Supply_Chain,Low Value
+385,102.83,1,6,102.83,NK-18490,Neil Knudson,Home Office,West,Supply_Chain,Low Value
+430,98.63999999999999,2,8,49.31999999999999,PT-19090,Pete Takahito,Consumer,Central,Supply_Chain,Low Value
+488,98.35,1,4,98.35,RM-19750,Roland Murray,Consumer,East,Supply_Chain,Low Value
+328,97.56,3,8,32.52,CG-12040,Catherine Glotzbach,Home Office,South,Supply_Chain,Low Value
+435,95.97,1,4,95.97,TB-21280,Toby Braunhardt,Consumer,South,Supply_Chain,Low Value
+688,94.72999999999999,1,3,94.72999999999999,SW-20755,Steven Ward,Corporate,West,Supply_Chain,Low Value
+208,91.72999999999999,1,8,91.72999999999999,MH-18115,Mick Hernandez,Home Office,East,Supply_Chain,Low Value
+725,91.42,1,6,91.42,SB-20185,Sarah Brown,Consumer,West,Supply_Chain,Low Value
+637,90.72999999999999,3,9,30.24333333333333,JH-15910,Jonathan Howell,Consumer,Central,Supply_Chain,Low Value
+477,87.89999999999999,2,3,43.949999999999996,AG-10300,Aleksandra Gannaway,Corporate,West,Supply_Chain,Low Value
+297,87.4,2,10,43.7,DA-13450,Dianna Arnett,Home Office,East,Supply_Chain,Low Value
+451,86.49,2,13,43.245,AB-10165,Alan Barnes,Consumer,West,Supply_Chain,Low Value
+546,85.39,4,18,21.3475,JB-16000,Joy Bell-,Consumer,East,Supply_Chain,Low Value
+649,85.21000000000001,1,13,85.21000000000001,CC-12100,Chad Cunningham,Home Office,East,Supply_Chain,Low Value
+379,82.93,2,6,41.465,EH-13945,Eric Hoffmann,Consumer,East,Supply_Chain,Low Value
+434,78.64,2,13,39.32,JL-15130,Jack Lebron,Consumer,Central,Supply_Chain,Low Value
+634,77.91,2,7,38.955,AS-10240,Alan Shonely,Consumer,West,Supply_Chain,Low Value
+483,75.42,2,8,37.71,MH-17620,Matt Hagelstein,Corporate,West,Supply_Chain,Low Value
+70,74.94,3,18,24.98,TD-20995,Tamara Dahlen,Consumer,East,Supply_Chain,Low Value
+567,74.24,2,6,37.12,SL-20155,Sara Luxemburg,Home Office,South,Supply_Chain,Low Value
+534,73.78,1,6,73.78,MW-18220,Mitch Webber,Consumer,East,Supply_Chain,Low Value
+157,73.02,3,11,24.34,HL-15040,Hunter Lopez,Consumer,Central,Supply_Chain,Low Value
+571,72.69,1,8,72.69,KD-16345,Katherine Ducich,Consumer,East,Supply_Chain,Low Value
+291,69.93,1,7,69.93,PB-19210,Phillip Breyer,Corporate,Central,Supply_Chain,Low Value
+698,69.86,1,11,69.86,BS-11365,Bill Shonely,Corporate,West,Supply_Chain,Low Value
+234,66.07,2,4,33.035,MG-17890,Michael Granlund,Home Office,East,Supply_Chain,Low Value
+469,65.86,2,11,32.93,CC-12550,Clay Cheatham,Consumer,West,Supply_Chain,Low Value
+622,65.8,1,8,65.8,PL-18925,Paul Lucas,Home Office,West,Supply_Chain,Low Value
+620,65.0,2,3,32.5,BP-11050,Barry Pond,Corporate,East,Supply_Chain,Low Value
+496,64.04,2,8,32.02,NC-18415,Nathan Cano,Consumer,East,Supply_Chain,Low Value
+575,61.870000000000005,1,5,61.870000000000005,KS-16300,Karen Seio,Corporate,South,Supply_Chain,Low Value
+387,61.6,2,11,30.8,JJ-15445,Jennifer Jackson,Consumer,Central,Supply_Chain,Low Value
+411,61.44,1,3,61.44,TT-21265,Tim Taslimi,Corporate,East,Supply_Chain,Low Value
+557,60.63,1,6,60.63,TS-21160,Theresa Swint,Corporate,West,Supply_Chain,Low Value
+631,60.620000000000005,1,8,60.620000000000005,SS-20140,Saphhira Shifley,Corporate,West,Supply_Chain,Low Value
+723,60.19,2,5,30.095,FW-14395,Fred Wasserman,Corporate,East,Supply_Chain,Low Value
+456,58.72,1,4,58.72,ST-20530,Shui Tom,Consumer,South,Supply_Chain,Low Value
+95,57.5,2,8,28.75,JC-15340,Jasper Cacioppo,Consumer,West,Supply_Chain,Low Value
+450,56.769999999999996,2,8,28.384999999999998,CL-11890,Carl Ludwig,Consumer,East,Supply_Chain,Low Value
+128,55.48,1,1,55.48,TH-21550,Tracy Hopkins,Home Office,East,Supply_Chain,Low Value
+611,55.120000000000005,2,4,27.560000000000002,MM-18280,Muhammed MacIntyre,Corporate,East,Supply_Chain,Low Value
+152,54.83,1,2,54.83,AJ-10780,Anthony Jacobs,Corporate,South,Supply_Chain,Low Value
+667,54.650000000000006,3,7,18.21666666666667,GM-14500,Gene McClure,Consumer,West,Supply_Chain,Low Value
+616,53.870000000000005,2,12,26.935000000000002,LM-17065,Liz MacKendrick,Consumer,East,Supply_Chain,Low Value
+174,52.72,3,9,17.573333333333334,MT-17815,Meg Tillman,Consumer,West,Supply_Chain,Low Value
+682,50.46000000000001,1,12,50.46000000000001,SC-20575,Sonia Cooley,Consumer,South,Supply_Chain,Low Value
+339,50.0,3,10,16.666666666666668,PJ-18835,Patrick Jones,Corporate,South,Supply_Chain,Low Value
+335,47.96,1,5,47.96,MK-17905,Michael Kennedy,Corporate,South,Supply_Chain,Low Value
+141,46.44,2,11,23.22,MC-18130,Mike Caudle,Corporate,South,Supply_Chain,Low Value
+153,44.91,1,6,44.91,GP-14740,Guy Phonely,Corporate,East,Supply_Chain,Low Value
+526,42.93,1,9,42.93,JC-15775,John Castell,Consumer,East,Supply_Chain,Low Value
+528,42.91,1,6,42.91,SS-20875,Sung Shariari,Consumer,West,Supply_Chain,Low Value
+666,42.72,2,7,21.36,TB-21190,Thomas Brumley,Home Office,West,Supply_Chain,Low Value
+392,41.37,1,3,41.37,DL-13330,Denise Leinenbach,Consumer,West,Supply_Chain,Low Value
+693,40.78,1,3,40.78,PB-19105,Peter Bühler,Consumer,East,Supply_Chain,Low Value
+326,38.86,3,11,12.953333333333333,AG-10390,Allen Goldenen,Consumer,South,Supply_Chain,Low Value
+445,37.17,2,6,18.585,AF-10870,Art Ferguson,Consumer,Central,Supply_Chain,Low Value
+167,33.17,2,6,16.585,KH-16360,Katherine Hughes,Consumer,East,Supply_Chain,Low Value
+150,30.46,1,4,30.46,CM-12445,Chuck Magee,Consumer,West,Supply_Chain,Low Value
+375,30.35,1,2,30.35,BE-11410,Bobby Elias,Consumer,East,Supply_Chain,Low Value
+713,30.34,1,6,30.34,EM-14065,Erin Mull,Consumer,Central,Supply_Chain,Low Value
+736,30.34,1,4,30.34,BT-11485,Brad Thomas,Home Office,East,Supply_Chain,Low Value
+709,27.86,1,7,27.86,TH-21100,Thea Hendricks,Consumer,South,Supply_Chain,Low Value
+225,27.7,3,7,9.233333333333333,EB-14170,Evan Bailliet,Consumer,South,Supply_Chain,Low Value
+246,27.46,1,2,27.46,AA-10480,Andrew Allen,Consumer,East,Supply_Chain,Low Value
+400,27.42,2,5,13.71,LC-16885,Lena Creighton,Consumer,South,Supply_Chain,Low Value
+703,26.82,1,4,26.82,SG-20470,Sheri Gordon,Consumer,East,Supply_Chain,Low Value
+694,26.72,1,5,26.72,LB-16735,Larry Blacks,Consumer,South,Supply_Chain,Low Value
+619,26.14,1,3,26.14,AR-10510,Andrew Roberts,Consumer,East,Supply_Chain,Low Value
+367,25.92,1,4,25.92,MC-17635,Matthew Clasen,Corporate,Central,Supply_Chain,Low Value
+710,25.49,1,2,25.49,RA-19945,Ryan Akin,Consumer,East,Supply_Chain,Low Value
+601,23.47,1,3,23.47,PB-19150,Philip Brown,Consumer,South,Supply_Chain,Low Value
+402,23.12,1,5,23.12,CR-12730,Craig Reiter,Consumer,Central,Supply_Chain,Low Value
+726,22.330000000000002,2,10,11.165000000000001,RS-19870,Roy Skaria,Home Office,Central,Supply_Chain,Low Value
+442,22.03,2,7,11.015,RF-19345,Randy Ferguson,Corporate,South,Supply_Chain,Low Value
+398,20.74,1,4,20.74,RH-19495,Rick Hansen,Consumer,South,Supply_Chain,Low Value
+671,19.65,1,2,19.65,SG-20890,Susan Gilcrest,Corporate,Central,Supply_Chain,Low Value
+594,19.44,1,3,19.44,LS-17230,Lycoris Saunders,Consumer,West,Supply_Chain,Low Value
+412,19.0,1,5,19.0,VP-21730,Victor Preis,Home Office,Central,Supply_Chain,Low Value
+471,16.92,1,4,16.92,GT-14755,Guy Thornton,Consumer,West,Supply_Chain,Low Value
+617,16.740000000000002,1,8,16.740000000000002,MG-18205,Mitch Gastineau,Corporate,South,Supply_Chain,Low Value
+680,14.7,1,7,14.7,GZ-14545,George Zrebassa,Corporate,West,Supply_Chain,Low Value
+627,14.37,1,2,14.37,TB-21520,Tracy Blumstein,Consumer,West,Supply_Chain,Low Value
+729,14.11,1,6,14.11,SC-20845,Sung Chung,Consumer,Central,Supply_Chain,Low Value
+278,12.35,1,5,12.35,CD-12790,Cynthia Delaney,Home Office,West,Supply_Chain,Low Value
+268,10.96,1,4,10.96,VG-21805,Vivek Grady,Corporate,South,Supply_Chain,Low Value
+544,10.48,1,6,10.48,DB-13660,Duane Benoit,Consumer,Central,Supply_Chain,Low Value
+605,10.16,1,2,10.16,JW-15220,Jane Waco,Corporate,South,Supply_Chain,Low Value
+636,9.86,1,4,9.86,GK-14620,Grace Kelly,Corporate,Central,Supply_Chain,Low Value
+173,9.719999999999999,2,4,4.859999999999999,TS-21340,Toby Swindell,Consumer,Central,Supply_Chain,Low Value
+257,8.36,1,2,8.36,JM-15535,Jessica Myrick,Consumer,West,Supply_Chain,Low Value
+381,8.23,1,3,8.23,RH-19555,Ritsa Hightower,Consumer,South,Supply_Chain,Low Value
+677,6.08,1,2,6.08,BO-11425,Bobby Odegard,Consumer,East,Supply_Chain,Low Value
+19,5.68,1,1,5.68,RB-19705,Roger Barcio,Home Office,West,Supply_Chain,Low Value
+374,5.35,1,3,5.35,CM-12160,Charles McCrossin,Consumer,East,Supply_Chain,Low Value
+719,4.71,1,1,4.71,NF-18475,Neil Französisch,Home Office,West,Supply_Chain,Low Value
+497,4.37,1,3,4.37,DW-13195,David Wiener,Corporate,South,Supply_Chain,Low Value
+321,2.81,1,3,2.81,TS-21085,Thais Sissman,Consumer,South,Supply_Chain,Low Value
+216,2.77,1,7,2.77,KW-16435,Katrina Willman,Consumer,Central,Supply_Chain,Low Value
+664,2.48,1,2,2.48,JO-15550,Jesus Ocampo,Home Office,West,Supply_Chain,Low Value

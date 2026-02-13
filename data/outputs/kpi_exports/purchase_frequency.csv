@@ -1,0 +1,739 @@
+customer_sk,purchase_frequency,total_sales,average_order_value,Customer_ID,Customer_Name,Segment,Region,Source_System,frequency_segment
+180,9,2156.94,239.66,NS-18640,Noel Staavos,Corporate,Central,Supply_Chain,High Frequency
+409,8,2173.6,271.7,SH-20395,Shahid Hopkins,Consumer,East,Supply_Chain,High Frequency
+97,8,3828.27,478.53375,EP-13915,Emily Phan,Consumer,Central,Supply_Chain,High Frequency
+209,8,2528.2400000000002,316.03000000000003,CC-12220,Chris Cortes,Consumer,Central,Supply_Chain,High Frequency
+250,7,1911.3,273.04285714285714,KN-16390,Katherine Nockton,Corporate,West,Supply_Chain,High Frequency
+133,7,1636.02,233.71714285714285,SC-20695,Steve Chapman,Corporate,South,Supply_Chain,High Frequency
+233,7,1040.79,148.68428571428572,SZ-20035,Sam Zeldin,Home Office,West,Supply_Chain,High Frequency
+197,7,837.0500000000001,119.57857142857144,GB-14530,George Bell,Corporate,West,Supply_Chain,High Frequency
+323,7,4589.9400000000005,655.7057142857144,WB-21850,William Brown,Consumer,West,Supply_Chain,High Frequency
+7,7,894.47,127.78142857142858,KB-16585,Ken Black,Corporate,Central,Supply_Chain,High Frequency
+440,6,1390.42,231.73666666666668,CC-12475,Cindy Chapman,Consumer,East,Supply_Chain,High Frequency
+171,6,1160.56,193.42666666666665,EB-13870,Emily Burns,Consumer,East,Supply_Chain,High Frequency
+453,6,2124.31,354.0516666666667,AH-10690,Anna Häberlin,Corporate,East,Supply_Chain,High Frequency
+88,6,878.48,146.41333333333333,XP-21865,Xylona Preis,Consumer,West,Supply_Chain,High Frequency
+418,6,1452.3899999999999,242.06499999999997,NZ-18565,Nick Zandusky,Home Office,West,Supply_Chain,High Frequency
+325,6,4925.599999999999,820.9333333333333,IL-15100,Ivan Liston,Consumer,West,Supply_Chain,High Frequency
+237,6,1169.3899999999999,194.8983333333333,JK-16120,Julie Kriz,Home Office,Central,Supply_Chain,High Frequency
+219,6,4947.48,824.5799999999999,QJ-19255,Quincy Jones,Corporate,Central,Supply_Chain,High Frequency
+223,6,1260.03,210.005,MC-17575,Matt Collins,Consumer,East,Supply_Chain,High Frequency
+23,6,3232.8599999999997,538.81,CL-12565,Clay Ludtke,Consumer,Central,Supply_Chain,High Frequency
+359,6,1428.31,238.05166666666665,DB-12910,Daniel Byrd,Home Office,South,Supply_Chain,High Frequency
+47,6,3755.7300000000005,625.955,VW-21775,Victoria Wilson,Corporate,East,Supply_Chain,High Frequency
+158,6,3098.2000000000003,516.3666666666667,MS-17365,Maribeth Schnelling,Consumer,Central,Supply_Chain,High Frequency
+248,6,961.25,160.20833333333334,MB-17305,Maria Bertelson,Consumer,West,Supply_Chain,High Frequency
+82,6,1335.55,222.59166666666667,KH-16630,Ken Heidel,Corporate,Central,Supply_Chain,High Frequency
+112,5,4702.75,940.55,LR-16915,Lena Radford,Consumer,West,Supply_Chain,Medium Frequency
+31,5,1827.83,365.566,HA-14920,Helen Andreada,Consumer,West,Supply_Chain,Medium Frequency
+313,5,5124.19,1024.838,LW-17215,Luke Weiss,Consumer,West,Supply_Chain,Medium Frequency
+403,5,3067.6000000000004,613.5200000000001,DL-12925,Daniel Lacy,Consumer,Central,Supply_Chain,Medium Frequency
+324,5,1165.56,233.112,CS-11950,Carlos Soltero,Consumer,Central,Supply_Chain,Medium Frequency
+49,5,2782.08,556.4159999999999,CS-12400,Christopher Schild,Home Office,South,Supply_Chain,Medium Frequency
+6,5,2917.95,583.5899999999999,PK-19075,Pete Kriz,Consumer,Central,Supply_Chain,Medium Frequency
+35,5,1255.1,251.01999999999998,MJ-17740,Max Jones,Consumer,West,Supply_Chain,Medium Frequency
+338,5,1073.24,214.648,FM-14215,Filia McAdams,Corporate,East,Supply_Chain,Medium Frequency
+364,5,575.4,115.08,CS-12250,Chris Selesnick,Corporate,Central,Supply_Chain,Medium Frequency
+4,5,6011.21,1202.242,BH-11710,Brosina Hoffman,Consumer,West,Supply_Chain,Medium Frequency
+273,5,1820.51,364.102,RD-19585,Rob Dowd,Consumer,Central,Supply_Chain,Medium Frequency
+455,5,401.69,80.338,DP-13390,Dennis Pardue,Home Office,West,Supply_Chain,Medium Frequency
+606,5,1567.46,313.492,EA-14035,Erin Ashbrook,Corporate,East,Supply_Chain,Medium Frequency
+287,5,2929.11,585.822,RP-19390,Resi Pölking,Consumer,Central,Supply_Chain,Medium Frequency
+114,5,1836.8000000000002,367.36,FM-14380,Fred McMath,Consumer,West,Supply_Chain,Medium Frequency
+143,5,1042.72,208.544,PG-18820,Patrick Gardner,Consumer,West,Supply_Chain,Medium Frequency
+263,5,4161.65,832.3299999999999,DB-13270,Deborah Brumfield,Home Office,West,Supply_Chain,Medium Frequency
+262,5,487.85,97.57000000000001,CK-12205,Chloris Kastensmidt,Consumer,East,Supply_Chain,Medium Frequency
+302,5,1286.97,257.394,AS-10090,Adam Shillingsburg,Consumer,South,Supply_Chain,Medium Frequency
+286,5,1320.29,264.058,ML-17755,Max Ludwig,Home Office,South,Supply_Chain,Medium Frequency
+245,5,8866.710000000001,1773.342,ME-17320,Maria Etezadi,Home Office,South,Supply_Chain,Medium Frequency
+147,5,932.83,186.566,CK-12760,Cyma Kinney,Corporate,East,Supply_Chain,Medium Frequency
+176,5,1840.72,368.144,KM-16225,Kalyca Meade,Corporate,East,Supply_Chain,Medium Frequency
+554,5,3517.47,703.4939999999999,LB-16795,Laurel Beltran,Home Office,South,Supply_Chain,Medium Frequency
+244,5,756.1899999999999,151.238,JB-15400,Jennifer Braxton,Corporate,West,Supply_Chain,Medium Frequency
+397,5,3124.44,624.888,DM-13345,Denise Monton,Corporate,South,Supply_Chain,Medium Frequency
+53,5,1321.4,264.28000000000003,LH-17155,Logan Haushalter,Consumer,West,Supply_Chain,Medium Frequency
+429,5,300.52,60.104,GH-14410,Gary Hansen,Home Office,West,Supply_Chain,Medium Frequency
+290,5,3470.77,694.154,JF-15565,Jill Fjeld,Consumer,Central,Supply_Chain,Medium Frequency
+448,5,6221.06,1244.212,Dp-13240,Dean percer,Home Office,South,Supply_Chain,Medium Frequency
+107,5,2830.05,566.01,SF-20200,Sarah Foster,Consumer,West,Supply_Chain,Medium Frequency
+92,5,835.15,167.03,EB-13705,Ed Braxton,Corporate,East,Supply_Chain,Medium Frequency
+96,5,407.12,81.424,AA-10375,Allen Armold,Consumer,West,Supply_Chain,Medium Frequency
+67,5,318.24,63.648,DJ-13510,Don Jones,Corporate,South,Supply_Chain,Medium Frequency
+55,5,1055.21,211.042,DL-13315,Delfina Latchford,Consumer,East,Supply_Chain,Medium Frequency
+404,5,919.2600000000001,183.85200000000003,JM-16195,Justin MacKendrick,Consumer,East,Supply_Chain,Medium Frequency
+330,5,1226.7,245.34,DK-13375,Dennis Kane,Consumer,East,Supply_Chain,Medium Frequency
+647,5,759.6300000000001,151.92600000000002,SP-20650,Stephanie Phelps,Corporate,East,Supply_Chain,Medium Frequency
+40,5,1738.99,347.798,VM-21685,Valerie Mitchum,Home Office,East,Supply_Chain,Medium Frequency
+105,5,2886.4700000000003,577.2940000000001,FP-14320,Frank Preis,Consumer,West,Supply_Chain,Medium Frequency
+50,5,1236.92,247.38400000000001,DB-13120,David Bremer,Corporate,West,Supply_Chain,Medium Frequency
+475,5,560.5999999999999,112.11999999999998,FM-14290,Frank Merwin,Home Office,West,Supply_Chain,Medium Frequency
+269,5,2611.0099999999998,522.202,MD-17350,Maribeth Dona,Consumer,East,Supply_Chain,Medium Frequency
+476,5,7279.55,1455.91,KD-16495,Keith Dawkins,Corporate,Central,Supply_Chain,Medium Frequency
+539,5,706.07,141.214,RD-19720,Roger Demir,Consumer,East,Supply_Chain,Medium Frequency
+163,5,10402.53,2080.5060000000003,SE-20110,Sanjit Engle,Consumer,East,Supply_Chain,Medium Frequency
+515,5,2148.35,429.66999999999996,RS-19765,Roland Schwarz,Corporate,South,Supply_Chain,Medium Frequency
+527,5,434.47,86.894,PO-18850,Patrick O'Brill,Consumer,South,Supply_Chain,Medium Frequency
+204,5,4459.12,891.824,SP-20620,Stefania Perrino,Corporate,East,Supply_Chain,Medium Frequency
+495,5,673.0899999999999,134.618,KE-16420,Katrina Edelman,Corporate,South,Supply_Chain,Medium Frequency
+26,5,2393.13,478.62600000000003,SC-20725,Steven Cartwright,Consumer,East,Supply_Chain,Medium Frequency
+196,5,1107.3400000000001,221.46800000000002,CB-12535,Claudia Bergmann,Corporate,East,Supply_Chain,Medium Frequency
+384,5,1146.48,229.296,JP-16135,Julie Prescott,Home Office,South,Supply_Chain,Medium Frequency
+360,5,4708.91,941.7819999999999,BB-11545,Brenda Bowman,Corporate,Central,Supply_Chain,Medium Frequency
+13,5,8282.36,1656.4720000000002,KD-16270,Karen Daniels,Consumer,South,Supply_Chain,Medium Frequency
+224,5,1164.49,232.898,LP-17095,Liz Preis,Consumer,South,Supply_Chain,Medium Frequency
+194,5,3422.25,684.45,FH-14275,Frank Hawley,Corporate,Central,Supply_Chain,Medium Frequency
+212,5,653.6899999999999,130.738,BD-11770,Bryan Davis,Consumer,Central,Supply_Chain,Medium Frequency
+258,5,1745.6,349.12,AI-10855,Arianne Irving,Consumer,East,Supply_Chain,Medium Frequency
+266,5,2438.9,487.78000000000003,EB-13750,Edward Becker,Corporate,West,Supply_Chain,Medium Frequency
+249,5,1456.71,291.342,DK-12835,Damala Kotsonis,Corporate,Central,Supply_Chain,Medium Frequency
+182,5,3161.2,632.24,ZC-21910,Zuschuss Carroll,Consumer,South,Supply_Chain,Medium Frequency
+498,5,2474.65,494.93,SV-20785,Stewart Visinsky,Consumer,South,Supply_Chain,Medium Frequency
+149,5,353.04,70.608,SJ-20125,Sanjit Jacobs,Home Office,East,Supply_Chain,Medium Frequency
+146,5,784.39,156.878,GA-14725,Guy Armstrong,Consumer,East,Supply_Chain,Medium Frequency
+468,5,1199.24,239.848,SU-20665,Stephanie Ulpright,Home Office,South,Supply_Chain,Medium Frequency
+247,5,1397.03,279.406,MB-18085,Mick Brown,Consumer,East,Supply_Chain,Medium Frequency
+85,4,2195.45,548.8625,SC-20095,Sanjit Chand,Consumer,West,Supply_Chain,Medium Frequency
+347,4,1755.83,438.9575,BF-11020,Barry Französisch,Corporate,Central,Supply_Chain,Medium Frequency
+351,4,1298.62,324.655,JA-15970,Joseph Airdo,Consumer,West,Supply_Chain,Medium Frequency
+416,4,9536.56,2384.14,KF-16285,Karen Ferguson,Home Office,West,Supply_Chain,Medium Frequency
+74,4,2895.68,723.92,DK-13225,Dean Katz,Corporate,East,Supply_Chain,Medium Frequency
+77,4,2943.49,735.8725,AG-10675,Anna Gayman,Consumer,Central,Supply_Chain,Medium Frequency
+30,4,2931.62,732.905,JD-15895,Jonathan Doherty,Corporate,East,Supply_Chain,Medium Frequency
+3,4,2417.33,604.3325,SO-20335,Sean O'Donnell,Consumer,South,Supply_Chain,Medium Frequency
+83,4,3866.64,966.66,PO-19180,Philisse Overcash,Home Office,Central,Supply_Chain,Medium Frequency
+623,4,1389.12,347.28,RB-19465,Rick Bensley,Home Office,West,Supply_Chain,Medium Frequency
+109,4,2590.73,647.6825,DV-13465,Dianna Vittorini,Consumer,West,Supply_Chain,Medium Frequency
+320,4,4240.5,1060.125,KT-16480,Kean Thornton,Consumer,West,Supply_Chain,Medium Frequency
+316,4,1409.64,352.41,CK-12595,Clytie Kelty,Consumer,East,Supply_Chain,Medium Frequency
+289,4,722.13,180.5325,BE-11455,Brad Eason,Home Office,Central,Supply_Chain,Medium Frequency
+292,4,1721.69,430.4225,FO-14305,Frank Olsen,Consumer,South,Supply_Chain,Medium Frequency
+71,4,7354.22,1838.555,AB-10060,Adam Bellavance,Home Office,East,Supply_Chain,Medium Frequency
+94,4,1802.89,450.7225,KB-16240,Karen Bern,Corporate,West,Supply_Chain,Medium Frequency
+65,4,1455.0400000000002,363.76000000000005,AG-10525,Andy Gerbode,Corporate,South,Supply_Chain,Medium Frequency
+51,4,1629.8799999999999,407.46999999999997,KL-16645,Ken Lonsdale,Consumer,Central,Supply_Chain,Medium Frequency
+306,4,2203.0299999999997,550.7574999999999,MZ-17515,Mary Zewe,Corporate,East,Supply_Chain,Medium Frequency
+68,4,1837.67,459.4175,DB-13615,Doug Bickford,Consumer,West,Supply_Chain,Medium Frequency
+75,4,999.11,249.7775,MV-18190,Mike Vittorini,Consumer,East,Supply_Chain,Medium Frequency
+5,4,2322.83,580.7075,IM-15070,Irene Maddox,Consumer,West,Supply_Chain,Medium Frequency
+39,4,1750.95,437.7375,MP-17470,Mark Packer,Home Office,East,Supply_Chain,Medium Frequency
+661,4,230.45,57.6125,BG-11035,Barry Gonzalez,Consumer,South,Supply_Chain,Medium Frequency
+64,4,1090.3799999999999,272.59499999999997,BP-11185,Ben Peterman,Corporate,West,Supply_Chain,Medium Frequency
+59,4,2634.3900000000003,658.5975000000001,AH-10210,Alan Hwang,Consumer,West,Supply_Chain,Medium Frequency
+343,4,1496.6100000000001,374.15250000000003,BC-11125,Becky Castell,Home Office,West,Supply_Chain,Medium Frequency
+57,4,695.36,173.84,Dl-13600,Dorris liebe,Corporate,Central,Supply_Chain,Medium Frequency
+394,4,7426.900000000001,1856.7250000000001,DR-12940,Daniel Raglin,Home Office,East,Supply_Chain,Medium Frequency
+395,4,566.87,141.7175,DM-13015,Darrin Martin,Consumer,West,Supply_Chain,Medium Frequency
+388,4,2048.32,512.08,BT-11680,Brian Thompson,Consumer,South,Supply_Chain,Medium Frequency
+415,4,1249.18,312.295,ZD-21925,Zuschuss Donatelli,Consumer,South,Supply_Chain,Medium Frequency
+585,4,2009.4300000000003,502.3575000000001,SC-20020,Sam Craven,Consumer,Central,Supply_Chain,Medium Frequency
+589,4,2608.0,652.0,EJ-14155,Eva Jacobs,Consumer,West,Supply_Chain,Medium Frequency
+115,4,2012.52,503.13,DJ-13420,Denny Joy,Corporate,South,Supply_Chain,Medium Frequency
+285,4,2246.5099999999998,561.6274999999999,AG-10900,Arthur Gainer,Consumer,West,Supply_Chain,Medium Frequency
+275,4,1648.9,412.225,SB-20290,Sean Braxton,Corporate,East,Supply_Chain,Medium Frequency
+300,4,9166.27,2291.5675,CJ-12010,Caroline Jumper,Consumer,East,Supply_Chain,Medium Frequency
+467,4,1234.21,308.5525,ML-17395,Marina Lichtenstein,Corporate,West,Supply_Chain,Medium Frequency
+160,4,478.65,119.6625,LC-17140,Logan Currie,Consumer,West,Supply_Chain,Medium Frequency
+555,4,981.99,245.4975,LH-16900,Lena Hernandez,Consumer,West,Supply_Chain,Medium Frequency
+129,4,1494.0100000000002,373.50250000000005,AP-10915,Arthur Prichep,Consumer,South,Supply_Chain,Medium Frequency
+138,4,318.23,79.5575,LH-17020,Lisa Hazard,Consumer,East,Supply_Chain,Medium Frequency
+130,4,1104.89,276.2225,SV-20365,Seth Vernon,Consumer,East,Supply_Chain,Medium Frequency
+546,4,85.39,21.3475,JB-16000,Joy Bell-,Consumer,East,Supply_Chain,Medium Frequency
+552,4,879.3199999999999,219.82999999999998,EM-13960,Eric Murdock,Consumer,East,Supply_Chain,Medium Frequency
+272,4,3327.08,831.77,MM-17920,Michael Moore,Consumer,East,Supply_Chain,Medium Frequency
+270,4,982.56,245.64,CA-12775,Cynthia Arntzen,Consumer,South,Supply_Chain,Medium Frequency
+118,4,1385.01,346.2525,AR-10825,Anthony Rawles,Corporate,West,Supply_Chain,Medium Frequency
+251,4,1885.8200000000002,471.45500000000004,NM-18520,Neoma Murray,Consumer,Central,Supply_Chain,Medium Frequency
+253,4,3595.61,898.9025,CM-12655,Corinna Mitchell,Home Office,West,Supply_Chain,Medium Frequency
+254,4,1924.39,481.0975,JD-15790,John Dryer,Consumer,Central,Supply_Chain,Medium Frequency
+564,4,1778.2400000000002,444.56000000000006,JO-15145,Jack O'Briant,Corporate,South,Supply_Chain,Medium Frequency
+566,4,1221.47,305.3675,SH-19975,Sally Hughsby,Corporate,East,Supply_Chain,Medium Frequency
+288,4,3589.2899999999995,897.3224999999999,TB-21175,Thomas Boland,Corporate,Central,Supply_Chain,Medium Frequency
+104,4,761.1600000000001,190.29000000000002,JF-15490,Jeremy Farry,Consumer,West,Supply_Chain,Medium Frequency
+607,4,1804.39,451.0975,LC-17050,Liz Carlisle,Consumer,West,Supply_Chain,Medium Frequency
+124,4,3029.12,757.28,AS-10285,Alejandro Savely,Corporate,West,Supply_Chain,Medium Frequency
+123,4,2971.77,742.9425,MC-17845,Michael Chen,Consumer,South,Supply_Chain,Medium Frequency
+277,4,1408.8,352.2,HF-14995,Herbert Flentye,Consumer,Central,Supply_Chain,Medium Frequency
+281,4,912.0400000000001,228.01000000000002,CA-12265,Christina Anderson,Consumer,South,Supply_Chain,Medium Frequency
+449,4,3222.01,805.5025,MG-17650,Matthew Grinstein,Home Office,West,Supply_Chain,Medium Frequency
+460,4,322.59000000000003,80.64750000000001,SF-20965,Sylvia Foulston,Corporate,East,Supply_Chain,Medium Frequency
+459,4,1849.74,462.435,MH-17455,Mark Hamilton,Consumer,South,Supply_Chain,Medium Frequency
+458,4,1166.3,291.575,EH-13765,Edward Hooks,Corporate,East,Supply_Chain,Medium Frequency
+457,4,694.72,173.68,EM-13825,Elizabeth Moffitt,Corporate,Central,Supply_Chain,Medium Frequency
+261,4,344.17,86.0425,MP-18175,Mike Pelletier,Home Office,West,Supply_Chain,Medium Frequency
+168,4,1101.38,275.345,CV-12805,Cynthia Voltz,Corporate,West,Supply_Chain,Medium Frequency
+480,4,2060.0099999999998,515.0024999999999,DB-13555,Dorothy Badders,Corporate,East,Supply_Chain,Medium Frequency
+479,4,1420.75,355.1875,DB-13210,Dean Braden,Consumer,Central,Supply_Chain,Medium Frequency
+522,4,139.07999999999998,34.769999999999996,SR-20740,Steven Roelle,Home Office,West,Supply_Chain,Medium Frequency
+518,4,2892.21,723.0525,MA-17560,Matt Abelman,Home Office,East,Supply_Chain,Medium Frequency
+513,4,443.14,110.785,SW-20245,Scot Wooten,Consumer,East,Supply_Chain,Medium Frequency
+175,4,304.63000000000005,76.15750000000001,AT-10735,Annie Thurman,Consumer,Central,Supply_Chain,Medium Frequency
+239,4,967.19,241.7975,YS-21880,Yana Sorensen,Corporate,South,Supply_Chain,Medium Frequency
+238,4,3453.35,863.3375,PP-18955,Paul Prost,Home Office,South,Supply_Chain,Medium Frequency
+501,4,1299.16,324.79,AB-10105,Adrian Barton,Consumer,Central,Supply_Chain,Medium Frequency
+512,4,807.6600000000001,201.91500000000002,CB-12025,Cassandra Brandow,Consumer,East,Supply_Chain,Medium Frequency
+530,4,1853.29,463.3225,RO-19780,Rose O'Brian,Consumer,South,Supply_Chain,Medium Frequency
+229,4,2475.84,618.96,AS-10045,Aaron Smayling,Corporate,South,Supply_Chain,Medium Frequency
+228,4,1710.74,427.685,JF-15190,Jamie Frazer,Consumer,West,Supply_Chain,Medium Frequency
+535,4,297.46,74.365,CB-12415,Christy Brittain,Consumer,Central,Supply_Chain,Medium Frequency
+542,4,4608.13,1152.0325,RL-19615,Rob Lucas,Consumer,Central,Supply_Chain,Medium Frequency
+536,4,2008.71,502.1775,AA-10645,Anna Andreadi,Consumer,West,Supply_Chain,Medium Frequency
+543,4,1080.24,270.06,HM-14860,Harry Marie,Corporate,West,Supply_Chain,Medium Frequency
+184,4,389.34000000000003,97.33500000000001,NF-18595,Nicole Fjeld,Home Office,East,Supply_Chain,Medium Frequency
+9,4,523.9,130.975,LC-16930,Linda Cazamias,Corporate,Central,Supply_Chain,Medium Frequency
+207,4,7174.72,1793.68,NP-18700,Nora Preis,Consumer,West,Supply_Chain,Medium Frequency
+206,4,2354.13,588.5325,GM-14680,Greg Matthias,Consumer,West,Supply_Chain,Medium Frequency
+218,4,820.1800000000001,205.04500000000002,CC-12430,Chuck Clark,Home Office,West,Supply_Chain,Medium Frequency
+188,4,2498.02,624.505,LW-16990,Lindsay Williams,Corporate,South,Supply_Chain,Medium Frequency
+187,4,1082.77,270.6925,LC-16870,Lena Cacioppo,Consumer,Central,Supply_Chain,Medium Frequency
+376,4,274.59,68.6475,JD-16015,Joy Daniels,Consumer,East,Supply_Chain,Medium Frequency
+10,4,753.08,188.27,ON-18715,Odella Nelson,Corporate,Central,Supply_Chain,Medium Frequency
+356,4,961.1500000000001,240.28750000000002,TB-21250,Tim Brockman,Consumer,East,Supply_Chain,Medium Frequency
+357,4,959.94,239.985,RB-19435,Richard Bierner,Consumer,Central,Supply_Chain,Medium Frequency
+46,4,721.99,180.4975,MS-17980,Michael Stewart,Corporate,Central,Supply_Chain,Medium Frequency
+45,4,2602.2099999999996,650.5524999999999,JH-15985,Joseph Holt,Consumer,Central,Supply_Chain,Medium Frequency
+674,4,946.97,236.7425,MY-18295,Muhammed Yedwab,Corporate,East,Supply_Chain,Medium Frequency
+22,4,617.79,154.4475,GZ-14470,Gary Zandusky,Consumer,Central,Supply_Chain,Medium Frequency
+24,4,1953.96,488.49,DK-13090,Dave Kipp,Consumer,West,Supply_Chain,Medium Frequency
+25,4,984.68,246.17,GG-14650,Greg Guthrie,Corporate,South,Supply_Chain,Medium Frequency
+20,3,181.85,60.61666666666667,PN-18775,Parhena Norris,Home Office,East,Supply_Chain,Medium Frequency
+18,3,1994.19,664.73,GM-14455,Gary Mitchum,Home Office,Central,Supply_Chain,Medium Frequency
+696,3,612.55,204.1833333333333,SF-20065,Sandra Flanagan,Consumer,East,Supply_Chain,Medium Frequency
+691,3,2167.89,722.63,TS-21655,Trudy Schmidt,Consumer,West,Supply_Chain,Medium Frequency
+687,3,3915.92,1305.3066666666666,CM-12715,Craig Molinari,Corporate,Central,Supply_Chain,Medium Frequency
+681,3,682.34,227.4466666666667,DO-13645,Doug O'Connell,Consumer,South,Supply_Chain,Medium Frequency
+679,3,151.98000000000002,50.660000000000004,MC-18100,Mick Crebagga,Consumer,Central,Supply_Chain,Medium Frequency
+48,3,800.1100000000001,266.7033333333334,DS-13180,David Smith,Corporate,Central,Supply_Chain,Medium Frequency
+354,3,821.69,273.8966666666667,SC-20380,Shahid Collister,Consumer,West,Supply_Chain,Medium Frequency
+377,3,414.02,138.00666666666666,CP-12085,Cathy Prescott,Corporate,East,Supply_Chain,Medium Frequency
+373,3,831.88,277.29333333333335,RA-19285,Ralph Arnett,Consumer,Central,Supply_Chain,Medium Frequency
+372,3,637.47,212.49,KB-16315,Karl Braun,Consumer,South,Supply_Chain,Medium Frequency
+371,3,921.34,307.11333333333334,TC-21295,Toby Carlisle,Consumer,West,Supply_Chain,Medium Frequency
+14,3,133.6,44.53333333333333,KB-16600,Ken Brennan,Corporate,Central,Supply_Chain,Medium Frequency
+205,3,530.65,176.88333333333333,BF-11170,Ben Ferrer,Home Office,West,Supply_Chain,Medium Frequency
+202,3,461.55,153.85,JE-15745,Joel Eaton,Consumer,East,Supply_Chain,Medium Frequency
+199,3,1368.07,456.0233333333333,AP-10720,Anne Pryor,Home Office,East,Supply_Chain,Medium Frequency
+198,3,329.87,109.95666666666666,LT-16765,Larry Tron,Consumer,West,Supply_Chain,Medium Frequency
+214,3,410.59999999999997,136.86666666666665,TR-21325,Toby Ritter,Consumer,Central,Supply_Chain,Medium Frequency
+190,3,984.0600000000001,328.02000000000004,CS-12355,Christine Sundaresam,Consumer,South,Supply_Chain,Medium Frequency
+189,3,3817.8900000000003,1272.63,NP-18325,Naresj Patel,Consumer,West,Supply_Chain,Medium Frequency
+178,3,2118.79,706.2633333333333,LA-16780,Laura Armstrong,Corporate,East,Supply_Chain,Medium Frequency
+525,3,1111.05,370.34999999999997,AT-10435,Alyssa Tate,Home Office,West,Supply_Chain,Medium Frequency
+521,3,5741.4,1913.8,NC-18535,Nick Crebassa,Corporate,West,Supply_Chain,Medium Frequency
+516,3,1858.04,619.3466666666667,JK-15730,Joe Kamberova,Consumer,Central,Supply_Chain,Medium Frequency
+210,3,2058.94,686.3133333333334,PF-19225,Phillip Flathmann,Consumer,West,Supply_Chain,Medium Frequency
+511,3,2332.03,777.3433333333334,PV-18985,Paul Van Hugh,Home Office,West,Supply_Chain,Medium Frequency
+508,3,991.48,330.49333333333334,NC-18625,Noah Childs,Corporate,Central,Supply_Chain,Medium Frequency
+506,3,1115.01,371.67,NP-18685,Nora Pelletier,Home Office,Central,Supply_Chain,Medium Frequency
+499,3,603.72,201.24,MS-17770,Maxwell Schwartz,Consumer,Central,Supply_Chain,Medium Frequency
+490,3,1178.68,392.8933333333334,JB-16045,Julia Barnett,Home Office,West,Supply_Chain,Medium Frequency
+485,3,262.72,87.57333333333334,MF-17665,Maureen Fritzler,Corporate,East,Supply_Chain,Medium Frequency
+240,3,310.64,103.54666666666667,KM-16375,Katherine Murray,Home Office,South,Supply_Chain,Medium Frequency
+174,3,52.72,17.573333333333334,MT-17815,Meg Tillman,Consumer,West,Supply_Chain,Medium Frequency
+170,3,3174.51,1058.17,BW-11110,Bart Watters,Corporate,Central,Supply_Chain,Medium Frequency
+166,3,1380.52,460.17333333333335,RA-19885,Ruben Ausman,Corporate,West,Supply_Chain,Medium Frequency
+162,3,272.29999999999995,90.76666666666665,RW-19630,Rob Williams,Corporate,Central,Supply_Chain,Medium Frequency
+540,3,802.31,267.43666666666667,TN-21040,Tanja Norvell,Home Office,West,Supply_Chain,Medium Frequency
+533,3,2340.81,780.27,JL-15835,John Lee,Consumer,East,Supply_Chain,Medium Frequency
+236,3,4733.2300000000005,1577.7433333333336,VD-21670,Valerie Dominguez,Consumer,West,Supply_Chain,Medium Frequency
+231,3,727.03,242.34333333333333,ND-18370,Natalie DeCherney,Consumer,South,Supply_Chain,Medium Frequency
+230,3,1184.27,394.75666666666666,BP-11290,Beth Paige,Consumer,Central,Supply_Chain,Medium Frequency
+226,3,121.58,40.526666666666664,AB-10255,Alejandro Ballentine,Home Office,East,Supply_Chain,Medium Frequency
+225,3,27.7,9.233333333333333,EB-14170,Evan Bailliet,Consumer,South,Supply_Chain,Medium Frequency
+466,3,195.1,65.03333333333333,DM-12955,Dario Medina,Corporate,West,Supply_Chain,Medium Frequency
+255,3,1278.95,426.31666666666666,NG-18430,Nathan Gelder,Consumer,Central,Supply_Chain,Medium Frequency
+157,3,73.02,24.34,HL-15040,Hunter Lopez,Consumer,Central,Supply_Chain,Medium Frequency
+148,3,485.14,161.71333333333334,BK-11260,Berenike Kampe,Consumer,East,Supply_Chain,Medium Frequency
+145,3,675.55,225.1833333333333,EM-14095,Eudokia Martin,Corporate,West,Supply_Chain,Medium Frequency
+560,3,509.14,169.71333333333334,CS-11860,Cari Schnelling,Consumer,South,Supply_Chain,Medium Frequency
+553,3,1747.37,582.4566666666666,NR-18550,Nick Radford,Consumer,Central,Supply_Chain,Medium Frequency
+548,3,2748.91,916.3033333333333,BS-11380,Bill Stewart,Corporate,West,Supply_Chain,Medium Frequency
+137,3,1587.18,529.0600000000001,YC-21895,Yoseph Carroll,Corporate,West,Supply_Chain,Medium Frequency
+134,3,1578.59,526.1966666666666,EG-13900,Emily Grady,Consumer,East,Supply_Chain,Medium Frequency
+132,3,190.35999999999999,63.453333333333326,MR-17545,Mathew Reese,Home Office,East,Supply_Chain,Medium Frequency
+131,3,356.54999999999995,118.84999999999998,CK-12325,Christine Kargatis,Home Office,West,Supply_Chain,Medium Frequency
+574,3,2170.76,723.5866666666667,HG-14965,Henry Goldwyn,Corporate,Central,Supply_Chain,Medium Frequency
+572,3,1249.1299999999999,416.3766666666666,TS-21205,Thomas Seio,Corporate,West,Supply_Chain,Medium Frequency
+570,3,279.96999999999997,93.32333333333332,AR-10345,Alex Russell,Corporate,East,Supply_Chain,Medium Frequency
+568,3,1106.25,368.75,MC-17605,Matt Connell,Corporate,Central,Supply_Chain,Medium Frequency
+563,3,1259.04,419.68,LW-17125,Liz Willingham,Consumer,East,Supply_Chain,Medium Frequency
+562,3,442.66999999999996,147.55666666666664,TB-21625,Trudy Brown,Consumer,West,Supply_Chain,Medium Frequency
+252,3,778.9900000000001,259.66333333333336,MK-18160,Mike Kennedy,Consumer,West,Supply_Chain,Medium Frequency
+242,3,220.48000000000002,73.49333333333334,PW-19030,Pauline Webber,Corporate,South,Supply_Chain,Medium Frequency
+241,3,250.32999999999998,83.44333333333333,BD-11320,Bill Donatelli,Consumer,East,Supply_Chain,Medium Frequency
+119,3,547.66,182.5533333333333,TH-21235,Tiffany House,Corporate,Central,Supply_Chain,Medium Frequency
+117,3,453.25,151.08333333333334,BB-10990,Barry Blumstein,Corporate,West,Supply_Chain,Medium Frequency
+113,3,1884.22,628.0733333333334,GD-14590,Giulietta Dortch,Corporate,East,Supply_Chain,Medium Frequency
+592,3,259.13,86.37666666666667,DP-13000,Darren Powers,Consumer,Central,Supply_Chain,Medium Frequency
+586,3,2271.1600000000003,757.0533333333334,FC-14335,Fred Chung,Corporate,West,Supply_Chain,Medium Frequency
+581,3,1843.89,614.63,AH-10465,Amy Hunt,Consumer,Central,Supply_Chain,Medium Frequency
+579,3,928.78,309.5933333333333,HR-14770,Hallie Redmond,Home Office,Central,Supply_Chain,Medium Frequency
+577,3,6856.02,2285.34,TS-21370,Todd Sumrall,Corporate,West,Supply_Chain,Medium Frequency
+140,3,1991.96,663.9866666666667,LT-17110,Liz Thompson,Consumer,West,Supply_Chain,Medium Frequency
+139,3,628.84,209.61333333333334,BM-11785,Bryan Mills,Consumer,East,Supply_Chain,Medium Frequency
+264,3,812.46,270.82,AB-10150,Aimee Bixby,Consumer,East,Supply_Chain,Medium Frequency
+260,3,882.32,294.1066666666667,GH-14425,Gary Hwang,Consumer,West,Supply_Chain,Medium Frequency
+259,3,1856.71,618.9033333333333,TB-21400,Tom Boeckenhauer,Consumer,West,Supply_Chain,Medium Frequency
+454,3,329.09,109.69666666666666,KN-16705,Kristina Nunn,Home Office,South,Supply_Chain,Medium Frequency
+102,3,803.27,267.75666666666666,AJ-10945,Ashley Jarboe,Consumer,South,Supply_Chain,Medium Frequency
+101,3,462.98,154.32666666666668,RC-19960,Ryan Crowe,Consumer,South,Supply_Chain,Medium Frequency
+100,3,753.47,251.15666666666667,PG-18895,Paul Gonzalez,Consumer,Central,Supply_Chain,Medium Frequency
+98,3,737.52,245.84,DK-12985,Darren Koutras,Consumer,South,Supply_Chain,Medium Frequency
+608,3,219.95,73.31666666666666,PS-18970,Paul Stevenson,Home Office,East,Supply_Chain,Medium Frequency
+600,3,879.16,293.05333333333334,TA-21385,Tom Ashbrook,Home Office,Central,Supply_Chain,Medium Frequency
+597,3,1376.8,458.93333333333334,DM-13525,Don Miller,Corporate,Central,Supply_Chain,Medium Frequency
+596,3,605.01,201.67,NB-18655,Nona Balk,Corporate,East,Supply_Chain,Medium Frequency
+125,3,1280.8300000000002,426.9433333333334,JK-15370,Jay Kimmel,Consumer,West,Supply_Chain,Medium Frequency
+122,3,9351.199999999999,3117.066666666666,GT-14635,Grant Thornton,Corporate,South,Supply_Chain,Medium Frequency
+284,3,617.41,205.8033333333333,RM-19375,Raymond Messe,Consumer,Central,Supply_Chain,Medium Frequency
+280,3,431.91,143.97,DC-13285,Debra Catini,Consumer,West,Supply_Chain,Medium Frequency
+279,3,1256.81,418.93666666666667,MM-18055,Michelle Moray,Consumer,Central,Supply_Chain,Medium Frequency
+274,3,402.5,134.16666666666666,SW-20455,Shaun Weien,Consumer,South,Supply_Chain,Medium Frequency
+304,3,2784.61,928.2033333333334,RW-19540,Rick Wilson,Corporate,West,Supply_Chain,Medium Frequency
+301,3,1219.14,406.38000000000005,LF-17185,Luke Foster,Consumer,East,Supply_Chain,Medium Frequency
+296,3,433.91999999999996,144.64,FA-14230,Frank Atkinson,Corporate,Central,Supply_Chain,Medium Frequency
+86,3,3573.44,1191.1466666666668,JP-15520,Jeremy Pistek,Consumer,West,Supply_Chain,Medium Frequency
+81,3,398.7,132.9,SD-20485,Shirley Daniels,Home Office,East,Supply_Chain,Medium Frequency
+621,3,534.64,178.21333333333334,SS-20410,Shahid Shariari,Consumer,South,Supply_Chain,Medium Frequency
+618,3,755.35,251.78333333333333,CS-12175,Charles Sheldon,Corporate,West,Supply_Chain,Medium Frequency
+613,3,3598.98,1199.66,NW-18400,Natalie Webber,Consumer,East,Supply_Chain,Medium Frequency
+610,3,1672.0100000000002,557.3366666666667,AG-10495,Andrew Gjertsen,Corporate,South,Supply_Chain,Medium Frequency
+111,3,359.83000000000004,119.94333333333334,MS-17830,Melanie Seite,Consumer,Central,Supply_Chain,Medium Frequency
+108,3,109.60000000000001,36.53333333333334,CC-12145,Charles Crestani,Consumer,West,Supply_Chain,Medium Frequency
+295,3,226.17,75.39,BF-10975,Barbara Fisher,Corporate,South,Supply_Chain,Medium Frequency
+447,3,1063.3999999999999,354.46666666666664,CS-12490,Cindy Schnelling,Corporate,Central,Supply_Chain,Medium Frequency
+446,3,122.47999999999999,40.82666666666666,TC-21535,Tracy Collins,Home Office,East,Supply_Chain,Medium Frequency
+443,3,3389.83,1129.9433333333334,PS-19045,Penelope Sewall,Home Office,West,Supply_Chain,Medium Frequency
+441,3,911.13,303.71,SJ-20215,Sarah Jordon,Consumer,Central,Supply_Chain,Medium Frequency
+438,3,807.01,269.00333333333333,ES-14080,Erin Smith,Corporate,West,Supply_Chain,Medium Frequency
+436,3,441.81,147.27,VG-21790,Vivek Gonzalez,Consumer,West,Supply_Chain,Medium Frequency
+319,3,1895.92,631.9733333333334,RD-19900,Ruben Dartt,Consumer,West,Supply_Chain,Medium Frequency
+317,3,1891.0700000000002,630.3566666666667,RD-19480,Rick Duston,Consumer,Central,Supply_Chain,Medium Frequency
+72,3,3037.21,1012.4033333333333,JL-15505,Jeremy Lonsdale,Consumer,East,Supply_Chain,Medium Frequency
+70,3,74.94,24.98,TD-20995,Tamara Dahlen,Consumer,East,Supply_Chain,Medium Frequency
+66,3,5321.4800000000005,1773.8266666666668,NM-18445,Nathan Mautz,Home Office,East,Supply_Chain,Medium Frequency
+640,3,1598.9399999999998,532.9799999999999,TP-21565,Tracy Poddar,Corporate,West,Supply_Chain,Medium Frequency
+639,3,810.47,270.1566666666667,ME-17725,Max Engle,Consumer,South,Supply_Chain,Medium Frequency
+637,3,90.72999999999999,30.24333333333333,JH-15910,Jonathan Howell,Consumer,Central,Supply_Chain,Medium Frequency
+91,3,182.17000000000002,60.723333333333336,SS-20590,Sonia Sunley,Consumer,West,Supply_Chain,Medium Frequency
+90,3,785.85,261.95,CW-11905,Carl Weiss,Home Office,Central,Supply_Chain,Medium Frequency
+307,3,1032.84,344.28,SC-20230,Scot Coram,Corporate,Central,Supply_Chain,Medium Frequency
+305,3,835.49,278.49666666666667,HA-14905,Helen Abelman,Consumer,East,Supply_Chain,Medium Frequency
+432,3,3774.9700000000003,1258.3233333333335,BM-11650,Brian Moss,Corporate,East,Supply_Chain,Medium Frequency
+431,3,455.74,151.91333333333333,SM-20950,Suzanne McNair,Corporate,East,Supply_Chain,Medium Frequency
+428,3,712.9300000000001,237.64333333333335,RD-19810,Ross DeVincentis,Home Office,East,Supply_Chain,Medium Frequency
+425,3,646.9,215.63333333333333,EB-14110,Eugene Barchas,Consumer,East,Supply_Chain,Medium Frequency
+424,3,3703.15,1234.3833333333334,JE-15610,Jim Epp,Corporate,South,Supply_Chain,Medium Frequency
+333,3,565.72,188.57333333333335,MV-17485,Mark Van Huff,Consumer,South,Supply_Chain,Medium Frequency
+328,3,97.56,32.52,CG-12040,Catherine Glotzbach,Home Office,South,Supply_Chain,Medium Frequency
+326,3,38.86,12.953333333333333,AG-10390,Allen Goldenen,Consumer,South,Supply_Chain,Medium Frequency
+56,3,416.27000000000004,138.7566666666667,CC-12670,Craig Carreira,Consumer,East,Supply_Chain,Medium Frequency
+52,3,4658.54,1552.8466666666666,DW-13480,Dianna Wilson,Home Office,Central,Supply_Chain,Medium Frequency
+653,3,734.49,244.83,VP-21760,Victoria Pisteka,Corporate,West,Supply_Chain,Medium Frequency
+643,3,805.0699999999999,268.3566666666666,FC-14245,Frank Carlisle,Home Office,West,Supply_Chain,Medium Frequency
+641,3,201.05,67.01666666666667,RB-19795,Ross Baird,Home Office,Central,Supply_Chain,Medium Frequency
+80,3,107.55000000000001,35.85,SP-20860,Sung Pak,Corporate,West,Supply_Chain,Medium Frequency
+76,3,137.32999999999998,45.776666666666664,BP-11095,Bart Pistole,Corporate,Central,Supply_Chain,Medium Frequency
+322,3,450.14,150.04666666666665,EH-14005,Erica Hernandez,Home Office,East,Supply_Chain,Medium Frequency
+414,3,1426.02,475.34,JG-15160,James Galang,Consumer,South,Supply_Chain,Medium Frequency
+408,3,3279.5699999999997,1093.1899999999998,EM-14140,Eugene Moren,Home Office,West,Supply_Chain,Medium Frequency
+405,3,1177.91,392.6366666666667,BP-11155,Becky Pak,Consumer,South,Supply_Chain,Medium Frequency
+401,3,1608.64,536.2133333333334,EB-13975,Erica Bern,Corporate,South,Supply_Chain,Medium Frequency
+349,3,410.98,136.99333333333334,AS-10630,Ann Steele,Home Office,East,Supply_Chain,Medium Frequency
+346,3,302.88,100.96,MP-17965,Michael Paige,Corporate,East,Supply_Chain,Medium Frequency
+43,3,581.62,193.87333333333333,HK-14890,Heather Kirkland,Corporate,South,Supply_Chain,Medium Frequency
+42,3,573.79,191.26333333333332,BS-11755,Bruce Stewart,Consumer,West,Supply_Chain,Medium Frequency
+41,3,1490.87,496.95666666666665,FH-14365,Fred Hopkins,Corporate,East,Supply_Chain,Medium Frequency
+36,3,11432.849999999999,3810.9499999999994,BM-11140,Becky Martin,Consumer,Central,Supply_Chain,Medium Frequency
+34,3,284.85,94.95,TT-21070,Ted Trevino,Consumer,West,Supply_Chain,Medium Frequency
+667,3,54.650000000000006,18.21666666666667,GM-14500,Gene McClure,Consumer,West,Supply_Chain,Medium Frequency
+659,3,662.93,220.97666666666666,RP-19855,Roy Phan,Corporate,Central,Supply_Chain,Medium Frequency
+62,3,261.88,87.29333333333334,AS-10225,Alan Schoenberger,Corporate,East,Supply_Chain,Medium Frequency
+58,3,363.52000000000004,121.17333333333335,RC-19825,Roy Collins,Consumer,Central,Supply_Chain,Medium Frequency
+341,3,2142.4,714.1333333333333,RS-19420,Ricardo Sperren,Corporate,West,Supply_Chain,Medium Frequency
+340,3,920.3600000000001,306.7866666666667,BW-11200,Ben Wallace,Consumer,West,Supply_Chain,Medium Frequency
+339,3,50.0,16.666666666666668,PJ-18835,Patrick Jones,Corporate,South,Supply_Chain,Medium Frequency
+399,3,489.91,163.30333333333334,AF-10885,Art Foster,Consumer,East,Supply_Chain,Medium Frequency
+396,3,1191.98,397.32666666666665,SN-20560,Skye Norling,Home Office,Central,Supply_Chain,Medium Frequency
+391,3,2162.88,720.96,KN-16450,Kean Nguyen,Corporate,West,Supply_Chain,Medium Frequency
+368,3,1348.02,449.34,SB-20170,Sarah Bern,Consumer,East,Supply_Chain,Medium Frequency
+363,3,2238.96,746.32,CM-12235,Chris McAfee,Consumer,Central,Supply_Chain,Medium Frequency
+361,3,443.53,147.84333333333333,TT-21220,Thomas Thornton,Consumer,Central,Supply_Chain,Medium Frequency
+27,3,269.86,89.95333333333333,TS-21610,Troy Staebel,Consumer,West,Supply_Chain,Medium Frequency
+28,3,610.83,203.61,LS-16975,Lindsay Shagiari,Home Office,West,Supply_Chain,Medium Frequency
+29,3,469.63,156.54333333333332,DW-13585,Dorothy Wardle,Corporate,East,Supply_Chain,Medium Frequency
+706,3,2590.76,863.5866666666667,BO-11350,Bill Overfelt,Corporate,East,Supply_Chain,Medium Frequency
+2,3,1076.98,358.99333333333334,DV-13045,Darrin Van Huff,Corporate,West,Supply_Chain,Medium Frequency
+701,2,265.27,132.635,SR-20425,Sharelle Roach,Home Office,East,Supply_Chain,Low Frequency
+699,2,2353.94,1176.97,NP-18670,Nora Paige,Consumer,Central,Supply_Chain,Low Frequency
+692,2,312.31,156.155,JG-15115,Jack Garza,Consumer,South,Supply_Chain,Low Frequency
+690,2,274.39,137.195,VS-21820,Vivek Sundaresam,Consumer,Central,Supply_Chain,Low Frequency
+382,2,616.54,308.27,TM-21010,Tamara Manning,Consumer,West,Supply_Chain,Low Frequency
+380,2,337.29999999999995,168.64999999999998,MS-17530,MaryBeth Skach,Consumer,West,Supply_Chain,Low Frequency
+379,2,82.93,41.465,EH-13945,Eric Hoffmann,Consumer,East,Supply_Chain,Low Frequency
+370,2,2401.79,1200.895,RR-19525,Rick Reed,Corporate,East,Supply_Chain,Low Frequency
+369,2,171.78,85.89,HG-15025,Hunter Glantz,Consumer,Central,Supply_Chain,Low Frequency
+684,2,1004.59,502.295,TG-21310,Toby Gnade,Consumer,South,Supply_Chain,Low Frequency
+676,2,1538.1499999999999,769.0749999999999,JS-15880,John Stevenson,Consumer,South,Supply_Chain,Low Frequency
+675,2,201.22,100.61,JK-15205,Jamie Kunitz,Consumer,South,Supply_Chain,Low Frequency
+673,2,1689.7,844.85,MH-17290,Marc Harrigan,Home Office,East,Supply_Chain,Low Frequency
+44,2,474.66999999999996,237.33499999999998,LE-16810,Laurel Elliston,Consumer,West,Supply_Chain,Low Frequency
+33,2,1171.87,585.935,DB-13060,Dave Brooks,Consumer,West,Supply_Chain,Low Frequency
+672,2,458.36,229.18,MF-18250,Monica Federle,Corporate,East,Supply_Chain,Low Frequency
+668,2,143.55,71.775,GA-14515,George Ashbrook,Consumer,West,Supply_Chain,Low Frequency
+666,2,42.72,21.36,TB-21190,Thomas Brumley,Home Office,West,Supply_Chain,Low Frequency
+665,2,592.0799999999999,296.03999999999996,HM-14980,Henry MacAllister,Consumer,West,Supply_Chain,Low Frequency
+663,2,619.75,309.875,JS-15595,Jill Stevenson,Corporate,Central,Supply_Chain,Low Frequency
+662,2,368.39,184.195,CC-12610,Corey Catlett,Corporate,South,Supply_Chain,Low Frequency
+660,2,143.48999999999998,71.74499999999999,VM-21835,Vivian Mathis,Consumer,East,Supply_Chain,Low Frequency
+657,2,254.16,127.08,TB-21055,Ted Butterfield,Consumer,East,Supply_Chain,Low Frequency
+60,2,471.43,235.715,CA-12310,Christine Abelman,Corporate,East,Supply_Chain,Low Frequency
+54,2,3802.91,1901.455,KC-16540,Kelly Collister,Consumer,West,Supply_Chain,Low Frequency
+656,2,4278.610000000001,2139.3050000000003,TW-21025,Tamara Willingham,Home Office,South,Supply_Chain,Low Frequency
+400,2,27.42,13.71,LC-16885,Lena Creighton,Consumer,South,Supply_Chain,Low Frequency
+393,2,206.62,103.31,CS-12505,Cindy Stewart,Consumer,West,Supply_Chain,Low Frequency
+389,2,315.56,157.78,LD-17005,Lisa DeCherney,Consumer,Central,Supply_Chain,Low Frequency
+387,2,61.6,30.8,JJ-15445,Jennifer Jackson,Consumer,Central,Supply_Chain,Low Frequency
+386,2,154.29,77.145,MO-17950,Michael Oakman,Consumer,Central,Supply_Chain,Low Frequency
+362,2,222.95,111.475,LO-17170,Lori Olson,Corporate,West,Supply_Chain,Low Frequency
+358,2,687.0899999999999,343.54499999999996,MY-17380,Maribeth Yedwab,Corporate,West,Supply_Chain,Low Frequency
+355,2,5574.27,2787.135,GM-14695,Greg Maxwell,Corporate,West,Supply_Chain,Low Frequency
+353,2,204.03,102.015,MC-17590,Matt Collister,Corporate,West,Supply_Chain,Low Frequency
+327,2,211.82,105.91,BT-11305,Beth Thompson,Home Office,West,Supply_Chain,Low Frequency
+413,2,354.65999999999997,177.32999999999998,MG-17875,Michael Grace,Home Office,East,Supply_Chain,Low Frequency
+410,2,260.05999999999995,130.02999999999997,GB-14575,Giulietta Baptist,Consumer,East,Supply_Chain,Low Frequency
+406,2,1099.99,549.995,CT-11995,Carol Triggs,Consumer,Central,Supply_Chain,Low Frequency
+352,2,681.24,340.62,ML-18040,Michelle Lonsdale,Corporate,West,Supply_Chain,Low Frequency
+350,2,167.5,83.75,EM-13810,Eleni McCrary,Corporate,West,Supply_Chain,Low Frequency
+348,2,2622.89,1311.445,SG-20605,Speros Goranitis,Consumer,East,Supply_Chain,Low Frequency
+345,2,609.46,304.73,MN-17935,Michael Nguyen,Consumer,East,Supply_Chain,Low Frequency
+344,2,194.25,97.125,AM-10360,Alice McCarthy,Corporate,West,Supply_Chain,Low Frequency
+342,2,458.61,229.305,SV-20935,Susan Vittorini,Consumer,East,Supply_Chain,Low Frequency
+650,2,1215.52,607.76,JH-16180,Justin Hirsh,Consumer,East,Supply_Chain,Low Frequency
+648,2,625.67,312.835,SP-20545,Sibella Parks,Corporate,East,Supply_Chain,Low Frequency
+645,2,551.5300000000001,275.76500000000004,AW-10930,Arthur Wiediger,Home Office,East,Supply_Chain,Low Frequency
+644,2,572.7,286.35,DS-13030,Darrin Sayre,Home Office,East,Supply_Chain,Low Frequency
+642,2,403.28999999999996,201.64499999999998,BF-11275,Beth Fritzler,Corporate,South,Supply_Chain,Low Frequency
+78,2,4055.4900000000002,2027.7450000000001,KH-16510,Keith Herrera,Consumer,West,Supply_Chain,Low Frequency
+73,2,674.32,337.16,VB-21745,Victoria Brennan,Corporate,South,Supply_Chain,Low Frequency
+69,2,868.22,434.11,AC-10420,Alyssa Crouse,Corporate,West,Supply_Chain,Low Frequency
+308,2,2579.33,1289.665,JE-15715,Joe Elijah,Consumer,West,Supply_Chain,Low Frequency
+430,2,98.63999999999999,49.31999999999999,PT-19090,Pete Takahito,Consumer,Central,Supply_Chain,Low Frequency
+427,2,1061.08,530.54,CS-11845,Cari Sayre,Corporate,West,Supply_Chain,Low Frequency
+426,2,297.66999999999996,148.83499999999998,CY-12745,Craig Yedwab,Corporate,Central,Supply_Chain,Low Frequency
+423,2,392.17999999999995,196.08999999999997,FG-14260,Frank Gastineau,Home Office,Central,Supply_Chain,Low Frequency
+421,2,753.66,376.83,KB-16405,Katrina Bavinger,Home Office,West,Supply_Chain,Low Frequency
+420,2,237.06,118.53,RE-19450,Richard Eichhorn,Consumer,Central,Supply_Chain,Low Frequency
+417,2,805.72,402.86,TC-21475,Tony Chapman,Home Office,South,Supply_Chain,Low Frequency
+336,2,1643.04,821.52,JL-15850,John Lucas,Consumer,West,Supply_Chain,Low Frequency
+334,2,534.4200000000001,267.21000000000004,SM-20320,Sean Miller,Home Office,South,Supply_Chain,Low Frequency
+332,2,547.95,273.975,MZ-17335,Maria Zettner,Home Office,West,Supply_Chain,Low Frequency
+331,2,236.42,118.21,JH-15820,John Huston,Consumer,Central,Supply_Chain,Low Frequency
+445,2,37.17,18.585,AF-10870,Art Ferguson,Consumer,Central,Supply_Chain,Low Frequency
+444,2,148.97,74.485,AH-10195,Alan Haines,Corporate,Central,Supply_Chain,Low Frequency
+442,2,22.03,11.015,RF-19345,Randy Ferguson,Corporate,South,Supply_Chain,Low Frequency
+434,2,78.64,39.32,JL-15130,Jack Lebron,Consumer,Central,Supply_Chain,Low Frequency
+433,2,18437.140000000003,9218.570000000002,TC-20980,Tamara Chand,Corporate,Central,Supply_Chain,Low Frequency
+318,2,258.28,129.14,BF-11080,Bart Folk,Consumer,East,Supply_Chain,Low Frequency
+314,2,378.89000000000004,189.44500000000002,SC-20050,Sample Company A,Home Office,Central,Supply_Chain,Low Frequency
+312,2,1669.08,834.54,ND-18460,Neil Ducich,Corporate,South,Supply_Chain,Low Frequency
+310,2,1250.64,625.32,RW-19690,Robert Waldorf,Consumer,Central,Supply_Chain,Low Frequency
+635,2,2083.99,1041.995,JF-15415,Jennifer Ferguson,Consumer,West,Supply_Chain,Low Frequency
+634,2,77.91,38.955,AS-10240,Alan Shonely,Consumer,West,Supply_Chain,Low Frequency
+632,2,918.4399999999999,459.21999999999997,GM-14440,Gary McGarr,Consumer,West,Supply_Chain,Low Frequency
+629,2,1432.73,716.365,CP-12340,Christine Phan,Corporate,South,Supply_Chain,Low Frequency
+628,2,749.46,374.73,BF-11215,Benjamin Farhat,Home Office,Central,Supply_Chain,Low Frequency
+626,2,511.65000000000003,255.82500000000002,BD-11635,Brian Derr,Consumer,East,Supply_Chain,Low Frequency
+95,2,57.5,28.75,JC-15340,Jasper Cacioppo,Consumer,West,Supply_Chain,Low Frequency
+93,2,2079.67,1039.835,MG-18145,Mike Gockenbach,Consumer,East,Supply_Chain,Low Frequency
+89,2,975.55,487.775,MT-18070,Michelle Tran,Home Office,West,Supply_Chain,Low Frequency
+87,2,108.72,54.36,KH-16690,Kristen Hastings,Corporate,West,Supply_Chain,Low Frequency
+462,2,2056.74,1028.37,RH-19600,Rob Haberlin,Consumer,Central,Supply_Chain,Low Frequency
+461,2,155.0,77.5,PJ-19015,Pauline Johnson,Consumer,South,Supply_Chain,Low Frequency
+452,2,208.78,104.39,KA-16525,Kelly Andreada,Consumer,East,Supply_Chain,Low Frequency
+451,2,86.49,43.245,AB-10165,Alan Barnes,Consumer,West,Supply_Chain,Low Frequency
+450,2,56.769999999999996,28.384999999999998,CL-11890,Carl Ludwig,Consumer,East,Supply_Chain,Low Frequency
+283,2,2193.79,1096.895,TT-21460,Tonja Turnell,Home Office,Central,Supply_Chain,Low Frequency
+282,2,2642.2000000000003,1321.1000000000001,ED-13885,Emily Ducich,Home Office,West,Supply_Chain,Low Frequency
+276,2,606.23,303.115,AW-10840,Anthony Witt,Consumer,East,Supply_Chain,Low Frequency
+303,2,1864.19,932.095,AC-10450,Amy Cox,Consumer,Central,Supply_Chain,Low Frequency
+298,2,489.78999999999996,244.89499999999998,RF-19840,Roy Französisch,Consumer,Central,Supply_Chain,Low Frequency
+297,2,87.4,43.7,DA-13450,Dianna Arnett,Home Office,East,Supply_Chain,Low Frequency
+293,2,303.29,151.645,LL-16840,Lauren Leatherbury,Consumer,West,Supply_Chain,Low Frequency
+624,2,647.6800000000001,323.84000000000003,TS-21430,Tom Stivers,Corporate,East,Supply_Chain,Low Frequency
+620,2,65.0,32.5,BP-11050,Barry Pond,Corporate,East,Supply_Chain,Low Frequency
+616,2,53.870000000000005,26.935000000000002,LM-17065,Liz MacKendrick,Consumer,East,Supply_Chain,Low Frequency
+615,2,751.29,375.645,PM-19135,Peter McVee,Home Office,Central,Supply_Chain,Low Frequency
+614,2,370.89,185.445,BW-11065,Barry Weirich,Consumer,South,Supply_Chain,Low Frequency
+612,2,744.56,372.28,TG-21640,Trudy Glocke,Consumer,West,Supply_Chain,Low Frequency
+611,2,55.120000000000005,27.560000000000002,MM-18280,Muhammed MacIntyre,Corporate,East,Supply_Chain,Low Frequency
+609,2,2181.4700000000003,1090.7350000000001,NF-18385,Natalie Fritzler,Consumer,South,Supply_Chain,Low Frequency
+110,2,541.62,270.81,BD-11725,Bruce Degenhardt,Consumer,South,Supply_Chain,Low Frequency
+106,2,856.4,428.2,EB-13840,Ellis Ballard,Corporate,West,Supply_Chain,Low Frequency
+473,2,4261.5,2130.75,JK-15640,Jim Kriz,Home Office,West,Supply_Chain,Low Frequency
+472,2,1618.68,809.34,RD-19660,Robert Dilbeck,Home Office,Central,Supply_Chain,Low Frequency
+470,2,563.89,281.945,TS-21505,Tony Sayre,Consumer,West,Supply_Chain,Low Frequency
+469,2,65.86,32.93,CC-12550,Clay Cheatham,Consumer,West,Supply_Chain,Low Frequency
+465,2,5322.16,2661.08,HW-14935,Helen Wasserman,Corporate,Central,Supply_Chain,Low Frequency
+256,2,1061.49,530.745,PC-19000,Pauline Chand,Home Office,West,Supply_Chain,Low Frequency
+243,2,147.07999999999998,73.53999999999999,SC-20440,Shaun Chance,Corporate,West,Supply_Chain,Low Frequency
+267,2,194.72,97.36,CM-12190,Charlotte Melton,Consumer,East,Supply_Chain,Low Frequency
+265,2,141.79000000000002,70.89500000000001,JW-16075,Julia West,Consumer,East,Supply_Chain,Low Frequency
+464,2,164.02,82.01,RD-19930,Russell D'Ascenzo,Consumer,Central,Supply_Chain,Low Frequency
+463,2,1106.04,553.02,CA-12055,Cathy Armstrong,Home Office,West,Supply_Chain,Low Frequency
+491,2,2252.15,1126.075,KL-16555,Kelly Lampkin,Corporate,South,Supply_Chain,Low Frequency
+487,2,641.73,320.865,JL-15235,Janet Lee,Consumer,East,Supply_Chain,Low Frequency
+486,2,756.3999999999999,378.19999999999993,JK-15625,Jim Karlsson,Consumer,West,Supply_Chain,Low Frequency
+484,2,282.21000000000004,141.10500000000002,DO-13435,Denny Ordway,Consumer,West,Supply_Chain,Low Frequency
+483,2,75.42,37.71,MH-17620,Matt Hagelstein,Corporate,West,Supply_Chain,Low Frequency
+481,2,286.68,143.34,EH-14125,Eugene Hildebrand,Home Office,East,Supply_Chain,Low Frequency
+235,2,1317.86,658.93,KM-16720,Kunst Miller,Consumer,West,Supply_Chain,Low Frequency
+234,2,66.07,33.035,MG-17890,Michael Granlund,Home Office,East,Supply_Chain,Low Frequency
+227,2,325.4,162.7,HP-14815,Harold Pawlan,Home Office,West,Supply_Chain,Low Frequency
+478,2,1036.08,518.04,DB-12970,Darren Budd,Corporate,West,Supply_Chain,Low Frequency
+477,2,87.89999999999999,43.949999999999996,AG-10300,Aleksandra Gannaway,Corporate,West,Supply_Chain,Low Frequency
+604,2,2854.57,1427.285,JK-16090,Juliana Krohn,Consumer,Central,Supply_Chain,Low Frequency
+602,2,904.47,452.235,TH-21115,Thea Hudgings,Corporate,East,Supply_Chain,Low Frequency
+598,2,153.87,76.935,PR-18880,Patrick Ryan,Consumer,South,Supply_Chain,Low Frequency
+595,2,735.4799999999999,367.73999999999995,NH-18610,Nicole Hansen,Corporate,Central,Supply_Chain,Low Frequency
+127,2,1058.62,529.31,DP-13165,David Philippe,Consumer,East,Supply_Chain,Low Frequency
+126,2,203.11,101.555,BN-11470,Brad Norvell,Corporate,South,Supply_Chain,Low Frequency
+121,2,398.47,199.235,RB-19570,Rob Beeghly,Consumer,Central,Supply_Chain,Low Frequency
+120,2,305.52,152.76,MO-17800,Meg O'Connel,Home Office,Central,Supply_Chain,Low Frequency
+116,2,555.4300000000001,277.71500000000003,SC-20305,Sean Christensen,Consumer,Central,Supply_Chain,Low Frequency
+591,2,1271.56,635.78,KT-16465,Kean Takahito,Consumer,Central,Supply_Chain,Low Frequency
+215,2,291.25,145.625,SA-20830,Sue Ann Reed,Consumer,South,Supply_Chain,Low Frequency
+213,2,181.63,90.815,KC-16255,Karen Carlisle,Corporate,South,Supply_Chain,Low Frequency
+211,2,514.6800000000001,257.34000000000003,DC-12850,Dan Campbell,Consumer,South,Supply_Chain,Low Frequency
+510,2,126.08,63.04,BG-11695,Brooke Gillingham,Corporate,East,Supply_Chain,Low Frequency
+509,2,625.67,312.835,LP-17080,Liz Pelletier,Consumer,West,Supply_Chain,Low Frequency
+507,2,1812.8899999999999,906.4449999999999,MC-17275,Marc Crier,Consumer,East,Supply_Chain,Low Frequency
+505,2,148.95,74.475,KM-16660,Khloe Miller,Consumer,South,Supply_Chain,Low Frequency
+504,2,3589.04,1794.52,DK-12895,Dana Kaydos,Consumer,Central,Supply_Chain,Low Frequency
+503,2,3138.1200000000003,1569.0600000000002,CC-12370,Christopher Conant,Consumer,West,Supply_Chain,Low Frequency
+502,2,156.46,78.23,DW-13540,Don Weiss,Consumer,East,Supply_Chain,Low Frequency
+500,2,1736.6,868.3,VT-21700,Valerie Takahito,Home Office,East,Supply_Chain,Low Frequency
+496,2,64.04,32.02,NC-18415,Nathan Cano,Consumer,East,Supply_Chain,Low Frequency
+494,2,424.02,212.01,JM-15655,Jim Mitchum,Corporate,West,Supply_Chain,Low Frequency
+493,2,209.17000000000002,104.58500000000001,JG-15805,John Grady,Corporate,Central,Supply_Chain,Low Frequency
+492,2,382.55,191.275,HG-14845,Harry Greene,Consumer,East,Supply_Chain,Low Frequency
+523,2,406.16999999999996,203.08499999999998,LS-16945,Linda Southworth,Corporate,Central,Supply_Chain,Low Frequency
+520,2,887.74,443.87,PF-19120,Peter Fuller,Consumer,South,Supply_Chain,Low Frequency
+519,2,255.22,127.61,AH-10585,Angele Hood,Consumer,Central,Supply_Chain,Low Frequency
+514,2,118.17,59.085,JF-15355,Jay Fein,Consumer,South,Supply_Chain,Low Frequency
+201,2,907.9499999999999,453.97499999999997,SW-20275,Scott Williamson,Consumer,Central,Supply_Chain,Low Frequency
+200,2,1103.6599999999999,551.8299999999999,PM-18940,Paul MacIntyre,Consumer,Central,Supply_Chain,Low Frequency
+195,2,1316.92,658.46,NC-18340,Nat Carroll,Consumer,Central,Supply_Chain,Low Frequency
+193,2,153.73,76.865,JS-15940,Joni Sundaresam,Home Office,East,Supply_Chain,Low Frequency
+222,2,601.74,300.87,LW-16825,Laurel Workman,Corporate,South,Supply_Chain,Low Frequency
+221,2,550.64,275.32,CS-12460,Chuck Sachs,Consumer,South,Supply_Chain,Low Frequency
+220,2,4433.030000000001,2216.5150000000003,AA-10315,Alex Avila,Consumer,West,Supply_Chain,Low Frequency
+217,2,932.0699999999999,466.03499999999997,AD-10180,Alan Dominguez,Home Office,East,Supply_Chain,Low Frequency
+537,2,1145.04,572.52,GW-14605,Giulietta Weimer,Consumer,East,Supply_Chain,Low Frequency
+532,2,1799.47,899.735,MA-17995,Michelle Arnett,Home Office,Central,Supply_Chain,Low Frequency
+529,2,357.62,178.81,AG-10330,Alex Grayson,Consumer,West,Supply_Chain,Low Frequency
+192,2,656.63,328.315,BD-11605,Brian Dahlen,Consumer,South,Supply_Chain,Low Frequency
+186,2,127.45,63.725,MS-17710,Maurice Satty,Consumer,West,Supply_Chain,Low Frequency
+185,2,309.40999999999997,154.70499999999998,BD-11620,Brian DeCherney,Consumer,West,Supply_Chain,Low Frequency
+183,2,534.19,267.095,DG-13300,Deirdre Greer,Corporate,East,Supply_Chain,Low Frequency
+181,2,368.32,184.16,SN-20710,Steve Nguyen,Home Office,Central,Supply_Chain,Low Frequency
+179,2,813.96,406.98,MO-17500,Mary O'Rourke,Consumer,East,Supply_Chain,Low Frequency
+177,2,114.49,57.245,DE-13255,Deanra Eno,Home Office,East,Supply_Chain,Low Frequency
+524,2,1000.59,500.295,SJ-20500,Shirley Jackson,Consumer,East,Supply_Chain,Low Frequency
+590,2,337.22999999999996,168.61499999999998,EC-14050,Erin Creighton,Consumer,South,Supply_Chain,Low Frequency
+588,2,511.77,255.885,JM-15865,John Murray,Consumer,West,Supply_Chain,Low Frequency
+587,2,955.6,477.8,AZ-10750,Annie Zypern,Consumer,East,Supply_Chain,Low Frequency
+583,2,154.77,77.385,JM-15580,Jill Matthias,Consumer,South,Supply_Chain,Low Frequency
+582,2,1836.3500000000001,918.1750000000001,TP-21130,Theone Pippenger,Consumer,South,Supply_Chain,Low Frequency
+578,2,387.24,193.62,CV-12295,Christina VanderZanden,Consumer,Central,Supply_Chain,Low Frequency
+144,2,153.18,76.59,JL-15175,James Lanier,Home Office,South,Supply_Chain,Low Frequency
+141,2,46.44,23.22,MC-18130,Mike Caudle,Corporate,South,Supply_Chain,Low Frequency
+136,2,338.56,169.28,RF-19735,Roland Fjeld,Consumer,Central,Supply_Chain,Low Frequency
+135,2,524.78,262.39,PO-19195,Phillina Ober,Home Office,Central,Supply_Chain,Low Frequency
+576,2,938.24,469.12,LR-17035,Lisa Ryan,Corporate,East,Supply_Chain,Low Frequency
+573,2,873.53,436.765,AB-10015,Aaron Bergman,Consumer,West,Supply_Chain,Low Frequency
+551,2,118.44999999999999,59.224999999999994,KH-16330,Katharine Harms,Corporate,Central,Supply_Chain,Low Frequency
+550,2,609.5,304.75,AH-10120,Adrian Hane,Home Office,West,Supply_Chain,Low Frequency
+545,2,123.83999999999999,61.919999999999995,AG-10765,Anthony Garverick,Home Office,South,Supply_Chain,Low Frequency
+173,2,9.719999999999999,4.859999999999999,TS-21340,Toby Swindell,Consumer,Central,Supply_Chain,Low Frequency
+172,2,1209.27,604.635,TZ-21580,Tracy Zic,Consumer,West,Supply_Chain,Low Frequency
+167,2,33.17,16.585,KH-16360,Katherine Hughes,Consumer,East,Supply_Chain,Low Frequency
+165,2,221.85999999999999,110.92999999999999,RK-19300,Ralph Kennedy,Consumer,East,Supply_Chain,Low Frequency
+164,2,195.0,97.5,JJ-15760,Joel Jenkins,Home Office,South,Supply_Chain,Low Frequency
+541,2,785.17,392.585,VF-21715,Vicky Freymann,Home Office,West,Supply_Chain,Low Frequency
+538,2,497.15,248.575,BG-11740,Bruce Geld,Consumer,Central,Supply_Chain,Low Frequency
+567,2,74.24,37.12,SL-20155,Sara Luxemburg,Home Office,South,Supply_Chain,Low Frequency
+561,2,152.8,76.4,MH-18025,Michelle Huthwaite,Consumer,East,Supply_Chain,Low Frequency
+159,2,130.73000000000002,65.36500000000001,JR-16210,Justin Ritter,Corporate,East,Supply_Chain,Low Frequency
+155,2,195.19,97.595,SM-20005,Sally Matthias,Consumer,East,Supply_Chain,Low Frequency
+154,2,1441.15,720.575,PK-18910,Paul Knutson,Home Office,East,Supply_Chain,Low Frequency
+151,2,1414.96,707.48,AJ-10795,Anthony Johnson,Corporate,South,Supply_Chain,Low Frequency
+559,2,272.63,136.315,JB-15925,Joni Blumstein,Consumer,Central,Supply_Chain,Low Frequency
+714,2,174.3,87.15,HD-14785,Harold Dahlen,Home Office,East,Supply_Chain,Low Frequency
+708,2,597.73,298.865,HE-14800,Harold Engle,Corporate,East,Supply_Chain,Low Frequency
+707,2,258.75,129.375,MH-17440,Mark Haberlin,Corporate,Central,Supply_Chain,Low Frequency
+32,2,2672.57,1336.285,JE-16165,Justin Ellison,Corporate,Central,Supply_Chain,Low Frequency
+21,2,1184.81,592.405,ER-13855,Elpida Rittenbach,Corporate,Central,Supply_Chain,Low Frequency
+17,2,213.37,106.685,JC-16105,Julie Creighton,Corporate,South,Supply_Chain,Low Frequency
+726,2,22.330000000000002,11.165000000000001,RS-19870,Roy Skaria,Home Office,Central,Supply_Chain,Low Frequency
+723,2,60.19,30.095,FW-14395,Fred Wasserman,Corporate,East,Supply_Chain,Low Frequency
+16,2,160.21,80.105,DN-13690,Duane Noonan,Consumer,West,Supply_Chain,Low Frequency
+15,2,244.1,122.05,SC-20770,Stewart Carmichael,Corporate,South,Supply_Chain,Low Frequency
+12,2,1627.3600000000001,813.6800000000001,BS-11590,Brendan Sweed,Corporate,West,Supply_Chain,Low Frequency
+8,2,1361.24,680.62,GH-14485,Gene Hale,Corporate,Central,Supply_Chain,Low Frequency
+1,1,993.9000000000001,993.9000000000001,CG-12520,Claire Gute,Consumer,South,Supply_Chain,Low Frequency
+11,1,1045.21,1045.21,JM-15265,Janet Molinari,Corporate,East,Supply_Chain,Low Frequency
+721,1,2676.67,2676.67,LC-16960,Lindsay Castell,Home Office,West,Supply_Chain,Low Frequency
+722,1,199.3,199.3,EB-13930,Eric Barreto,Consumer,South,Supply_Chain,Low Frequency
+724,1,145.51,145.51,MG-17695,Maureen Gnade,Consumer,Central,Supply_Chain,Low Frequency
+725,1,91.42,91.42,SB-20185,Sarah Brown,Consumer,West,Supply_Chain,Low Frequency
+727,1,147.57,147.57,MM-17260,Magdelene Morse,Consumer,East,Supply_Chain,Low Frequency
+728,1,107.65,107.65,KD-16615,Ken Dana,Corporate,West,Supply_Chain,Low Frequency
+729,1,14.11,14.11,SC-20845,Sung Chung,Consumer,Central,Supply_Chain,Low Frequency
+730,1,104.7,104.7,MH-17785,Maya Herman,Corporate,West,Supply_Chain,Low Frequency
+704,1,457.74,457.74,DH-13675,Duane Huffman,Home Office,South,Supply_Chain,Low Frequency
+19,1,5.68,5.68,RB-19705,Roger Barcio,Home Office,West,Supply_Chain,Low Frequency
+705,1,435.84999999999997,435.84999999999997,PS-18760,Pamela Stobb,Consumer,East,Supply_Chain,Low Frequency
+709,1,27.86,27.86,TH-21100,Thea Hendricks,Consumer,South,Supply_Chain,Low Frequency
+710,1,25.49,25.49,RA-19945,Ryan Akin,Consumer,East,Supply_Chain,Low Frequency
+711,1,370.14,370.14,IG-15085,Ivan Gibson,Consumer,East,Supply_Chain,Low Frequency
+712,1,200.73,200.73,DH-13075,Dave Hallsten,Corporate,West,Supply_Chain,Low Frequency
+713,1,30.34,30.34,EM-14065,Erin Mull,Consumer,Central,Supply_Chain,Low Frequency
+715,1,1671.0700000000002,1671.0700000000002,DP-13105,Dave Poirier,Corporate,East,Supply_Chain,Low Frequency
+716,1,440.04999999999995,440.04999999999995,BT-11440,Bobby Trafton,Consumer,East,Supply_Chain,Low Frequency
+557,1,60.63,60.63,TS-21160,Theresa Swint,Corporate,West,Supply_Chain,Low Frequency
+558,1,837.6,837.6,DL-13495,Dionis Lloyd,Corporate,West,Supply_Chain,Low Frequency
+150,1,30.46,30.46,CM-12445,Chuck Magee,Consumer,West,Supply_Chain,Low Frequency
+152,1,54.83,54.83,AJ-10780,Anthony Jacobs,Corporate,South,Supply_Chain,Low Frequency
+153,1,44.91,44.91,GP-14740,Guy Phonely,Corporate,East,Supply_Chain,Low Frequency
+156,1,225.82999999999998,225.82999999999998,PC-18745,Pamela Coakley,Corporate,West,Supply_Chain,Low Frequency
+565,1,189.92,189.92,FH-14350,Fred Harton,Consumer,East,Supply_Chain,Low Frequency
+569,1,405.91999999999996,405.91999999999996,BM-11575,Brendan Murry,Corporate,East,Supply_Chain,Low Frequency
+571,1,72.69,72.69,KD-16345,Katherine Ducich,Consumer,East,Supply_Chain,Low Frequency
+544,1,10.48,10.48,DB-13660,Duane Benoit,Consumer,Central,Supply_Chain,Low Frequency
+161,1,3480.96,3480.96,BE-11335,Bill Eplett,Home Office,Central,Supply_Chain,Low Frequency
+169,1,760.8,760.8,BS-11800,Bryan Spruell,Home Office,East,Supply_Chain,Low Frequency
+547,1,1158.88,1158.88,NL-18310,Nancy Lomonaco,Home Office,West,Supply_Chain,Low Frequency
+549,1,564.77,564.77,Co-12640,Corey-Lock,Consumer,West,Supply_Chain,Low Frequency
+556,1,375.71,375.71,JD-16060,Julia Dunbar,Consumer,Central,Supply_Chain,Low Frequency
+575,1,61.870000000000005,61.870000000000005,KS-16300,Karen Seio,Corporate,South,Supply_Chain,Low Frequency
+142,1,2027.15,2027.15,RA-19915,Russell Applegate,Consumer,West,Supply_Chain,Low Frequency
+580,1,687.4499999999999,687.4499999999999,SC-20260,Scott Cohen,Corporate,West,Supply_Chain,Low Frequency
+584,1,241.34,241.34,KW-16570,Kelly Williams,Consumer,Central,Supply_Chain,Low Frequency
+526,1,42.93,42.93,JC-15775,John Castell,Consumer,East,Supply_Chain,Low Frequency
+528,1,42.91,42.91,SS-20875,Sung Shariari,Consumer,West,Supply_Chain,Low Frequency
+191,1,112.03999999999999,112.03999999999999,PA-19060,Pete Armstrong,Home Office,Central,Supply_Chain,Low Frequency
+531,1,608.5500000000001,608.5500000000001,RR-19315,Ralph Ritter,Consumer,Central,Supply_Chain,Low Frequency
+534,1,73.78,73.78,MW-18220,Mitch Webber,Consumer,East,Supply_Chain,Low Frequency
+216,1,2.77,2.77,KW-16435,Katrina Willman,Consumer,Central,Supply_Chain,Low Frequency
+203,1,271.96,271.96,LH-16750,Larry Hughes,Consumer,South,Supply_Chain,Low Frequency
+208,1,91.72999999999999,91.72999999999999,MH-18115,Mick Hernandez,Home Office,East,Supply_Chain,Low Frequency
+517,1,681.9100000000001,681.9100000000001,CR-12820,Cyra Reiten,Home Office,East,Supply_Chain,Low Frequency
+497,1,4.37,4.37,DW-13195,David Wiener,Corporate,South,Supply_Chain,Low Frequency
+128,1,55.48,55.48,TH-21550,Tracy Hopkins,Home Office,East,Supply_Chain,Low Frequency
+593,1,187.06,187.06,DL-12865,Dan Lawera,Consumer,South,Supply_Chain,Low Frequency
+594,1,19.44,19.44,LS-17230,Lycoris Saunders,Consumer,West,Supply_Chain,Low Frequency
+599,1,588.78,588.78,EH-14185,Evan Henry,Consumer,East,Supply_Chain,Low Frequency
+601,1,23.47,23.47,PB-19150,Philip Brown,Consumer,South,Supply_Chain,Low Frequency
+603,1,115.3,115.3,TB-21355,Todd Boyes,Corporate,Central,Supply_Chain,Low Frequency
+474,1,116.47999999999999,116.47999999999999,JW-15955,Joni Wasserman,Consumer,East,Supply_Chain,Low Frequency
+232,1,1475.05,1475.05,AB-10600,Ann Blume,Corporate,West,Supply_Chain,Low Frequency
+482,1,175.32,175.32,ML-17410,Maris LaWare,Consumer,East,Supply_Chain,Low Frequency
+488,1,98.35,98.35,RM-19750,Roland Murray,Consumer,East,Supply_Chain,Low Frequency
+489,1,606.2099999999999,606.2099999999999,JG-15310,Jason Gross,Corporate,Central,Supply_Chain,Low Frequency
+257,1,8.36,8.36,JM-15535,Jessica Myrick,Consumer,West,Supply_Chain,Low Frequency
+268,1,10.96,10.96,VG-21805,Vivek Grady,Corporate,South,Supply_Chain,Low Frequency
+271,1,1058.1100000000001,1058.1100000000001,JC-15385,Jenna Caffey,Consumer,West,Supply_Chain,Low Frequency
+246,1,27.46,27.46,AA-10480,Andrew Allen,Consumer,East,Supply_Chain,Low Frequency
+471,1,16.92,16.92,GT-14755,Guy Thornton,Consumer,West,Supply_Chain,Low Frequency
+605,1,10.16,10.16,JW-15220,Jane Waco,Corporate,South,Supply_Chain,Low Frequency
+99,1,468.9,468.9,BD-11500,Bradley Drucker,Consumer,Central,Supply_Chain,Low Frequency
+103,1,1388.7800000000002,1388.7800000000002,OT-18730,Olvera Toch,Consumer,West,Supply_Chain,Low Frequency
+617,1,16.740000000000002,16.740000000000002,MG-18205,Mitch Gastineau,Corporate,South,Supply_Chain,Low Frequency
+619,1,26.14,26.14,AR-10510,Andrew Roberts,Consumer,East,Supply_Chain,Low Frequency
+622,1,65.8,65.8,PL-18925,Paul Lucas,Home Office,West,Supply_Chain,Low Frequency
+294,1,1127.98,1127.98,CH-12070,Cathy Hwang,Home Office,South,Supply_Chain,Low Frequency
+299,1,370.78,370.78,NG-18355,Nat Gilpin,Corporate,East,Supply_Chain,Low Frequency
+278,1,12.35,12.35,CD-12790,Cynthia Delaney,Home Office,West,Supply_Chain,Low Frequency
+456,1,58.72,58.72,ST-20530,Shui Tom,Consumer,South,Supply_Chain,Low Frequency
+84,1,560.78,560.78,RB-19360,Raymond Buch,Consumer,East,Supply_Chain,Low Frequency
+625,1,199.99,199.99,AY-10555,Andy Yotov,Corporate,West,Supply_Chain,Low Frequency
+627,1,14.37,14.37,TB-21520,Tracy Blumstein,Consumer,West,Supply_Chain,Low Frequency
+630,1,3588.0899999999997,3588.0899999999997,SP-20920,Susan Pistek,Consumer,East,Supply_Chain,Low Frequency
+631,1,60.620000000000005,60.620000000000005,SS-20140,Saphhira Shifley,Corporate,West,Supply_Chain,Low Frequency
+633,1,383.84,383.84,AM-10705,Anne McFarland,Consumer,Central,Supply_Chain,Low Frequency
+309,1,2255.87,2255.87,AC-10615,Ann Chong,Corporate,East,Supply_Chain,Low Frequency
+311,1,303.37,303.37,JS-16030,Joy Smith,Consumer,Central,Supply_Chain,Low Frequency
+315,1,206.32,206.32,SC-20800,Stuart Calhoun,Consumer,Central,Supply_Chain,Low Frequency
+435,1,95.97,95.97,TB-21280,Toby Braunhardt,Consumer,South,Supply_Chain,Low Frequency
+437,1,235.97,235.97,JP-15460,Jennifer Patt,Corporate,East,Supply_Chain,Low Frequency
+439,1,114.9,114.9,BN-11515,Bradley Nguyen,Consumer,East,Supply_Chain,Low Frequency
+291,1,69.93,69.93,PB-19210,Phillip Breyer,Corporate,Central,Supply_Chain,Low Frequency
+329,1,413.79,413.79,NS-18505,Neola Schneider,Consumer,West,Supply_Chain,Low Frequency
+335,1,47.96,47.96,MK-17905,Michael Kennedy,Corporate,South,Supply_Chain,Low Frequency
+419,1,523.18,523.18,SW-20350,Sean Wendt,Home Office,Central,Supply_Chain,Low Frequency
+422,1,397.73,397.73,TP-21415,Tom Prescott,Consumer,Central,Supply_Chain,Low Frequency
+636,1,9.86,9.86,GK-14620,Grace Kelly,Corporate,Central,Supply_Chain,Low Frequency
+638,1,334.43,334.43,RM-19675,Robert Marley,Home Office,East,Supply_Chain,Low Frequency
+79,1,447.0,447.0,KC-16675,Kimberly Carter,Corporate,West,Supply_Chain,Low Frequency
+646,1,386.14,386.14,DB-13360,Dennis Bolton,Home Office,East,Supply_Chain,Low Frequency
+649,1,85.21000000000001,85.21000000000001,CC-12100,Chad Cunningham,Home Office,East,Supply_Chain,Low Frequency
+651,1,1219.79,1219.79,EJ-13720,Ed Jacobs,Consumer,West,Supply_Chain,Low Frequency
+652,1,125.93,125.93,SV-20815,Stuart Van,Corporate,Central,Supply_Chain,Low Frequency
+654,1,338.86,338.86,PO-18865,Patrick O'Donnell,Consumer,Central,Supply_Chain,Low Frequency
+337,1,265.78,265.78,AR-10405,Allen Rosenblatt,Corporate,West,Supply_Chain,Low Frequency
+402,1,23.12,23.12,CR-12730,Craig Reiter,Consumer,Central,Supply_Chain,Low Frequency
+407,1,1169.46,1169.46,GT-14710,Greg Tran,Consumer,West,Supply_Chain,Low Frequency
+411,1,61.44,61.44,TT-21265,Tim Taslimi,Corporate,East,Supply_Chain,Low Frequency
+412,1,19.0,19.0,VP-21730,Victor Preis,Home Office,Central,Supply_Chain,Low Frequency
+321,1,2.81,2.81,TS-21085,Thais Sissman,Consumer,South,Supply_Chain,Low Frequency
+365,1,252.14999999999998,252.14999999999998,BF-11005,Barry Franz,Home Office,West,Supply_Chain,Low Frequency
+366,1,1562.69,1562.69,EN-13780,Edward Nazzal,Consumer,East,Supply_Chain,Low Frequency
+367,1,25.92,25.92,MC-17635,Matthew Clasen,Corporate,Central,Supply_Chain,Low Frequency
+385,1,102.83,102.83,NK-18490,Neil Knudson,Home Office,West,Supply_Chain,Low Frequency
+390,1,114.78,114.78,MD-17860,Michael Dominguez,Corporate,Central,Supply_Chain,Low Frequency
+392,1,41.37,41.37,DL-13330,Denise Leinenbach,Consumer,West,Supply_Chain,Low Frequency
+398,1,20.74,20.74,RH-19495,Rick Hansen,Consumer,South,Supply_Chain,Low Frequency
+655,1,601.44,601.44,DB-13405,Denny Blanton,Consumer,East,Supply_Chain,Low Frequency
+61,1,1038.84,1038.84,JO-15280,Jas O'Carroll,Consumer,West,Supply_Chain,Low Frequency
+63,1,334.68,334.68,CR-12625,Corey Roper,Home Office,East,Supply_Chain,Low Frequency
+658,1,111.96,111.96,CM-11815,Candace McMahon,Corporate,West,Supply_Chain,Low Frequency
+664,1,2.48,2.48,JO-15550,Jesus Ocampo,Home Office,West,Supply_Chain,Low Frequency
+669,1,364.07,364.07,CC-12685,Craig Carroll,Consumer,South,Supply_Chain,Low Frequency
+670,1,318.96,318.96,CD-11980,Carol Darley,Consumer,East,Supply_Chain,Low Frequency
+671,1,19.65,19.65,SG-20890,Susan Gilcrest,Corporate,Central,Supply_Chain,Low Frequency
+37,1,472.03999999999996,472.03999999999996,CS-12130,Chad Sievert,Consumer,West,Supply_Chain,Low Frequency
+38,1,433.56,433.56,DK-13150,David Kendrick,Corporate,Central,Supply_Chain,Low Frequency
+677,1,6.08,6.08,BO-11425,Bobby Odegard,Consumer,East,Supply_Chain,Low Frequency
+678,1,386.62,386.62,CM-12115,Chad McGuire,Consumer,West,Supply_Chain,Low Frequency
+680,1,14.7,14.7,GZ-14545,George Zrebassa,Corporate,West,Supply_Chain,Low Frequency
+682,1,50.46000000000001,50.46000000000001,SC-20575,Sonia Cooley,Consumer,South,Supply_Chain,Low Frequency
+683,1,250.41,250.41,JF-15295,Jason Fortune-,Consumer,West,Supply_Chain,Low Frequency
+731,1,796.03,796.03,CD-12280,Christina DeMoss,Consumer,East,Supply_Chain,Low Frequency
+732,1,2031.3899999999999,2031.3899999999999,CM-12385,Christopher Martinez,Consumer,West,Supply_Chain,Low Frequency
+733,1,497.05,497.05,PB-18805,Patrick Bzostek,Home Office,West,Supply_Chain,Low Frequency
+734,1,467.65,467.65,RP-19270,Rachel Payne,Corporate,Central,Supply_Chain,Low Frequency
+735,1,1043.05,1043.05,SM-20905,Susan MacKendrick,Consumer,East,Supply_Chain,Low Frequency
+736,1,30.34,30.34,BT-11485,Brad Thomas,Home Office,East,Supply_Chain,Low Frequency
+374,1,5.35,5.35,CM-12160,Charles McCrossin,Consumer,East,Supply_Chain,Low Frequency
+375,1,30.35,30.35,BE-11410,Bobby Elias,Consumer,East,Supply_Chain,Low Frequency
+378,1,110.10000000000001,110.10000000000001,DF-13135,David Flashing,Consumer,West,Supply_Chain,Low Frequency
+381,1,8.23,8.23,RH-19555,Ritsa Hightower,Consumer,South,Supply_Chain,Low Frequency
+383,1,239.97,239.97,ES-14020,Erica Smith,Consumer,East,Supply_Chain,Low Frequency
+685,1,109.62,109.62,DD-13570,Dorothy Dickinson,Consumer,West,Supply_Chain,Low Frequency
+686,1,692.73,692.73,AR-10540,Andy Reiter,Consumer,West,Supply_Chain,Low Frequency
+688,1,94.72999999999999,94.72999999999999,SW-20755,Steven Ward,Corporate,West,Supply_Chain,Low Frequency
+689,1,892.22,892.22,CA-11965,Carol Adams,Corporate,West,Supply_Chain,Low Frequency
+693,1,40.78,40.78,PB-19105,Peter Bühler,Consumer,East,Supply_Chain,Low Frequency
+694,1,26.72,26.72,LB-16735,Larry Blacks,Consumer,South,Supply_Chain,Low Frequency
+695,1,1515.19,1515.19,MG-17680,Maureen Gastineau,Home Office,West,Supply_Chain,Low Frequency
+697,1,1872.93,1872.93,CR-12580,Clay Rozendal,Home Office,West,Supply_Chain,Low Frequency
+698,1,69.86,69.86,BS-11365,Bill Shonely,Corporate,West,Supply_Chain,Low Frequency
+700,1,954.9,954.9,JM-15250,Janet Martin,Consumer,Central,Supply_Chain,Low Frequency
+702,1,3384.45,3384.45,RH-19510,Rick Huthwaite,Home Office,West,Supply_Chain,Low Frequency
+703,1,26.82,26.82,SG-20470,Sheri Gordon,Consumer,East,Supply_Chain,Low Frequency
+717,1,479.97,479.97,PF-19165,Philip Fox,Consumer,West,Supply_Chain,Low Frequency
+718,1,399.67,399.67,BT-11395,Bill Tyler,Corporate,West,Supply_Chain,Low Frequency
+719,1,4.71,4.71,NF-18475,Neil Französisch,Home Office,West,Supply_Chain,Low Frequency
+720,1,359.5,359.5,PW-19240,Pierre Wener,Consumer,West,Supply_Chain,Low Frequency
+737,1,146.69,146.69,TB-21595,Troy Blackwell,Consumer,West,Supply_Chain,Low Frequency
+738,1,2824.23,2824.23,IM-15055,Ionia McGrath,Consumer,West,Supply_Chain,Low Frequency

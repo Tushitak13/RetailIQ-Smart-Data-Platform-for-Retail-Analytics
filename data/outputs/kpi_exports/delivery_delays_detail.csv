@@ -1,0 +1,3543 @@
+order_id,Delivery_Time,Delivery_Status
+CA-2016-152156,3.0,On Time (<=3 days)
+CA-2016-152156,3.0,On Time (<=3 days)
+CA-2016-138688,0.0,Same/Next Day
+US-2015-108966,0.0,Same/Next Day
+US-2015-108966,0.0,Same/Next Day
+CA-2014-115812,0.0,Same/Next Day
+CA-2014-115812,0.0,Same/Next Day
+CA-2014-115812,0.0,Same/Next Day
+CA-2014-115812,0.0,Same/Next Day
+CA-2014-115812,0.0,Same/Next Day
+CA-2014-115812,0.0,Same/Next Day
+CA-2014-115812,0.0,Same/Next Day
+CA-2016-161389,5.0,Acceptable (4-5 days)
+CA-2016-117590,2.0,On Time (<=3 days)
+CA-2016-117590,2.0,On Time (<=3 days)
+CA-2017-120999,0.0,Same/Next Day
+CA-2016-118255,0.0,Same/Next Day
+CA-2016-118255,0.0,Same/Next Day
+CA-2014-106376,5.0,Acceptable (4-5 days)
+CA-2014-106376,5.0,Acceptable (4-5 days)
+CA-2016-119823,2.0,On Time (<=3 days)
+US-2017-118038,2.0,On Time (<=3 days)
+US-2017-118038,2.0,On Time (<=3 days)
+US-2017-118038,2.0,On Time (<=3 days)
+CA-2016-127208,0.0,Same/Next Day
+CA-2016-127208,0.0,Same/Next Day
+CA-2014-139451,0.0,Same/Next Day
+CA-2014-139451,0.0,Same/Next Day
+CA-2015-149734,5.0,Acceptable (4-5 days)
+CA-2016-159695,5.0,Acceptable (4-5 days)
+US-2017-109484,6.0,Delayed (6-7 days)
+CA-2017-161018,2.0,On Time (<=3 days)
+CA-2016-149223,5.0,Acceptable (4-5 days)
+CA-2016-129903,3.0,On Time (<=3 days)
+CA-2016-128867,7.0,Delayed (6-7 days)
+CA-2016-128867,7.0,Delayed (6-7 days)
+CA-2015-110457,4.0,Acceptable (4-5 days)
+US-2015-136476,5.0,Acceptable (4-5 days)
+CA-2016-103730,0.0,Same/Next Day
+CA-2016-103730,0.0,Same/Next Day
+CA-2016-103730,0.0,Same/Next Day
+CA-2016-103730,0.0,Same/Next Day
+CA-2016-103730,0.0,Same/Next Day
+US-2017-107272,7.0,Delayed (6-7 days)
+US-2017-107272,7.0,Delayed (6-7 days)
+US-2016-125969,4.0,Acceptable (4-5 days)
+US-2016-125969,4.0,Acceptable (4-5 days)
+US-2017-164147,3.0,On Time (<=3 days)
+US-2017-164147,3.0,On Time (<=3 days)
+US-2017-164147,3.0,On Time (<=3 days)
+CA-2016-110366,2.0,On Time (<=3 days)
+CA-2015-110744,5.0,Acceptable (4-5 days)
+CA-2016-114489,4.0,Acceptable (4-5 days)
+CA-2016-114489,4.0,Acceptable (4-5 days)
+CA-2016-114489,4.0,Acceptable (4-5 days)
+CA-2016-114489,4.0,Acceptable (4-5 days)
+CA-2014-104269,5.0,Acceptable (4-5 days)
+CA-2016-162733,1.0,Same/Next Day
+CA-2016-113817,4.0,Acceptable (4-5 days)
+CA-2014-139892,4.0,Acceptable (4-5 days)
+CA-2014-139892,4.0,Acceptable (4-5 days)
+CA-2014-139892,4.0,Acceptable (4-5 days)
+CA-2014-139892,4.0,Acceptable (4-5 days)
+CA-2014-139892,4.0,Acceptable (4-5 days)
+CA-2014-139892,4.0,Acceptable (4-5 days)
+CA-2014-139892,4.0,Acceptable (4-5 days)
+CA-2014-118962,4.0,Acceptable (4-5 days)
+CA-2014-118962,4.0,Acceptable (4-5 days)
+CA-2014-118962,4.0,Acceptable (4-5 days)
+CA-2014-166191,4.0,Acceptable (4-5 days)
+CA-2014-166191,4.0,Acceptable (4-5 days)
+CA-2015-102281,0.0,Same/Next Day
+CA-2015-102281,0.0,Same/Next Day
+CA-2015-102281,0.0,Same/Next Day
+CA-2015-102281,0.0,Same/Next Day
+CA-2015-102281,0.0,Same/Next Day
+CA-2014-133690,2.0,On Time (<=3 days)
+CA-2014-133690,2.0,On Time (<=3 days)
+CA-2017-126382,4.0,Acceptable (4-5 days)
+CA-2017-135860,6.0,Delayed (6-7 days)
+CA-2017-135860,6.0,Delayed (6-7 days)
+CA-2017-135860,6.0,Delayed (6-7 days)
+CA-2017-135860,6.0,Delayed (6-7 days)
+CA-2017-135860,6.0,Delayed (6-7 days)
+CA-2015-101007,0.0,Same/Next Day
+CA-2015-146262,7.0,Delayed (6-7 days)
+CA-2015-146262,7.0,Delayed (6-7 days)
+CA-2015-146262,7.0,Delayed (6-7 days)
+CA-2015-146262,7.0,Delayed (6-7 days)
+CA-2015-146262,7.0,Delayed (6-7 days)
+CA-2015-163055,0.0,Same/Next Day
+CA-2015-163055,0.0,Same/Next Day
+CA-2015-163055,0.0,Same/Next Day
+US-2017-100930,5.0,Acceptable (4-5 days)
+US-2017-100930,5.0,Acceptable (4-5 days)
+US-2017-100930,5.0,Acceptable (4-5 days)
+US-2017-100930,5.0,Acceptable (4-5 days)
+US-2017-100930,5.0,Acceptable (4-5 days)
+CA-2017-160514,0.0,Same/Next Day
+CA-2016-157749,5.0,Acceptable (4-5 days)
+CA-2016-157749,5.0,Acceptable (4-5 days)
+CA-2016-157749,5.0,Acceptable (4-5 days)
+CA-2016-157749,5.0,Acceptable (4-5 days)
+CA-2016-157749,5.0,Acceptable (4-5 days)
+CA-2016-157749,5.0,Acceptable (4-5 days)
+CA-2016-157749,5.0,Acceptable (4-5 days)
+CA-2014-131926,5.0,Acceptable (4-5 days)
+CA-2014-131926,5.0,Acceptable (4-5 days)
+CA-2014-131926,5.0,Acceptable (4-5 days)
+CA-2014-131926,5.0,Acceptable (4-5 days)
+CA-2014-131926,5.0,Acceptable (4-5 days)
+CA-2016-145625,0.0,Same/Next Day
+CA-2016-145625,0.0,Same/Next Day
+CA-2017-163139,2.0,On Time (<=3 days)
+CA-2017-163139,2.0,On Time (<=3 days)
+CA-2017-163139,2.0,On Time (<=3 days)
+US-2017-155299,4.0,Acceptable (4-5 days)
+CA-2015-130890,4.0,Acceptable (4-5 days)
+CA-2015-144253,5.0,Acceptable (4-5 days)
+CA-2014-111003,5.0,Acceptable (4-5 days)
+CA-2014-111003,5.0,Acceptable (4-5 days)
+CA-2016-142902,0.0,Same/Next Day
+CA-2016-142902,0.0,Same/Next Day
+CA-2016-142902,0.0,Same/Next Day
+CA-2016-142902,0.0,Same/Next Day
+CA-2014-167850,0.0,Same/Next Day
+CA-2014-167850,0.0,Same/Next Day
+CA-2014-164973,5.0,Acceptable (4-5 days)
+CA-2014-164973,5.0,Acceptable (4-5 days)
+CA-2014-164973,5.0,Acceptable (4-5 days)
+CA-2014-164973,5.0,Acceptable (4-5 days)
+CA-2014-164973,5.0,Acceptable (4-5 days)
+CA-2017-153339,2.0,On Time (<=3 days)
+CA-2015-137946,3.0,On Time (<=3 days)
+CA-2015-137946,3.0,On Time (<=3 days)
+CA-2015-137946,3.0,On Time (<=3 days)
+CA-2014-129924,0.0,Same/Next Day
+CA-2014-129924,0.0,Same/Next Day
+CA-2017-134306,4.0,Acceptable (4-5 days)
+CA-2017-134306,4.0,Acceptable (4-5 days)
+CA-2017-134306,4.0,Acceptable (4-5 days)
+CA-2016-129714,2.0,On Time (<=3 days)
+CA-2016-129714,2.0,On Time (<=3 days)
+CA-2016-129714,2.0,On Time (<=3 days)
+CA-2016-129714,2.0,On Time (<=3 days)
+CA-2016-129714,2.0,On Time (<=3 days)
+CA-2016-138520,0.0,Same/Next Day
+CA-2016-138520,0.0,Same/Next Day
+CA-2016-138520,0.0,Same/Next Day
+CA-2016-138520,0.0,Same/Next Day
+CA-2017-155698,3.0,On Time (<=3 days)
+CA-2017-155698,3.0,On Time (<=3 days)
+CA-2015-122756,4.0,Acceptable (4-5 days)
+CA-2015-122756,4.0,Acceptable (4-5 days)
+US-2014-134971,3.0,On Time (<=3 days)
+CA-2016-108987,2.0,On Time (<=3 days)
+CA-2016-108987,2.0,On Time (<=3 days)
+CA-2016-108987,2.0,On Time (<=3 days)
+CA-2016-108987,2.0,On Time (<=3 days)
+CA-2017-117457,4.0,Acceptable (4-5 days)
+CA-2017-117457,4.0,Acceptable (4-5 days)
+CA-2017-117457,4.0,Acceptable (4-5 days)
+CA-2017-117457,4.0,Acceptable (4-5 days)
+CA-2017-117457,4.0,Acceptable (4-5 days)
+CA-2017-117457,4.0,Acceptable (4-5 days)
+CA-2017-117457,4.0,Acceptable (4-5 days)
+CA-2017-117457,4.0,Acceptable (4-5 days)
+CA-2017-117457,4.0,Acceptable (4-5 days)
+CA-2017-142636,4.0,Acceptable (4-5 days)
+CA-2017-142636,4.0,Acceptable (4-5 days)
+CA-2017-154816,4.0,Acceptable (4-5 days)
+CA-2017-110478,5.0,Acceptable (4-5 days)
+CA-2017-110478,5.0,Acceptable (4-5 days)
+CA-2014-101476,0.0,Same/Next Day
+CA-2017-152275,7.0,Delayed (6-7 days)
+CA-2016-127369,1.0,Same/Next Day
+CA-2016-147375,0.0,Same/Next Day
+CA-2016-147375,0.0,Same/Next Day
+CA-2016-115756,2.0,On Time (<=3 days)
+CA-2016-115756,2.0,On Time (<=3 days)
+CA-2016-115756,2.0,On Time (<=3 days)
+CA-2016-115756,2.0,On Time (<=3 days)
+CA-2016-115756,2.0,On Time (<=3 days)
+CA-2016-115756,2.0,On Time (<=3 days)
+CA-2016-166674,2.0,On Time (<=3 days)
+CA-2016-166674,2.0,On Time (<=3 days)
+CA-2016-166674,2.0,On Time (<=3 days)
+CA-2016-166674,2.0,On Time (<=3 days)
+CA-2016-166674,2.0,On Time (<=3 days)
+CA-2016-166674,2.0,On Time (<=3 days)
+US-2014-110674,0.0,Same/Next Day
+CA-2014-144666,2.0,On Time (<=3 days)
+CA-2014-144666,2.0,On Time (<=3 days)
+CA-2014-144666,2.0,On Time (<=3 days)
+CA-2014-144666,2.0,On Time (<=3 days)
+CA-2014-144666,2.0,On Time (<=3 days)
+CA-2014-144666,2.0,On Time (<=3 days)
+CA-2016-103891,0.0,Same/Next Day
+CA-2014-134677,4.0,Acceptable (4-5 days)
+CA-2017-140963,0.0,Same/Next Day
+CA-2017-140963,0.0,Same/Next Day
+CA-2017-140963,0.0,Same/Next Day
+CA-2014-133753,0.0,Same/Next Day
+CA-2014-133753,0.0,Same/Next Day
+CA-2014-133753,0.0,Same/Next Day
+CA-2016-169166,0.0,Same/Next Day
+CA-2017-134978,0.0,Same/Next Day
+US-2015-138303,4.0,Acceptable (4-5 days)
+US-2015-138303,4.0,Acceptable (4-5 days)
+US-2015-138303,4.0,Acceptable (4-5 days)
+CA-2015-102848,2.0,On Time (<=3 days)
+US-2017-129441,4.0,Acceptable (4-5 days)
+CA-2016-126613,0.0,Same/Next Day
+US-2017-122637,5.0,Acceptable (4-5 days)
+CA-2015-147851,5.0,Acceptable (4-5 days)
+CA-2015-134894,4.0,Acceptable (4-5 days)
+CA-2015-134894,4.0,Acceptable (4-5 days)
+CA-2014-140795,2.0,On Time (<=3 days)
+CA-2014-103849,0.0,Same/Next Day
+CA-2014-103849,0.0,Same/Next Day
+CA-2014-103849,0.0,Same/Next Day
+CA-2017-112774,1.0,Same/Next Day
+CA-2014-155852,4.0,Acceptable (4-5 days)
+CA-2016-113243,0.0,Same/Next Day
+CA-2016-113243,0.0,Same/Next Day
+CA-2016-113243,0.0,Same/Next Day
+CA-2015-130736,2.0,On Time (<=3 days)
+CA-2015-130736,2.0,On Time (<=3 days)
+CA-2017-137099,3.0,On Time (<=3 days)
+CA-2017-156951,7.0,Delayed (6-7 days)
+CA-2017-156951,7.0,Delayed (6-7 days)
+CA-2017-156951,7.0,Delayed (6-7 days)
+CA-2017-156951,7.0,Delayed (6-7 days)
+CA-2016-127250,4.0,Acceptable (4-5 days)
+CA-2015-132906,0.0,Same/Next Day
+CA-2017-145233,4.0,Acceptable (4-5 days)
+CA-2017-145233,4.0,Acceptable (4-5 days)
+CA-2017-145233,4.0,Acceptable (4-5 days)
+CA-2017-145233,4.0,Acceptable (4-5 days)
+CA-2017-145233,4.0,Acceptable (4-5 days)
+CA-2015-128139,6.0,Delayed (6-7 days)
+CA-2015-128139,6.0,Delayed (6-7 days)
+CA-2014-135405,0.0,Same/Next Day
+CA-2014-135405,0.0,Same/Next Day
+CA-2016-121223,0.0,Same/Next Day
+CA-2016-121223,0.0,Same/Next Day
+CA-2015-168004,5.0,Acceptable (4-5 days)
+CA-2017-106103,0.0,Same/Next Day
+CA-2016-103947,7.0,Delayed (6-7 days)
+CA-2016-103947,7.0,Delayed (6-7 days)
+CA-2016-143308,0.0,Same/Next Day
+CA-2017-132682,2.0,On Time (<=3 days)
+CA-2017-132682,2.0,On Time (<=3 days)
+CA-2017-132682,2.0,On Time (<=3 days)
+US-2017-106663,0.0,Same/Next Day
+US-2017-106663,0.0,Same/Next Day
+US-2017-106663,0.0,Same/Next Day
+CA-2017-130351,3.0,On Time (<=3 days)
+CA-2017-130351,3.0,On Time (<=3 days)
+CA-2017-130351,3.0,On Time (<=3 days)
+US-2017-168116,0.0,Same/Next Day
+US-2017-168116,0.0,Same/Next Day
+CA-2014-157784,3.0,On Time (<=3 days)
+CA-2014-157784,3.0,On Time (<=3 days)
+CA-2014-157784,3.0,On Time (<=3 days)
+CA-2017-114552,6.0,Delayed (6-7 days)
+CA-2016-163755,4.0,Acceptable (4-5 days)
+CA-2015-142027,0.0,Same/Next Day
+CA-2014-138527,0.0,Same/Next Day
+CA-2014-138527,0.0,Same/Next Day
+CA-2014-138527,0.0,Same/Next Day
+CA-2014-112158,2.0,On Time (<=3 days)
+CA-2014-112158,2.0,On Time (<=3 days)
+CA-2014-112158,2.0,On Time (<=3 days)
+CA-2014-113887,2.0,On Time (<=3 days)
+CA-2017-146136,4.0,Acceptable (4-5 days)
+CA-2014-153150,5.0,Acceptable (4-5 days)
+CA-2014-130092,0.0,Same/Next Day
+CA-2014-104472,5.0,Acceptable (4-5 days)
+CA-2014-104472,5.0,Acceptable (4-5 days)
+CA-2016-114713,5.0,Acceptable (4-5 days)
+US-2016-150861,3.0,On Time (<=3 days)
+US-2016-150861,3.0,On Time (<=3 days)
+US-2016-150861,3.0,On Time (<=3 days)
+US-2016-150861,3.0,On Time (<=3 days)
+US-2016-150861,3.0,On Time (<=3 days)
+CA-2014-132500,4.0,Acceptable (4-5 days)
+CA-2014-112326,4.0,Acceptable (4-5 days)
+CA-2014-112326,4.0,Acceptable (4-5 days)
+CA-2014-112326,4.0,Acceptable (4-5 days)
+CA-2017-126074,4.0,Acceptable (4-5 days)
+CA-2017-126074,4.0,Acceptable (4-5 days)
+CA-2017-126074,4.0,Acceptable (4-5 days)
+CA-2017-126074,4.0,Acceptable (4-5 days)
+CA-2016-110499,2.0,On Time (<=3 days)
+CA-2015-135272,5.0,Acceptable (4-5 days)
+CA-2017-126046,4.0,Acceptable (4-5 days)
+CA-2015-114923,0.0,Same/Next Day
+US-2015-157014,3.0,On Time (<=3 days)
+US-2015-157014,3.0,On Time (<=3 days)
+US-2015-157014,3.0,On Time (<=3 days)
+US-2015-157014,3.0,On Time (<=3 days)
+CA-2016-115504,0.0,Same/Next Day
+CA-2014-134313,6.0,Delayed (6-7 days)
+CA-2014-134313,6.0,Delayed (6-7 days)
+CA-2015-140921,2.0,On Time (<=3 days)
+CA-2015-140921,2.0,On Time (<=3 days)
+US-2014-102071,0.0,Same/Next Day
+US-2014-102071,0.0,Same/Next Day
+US-2017-156083,7.0,Delayed (6-7 days)
+US-2016-137547,5.0,Acceptable (4-5 days)
+CA-2016-161669,2.0,On Time (<=3 days)
+CA-2016-161669,2.0,On Time (<=3 days)
+CA-2016-161669,2.0,On Time (<=3 days)
+CA-2016-161669,2.0,On Time (<=3 days)
+CA-2017-107503,5.0,Acceptable (4-5 days)
+CA-2014-107755,5.0,Acceptable (4-5 days)
+CA-2014-125612,5.0,Acceptable (4-5 days)
+CA-2014-125612,5.0,Acceptable (4-5 days)
+CA-2014-125612,5.0,Acceptable (4-5 days)
+CA-2017-161984,0.0,Same/Next Day
+CA-2017-161984,0.0,Same/Next Day
+CA-2014-133851,0.0,Same/Next Day
+CA-2014-133851,0.0,Same/Next Day
+CA-2016-134474,2.0,On Time (<=3 days)
+CA-2016-134474,2.0,On Time (<=3 days)
+CA-2016-134474,2.0,On Time (<=3 days)
+CA-2014-149020,0.0,Same/Next Day
+CA-2014-149020,0.0,Same/Next Day
+CA-2014-136742,4.0,Acceptable (4-5 days)
+CA-2016-158099,2.0,On Time (<=3 days)
+CA-2016-158099,2.0,On Time (<=3 days)
+CA-2016-105494,2.0,On Time (<=3 days)
+CA-2016-105494,2.0,On Time (<=3 days)
+CA-2016-140634,3.0,On Time (<=3 days)
+US-2016-114622,2.0,On Time (<=3 days)
+CA-2016-130477,4.0,Acceptable (4-5 days)
+CA-2016-130477,4.0,Acceptable (4-5 days)
+CA-2016-130477,4.0,Acceptable (4-5 days)
+CA-2017-137596,5.0,Acceptable (4-5 days)
+CA-2017-137596,5.0,Acceptable (4-5 days)
+CA-2017-137596,5.0,Acceptable (4-5 days)
+CA-2016-165218,6.0,Delayed (6-7 days)
+CA-2016-165218,6.0,Delayed (6-7 days)
+CA-2014-138296,7.0,Delayed (6-7 days)
+CA-2015-111164,0.0,Same/Next Day
+CA-2015-111164,0.0,Same/Next Day
+CA-2015-111164,0.0,Same/Next Day
+CA-2015-115091,4.0,Acceptable (4-5 days)
+CA-2015-115091,4.0,Acceptable (4-5 days)
+CA-2017-114216,4.0,Acceptable (4-5 days)
+US-2017-111745,1.0,Same/Next Day
+CA-2017-131156,4.0,Acceptable (4-5 days)
+CA-2016-120859,3.0,On Time (<=3 days)
+CA-2017-135279,2.0,On Time (<=3 days)
+CA-2017-135279,2.0,On Time (<=3 days)
+CA-2017-135279,2.0,On Time (<=3 days)
+CA-2017-135279,2.0,On Time (<=3 days)
+CA-2017-135279,2.0,On Time (<=3 days)
+CA-2017-135279,2.0,On Time (<=3 days)
+US-2017-103247,3.0,On Time (<=3 days)
+US-2017-103247,3.0,On Time (<=3 days)
+US-2017-100209,0.0,Same/Next Day
+CA-2017-159366,3.0,On Time (<=3 days)
+CA-2015-157035,3.0,On Time (<=3 days)
+CA-2016-144939,5.0,Acceptable (4-5 days)
+CA-2015-146829,0.0,Same/Next Day
+CA-2016-110023,2.0,On Time (<=3 days)
+CA-2015-105312,3.0,On Time (<=3 days)
+CA-2015-105312,3.0,On Time (<=3 days)
+CA-2017-135034,2.0,On Time (<=3 days)
+CA-2015-108665,4.0,Acceptable (4-5 days)
+CA-2015-108665,4.0,Acceptable (4-5 days)
+CA-2015-108665,4.0,Acceptable (4-5 days)
+CA-2015-108665,4.0,Acceptable (4-5 days)
+CA-2016-126529,0.0,Same/Next Day
+CA-2016-126529,0.0,Same/Next Day
+CA-2016-126529,0.0,Same/Next Day
+CA-2014-163552,0.0,Same/Next Day
+CA-2014-163552,0.0,Same/Next Day
+CA-2014-163552,0.0,Same/Next Day
+CA-2014-163552,0.0,Same/Next Day
+CA-2014-163552,0.0,Same/Next Day
+CA-2016-102981,3.0,On Time (<=3 days)
+CA-2016-102981,3.0,On Time (<=3 days)
+CA-2017-115651,3.0,On Time (<=3 days)
+CA-2017-115651,3.0,On Time (<=3 days)
+CA-2017-152702,0.0,Same/Next Day
+CA-2016-169103,0.0,Same/Next Day
+CA-2016-169103,0.0,Same/Next Day
+US-2015-153500,2.0,On Time (<=3 days)
+US-2015-153500,2.0,On Time (<=3 days)
+US-2015-153500,2.0,On Time (<=3 days)
+CA-2015-110667,4.0,Acceptable (4-5 days)
+CA-2015-110667,4.0,Acceptable (4-5 days)
+CA-2015-110667,4.0,Acceptable (4-5 days)
+CA-2015-110667,4.0,Acceptable (4-5 days)
+CA-2016-157686,1.0,Same/Next Day
+CA-2016-134348,0.0,Same/Next Day
+CA-2016-134348,0.0,Same/Next Day
+CA-2016-134348,0.0,Same/Next Day
+US-2016-143819,4.0,Acceptable (4-5 days)
+US-2016-143819,4.0,Acceptable (4-5 days)
+US-2016-143819,4.0,Acceptable (4-5 days)
+US-2016-143819,4.0,Acceptable (4-5 days)
+CA-2016-167584,0.0,Same/Next Day
+CA-2017-158407,6.0,Delayed (6-7 days)
+CA-2017-158407,6.0,Delayed (6-7 days)
+CA-2015-142755,4.0,Acceptable (4-5 days)
+CA-2015-142755,4.0,Acceptable (4-5 days)
+CA-2015-142755,4.0,Acceptable (4-5 days)
+CA-2015-142755,4.0,Acceptable (4-5 days)
+CA-2015-105970,5.0,Acceptable (4-5 days)
+CA-2015-105970,5.0,Acceptable (4-5 days)
+CA-2016-112102,0.0,Same/Next Day
+CA-2016-112102,0.0,Same/Next Day
+CA-2016-112102,0.0,Same/Next Day
+US-2016-114776,1.0,Same/Next Day
+US-2016-134908,4.0,Acceptable (4-5 days)
+US-2016-134908,4.0,Acceptable (4-5 days)
+US-2016-148803,0.0,Same/Next Day
+CA-2016-152170,0.0,Same/Next Day
+CA-2016-152170,0.0,Same/Next Day
+CA-2016-152170,0.0,Same/Next Day
+CA-2016-152170,0.0,Same/Next Day
+CA-2016-152170,0.0,Same/Next Day
+CA-2015-112452,0.0,Same/Next Day
+CA-2015-112452,0.0,Same/Next Day
+CA-2015-112452,0.0,Same/Next Day
+CA-2015-112452,0.0,Same/Next Day
+CA-2015-112452,0.0,Same/Next Day
+CA-2015-113971,0.0,Same/Next Day
+CA-2016-149314,5.0,Acceptable (4-5 days)
+CA-2014-126522,4.0,Acceptable (4-5 days)
+CA-2014-127964,5.0,Acceptable (4-5 days)
+CA-2014-127964,5.0,Acceptable (4-5 days)
+CA-2014-127964,5.0,Acceptable (4-5 days)
+CA-2014-117709,4.0,Acceptable (4-5 days)
+CA-2015-125416,0.0,Same/Next Day
+CA-2017-145226,2.0,On Time (<=3 days)
+CA-2017-145226,2.0,On Time (<=3 days)
+CA-2017-145226,2.0,On Time (<=3 days)
+CA-2017-145226,2.0,On Time (<=3 days)
+US-2014-100279,0.0,Same/Next Day
+CA-2016-113621,4.0,Acceptable (4-5 days)
+CA-2016-113621,4.0,Acceptable (4-5 days)
+CA-2016-130946,4.0,Acceptable (4-5 days)
+CA-2016-130946,4.0,Acceptable (4-5 days)
+CA-2016-130946,4.0,Acceptable (4-5 days)
+CA-2017-133235,3.0,On Time (<=3 days)
+CA-2014-110184,0.0,Same/Next Day
+CA-2014-110184,0.0,Same/Next Day
+CA-2016-126004,1.0,Same/Next Day
+CA-2016-126004,1.0,Same/Next Day
+CA-2016-126004,1.0,Same/Next Day
+CA-2016-126004,1.0,Same/Next Day
+CA-2016-126004,1.0,Same/Next Day
+CA-2016-126004,1.0,Same/Next Day
+CA-2017-100013,5.0,Acceptable (4-5 days)
+CA-2017-100013,5.0,Acceptable (4-5 days)
+CA-2017-100013,5.0,Acceptable (4-5 days)
+CA-2014-127012,0.0,Same/Next Day
+CA-2014-127012,0.0,Same/Next Day
+CA-2014-127012,0.0,Same/Next Day
+CA-2015-154956,5.0,Acceptable (4-5 days)
+CA-2017-144638,0.0,Same/Next Day
+CA-2017-144638,0.0,Same/Next Day
+CA-2017-144638,0.0,Same/Next Day
+CA-2017-144638,0.0,Same/Next Day
+CA-2017-105053,2.0,On Time (<=3 days)
+CA-2016-155992,1.0,Same/Next Day
+CA-2016-155992,1.0,Same/Next Day
+CA-2017-110380,5.0,Acceptable (4-5 days)
+CA-2017-100426,4.0,Acceptable (4-5 days)
+CA-2016-148698,5.0,Acceptable (4-5 days)
+CA-2014-163293,3.0,On Time (<=3 days)
+CA-2014-163293,3.0,On Time (<=3 days)
+CA-2016-160815,1.0,Same/Next Day
+CA-2017-122154,2.0,On Time (<=3 days)
+CA-2017-122154,2.0,On Time (<=3 days)
+CA-2017-122154,2.0,On Time (<=3 days)
+US-2015-149692,6.0,Delayed (6-7 days)
+CA-2015-124268,4.0,Acceptable (4-5 days)
+CA-2016-163384,2.0,On Time (<=3 days)
+CA-2016-163384,2.0,On Time (<=3 days)
+CA-2016-134425,4.0,Acceptable (4-5 days)
+CA-2015-121391,3.0,On Time (<=3 days)
+US-2017-126179,4.0,Acceptable (4-5 days)
+US-2017-126179,4.0,Acceptable (4-5 days)
+CA-2014-160773,4.0,Acceptable (4-5 days)
+CA-2014-160773,4.0,Acceptable (4-5 days)
+CA-2017-167703,5.0,Acceptable (4-5 days)
+CA-2017-167703,5.0,Acceptable (4-5 days)
+CA-2017-121804,5.0,Acceptable (4-5 days)
+CA-2017-162635,1.0,Same/Next Day
+CA-2017-127705,4.0,Acceptable (4-5 days)
+CA-2017-127705,4.0,Acceptable (4-5 days)
+CA-2014-121664,4.0,Acceptable (4-5 days)
+US-2017-123281,5.0,Acceptable (4-5 days)
+CA-2017-113481,2.0,On Time (<=3 days)
+CA-2017-113481,2.0,On Time (<=3 days)
+CA-2017-113481,2.0,On Time (<=3 days)
+CA-2014-153976,5.0,Acceptable (4-5 days)
+CA-2017-162978,5.0,Acceptable (4-5 days)
+CA-2017-162978,5.0,Acceptable (4-5 days)
+CA-2017-162978,5.0,Acceptable (4-5 days)
+US-2014-160444,0.0,Same/Next Day
+US-2014-160444,0.0,Same/Next Day
+CA-2016-145247,2.0,On Time (<=3 days)
+US-2017-155425,1.0,Same/Next Day
+US-2017-155425,1.0,Same/Next Day
+US-2017-155425,1.0,Same/Next Day
+US-2017-155425,1.0,Same/Next Day
+US-2017-155425,1.0,Same/Next Day
+CA-2017-133249,3.0,On Time (<=3 days)
+CA-2017-136672,5.0,Acceptable (4-5 days)
+US-2014-157021,5.0,Acceptable (4-5 days)
+US-2014-157021,5.0,Acceptable (4-5 days)
+CA-2014-126361,5.0,Acceptable (4-5 days)
+CA-2014-126361,5.0,Acceptable (4-5 days)
+CA-2014-126361,5.0,Acceptable (4-5 days)
+CA-2014-126361,5.0,Acceptable (4-5 days)
+CA-2014-126361,5.0,Acceptable (4-5 days)
+CA-2014-126361,5.0,Acceptable (4-5 days)
+US-2016-100566,6.0,Delayed (6-7 days)
+US-2016-108504,0.0,Same/Next Day
+US-2016-108504,0.0,Same/Next Day
+US-2016-108504,0.0,Same/Next Day
+US-2016-108504,0.0,Same/Next Day
+US-2016-108504,0.0,Same/Next Day
+US-2016-108504,0.0,Same/Next Day
+US-2016-108504,0.0,Same/Next Day
+US-2016-108504,0.0,Same/Next Day
+US-2016-108504,0.0,Same/Next Day
+US-2016-108504,0.0,Same/Next Day
+US-2016-108504,0.0,Same/Next Day
+CA-2017-124828,1.0,Same/Next Day
+CA-2016-159212,4.0,Acceptable (4-5 days)
+CA-2016-159212,4.0,Acceptable (4-5 days)
+US-2014-118486,2.0,On Time (<=3 days)
+US-2014-118486,2.0,On Time (<=3 days)
+US-2014-118486,2.0,On Time (<=3 days)
+CA-2016-130407,4.0,Acceptable (4-5 days)
+CA-2016-130407,4.0,Acceptable (4-5 days)
+CA-2017-105144,7.0,Delayed (6-7 days)
+CA-2016-136329,0.0,Same/Next Day
+CA-2016-136329,0.0,Same/Next Day
+CA-2017-122735,0.0,Same/Next Day
+CA-2017-122735,0.0,Same/Next Day
+CA-2017-117695,3.0,On Time (<=3 days)
+CA-2015-166135,5.0,Acceptable (4-5 days)
+CA-2015-145821,6.0,Delayed (6-7 days)
+CA-2017-148474,0.0,Same/Next Day
+CA-2017-148474,0.0,Same/Next Day
+CA-2014-155271,0.0,Same/Next Day
+CA-2015-119907,7.0,Delayed (6-7 days)
+US-2016-128902,0.0,Same/Next Day
+CA-2017-164959,0.0,Same/Next Day
+US-2015-105676,1.0,Same/Next Day
+US-2016-108455,6.0,Delayed (6-7 days)
+US-2016-108455,6.0,Delayed (6-7 days)
+US-2016-108455,6.0,Delayed (6-7 days)
+CA-2015-140410,4.0,Acceptable (4-5 days)
+CA-2015-140410,4.0,Acceptable (4-5 days)
+CA-2015-140410,4.0,Acceptable (4-5 days)
+CA-2017-152485,4.0,Acceptable (4-5 days)
+CA-2017-152485,4.0,Acceptable (4-5 days)
+CA-2017-152485,4.0,Acceptable (4-5 days)
+CA-2017-130386,0.0,Same/Next Day
+CA-2017-130386,0.0,Same/Next Day
+CA-2017-130386,0.0,Same/Next Day
+CA-2015-153388,6.0,Delayed (6-7 days)
+CA-2015-153388,6.0,Delayed (6-7 days)
+CA-2017-108294,0.0,Same/Next Day
+CA-2017-103611,0.0,Same/Next Day
+CA-2014-111059,3.0,On Time (<=3 days)
+CA-2014-111059,3.0,On Time (<=3 days)
+CA-2017-116204,0.0,Same/Next Day
+CA-2015-144806,5.0,Acceptable (4-5 days)
+CA-2015-144806,5.0,Acceptable (4-5 days)
+CA-2015-144806,5.0,Acceptable (4-5 days)
+CA-2015-144806,5.0,Acceptable (4-5 days)
+CA-2015-144806,5.0,Acceptable (4-5 days)
+CA-2015-148432,3.0,On Time (<=3 days)
+CA-2015-148432,3.0,On Time (<=3 days)
+CA-2016-139885,4.0,Acceptable (4-5 days)
+CA-2017-124086,0.0,Same/Next Day
+CA-2014-166884,0.0,Same/Next Day
+CA-2014-166884,0.0,Same/Next Day
+CA-2014-107181,4.0,Acceptable (4-5 days)
+CA-2014-107181,4.0,Acceptable (4-5 days)
+CA-2014-134278,2.0,On Time (<=3 days)
+CA-2014-130274,2.0,On Time (<=3 days)
+CA-2015-111507,0.0,Same/Next Day
+CA-2017-120761,4.0,Acceptable (4-5 days)
+CA-2016-109176,0.0,Same/Next Day
+CA-2016-109176,0.0,Same/Next Day
+CA-2016-126809,0.0,Same/Next Day
+CA-2014-105172,5.0,Acceptable (4-5 days)
+CA-2017-107293,1.0,Same/Next Day
+CA-2015-158554,0.0,Same/Next Day
+CA-2014-116239,0.0,Same/Next Day
+US-2017-152002,0.0,Same/Next Day
+CA-2015-131338,3.0,On Time (<=3 days)
+CA-2015-131338,3.0,On Time (<=3 days)
+CA-2015-131338,3.0,On Time (<=3 days)
+CA-2015-131338,3.0,On Time (<=3 days)
+CA-2015-131338,3.0,On Time (<=3 days)
+CA-2015-131338,3.0,On Time (<=3 days)
+CA-2015-131338,3.0,On Time (<=3 days)
+CA-2015-131338,3.0,On Time (<=3 days)
+CA-2015-131338,3.0,On Time (<=3 days)
+CA-2015-131338,3.0,On Time (<=3 days)
+CA-2016-109911,0.0,Same/Next Day
+CA-2017-149181,4.0,Acceptable (4-5 days)
+CA-2016-164672,0.0,Same/Next Day
+CA-2015-130022,0.0,Same/Next Day
+CA-2015-130022,0.0,Same/Next Day
+CA-2015-130022,0.0,Same/Next Day
+US-2016-118780,0.0,Same/Next Day
+US-2016-118780,0.0,Same/Next Day
+CA-2017-108560,0.0,Same/Next Day
+CA-2017-108560,0.0,Same/Next Day
+CA-2017-108560,0.0,Same/Next Day
+CA-2017-108560,0.0,Same/Next Day
+CA-2016-106530,0.0,Same/Next Day
+CA-2016-106530,0.0,Same/Next Day
+CA-2016-106530,0.0,Same/Next Day
+CA-2016-106530,0.0,Same/Next Day
+CA-2016-106530,0.0,Same/Next Day
+CA-2015-105221,2.0,On Time (<=3 days)
+CA-2015-105221,2.0,On Time (<=3 days)
+CA-2014-127159,0.0,Same/Next Day
+US-2015-157154,0.0,Same/Next Day
+CA-2017-111647,4.0,Acceptable (4-5 days)
+CA-2015-150560,1.0,Same/Next Day
+CA-2016-147585,5.0,Acceptable (4-5 days)
+CA-2017-143798,2.0,On Time (<=3 days)
+CA-2017-143798,2.0,On Time (<=3 days)
+CA-2014-135657,4.0,Acceptable (4-5 days)
+CA-2014-139857,4.0,Acceptable (4-5 days)
+CA-2016-106306,0.0,Same/Next Day
+CA-2016-106894,0.0,Same/Next Day
+CA-2016-106894,0.0,Same/Next Day
+US-2016-131149,0.0,Same/Next Day
+US-2016-131149,0.0,Same/Next Day
+CA-2015-130204,6.0,Delayed (6-7 days)
+CA-2015-130204,6.0,Delayed (6-7 days)
+CA-2015-130204,6.0,Delayed (6-7 days)
+CA-2014-110527,0.0,Same/Next Day
+CA-2014-133270,3.0,On Time (<=3 days)
+CA-2017-116715,3.0,On Time (<=3 days)
+CA-2017-116715,3.0,On Time (<=3 days)
+CA-2017-116715,3.0,On Time (<=3 days)
+CA-2015-135622,3.0,On Time (<=3 days)
+CA-2015-135622,3.0,On Time (<=3 days)
+CA-2014-139017,0.0,Same/Next Day
+CA-2014-141817,7.0,Delayed (6-7 days)
+CA-2015-130785,4.0,Acceptable (4-5 days)
+CA-2015-130785,4.0,Acceptable (4-5 days)
+CA-2015-130785,4.0,Acceptable (4-5 days)
+CA-2016-110254,4.0,Acceptable (4-5 days)
+CA-2016-110254,4.0,Acceptable (4-5 days)
+CA-2016-110254,4.0,Acceptable (4-5 days)
+CA-2016-110254,4.0,Acceptable (4-5 days)
+CA-2017-146024,6.0,Delayed (6-7 days)
+CA-2017-146024,6.0,Delayed (6-7 days)
+CA-2015-111094,0.0,Same/Next Day
+CA-2015-111094,0.0,Same/Next Day
+CA-2014-120474,2.0,On Time (<=3 days)
+CA-2014-120474,2.0,On Time (<=3 days)
+CA-2016-140774,5.0,Acceptable (4-5 days)
+CA-2016-100965,4.0,Acceptable (4-5 days)
+CA-2016-121034,2.0,On Time (<=3 days)
+CA-2016-121034,2.0,On Time (<=3 days)
+CA-2016-164938,0.0,Same/Next Day
+CA-2014-132612,2.0,On Time (<=3 days)
+CA-2015-164833,0.0,Same/Next Day
+CA-2015-164833,0.0,Same/Next Day
+CA-2016-109344,3.0,On Time (<=3 days)
+CA-2015-131422,4.0,Acceptable (4-5 days)
+CA-2017-162691,6.0,Delayed (6-7 days)
+CA-2017-162691,6.0,Delayed (6-7 days)
+CA-2014-117345,4.0,Acceptable (4-5 days)
+CA-2014-117345,4.0,Acceptable (4-5 days)
+CA-2014-117345,4.0,Acceptable (4-5 days)
+CA-2014-117345,4.0,Acceptable (4-5 days)
+CA-2015-135391,2.0,On Time (<=3 days)
+CA-2015-135391,2.0,On Time (<=3 days)
+US-2017-158512,0.0,Same/Next Day
+US-2017-158512,0.0,Same/Next Day
+CA-2017-128370,0.0,Same/Next Day
+CA-2017-128370,0.0,Same/Next Day
+US-2017-158218,0.0,Same/Next Day
+US-2017-158218,0.0,Same/Next Day
+CA-2015-121608,2.0,On Time (<=3 days)
+CA-2015-121608,2.0,On Time (<=3 days)
+CA-2014-151078,0.0,Same/Next Day
+US-2017-116659,0.0,Same/Next Day
+CA-2014-147914,5.0,Acceptable (4-5 days)
+US-2016-112977,0.0,Same/Next Day
+CA-2015-109512,0.0,Same/Next Day
+CA-2015-109512,0.0,Same/Next Day
+CA-2015-109512,0.0,Same/Next Day
+US-2017-108063,3.0,On Time (<=3 days)
+CA-2017-141789,3.0,On Time (<=3 days)
+CA-2015-157959,1.0,Same/Next Day
+CA-2017-121503,3.0,On Time (<=3 days)
+CA-2017-121503,3.0,On Time (<=3 days)
+CA-2015-125178,6.0,Delayed (6-7 days)
+CA-2016-156685,2.0,On Time (<=3 days)
+CA-2016-156685,2.0,On Time (<=3 days)
+CA-2017-126865,2.0,On Time (<=3 days)
+CA-2017-102834,0.0,Same/Next Day
+US-2016-139710,0.0,Same/Next Day
+CA-2017-161200,4.0,Acceptable (4-5 days)
+CA-2017-161200,4.0,Acceptable (4-5 days)
+CA-2016-112109,4.0,Acceptable (4-5 days)
+CA-2016-112109,4.0,Acceptable (4-5 days)
+CA-2016-112109,4.0,Acceptable (4-5 days)
+CA-2016-112109,4.0,Acceptable (4-5 days)
+CA-2017-157987,4.0,Acceptable (4-5 days)
+CA-2017-157987,4.0,Acceptable (4-5 days)
+CA-2017-157987,4.0,Acceptable (4-5 days)
+CA-2017-157987,4.0,Acceptable (4-5 days)
+CA-2017-157987,4.0,Acceptable (4-5 days)
+CA-2017-157987,4.0,Acceptable (4-5 days)
+CA-2017-157987,4.0,Acceptable (4-5 days)
+CA-2017-157987,4.0,Acceptable (4-5 days)
+CA-2017-157987,4.0,Acceptable (4-5 days)
+CA-2017-157987,4.0,Acceptable (4-5 days)
+CA-2017-157987,4.0,Acceptable (4-5 days)
+CA-2017-157987,4.0,Acceptable (4-5 days)
+CA-2017-110905,0.0,Same/Next Day
+CA-2017-110905,0.0,Same/Next Day
+CA-2017-110905,0.0,Same/Next Day
+CA-2017-110905,0.0,Same/Next Day
+CA-2017-110905,0.0,Same/Next Day
+CA-2017-110905,0.0,Same/Next Day
+CA-2017-110905,0.0,Same/Next Day
+CA-2017-110905,0.0,Same/Next Day
+CA-2017-140242,5.0,Acceptable (4-5 days)
+CA-2017-140242,5.0,Acceptable (4-5 days)
+CA-2015-109939,4.0,Acceptable (4-5 days)
+CA-2014-122749,6.0,Delayed (6-7 days)
+US-2017-147221,2.0,On Time (<=3 days)
+US-2017-147221,2.0,On Time (<=3 days)
+CA-2014-131905,3.0,On Time (<=3 days)
+CA-2014-131905,3.0,On Time (<=3 days)
+CA-2014-131905,3.0,On Time (<=3 days)
+CA-2017-166128,0.0,Same/Next Day
+CA-2017-166128,0.0,Same/Next Day
+US-2017-143028,0.0,Same/Next Day
+CA-2017-165386,1.0,Same/Next Day
+CA-2015-155761,0.0,Same/Next Day
+CA-2015-155761,0.0,Same/Next Day
+CA-2016-113516,2.0,On Time (<=3 days)
+CA-2016-113516,2.0,On Time (<=3 days)
+CA-2015-104493,6.0,Delayed (6-7 days)
+CA-2015-142237,0.0,Same/Next Day
+CA-2015-142237,0.0,Same/Next Day
+CA-2015-142237,0.0,Same/Next Day
+CA-2015-142237,0.0,Same/Next Day
+CA-2015-142237,0.0,Same/Next Day
+CA-2015-142237,0.0,Same/Next Day
+CA-2016-136434,6.0,Delayed (6-7 days)
+CA-2017-122504,5.0,Acceptable (4-5 days)
+CA-2017-122504,5.0,Acceptable (4-5 days)
+CA-2014-131051,4.0,Acceptable (4-5 days)
+CA-2017-140676,0.0,Same/Next Day
+CA-2017-140676,0.0,Same/Next Day
+CA-2017-140676,0.0,Same/Next Day
+CA-2017-124401,5.0,Acceptable (4-5 days)
+CA-2017-124401,5.0,Acceptable (4-5 days)
+US-2014-140116,0.0,Same/Next Day
+US-2014-140116,0.0,Same/Next Day
+CA-2015-159786,0.0,Same/Next Day
+US-2017-168690,0.0,Same/Next Day
+CA-2017-158246,2.0,On Time (<=3 days)
+CA-2017-144862,4.0,Acceptable (4-5 days)
+CA-2017-144862,4.0,Acceptable (4-5 days)
+CA-2015-134859,5.0,Acceptable (4-5 days)
+CA-2015-134859,5.0,Acceptable (4-5 days)
+CA-2014-159520,5.0,Acceptable (4-5 days)
+CA-2014-159520,5.0,Acceptable (4-5 days)
+CA-2014-159520,5.0,Acceptable (4-5 days)
+CA-2016-155481,4.0,Acceptable (4-5 days)
+CA-2016-155481,4.0,Acceptable (4-5 days)
+CA-2016-155481,4.0,Acceptable (4-5 days)
+CA-2016-159737,6.0,Delayed (6-7 days)
+CA-2016-101938,5.0,Acceptable (4-5 days)
+CA-2014-152296,2.0,On Time (<=3 days)
+CA-2016-128818,4.0,Acceptable (4-5 days)
+CA-2016-128818,4.0,Acceptable (4-5 days)
+CA-2016-128818,4.0,Acceptable (4-5 days)
+CA-2016-128818,4.0,Acceptable (4-5 days)
+CA-2016-128818,4.0,Acceptable (4-5 days)
+CA-2016-128818,4.0,Acceptable (4-5 days)
+CA-2017-124576,3.0,On Time (<=3 days)
+CA-2017-143063,0.0,Same/Next Day
+CA-2017-143063,0.0,Same/Next Day
+CA-2017-143063,0.0,Same/Next Day
+CA-2016-136483,5.0,Acceptable (4-5 days)
+US-2014-165659,5.0,Acceptable (4-5 days)
+US-2014-165659,5.0,Acceptable (4-5 days)
+CA-2015-138002,6.0,Delayed (6-7 days)
+CA-2015-138002,6.0,Delayed (6-7 days)
+CA-2016-164350,2.0,On Time (<=3 days)
+CA-2017-129378,1.0,Same/Next Day
+CA-2017-129378,1.0,Same/Next Day
+CA-2017-129378,1.0,Same/Next Day
+CA-2017-129378,1.0,Same/Next Day
+CA-2015-131884,0.0,Same/Next Day
+CA-2015-131884,0.0,Same/Next Day
+CA-2015-131884,0.0,Same/Next Day
+CA-2016-139157,4.0,Acceptable (4-5 days)
+CA-2017-132122,0.0,Same/Next Day
+CA-2017-104066,5.0,Acceptable (4-5 days)
+CA-2015-117611,2.0,On Time (<=3 days)
+CA-2015-117611,2.0,On Time (<=3 days)
+CA-2017-122994,3.0,On Time (<=3 days)
+CA-2017-149146,0.0,Same/Next Day
+CA-2017-164917,5.0,Acceptable (4-5 days)
+CA-2015-142944,5.0,Acceptable (4-5 days)
+CA-2015-142944,5.0,Acceptable (4-5 days)
+CA-2014-157882,5.0,Acceptable (4-5 days)
+CA-2014-157882,5.0,Acceptable (4-5 days)
+CA-2016-132143,2.0,On Time (<=3 days)
+CA-2015-153108,4.0,Acceptable (4-5 days)
+CA-2015-153108,4.0,Acceptable (4-5 days)
+CA-2016-112676,3.0,On Time (<=3 days)
+US-2017-112928,4.0,Acceptable (4-5 days)
+CA-2017-143343,0.0,Same/Next Day
+CA-2017-115154,3.0,On Time (<=3 days)
+CA-2015-130995,5.0,Acceptable (4-5 days)
+CA-2015-113145,4.0,Acceptable (4-5 days)
+CA-2015-113145,4.0,Acceptable (4-5 days)
+CA-2015-113145,4.0,Acceptable (4-5 days)
+CA-2015-113145,4.0,Acceptable (4-5 days)
+CA-2015-113145,4.0,Acceptable (4-5 days)
+CA-2015-160794,2.0,On Time (<=3 days)
+CA-2017-116225,4.0,Acceptable (4-5 days)
+US-2017-120418,1.0,Same/Next Day
+US-2017-120418,1.0,Same/Next Day
+US-2017-120418,1.0,Same/Next Day
+US-2017-120418,1.0,Same/Next Day
+US-2017-120418,1.0,Same/Next Day
+CA-2017-152695,0.0,Same/Next Day
+CA-2017-152695,0.0,Same/Next Day
+CA-2017-109701,1.0,Same/Next Day
+CA-2017-109701,1.0,Same/Next Day
+CA-2017-109701,1.0,Same/Next Day
+CA-2017-109701,1.0,Same/Next Day
+CA-2017-109701,1.0,Same/Next Day
+CA-2017-123659,0.0,Same/Next Day
+CA-2017-155152,2.0,On Time (<=3 days)
+CA-2016-159940,4.0,Acceptable (4-5 days)
+CA-2016-159940,4.0,Acceptable (4-5 days)
+CA-2016-159940,4.0,Acceptable (4-5 days)
+CA-2016-159940,4.0,Acceptable (4-5 days)
+CA-2015-148628,5.0,Acceptable (4-5 days)
+CA-2016-118052,4.0,Acceptable (4-5 days)
+CA-2016-118052,4.0,Acceptable (4-5 days)
+CA-2016-118052,4.0,Acceptable (4-5 days)
+US-2015-127040,4.0,Acceptable (4-5 days)
+US-2015-127040,4.0,Acceptable (4-5 days)
+US-2015-127040,4.0,Acceptable (4-5 days)
+US-2015-127040,4.0,Acceptable (4-5 days)
+CA-2017-145877,3.0,On Time (<=3 days)
+CA-2017-145877,3.0,On Time (<=3 days)
+CA-2017-108574,4.0,Acceptable (4-5 days)
+CA-2017-108574,4.0,Acceptable (4-5 days)
+CA-2017-108574,4.0,Acceptable (4-5 days)
+CA-2014-162684,5.0,Acceptable (4-5 days)
+CA-2015-142041,2.0,On Time (<=3 days)
+CA-2014-151295,0.0,Same/Next Day
+CA-2014-151295,0.0,Same/Next Day
+CA-2015-146087,5.0,Acceptable (4-5 days)
+CA-2017-168655,0.0,Same/Next Day
+CA-2017-168655,0.0,Same/Next Day
+CA-2016-169922,0.0,Same/Next Day
+CA-2016-169922,0.0,Same/Next Day
+CA-2016-169922,0.0,Same/Next Day
+CA-2017-140053,7.0,Delayed (6-7 days)
+CA-2016-140207,5.0,Acceptable (4-5 days)
+CA-2015-142419,0.0,Same/Next Day
+CA-2015-142419,0.0,Same/Next Day
+CA-2017-148691,6.0,Delayed (6-7 days)
+CA-2017-148691,6.0,Delayed (6-7 days)
+CA-2017-148691,6.0,Delayed (6-7 days)
+CA-2017-148691,6.0,Delayed (6-7 days)
+CA-2017-128755,4.0,Acceptable (4-5 days)
+CA-2017-128755,4.0,Acceptable (4-5 days)
+CA-2017-128755,4.0,Acceptable (4-5 days)
+CA-2017-128755,4.0,Acceptable (4-5 days)
+CA-2016-114972,3.0,On Time (<=3 days)
+CA-2016-114972,3.0,On Time (<=3 days)
+CA-2016-114972,3.0,On Time (<=3 days)
+CA-2016-114972,3.0,On Time (<=3 days)
+CA-2017-102750,4.0,Acceptable (4-5 days)
+CA-2015-104514,2.0,On Time (<=3 days)
+CA-2015-104514,2.0,On Time (<=3 days)
+CA-2015-104514,2.0,On Time (<=3 days)
+CA-2016-146206,0.0,Same/Next Day
+CA-2016-146206,0.0,Same/Next Day
+CA-2015-120397,0.0,Same/Next Day
+CA-2017-163902,6.0,Delayed (6-7 days)
+CA-2017-163902,6.0,Delayed (6-7 days)
+CA-2017-155089,4.0,Acceptable (4-5 days)
+CA-2014-106572,5.0,Acceptable (4-5 days)
+CA-2017-123134,5.0,Acceptable (4-5 days)
+CA-2015-124541,4.0,Acceptable (4-5 days)
+CA-2015-124541,4.0,Acceptable (4-5 days)
+CA-2015-124541,4.0,Acceptable (4-5 days)
+CA-2015-124541,4.0,Acceptable (4-5 days)
+CA-2015-124541,4.0,Acceptable (4-5 days)
+CA-2015-143238,2.0,On Time (<=3 days)
+CA-2017-123967,2.0,On Time (<=3 days)
+CA-2017-123967,2.0,On Time (<=3 days)
+CA-2017-148929,4.0,Acceptable (4-5 days)
+CA-2016-155845,0.0,Same/Next Day
+CA-2017-145128,0.0,Same/Next Day
+CA-2015-121041,7.0,Delayed (6-7 days)
+CA-2016-137729,4.0,Acceptable (4-5 days)
+CA-2016-137729,4.0,Acceptable (4-5 days)
+CA-2016-165848,0.0,Same/Next Day
+CA-2016-165848,0.0,Same/Next Day
+CA-2016-165848,0.0,Same/Next Day
+CA-2016-165848,0.0,Same/Next Day
+CA-2016-154053,6.0,Delayed (6-7 days)
+CA-2017-147942,4.0,Acceptable (4-5 days)
+CA-2017-147942,4.0,Acceptable (4-5 days)
+CA-2014-164861,3.0,On Time (<=3 days)
+CA-2015-168186,0.0,Same/Next Day
+CA-2015-116750,5.0,Acceptable (4-5 days)
+CA-2015-116750,5.0,Acceptable (4-5 days)
+CA-2017-108441,0.0,Same/Next Day
+CA-2017-108441,0.0,Same/Next Day
+CA-2017-108441,0.0,Same/Next Day
+CA-2017-108441,0.0,Same/Next Day
+CA-2014-131002,5.0,Acceptable (4-5 days)
+CA-2014-131002,5.0,Acceptable (4-5 days)
+CA-2014-131002,5.0,Acceptable (4-5 days)
+CA-2014-131002,5.0,Acceptable (4-5 days)
+CA-2014-131002,5.0,Acceptable (4-5 days)
+CA-2016-164784,3.0,On Time (<=3 days)
+CA-2016-164784,3.0,On Time (<=3 days)
+CA-2016-164784,3.0,On Time (<=3 days)
+CA-2016-111794,0.0,Same/Next Day
+CA-2016-111794,0.0,Same/Next Day
+CA-2014-126403,3.0,On Time (<=3 days)
+CA-2014-126403,3.0,On Time (<=3 days)
+CA-2014-126403,3.0,On Time (<=3 days)
+CA-2014-126403,3.0,On Time (<=3 days)
+CA-2017-136875,0.0,Same/Next Day
+CA-2016-133123,5.0,Acceptable (4-5 days)
+CA-2016-133123,5.0,Acceptable (4-5 days)
+US-2016-128195,1.0,Same/Next Day
+CA-2015-153220,0.0,Same/Next Day
+CA-2017-156412,4.0,Acceptable (4-5 days)
+CA-2016-161662,2.0,On Time (<=3 days)
+CA-2017-156818,0.0,Same/Next Day
+CA-2017-132430,2.0,On Time (<=3 days)
+CA-2015-103723,5.0,Acceptable (4-5 days)
+CA-2014-127187,4.0,Acceptable (4-5 days)
+CA-2014-110030,2.0,On Time (<=3 days)
+CA-2014-121286,4.0,Acceptable (4-5 days)
+CA-2014-121286,4.0,Acceptable (4-5 days)
+CA-2014-153479,4.0,Acceptable (4-5 days)
+CA-2014-153479,4.0,Acceptable (4-5 days)
+CA-2014-107594,4.0,Acceptable (4-5 days)
+CA-2014-107594,4.0,Acceptable (4-5 days)
+CA-2014-149244,4.0,Acceptable (4-5 days)
+CA-2017-163321,4.0,Acceptable (4-5 days)
+CA-2014-155887,0.0,Same/Next Day
+CA-2015-110247,4.0,Acceptable (4-5 days)
+US-2014-141257,0.0,Same/Next Day
+CA-2014-154669,3.0,On Time (<=3 days)
+CA-2016-127775,0.0,Same/Next Day
+CA-2016-146171,0.0,Same/Next Day
+CA-2016-146171,0.0,Same/Next Day
+CA-2017-126536,0.0,Same/Next Day
+CA-2017-126536,0.0,Same/Next Day
+US-2015-122140,5.0,Acceptable (4-5 days)
+US-2015-122140,5.0,Acceptable (4-5 days)
+US-2015-122140,5.0,Acceptable (4-5 days)
+CA-2016-163986,7.0,Delayed (6-7 days)
+CA-2017-158967,2.0,On Time (<=3 days)
+CA-2017-167668,2.0,On Time (<=3 days)
+US-2016-106677,5.0,Acceptable (4-5 days)
+US-2014-117744,4.0,Acceptable (4-5 days)
+US-2014-117744,4.0,Acceptable (4-5 days)
+US-2014-117744,4.0,Acceptable (4-5 days)
+CA-2014-154599,0.0,Same/Next Day
+CA-2014-154599,0.0,Same/Next Day
+CA-2014-154599,0.0,Same/Next Day
+CA-2014-154599,0.0,Same/Next Day
+US-2015-110163,3.0,On Time (<=3 days)
+CA-2017-143329,5.0,Acceptable (4-5 days)
+CA-2015-159380,0.0,Same/Next Day
+CA-2015-159380,0.0,Same/Next Day
+CA-2015-122623,4.0,Acceptable (4-5 days)
+CA-2015-104626,7.0,Delayed (6-7 days)
+CA-2015-104626,7.0,Delayed (6-7 days)
+CA-2015-104626,7.0,Delayed (6-7 days)
+CA-2015-104626,7.0,Delayed (6-7 days)
+CA-2016-160500,3.0,On Time (<=3 days)
+CA-2016-160500,3.0,On Time (<=3 days)
+CA-2014-148915,4.0,Acceptable (4-5 days)
+CA-2014-148915,4.0,Acceptable (4-5 days)
+CA-2016-147368,3.0,On Time (<=3 days)
+US-2015-104185,5.0,Acceptable (4-5 days)
+CA-2017-152093,0.0,Same/Next Day
+CA-2017-157854,0.0,Same/Next Day
+CA-2017-157854,0.0,Same/Next Day
+US-2016-128293,3.0,On Time (<=3 days)
+CA-2017-106537,0.0,Same/Next Day
+CA-2016-115588,2.0,On Time (<=3 days)
+CA-2016-115588,2.0,On Time (<=3 days)
+CA-2017-143861,0.0,Same/Next Day
+CA-2017-164049,4.0,Acceptable (4-5 days)
+US-2016-164630,5.0,Acceptable (4-5 days)
+CA-2015-166464,0.0,Same/Next Day
+CA-2015-166464,0.0,Same/Next Day
+CA-2017-124898,0.0,Same/Next Day
+CA-2016-164035,0.0,Same/Next Day
+CA-2017-121615,6.0,Delayed (6-7 days)
+CA-2017-121615,6.0,Delayed (6-7 days)
+CA-2017-121615,6.0,Delayed (6-7 days)
+CA-2015-118444,4.0,Acceptable (4-5 days)
+CA-2015-134747,0.0,Same/Next Day
+CA-2015-134747,0.0,Same/Next Day
+CA-2015-134747,0.0,Same/Next Day
+CA-2014-157721,3.0,On Time (<=3 days)
+CA-2014-157721,3.0,On Time (<=3 days)
+CA-2017-128629,0.0,Same/Next Day
+CA-2017-158106,6.0,Delayed (6-7 days)
+CA-2015-168564,0.0,Same/Next Day
+CA-2015-168564,0.0,Same/Next Day
+CA-2015-168564,0.0,Same/Next Day
+US-2016-169040,6.0,Delayed (6-7 days)
+US-2016-169040,6.0,Delayed (6-7 days)
+US-2016-169040,6.0,Delayed (6-7 days)
+US-2016-169040,6.0,Delayed (6-7 days)
+US-2016-169040,6.0,Delayed (6-7 days)
+US-2016-169040,6.0,Delayed (6-7 days)
+US-2016-169040,6.0,Delayed (6-7 days)
+CA-2016-166443,1.0,Same/Next Day
+CA-2017-134915,0.0,Same/Next Day
+CA-2017-134915,0.0,Same/Next Day
+CA-2017-134915,0.0,Same/Next Day
+CA-2017-134915,0.0,Same/Next Day
+CA-2017-134915,0.0,Same/Next Day
+CA-2017-134915,0.0,Same/Next Day
+CA-2017-168900,5.0,Acceptable (4-5 days)
+CA-2017-167941,3.0,On Time (<=3 days)
+CA-2017-167941,3.0,On Time (<=3 days)
+CA-2017-167941,3.0,On Time (<=3 days)
+CA-2017-167941,3.0,On Time (<=3 days)
+CA-2017-167941,3.0,On Time (<=3 days)
+CA-2015-137512,5.0,Acceptable (4-5 days)
+CA-2015-137512,5.0,Acceptable (4-5 days)
+CA-2017-139773,0.0,Same/Next Day
+CA-2017-134607,5.0,Acceptable (4-5 days)
+CA-2015-139850,0.0,Same/Next Day
+CA-2015-139850,0.0,Same/Next Day
+CA-2014-131310,0.0,Same/Next Day
+CA-2014-131310,0.0,Same/Next Day
+US-2014-112872,5.0,Acceptable (4-5 days)
+US-2014-112872,5.0,Acceptable (4-5 days)
+CA-2016-134376,4.0,Acceptable (4-5 days)
+CA-2017-147291,0.0,Same/Next Day
+CA-2015-130610,5.0,Acceptable (4-5 days)
+CA-2016-131499,2.0,On Time (<=3 days)
+CA-2016-124772,1.0,Same/Next Day
+US-2015-123960,0.0,Same/Next Day
+US-2015-123960,0.0,Same/Next Day
+US-2015-123960,0.0,Same/Next Day
+US-2015-123960,0.0,Same/Next Day
+US-2015-123960,0.0,Same/Next Day
+CA-2017-101749,5.0,Acceptable (4-5 days)
+US-2016-147991,4.0,Acceptable (4-5 days)
+CA-2017-149559,1.0,Same/Next Day
+CA-2017-149559,1.0,Same/Next Day
+CA-2017-149559,1.0,Same/Next Day
+CA-2017-125290,4.0,Acceptable (4-5 days)
+CA-2017-125290,4.0,Acceptable (4-5 days)
+CA-2017-121419,2.0,On Time (<=3 days)
+CA-2017-121419,2.0,On Time (<=3 days)
+US-2017-148054,5.0,Acceptable (4-5 days)
+US-2017-148054,5.0,Acceptable (4-5 days)
+US-2017-148054,5.0,Acceptable (4-5 days)
+CA-2016-128517,0.0,Same/Next Day
+CA-2016-128517,0.0,Same/Next Day
+CA-2016-144554,5.0,Acceptable (4-5 days)
+CA-2017-127621,4.0,Acceptable (4-5 days)
+CA-2016-125206,2.0,On Time (<=3 days)
+CA-2015-126137,5.0,Acceptable (4-5 days)
+CA-2017-101182,1.0,Same/Next Day
+CA-2017-101182,1.0,Same/Next Day
+CA-2017-118773,0.0,Same/Next Day
+CA-2017-118773,0.0,Same/Next Day
+CA-2017-118773,0.0,Same/Next Day
+CA-2017-118773,0.0,Same/Next Day
+CA-2016-112123,5.0,Acceptable (4-5 days)
+CA-2016-112123,5.0,Acceptable (4-5 days)
+CA-2016-112123,5.0,Acceptable (4-5 days)
+CA-2016-124562,4.0,Acceptable (4-5 days)
+CA-2017-127460,0.0,Same/Next Day
+CA-2015-121720,1.0,Same/Next Day
+CA-2015-121720,1.0,Same/Next Day
+CA-2015-121720,1.0,Same/Next Day
+CA-2015-121720,1.0,Same/Next Day
+CA-2015-121720,1.0,Same/Next Day
+CA-2015-121720,1.0,Same/Next Day
+CA-2015-121720,1.0,Same/Next Day
+CA-2015-121720,1.0,Same/Next Day
+CA-2017-149895,4.0,Acceptable (4-5 days)
+CA-2017-147564,4.0,Acceptable (4-5 days)
+CA-2017-164168,0.0,Same/Next Day
+CA-2017-164168,0.0,Same/Next Day
+CA-2017-164168,0.0,Same/Next Day
+CA-2017-164168,0.0,Same/Next Day
+CA-2017-164168,0.0,Same/Next Day
+CA-2017-164168,0.0,Same/Next Day
+US-2014-122959,0.0,Same/Next Day
+US-2016-148110,6.0,Delayed (6-7 days)
+CA-2017-131828,0.0,Same/Next Day
+CA-2017-131828,0.0,Same/Next Day
+CA-2016-120558,3.0,On Time (<=3 days)
+CA-2014-128986,2.0,On Time (<=3 days)
+US-2014-150924,0.0,Same/Next Day
+CA-2017-122280,0.0,Same/Next Day
+CA-2017-105235,6.0,Delayed (6-7 days)
+CA-2017-105235,6.0,Delayed (6-7 days)
+CA-2017-105235,6.0,Delayed (6-7 days)
+CA-2017-152912,3.0,On Time (<=3 days)
+CA-2017-152912,3.0,On Time (<=3 days)
+CA-2017-152912,3.0,On Time (<=3 days)
+CA-2017-152912,3.0,On Time (<=3 days)
+CA-2014-123498,2.0,On Time (<=3 days)
+CA-2014-123498,2.0,On Time (<=3 days)
+CA-2017-159352,0.0,Same/Next Day
+CA-2017-123981,6.0,Delayed (6-7 days)
+CA-2017-158953,4.0,Acceptable (4-5 days)
+CA-2014-165428,3.0,On Time (<=3 days)
+CA-2014-165428,3.0,On Time (<=3 days)
+CA-2015-149384,0.0,Same/Next Day
+CA-2014-131527,6.0,Delayed (6-7 days)
+CA-2016-108882,0.0,Same/Next Day
+CA-2016-108882,0.0,Same/Next Day
+CA-2017-150189,2.0,On Time (<=3 days)
+US-2015-137008,6.0,Delayed (6-7 days)
+US-2015-137008,6.0,Delayed (6-7 days)
+US-2015-137008,6.0,Delayed (6-7 days)
+CA-2014-108189,3.0,On Time (<=3 days)
+CA-2014-108189,3.0,On Time (<=3 days)
+CA-2014-108189,3.0,On Time (<=3 days)
+CA-2014-108189,3.0,On Time (<=3 days)
+CA-2014-108189,3.0,On Time (<=3 days)
+CA-2014-108189,3.0,On Time (<=3 days)
+CA-2014-108189,3.0,On Time (<=3 days)
+CA-2014-154641,0.0,Same/Next Day
+CA-2017-131625,4.0,Acceptable (4-5 days)
+CA-2016-146836,0.0,Same/Next Day
+CA-2016-146836,0.0,Same/Next Day
+US-2016-140809,2.0,On Time (<=3 days)
+CA-2017-113355,4.0,Acceptable (4-5 days)
+CA-2017-113355,4.0,Acceptable (4-5 days)
+US-2017-140907,2.0,On Time (<=3 days)
+US-2017-140907,2.0,On Time (<=3 days)
+US-2017-140907,2.0,On Time (<=3 days)
+CA-2016-155474,0.0,Same/Next Day
+CA-2016-155474,0.0,Same/Next Day
+CA-2015-155453,0.0,Same/Next Day
+CA-2016-122518,4.0,Acceptable (4-5 days)
+US-2014-126571,0.0,Same/Next Day
+US-2014-126571,0.0,Same/Next Day
+CA-2015-146038,0.0,Same/Next Day
+CA-2017-133865,4.0,Acceptable (4-5 days)
+CA-2017-116358,4.0,Acceptable (4-5 days)
+CA-2017-116358,4.0,Acceptable (4-5 days)
+CA-2014-102988,4.0,Acceptable (4-5 days)
+CA-2014-102988,4.0,Acceptable (4-5 days)
+CA-2014-102988,4.0,Acceptable (4-5 days)
+CA-2014-102988,4.0,Acceptable (4-5 days)
+CA-2014-102988,4.0,Acceptable (4-5 days)
+CA-2014-103702,0.0,Same/Next Day
+CA-2017-113418,2.0,On Time (<=3 days)
+CA-2015-144386,6.0,Delayed (6-7 days)
+CA-2015-165057,0.0,Same/Next Day
+CA-2015-165057,0.0,Same/Next Day
+CA-2017-154732,2.0,On Time (<=3 days)
+CA-2016-139234,4.0,Acceptable (4-5 days)
+CA-2016-139234,4.0,Acceptable (4-5 days)
+US-2015-142020,4.0,Acceptable (4-5 days)
+US-2015-142020,4.0,Acceptable (4-5 days)
+CA-2014-165379,0.0,Same/Next Day
+CA-2014-165379,0.0,Same/Next Day
+CA-2015-161718,6.0,Delayed (6-7 days)
+CA-2015-161718,6.0,Delayed (6-7 days)
+CA-2015-161718,6.0,Delayed (6-7 days)
+CA-2015-161718,6.0,Delayed (6-7 days)
+CA-2016-100671,3.0,On Time (<=3 days)
+CA-2015-130659,5.0,Acceptable (4-5 days)
+CA-2015-130659,5.0,Acceptable (4-5 days)
+CA-2015-130659,5.0,Acceptable (4-5 days)
+CA-2017-148404,4.0,Acceptable (4-5 days)
+CA-2017-148404,4.0,Acceptable (4-5 days)
+CA-2017-148404,4.0,Acceptable (4-5 days)
+CA-2017-148404,4.0,Acceptable (4-5 days)
+CA-2017-148404,4.0,Acceptable (4-5 days)
+CA-2014-166471,0.0,Same/Next Day
+CA-2014-166471,0.0,Same/Next Day
+US-2017-131583,0.0,Same/Next Day
+US-2017-148362,7.0,Delayed (6-7 days)
+US-2017-148362,7.0,Delayed (6-7 days)
+US-2017-148362,7.0,Delayed (6-7 days)
+CA-2015-129700,1.0,Same/Next Day
+CA-2016-116540,0.0,Same/Next Day
+CA-2016-116540,0.0,Same/Next Day
+US-2017-111024,3.0,On Time (<=3 days)
+US-2017-111024,3.0,On Time (<=3 days)
+US-2017-111024,3.0,On Time (<=3 days)
+CA-2017-148264,1.0,Same/Next Day
+CA-2017-148264,1.0,Same/Next Day
+CA-2017-148264,1.0,Same/Next Day
+CA-2017-131212,4.0,Acceptable (4-5 days)
+CA-2017-131212,4.0,Acceptable (4-5 days)
+CA-2014-158337,0.0,Same/Next Day
+CA-2015-131779,0.0,Same/Next Day
+CA-2016-158869,1.0,Same/Next Day
+CA-2017-102554,0.0,Same/Next Day
+CA-2015-153325,1.0,Same/Next Day
+CA-2015-153626,0.0,Same/Next Day
+CA-2017-114258,5.0,Acceptable (4-5 days)
+CA-2017-128699,2.0,On Time (<=3 days)
+US-2015-147242,0.0,Same/Next Day
+US-2015-147242,0.0,Same/Next Day
+US-2015-147242,0.0,Same/Next Day
+CA-2015-100888,4.0,Acceptable (4-5 days)
+US-2016-150035,4.0,Acceptable (4-5 days)
+CA-2017-122644,0.0,Same/Next Day
+CA-2017-122644,0.0,Same/Next Day
+CA-2017-111815,7.0,Delayed (6-7 days)
+CA-2017-111815,7.0,Delayed (6-7 days)
+CA-2014-124023,3.0,On Time (<=3 days)
+CA-2017-120705,6.0,Delayed (6-7 days)
+CA-2015-157322,4.0,Acceptable (4-5 days)
+CA-2015-157322,4.0,Acceptable (4-5 days)
+CA-2015-157322,4.0,Acceptable (4-5 days)
+CA-2015-157322,4.0,Acceptable (4-5 days)
+CA-2015-157322,4.0,Acceptable (4-5 days)
+CA-2017-125115,0.0,Same/Next Day
+CA-2017-125115,0.0,Same/Next Day
+CA-2017-140326,2.0,On Time (<=3 days)
+CA-2017-140326,2.0,On Time (<=3 days)
+CA-2017-140326,2.0,On Time (<=3 days)
+US-2016-113649,3.0,On Time (<=3 days)
+US-2016-113649,3.0,On Time (<=3 days)
+US-2016-113649,3.0,On Time (<=3 days)
+CA-2015-168767,0.0,Same/Next Day
+CA-2016-137673,5.0,Acceptable (4-5 days)
+CA-2014-158771,0.0,Same/Next Day
+CA-2014-158771,0.0,Same/Next Day
+CA-2014-158771,0.0,Same/Next Day
+CA-2014-158771,0.0,Same/Next Day
+CA-2017-118542,4.0,Acceptable (4-5 days)
+CA-2017-118542,4.0,Acceptable (4-5 days)
+CA-2017-152737,5.0,Acceptable (4-5 days)
+CA-2017-152737,5.0,Acceptable (4-5 days)
+CA-2017-109757,5.0,Acceptable (4-5 days)
+CA-2017-109757,5.0,Acceptable (4-5 days)
+CA-2017-109757,5.0,Acceptable (4-5 days)
+CA-2017-109757,5.0,Acceptable (4-5 days)
+CA-2016-130029,3.0,On Time (<=3 days)
+CA-2016-130029,3.0,On Time (<=3 days)
+CA-2017-168109,0.0,Same/Next Day
+CA-2017-168109,0.0,Same/Next Day
+CA-2017-168109,0.0,Same/Next Day
+CA-2017-168109,0.0,Same/Next Day
+CA-2017-117023,5.0,Acceptable (4-5 days)
+CA-2017-117023,5.0,Acceptable (4-5 days)
+CA-2016-103163,4.0,Acceptable (4-5 days)
+CA-2016-103163,4.0,Acceptable (4-5 days)
+CA-2017-117807,6.0,Delayed (6-7 days)
+CA-2017-161823,5.0,Acceptable (4-5 days)
+CA-2016-108434,2.0,On Time (<=3 days)
+CA-2016-164154,0.0,Same/Next Day
+CA-2016-164154,0.0,Same/Next Day
+CA-2016-119683,0.0,Same/Next Day
+CA-2015-110093,5.0,Acceptable (4-5 days)
+CA-2015-110093,5.0,Acceptable (4-5 days)
+CA-2016-154536,4.0,Acceptable (4-5 days)
+CA-2017-141929,4.0,Acceptable (4-5 days)
+CA-2017-141929,4.0,Acceptable (4-5 days)
+CA-2017-141929,4.0,Acceptable (4-5 days)
+CA-2014-169726,0.0,Same/Next Day
+CA-2017-132178,5.0,Acceptable (4-5 days)
+CA-2017-132178,5.0,Acceptable (4-5 days)
+CA-2017-109960,2.0,On Time (<=3 days)
+CA-2017-109960,2.0,On Time (<=3 days)
+CA-2017-109960,2.0,On Time (<=3 days)
+CA-2017-109960,2.0,On Time (<=3 days)
+CA-2015-128083,0.0,Same/Next Day
+CA-2015-128083,0.0,Same/Next Day
+CA-2015-128083,0.0,Same/Next Day
+US-2017-129777,6.0,Delayed (6-7 days)
+US-2017-129777,6.0,Delayed (6-7 days)
+CA-2016-104969,0.0,Same/Next Day
+CA-2016-104969,0.0,Same/Next Day
+CA-2017-154109,5.0,Acceptable (4-5 days)
+CA-2017-154109,5.0,Acceptable (4-5 days)
+CA-2015-156440,4.0,Acceptable (4-5 days)
+CA-2015-132626,0.0,Same/Next Day
+CA-2015-132626,0.0,Same/Next Day
+CA-2015-132626,0.0,Same/Next Day
+CA-2015-132626,0.0,Same/Next Day
+CA-2015-132626,0.0,Same/Next Day
+CA-2015-132626,0.0,Same/Next Day
+CA-2015-132626,0.0,Same/Next Day
+CA-2015-132626,0.0,Same/Next Day
+CA-2015-132626,0.0,Same/Next Day
+CA-2017-140760,3.0,On Time (<=3 days)
+CA-2017-140760,3.0,On Time (<=3 days)
+CA-2016-126543,0.0,Same/Next Day
+CA-2014-135608,2.0,On Time (<=3 days)
+CA-2014-135608,2.0,On Time (<=3 days)
+CA-2017-127264,2.0,On Time (<=3 days)
+CA-2016-165169,6.0,Delayed (6-7 days)
+CA-2016-165169,6.0,Delayed (6-7 days)
+CA-2016-165169,6.0,Delayed (6-7 days)
+CA-2017-168193,5.0,Acceptable (4-5 days)
+CA-2017-168193,5.0,Acceptable (4-5 days)
+CA-2016-116799,3.0,On Time (<=3 days)
+CA-2016-116799,3.0,On Time (<=3 days)
+CA-2017-104577,0.0,Same/Next Day
+CA-2015-103205,2.0,On Time (<=3 days)
+US-2016-101196,0.0,Same/Next Day
+CA-2014-115357,5.0,Acceptable (4-5 days)
+US-2014-102715,0.0,Same/Next Day
+US-2014-102715,0.0,Same/Next Day
+US-2014-102715,0.0,Same/Next Day
+US-2014-102715,0.0,Same/Next Day
+CA-2015-107937,5.0,Acceptable (4-5 days)
+CA-2015-135314,0.0,Same/Next Day
+CA-2016-169971,5.0,Acceptable (4-5 days)
+CA-2016-169971,5.0,Acceptable (4-5 days)
+CA-2014-107139,6.0,Delayed (6-7 days)
+CA-2017-147760,1.0,Same/Next Day
+CA-2017-147760,1.0,Same/Next Day
+CA-2015-113628,0.0,Same/Next Day
+CA-2015-113628,0.0,Same/Next Day
+CA-2015-113628,0.0,Same/Next Day
+CA-2015-113628,0.0,Same/Next Day
+CA-2015-113628,0.0,Same/Next Day
+CA-2015-113628,0.0,Same/Next Day
+CA-2017-147753,0.0,Same/Next Day
+CA-2015-103961,4.0,Acceptable (4-5 days)
+CA-2016-152471,0.0,Same/Next Day
+CA-2016-152471,0.0,Same/Next Day
+CA-2014-132801,5.0,Acceptable (4-5 days)
+CA-2017-141733,4.0,Acceptable (4-5 days)
+CA-2017-141733,4.0,Acceptable (4-5 days)
+CA-2017-141733,4.0,Acceptable (4-5 days)
+CA-2017-141733,4.0,Acceptable (4-5 days)
+CA-2014-100363,0.0,Same/Next Day
+CA-2014-100363,0.0,Same/Next Day
+US-2014-109162,4.0,Acceptable (4-5 days)
+CA-2015-142377,5.0,Acceptable (4-5 days)
+US-2017-131849,4.0,Acceptable (4-5 days)
+US-2017-131849,4.0,Acceptable (4-5 days)
+CA-2014-135755,7.0,Delayed (6-7 days)
+CA-2014-135755,7.0,Delayed (6-7 days)
+CA-2016-136231,2.0,On Time (<=3 days)
+CA-2016-136231,2.0,On Time (<=3 days)
+CA-2016-136231,2.0,On Time (<=3 days)
+CA-2016-136231,2.0,On Time (<=3 days)
+CA-2014-151001,2.0,On Time (<=3 days)
+CA-2014-151001,2.0,On Time (<=3 days)
+CA-2014-152849,7.0,Delayed (6-7 days)
+CA-2016-167759,5.0,Acceptable (4-5 days)
+CA-2014-100895,4.0,Acceptable (4-5 days)
+CA-2014-100895,4.0,Acceptable (4-5 days)
+CA-2014-100895,4.0,Acceptable (4-5 days)
+CA-2017-110212,4.0,Acceptable (4-5 days)
+CA-2017-134285,5.0,Acceptable (4-5 days)
+CA-2017-134285,5.0,Acceptable (4-5 days)
+CA-2017-157980,2.0,On Time (<=3 days)
+CA-2015-121097,5.0,Acceptable (4-5 days)
+US-2015-119312,5.0,Acceptable (4-5 days)
+CA-2015-167010,5.0,Acceptable (4-5 days)
+CA-2015-167010,5.0,Acceptable (4-5 days)
+CA-2015-167010,5.0,Acceptable (4-5 days)
+CA-2015-167010,5.0,Acceptable (4-5 days)
+CA-2015-167010,5.0,Acceptable (4-5 days)
+CA-2015-167010,5.0,Acceptable (4-5 days)
+CA-2015-167010,5.0,Acceptable (4-5 days)
+CA-2015-167010,5.0,Acceptable (4-5 days)
+CA-2017-126788,1.0,Same/Next Day
+US-2015-148817,6.0,Delayed (6-7 days)
+US-2015-148817,6.0,Delayed (6-7 days)
+CA-2017-123001,6.0,Delayed (6-7 days)
+CA-2017-123001,6.0,Delayed (6-7 days)
+CA-2017-123001,6.0,Delayed (6-7 days)
+US-2016-143448,0.0,Same/Next Day
+US-2016-151862,7.0,Delayed (6-7 days)
+CA-2014-133228,5.0,Acceptable (4-5 days)
+CA-2014-133228,5.0,Acceptable (4-5 days)
+CA-2014-164910,0.0,Same/Next Day
+CA-2016-149902,5.0,Acceptable (4-5 days)
+US-2015-163685,4.0,Acceptable (4-5 days)
+US-2015-163685,4.0,Acceptable (4-5 days)
+CA-2017-101308,5.0,Acceptable (4-5 days)
+CA-2017-101308,5.0,Acceptable (4-5 days)
+CA-2016-135265,2.0,On Time (<=3 days)
+CA-2016-135265,2.0,On Time (<=3 days)
+CA-2016-135265,2.0,On Time (<=3 days)
+CA-2017-112333,0.0,Same/Next Day
+CA-2017-112333,0.0,Same/Next Day
+CA-2014-137589,5.0,Acceptable (4-5 days)
+CA-2015-161998,4.0,Acceptable (4-5 days)
+CA-2015-161998,4.0,Acceptable (4-5 days)
+CA-2015-161998,4.0,Acceptable (4-5 days)
+CA-2015-105627,4.0,Acceptable (4-5 days)
+CA-2015-105627,4.0,Acceptable (4-5 days)
+CA-2015-105627,4.0,Acceptable (4-5 days)
+CA-2015-105627,4.0,Acceptable (4-5 days)
+CA-2015-105627,4.0,Acceptable (4-5 days)
+CA-2014-116834,0.0,Same/Next Day
+CA-2014-116834,0.0,Same/Next Day
+CA-2016-145730,5.0,Acceptable (4-5 days)
+CA-2016-145730,5.0,Acceptable (4-5 days)
+CA-2016-145730,5.0,Acceptable (4-5 days)
+CA-2017-144463,4.0,Acceptable (4-5 days)
+CA-2017-139311,0.0,Same/Next Day
+CA-2017-139311,0.0,Same/Next Day
+CA-2017-139311,0.0,Same/Next Day
+CA-2017-139311,0.0,Same/Next Day
+US-2016-108777,0.0,Same/Next Day
+US-2016-108777,0.0,Same/Next Day
+CA-2015-136378,5.0,Acceptable (4-5 days)
+CA-2016-129196,6.0,Delayed (6-7 days)
+US-2016-122182,0.0,Same/Next Day
+CA-2014-102673,4.0,Acceptable (4-5 days)
+CA-2014-102673,4.0,Acceptable (4-5 days)
+CA-2014-102673,4.0,Acceptable (4-5 days)
+CA-2014-102673,4.0,Acceptable (4-5 days)
+CA-2015-156104,2.0,On Time (<=3 days)
+CA-2017-163692,2.0,On Time (<=3 days)
+CA-2016-111913,2.0,On Time (<=3 days)
+CA-2016-111913,2.0,On Time (<=3 days)
+CA-2016-111913,2.0,On Time (<=3 days)
+CA-2016-161473,4.0,Acceptable (4-5 days)
+CA-2016-161473,4.0,Acceptable (4-5 days)
+CA-2016-161473,4.0,Acceptable (4-5 days)
+CA-2015-105599,0.0,Same/Next Day
+CA-2015-105599,0.0,Same/Next Day
+CA-2015-116687,5.0,Acceptable (4-5 days)
+CA-2015-116687,5.0,Acceptable (4-5 days)
+CA-2017-117394,6.0,Delayed (6-7 days)
+CA-2017-133823,1.0,Same/Next Day
+CA-2017-133823,1.0,Same/Next Day
+CA-2017-133823,1.0,Same/Next Day
+CA-2014-127523,0.0,Same/Next Day
+CA-2017-156769,3.0,On Time (<=3 days)
+CA-2015-111703,7.0,Delayed (6-7 days)
+CA-2015-111703,7.0,Delayed (6-7 days)
+CA-2017-105914,6.0,Delayed (6-7 days)
+CA-2017-105914,6.0,Delayed (6-7 days)
+CA-2017-127313,3.0,On Time (<=3 days)
+CA-2017-127313,3.0,On Time (<=3 days)
+CA-2017-100160,4.0,Acceptable (4-5 days)
+CA-2017-100160,4.0,Acceptable (4-5 days)
+CA-2017-100160,4.0,Acceptable (4-5 days)
+CA-2015-101091,4.0,Acceptable (4-5 days)
+CA-2015-101091,4.0,Acceptable (4-5 days)
+CA-2014-126907,7.0,Delayed (6-7 days)
+CA-2015-160213,0.0,Same/Next Day
+CA-2014-157924,0.0,Same/Next Day
+CA-2014-157924,0.0,Same/Next Day
+CA-2016-152163,0.0,Same/Next Day
+CA-2016-152163,0.0,Same/Next Day
+CA-2016-152163,0.0,Same/Next Day
+CA-2014-128846,5.0,Acceptable (4-5 days)
+CA-2014-128846,5.0,Acceptable (4-5 days)
+US-2017-119039,4.0,Acceptable (4-5 days)
+CA-2017-128426,4.0,Acceptable (4-5 days)
+US-2017-136868,6.0,Delayed (6-7 days)
+US-2017-136868,6.0,Delayed (6-7 days)
+US-2017-136868,6.0,Delayed (6-7 days)
+CA-2016-143749,2.0,On Time (<=3 days)
+CA-2015-129392,0.0,Same/Next Day
+CA-2016-124233,0.0,Same/Next Day
+US-2016-161683,5.0,Acceptable (4-5 days)
+US-2016-161683,5.0,Acceptable (4-5 days)
+CA-2015-143105,0.0,Same/Next Day
+CA-2015-143105,0.0,Same/Next Day
+CA-2015-143105,0.0,Same/Next Day
+CA-2015-143105,0.0,Same/Next Day
+CA-2014-166457,4.0,Acceptable (4-5 days)
+CA-2014-166457,4.0,Acceptable (4-5 days)
+CA-2014-166457,4.0,Acceptable (4-5 days)
+CA-2016-164637,4.0,Acceptable (4-5 days)
+CA-2017-149881,2.0,On Time (<=3 days)
+CA-2017-149881,2.0,On Time (<=3 days)
+CA-2017-134565,0.0,Same/Next Day
+CA-2017-134565,0.0,Same/Next Day
+CA-2017-134565,0.0,Same/Next Day
+CA-2017-134565,0.0,Same/Next Day
+CA-2017-134565,0.0,Same/Next Day
+CA-2015-154970,5.0,Acceptable (4-5 days)
+CA-2017-100223,5.0,Acceptable (4-5 days)
+CA-2017-100223,5.0,Acceptable (4-5 days)
+CA-2017-100223,5.0,Acceptable (4-5 days)
+CA-2017-100223,5.0,Acceptable (4-5 days)
+CA-2017-100223,5.0,Acceptable (4-5 days)
+CA-2016-159142,1.0,Same/Next Day
+CA-2016-159142,1.0,Same/Next Day
+CA-2016-157336,4.0,Acceptable (4-5 days)
+CA-2016-157336,4.0,Acceptable (4-5 days)
+CA-2015-101924,5.0,Acceptable (4-5 days)
+CA-2017-158344,4.0,Acceptable (4-5 days)
+CA-2017-110429,5.0,Acceptable (4-5 days)
+US-2016-131611,4.0,Acceptable (4-5 days)
+US-2016-131611,4.0,Acceptable (4-5 days)
+US-2016-131611,4.0,Acceptable (4-5 days)
+US-2016-131611,4.0,Acceptable (4-5 days)
+US-2016-131611,4.0,Acceptable (4-5 days)
+CA-2015-123456,0.0,Same/Next Day
+CA-2017-130967,0.0,Same/Next Day
+CA-2017-169124,7.0,Delayed (6-7 days)
+CA-2017-117261,6.0,Delayed (6-7 days)
+CA-2016-121601,0.0,Same/Next Day
+CA-2014-125829,7.0,Delayed (6-7 days)
+CA-2014-125829,7.0,Delayed (6-7 days)
+CA-2014-125829,7.0,Delayed (6-7 days)
+CA-2014-125829,7.0,Delayed (6-7 days)
+CA-2014-125829,7.0,Delayed (6-7 days)
+CA-2014-123127,4.0,Acceptable (4-5 days)
+US-2017-136189,4.0,Acceptable (4-5 days)
+CA-2017-118360,6.0,Delayed (6-7 days)
+CA-2017-149853,6.0,Delayed (6-7 days)
+CA-2017-149853,6.0,Delayed (6-7 days)
+CA-2017-107909,5.0,Acceptable (4-5 days)
+CA-2017-107909,5.0,Acceptable (4-5 days)
+US-2017-100482,0.0,Same/Next Day
+US-2017-100482,0.0,Same/Next Day
+CA-2017-107748,2.0,On Time (<=3 days)
+CA-2017-107748,2.0,On Time (<=3 days)
+CA-2015-155600,3.0,On Time (<=3 days)
+CA-2015-155600,3.0,On Time (<=3 days)
+CA-2017-162565,0.0,Same/Next Day
+CA-2017-162565,0.0,Same/Next Day
+CA-2017-162565,0.0,Same/Next Day
+CA-2017-117044,0.0,Same/Next Day
+CA-2017-117044,0.0,Same/Next Day
+US-2016-165078,5.0,Acceptable (4-5 days)
+US-2016-165078,5.0,Acceptable (4-5 days)
+US-2016-165078,5.0,Acceptable (4-5 days)
+CA-2016-108868,4.0,Acceptable (4-5 days)
+CA-2016-108868,4.0,Acceptable (4-5 days)
+US-2014-138758,4.0,Acceptable (4-5 days)
+US-2014-138758,4.0,Acceptable (4-5 days)
+CA-2014-127936,2.0,On Time (<=3 days)
+CA-2015-164336,5.0,Acceptable (4-5 days)
+CA-2015-164336,5.0,Acceptable (4-5 days)
+US-2014-154879,5.0,Acceptable (4-5 days)
+US-2014-154879,5.0,Acceptable (4-5 days)
+CA-2017-112900,3.0,On Time (<=3 days)
+CA-2014-117016,5.0,Acceptable (4-5 days)
+CA-2016-168893,5.0,Acceptable (4-5 days)
+CA-2016-168893,5.0,Acceptable (4-5 days)
+CA-2016-168893,5.0,Acceptable (4-5 days)
+CA-2016-168893,5.0,Acceptable (4-5 days)
+CA-2016-168893,5.0,Acceptable (4-5 days)
+CA-2016-163398,5.0,Acceptable (4-5 days)
+CA-2016-163398,5.0,Acceptable (4-5 days)
+CA-2016-163398,5.0,Acceptable (4-5 days)
+CA-2016-147137,2.0,On Time (<=3 days)
+CA-2016-147137,2.0,On Time (<=3 days)
+CA-2016-147137,2.0,On Time (<=3 days)
+CA-2016-147137,2.0,On Time (<=3 days)
+US-2015-146745,5.0,Acceptable (4-5 days)
+US-2015-146745,5.0,Acceptable (4-5 days)
+CA-2017-115175,5.0,Acceptable (4-5 days)
+CA-2015-163895,4.0,Acceptable (4-5 days)
+CA-2017-156895,4.0,Acceptable (4-5 days)
+CA-2016-109365,5.0,Acceptable (4-5 days)
+CA-2016-109365,5.0,Acceptable (4-5 days)
+CA-2016-109365,5.0,Acceptable (4-5 days)
+CA-2016-109365,5.0,Acceptable (4-5 days)
+CA-2016-109365,5.0,Acceptable (4-5 days)
+CA-2016-109365,5.0,Acceptable (4-5 days)
+CA-2016-109365,5.0,Acceptable (4-5 days)
+CA-2015-162621,6.0,Delayed (6-7 days)
+CA-2015-162621,6.0,Delayed (6-7 days)
+CA-2015-162621,6.0,Delayed (6-7 days)
+CA-2014-150798,2.0,On Time (<=3 days)
+CA-2014-150798,2.0,On Time (<=3 days)
+CA-2014-150798,2.0,On Time (<=3 days)
+CA-2014-150798,2.0,On Time (<=3 days)
+CA-2017-155075,7.0,Delayed (6-7 days)
+CA-2016-124814,0.0,Same/Next Day
+CA-2016-124814,0.0,Same/Next Day
+CA-2016-118969,1.0,Same/Next Day
+CA-2016-145240,2.0,On Time (<=3 days)
+CA-2017-107167,0.0,Same/Next Day
+CA-2014-107454,4.0,Acceptable (4-5 days)
+CA-2014-107454,4.0,Acceptable (4-5 days)
+CA-2017-152856,2.0,On Time (<=3 days)
+CA-2014-140403,0.0,Same/Next Day
+CA-2014-140403,0.0,Same/Next Day
+CA-2017-138464,4.0,Acceptable (4-5 days)
+CA-2017-138464,4.0,Acceptable (4-5 days)
+CA-2017-138464,4.0,Acceptable (4-5 days)
+CA-2017-138464,4.0,Acceptable (4-5 days)
+CA-2015-126557,0.0,Same/Next Day
+CA-2015-126557,0.0,Same/Next Day
+CA-2015-126557,0.0,Same/Next Day
+CA-2015-126557,0.0,Same/Next Day
+CA-2015-126557,0.0,Same/Next Day
+CA-2015-126557,0.0,Same/Next Day
+CA-2015-126557,0.0,Same/Next Day
+CA-2014-110219,3.0,On Time (<=3 days)
+CA-2015-118871,5.0,Acceptable (4-5 days)
+CA-2015-118871,5.0,Acceptable (4-5 days)
+CA-2015-118871,5.0,Acceptable (4-5 days)
+US-2017-149510,7.0,Delayed (6-7 days)
+US-2017-149510,7.0,Delayed (6-7 days)
+US-2017-149510,7.0,Delayed (6-7 days)
+US-2014-121734,0.0,Same/Next Day
+CA-2015-110947,0.0,Same/Next Day
+CA-2016-121993,2.0,On Time (<=3 days)
+US-2017-163790,2.0,On Time (<=3 days)
+US-2017-163790,2.0,On Time (<=3 days)
+US-2017-163790,2.0,On Time (<=3 days)
+US-2017-163790,2.0,On Time (<=3 days)
+US-2017-163790,2.0,On Time (<=3 days)
+US-2017-163790,2.0,On Time (<=3 days)
+CA-2016-140564,5.0,Acceptable (4-5 days)
+CA-2016-144540,5.0,Acceptable (4-5 days)
+CA-2016-144540,5.0,Acceptable (4-5 days)
+CA-2015-159863,3.0,On Time (<=3 days)
+CA-2015-161214,3.0,On Time (<=3 days)
+CA-2017-168396,5.0,Acceptable (4-5 days)
+CA-2017-168396,5.0,Acceptable (4-5 days)
+CA-2017-116288,0.0,Same/Next Day
+CA-2016-102162,0.0,Same/Next Day
+CA-2016-102162,0.0,Same/Next Day
+CA-2015-147501,4.0,Acceptable (4-5 days)
+CA-2015-147501,4.0,Acceptable (4-5 days)
+CA-2016-143910,0.0,Same/Next Day
+CA-2017-150987,4.0,Acceptable (4-5 days)
+CA-2017-150987,4.0,Acceptable (4-5 days)
+CA-2014-160738,5.0,Acceptable (4-5 days)
+CA-2015-112130,4.0,Acceptable (4-5 days)
+CA-2015-112130,4.0,Acceptable (4-5 days)
+CA-2015-112130,4.0,Acceptable (4-5 days)
+CA-2015-112130,4.0,Acceptable (4-5 days)
+CA-2015-112130,4.0,Acceptable (4-5 days)
+CA-2015-112130,4.0,Acceptable (4-5 days)
+CA-2015-112130,4.0,Acceptable (4-5 days)
+CA-2016-116547,0.0,Same/Next Day
+CA-2016-116547,0.0,Same/Next Day
+US-2017-133200,5.0,Acceptable (4-5 days)
+US-2017-133200,5.0,Acceptable (4-5 days)
+US-2017-133200,5.0,Acceptable (4-5 days)
+CA-2016-127698,0.0,Same/Next Day
+CA-2017-140298,0.0,Same/Next Day
+CA-2017-140298,0.0,Same/Next Day
+CA-2017-140298,0.0,Same/Next Day
+CA-2017-140298,0.0,Same/Next Day
+US-2015-122910,0.0,Same/Next Day
+CA-2017-143126,4.0,Acceptable (4-5 days)
+CA-2015-109736,1.0,Same/Next Day
+CA-2014-106229,4.0,Acceptable (4-5 days)
+US-2017-135230,6.0,Delayed (6-7 days)
+CA-2014-123323,5.0,Acceptable (4-5 days)
+CA-2016-120530,5.0,Acceptable (4-5 days)
+CA-2017-164364,0.0,Same/Next Day
+CA-2017-164364,0.0,Same/Next Day
+CA-2017-164364,0.0,Same/Next Day
+CA-2017-168123,0.0,Same/Next Day
+CA-2017-168123,0.0,Same/Next Day
+CA-2017-168123,0.0,Same/Next Day
+CA-2017-168123,0.0,Same/Next Day
+CA-2016-120005,0.0,Same/Next Day
+CA-2016-120005,0.0,Same/Next Day
+CA-2016-127649,2.0,On Time (<=3 days)
+CA-2017-126354,5.0,Acceptable (4-5 days)
+CA-2017-126354,5.0,Acceptable (4-5 days)
+CA-2014-121573,4.0,Acceptable (4-5 days)
+CA-2014-121573,4.0,Acceptable (4-5 days)
+CA-2014-121573,4.0,Acceptable (4-5 days)
+CA-2015-123155,3.0,On Time (<=3 days)
+CA-2015-123155,3.0,On Time (<=3 days)
+CA-2017-158883,1.0,Same/Next Day
+CA-2017-132346,4.0,Acceptable (4-5 days)
+CA-2014-150301,2.0,On Time (<=3 days)
+CA-2014-159310,5.0,Acceptable (4-5 days)
+CA-2014-159310,5.0,Acceptable (4-5 days)
+CA-2014-159310,5.0,Acceptable (4-5 days)
+CA-2016-111696,2.0,On Time (<=3 days)
+CA-2017-117436,0.0,Same/Next Day
+CA-2015-140025,4.0,Acceptable (4-5 days)
+CA-2015-140025,4.0,Acceptable (4-5 days)
+CA-2016-134222,1.0,Same/Next Day
+US-2017-136707,0.0,Same/Next Day
+CA-2014-152562,7.0,Delayed (6-7 days)
+CA-2014-152562,7.0,Delayed (6-7 days)
+CA-2014-120278,5.0,Acceptable (4-5 days)
+CA-2014-120278,5.0,Acceptable (4-5 days)
+CA-2014-120278,5.0,Acceptable (4-5 days)
+CA-2014-120278,5.0,Acceptable (4-5 days)
+CA-2017-167661,5.0,Acceptable (4-5 days)
+CA-2017-167661,5.0,Acceptable (4-5 days)
+CA-2017-167661,5.0,Acceptable (4-5 days)
+CA-2017-106831,2.0,On Time (<=3 days)
+CA-2017-106831,2.0,On Time (<=3 days)
+CA-2017-106831,2.0,On Time (<=3 days)
+US-2016-139388,2.0,On Time (<=3 days)
+US-2014-128685,1.0,Same/Next Day
+CA-2014-138940,0.0,Same/Next Day
+CA-2014-132864,5.0,Acceptable (4-5 days)
+US-2014-155817,6.0,Delayed (6-7 days)
+US-2014-155817,6.0,Delayed (6-7 days)
+CA-2017-143567,3.0,On Time (<=3 days)
+CA-2017-143567,3.0,On Time (<=3 days)
+CA-2017-143567,3.0,On Time (<=3 days)
+CA-2017-143567,3.0,On Time (<=3 days)
+CA-2017-104080,0.0,Same/Next Day
+CA-2017-104080,0.0,Same/Next Day
+CA-2017-110884,5.0,Acceptable (4-5 days)
+CA-2017-110884,5.0,Acceptable (4-5 days)
+US-2014-161613,2.0,On Time (<=3 days)
+CA-2017-163125,2.0,On Time (<=3 days)
+CA-2017-163125,2.0,On Time (<=3 days)
+CA-2016-160304,5.0,Acceptable (4-5 days)
+CA-2016-160304,5.0,Acceptable (4-5 days)
+CA-2017-126438,0.0,Same/Next Day
+CA-2017-143245,5.0,Acceptable (4-5 days)
+CA-2017-143245,5.0,Acceptable (4-5 days)
+US-2014-138828,1.0,Same/Next Day
+US-2014-138828,1.0,Same/Next Day
+CA-2017-150931,0.0,Same/Next Day
+CA-2015-156482,0.0,Same/Next Day
+CA-2015-156482,0.0,Same/Next Day
+CA-2015-156482,0.0,Same/Next Day
+CA-2016-151372,1.0,Same/Next Day
+CA-2016-151372,1.0,Same/Next Day
+CA-2016-151372,1.0,Same/Next Day
+CA-2014-102085,5.0,Acceptable (4-5 days)
+CA-2015-144190,0.0,Same/Next Day
+CA-2017-117926,4.0,Acceptable (4-5 days)
+CA-2014-160262,0.0,Same/Next Day
+CA-2014-160262,0.0,Same/Next Day
+CA-2014-160262,0.0,Same/Next Day
+CA-2014-156587,1.0,Same/Next Day
+CA-2014-156587,1.0,Same/Next Day
+CA-2014-156587,1.0,Same/Next Day
+CA-2015-122406,3.0,On Time (<=3 days)
+CA-2015-122406,3.0,On Time (<=3 days)
+CA-2015-122406,3.0,On Time (<=3 days)
+CA-2015-122406,3.0,On Time (<=3 days)
+US-2016-153815,3.0,On Time (<=3 days)
+US-2016-153815,3.0,On Time (<=3 days)
+US-2016-153815,3.0,On Time (<=3 days)
+US-2016-153815,3.0,On Time (<=3 days)
+CA-2016-164896,5.0,Acceptable (4-5 days)
+CA-2015-165050,2.0,On Time (<=3 days)
+CA-2015-165050,2.0,On Time (<=3 days)
+CA-2015-165050,2.0,On Time (<=3 days)
+CA-2016-109925,4.0,Acceptable (4-5 days)
+CA-2015-160696,4.0,Acceptable (4-5 days)
+CA-2014-125171,0.0,Same/Next Day
+CA-2014-132227,6.0,Delayed (6-7 days)
+CA-2017-155824,0.0,Same/Next Day
+CA-2017-155824,0.0,Same/Next Day
+CA-2017-159688,5.0,Acceptable (4-5 days)
+CA-2016-155033,5.0,Acceptable (4-5 days)
+US-2017-139647,0.0,Same/Next Day
+CA-2014-151792,5.0,Acceptable (4-5 days)
+CA-2015-103954,0.0,Same/Next Day
+CA-2014-169803,6.0,Delayed (6-7 days)
+CA-2014-169803,6.0,Delayed (6-7 days)
+CA-2015-136469,1.0,Same/Next Day
+CA-2015-136469,1.0,Same/Next Day
+CA-2015-136469,1.0,Same/Next Day
+CA-2015-134922,4.0,Acceptable (4-5 days)
+CA-2015-141243,5.0,Acceptable (4-5 days)
+CA-2015-141243,5.0,Acceptable (4-5 days)
+CA-2015-141243,5.0,Acceptable (4-5 days)
+CA-2015-162166,3.0,On Time (<=3 days)
+CA-2015-162166,3.0,On Time (<=3 days)
+CA-2016-120796,4.0,Acceptable (4-5 days)
+CA-2016-109722,2.0,On Time (<=3 days)
+CA-2016-109722,2.0,On Time (<=3 days)
+CA-2015-136798,4.0,Acceptable (4-5 days)
+CA-2015-136798,4.0,Acceptable (4-5 days)
+CA-2015-136798,4.0,Acceptable (4-5 days)
+CA-2014-124478,4.0,Acceptable (4-5 days)
+CA-2014-124478,4.0,Acceptable (4-5 days)
+CA-2014-124478,4.0,Acceptable (4-5 days)
+CA-2014-124478,4.0,Acceptable (4-5 days)
+CA-2014-124478,4.0,Acceptable (4-5 days)
+CA-2015-145485,0.0,Same/Next Day
+CA-2016-155138,4.0,Acceptable (4-5 days)
+CA-2016-155138,4.0,Acceptable (4-5 days)
+CA-2016-108350,3.0,On Time (<=3 days)
+CA-2015-109001,4.0,Acceptable (4-5 days)
+CA-2015-109001,4.0,Acceptable (4-5 days)
+CA-2015-109001,4.0,Acceptable (4-5 days)
+CA-2017-132738,3.0,On Time (<=3 days)
+CA-2017-132738,3.0,On Time (<=3 days)
+US-2014-140452,4.0,Acceptable (4-5 days)
+US-2014-140452,4.0,Acceptable (4-5 days)
+US-2014-140452,4.0,Acceptable (4-5 days)
+US-2014-140452,4.0,Acceptable (4-5 days)
+US-2014-140452,4.0,Acceptable (4-5 days)
+US-2014-140452,4.0,Acceptable (4-5 days)
+CA-2015-141936,5.0,Acceptable (4-5 days)
+CA-2014-149538,4.0,Acceptable (4-5 days)
+CA-2014-149538,4.0,Acceptable (4-5 days)
+CA-2014-149538,4.0,Acceptable (4-5 days)
+CA-2014-149538,4.0,Acceptable (4-5 days)
+CA-2015-154886,4.0,Acceptable (4-5 days)
+CA-2016-111213,4.0,Acceptable (4-5 days)
+CA-2016-111213,4.0,Acceptable (4-5 days)
+CA-2016-111213,4.0,Acceptable (4-5 days)
+CA-2017-161333,5.0,Acceptable (4-5 days)
+CA-2017-161333,5.0,Acceptable (4-5 days)
+CA-2017-161333,5.0,Acceptable (4-5 days)
+CA-2017-125101,4.0,Acceptable (4-5 days)
+US-2015-124219,1.0,Same/Next Day
+US-2015-124219,1.0,Same/Next Day
+CA-2015-161627,5.0,Acceptable (4-5 days)
+CA-2015-107741,2.0,On Time (<=3 days)
+CA-2016-148908,3.0,On Time (<=3 days)
+CA-2017-108749,0.0,Same/Next Day
+CA-2017-108749,0.0,Same/Next Day
+US-2017-141943,4.0,Acceptable (4-5 days)
+CA-2014-159709,0.0,Same/Next Day
+CA-2014-159709,0.0,Same/Next Day
+CA-2016-103982,5.0,Acceptable (4-5 days)
+CA-2016-103982,5.0,Acceptable (4-5 days)
+CA-2016-103982,5.0,Acceptable (4-5 days)
+CA-2016-103982,5.0,Acceptable (4-5 days)
+CA-2015-102015,0.0,Same/Next Day
+CA-2015-102015,0.0,Same/Next Day
+CA-2015-102015,0.0,Same/Next Day
+CA-2015-102015,0.0,Same/Next Day
+CA-2015-102015,0.0,Same/Next Day
+CA-2015-102015,0.0,Same/Next Day
+CA-2015-156755,0.0,Same/Next Day
+CA-2015-130876,0.0,Same/Next Day
+CA-2017-167080,0.0,Same/Next Day
+CA-2017-145653,0.0,Same/Next Day
+US-2017-109582,0.0,Same/Next Day
+CA-2016-116561,0.0,Same/Next Day
+CA-2016-116561,0.0,Same/Next Day
+CA-2017-146367,4.0,Acceptable (4-5 days)
+CA-2016-156265,2.0,On Time (<=3 days)
+CA-2016-156265,2.0,On Time (<=3 days)
+CA-2016-156265,2.0,On Time (<=3 days)
+US-2017-110989,2.0,On Time (<=3 days)
+US-2014-131982,4.0,Acceptable (4-5 days)
+CA-2015-125185,2.0,On Time (<=3 days)
+CA-2015-125185,2.0,On Time (<=3 days)
+US-2017-114034,5.0,Acceptable (4-5 days)
+US-2017-115595,2.0,On Time (<=3 days)
+CA-2014-105165,3.0,On Time (<=3 days)
+CA-2014-105165,3.0,On Time (<=3 days)
+CA-2014-105165,3.0,On Time (<=3 days)
+CA-2014-105165,3.0,On Time (<=3 days)
+CA-2014-105165,3.0,On Time (<=3 days)
+CA-2017-144484,0.0,Same/Next Day
+CA-2017-144484,0.0,Same/Next Day
+CA-2015-162887,2.0,On Time (<=3 days)
+US-2017-104094,4.0,Acceptable (4-5 days)
+CA-2017-152709,5.0,Acceptable (4-5 days)
+CA-2015-105158,5.0,Acceptable (4-5 days)
+CA-2015-105158,5.0,Acceptable (4-5 days)
+CA-2017-105991,1.0,Same/Next Day
+CA-2017-105991,1.0,Same/Next Day
+CA-2017-105991,1.0,Same/Next Day
+CA-2017-142174,5.0,Acceptable (4-5 days)
+CA-2016-154060,6.0,Delayed (6-7 days)
+US-2017-162558,3.0,On Time (<=3 days)
+US-2017-162558,3.0,On Time (<=3 days)
+US-2017-162558,3.0,On Time (<=3 days)
+US-2017-162558,3.0,On Time (<=3 days)
+US-2017-162558,3.0,On Time (<=3 days)
+US-2017-162558,3.0,On Time (<=3 days)
+US-2017-162558,3.0,On Time (<=3 days)
+CA-2015-119508,5.0,Acceptable (4-5 days)
+CA-2015-119508,5.0,Acceptable (4-5 days)
+CA-2014-130813,2.0,On Time (<=3 days)
+CA-2015-120320,4.0,Acceptable (4-5 days)
+CA-2016-123120,4.0,Acceptable (4-5 days)
+CA-2016-123120,4.0,Acceptable (4-5 days)
+CA-2016-123120,4.0,Acceptable (4-5 days)
+CA-2015-112053,0.0,Same/Next Day
+CA-2015-149811,6.0,Delayed (6-7 days)
+CA-2015-149811,6.0,Delayed (6-7 days)
+CA-2016-123932,6.0,Delayed (6-7 days)
+CA-2016-123932,6.0,Delayed (6-7 days)
+US-2016-101616,3.0,On Time (<=3 days)
+CA-2014-150490,6.0,Delayed (6-7 days)
+CA-2014-150490,6.0,Delayed (6-7 days)
+CA-2014-150490,6.0,Delayed (6-7 days)
+CA-2017-100951,1.0,Same/Next Day
+CA-2017-158071,0.0,Same/Next Day
+CA-2017-158071,0.0,Same/Next Day
+CA-2017-158071,0.0,Same/Next Day
+CA-2017-147403,0.0,Same/Next Day
+US-2017-136721,4.0,Acceptable (4-5 days)
+US-2017-136721,4.0,Acceptable (4-5 days)
+CA-2014-125542,2.0,On Time (<=3 days)
+CA-2014-125542,2.0,On Time (<=3 days)
+CA-2016-149195,2.0,On Time (<=3 days)
+CA-2016-149195,2.0,On Time (<=3 days)
+CA-2016-149195,2.0,On Time (<=3 days)
+CA-2017-152786,0.0,Same/Next Day
+CA-2017-163874,2.0,On Time (<=3 days)
+CA-2016-117681,0.0,Same/Next Day
+CA-2016-153157,0.0,Same/Next Day
+CA-2014-132542,2.0,On Time (<=3 days)
+CA-2017-103009,2.0,On Time (<=3 days)
+CA-2016-153598,3.0,On Time (<=3 days)
+CA-2016-153598,3.0,On Time (<=3 days)
+CA-2016-113096,2.0,On Time (<=3 days)
+CA-2014-136861,2.0,On Time (<=3 days)
+CA-2014-103317,3.0,On Time (<=3 days)
+CA-2014-103317,3.0,On Time (<=3 days)
+CA-2014-103317,3.0,On Time (<=3 days)
+CA-2016-167115,5.0,Acceptable (4-5 days)
+US-2014-119081,0.0,Same/Next Day
+US-2014-119081,0.0,Same/Next Day
+US-2014-119081,0.0,Same/Next Day
+US-2014-119081,0.0,Same/Next Day
+CA-2017-116680,2.0,On Time (<=3 days)
+CA-2017-116680,2.0,On Time (<=3 days)
+CA-2016-122448,0.0,Same/Next Day
+CA-2017-134495,3.0,On Time (<=3 days)
+CA-2017-134495,3.0,On Time (<=3 days)
+CA-2017-134495,3.0,On Time (<=3 days)
+CA-2017-134495,3.0,On Time (<=3 days)
+CA-2015-113523,4.0,Acceptable (4-5 days)
+CA-2017-117821,0.0,Same/Next Day
+CA-2017-127782,4.0,Acceptable (4-5 days)
+CA-2017-127782,4.0,Acceptable (4-5 days)
+CA-2017-127782,4.0,Acceptable (4-5 days)
+CA-2017-127782,4.0,Acceptable (4-5 days)
+US-2016-162026,0.0,Same/Next Day
+CA-2016-150000,0.0,Same/Next Day
+CA-2015-168529,4.0,Acceptable (4-5 days)
+CA-2017-117667,5.0,Acceptable (4-5 days)
+CA-2017-117667,5.0,Acceptable (4-5 days)
+CA-2017-117667,5.0,Acceptable (4-5 days)
+CA-2017-117667,5.0,Acceptable (4-5 days)
+CA-2017-117667,5.0,Acceptable (4-5 days)
+CA-2016-110982,2.0,On Time (<=3 days)
+CA-2016-110982,2.0,On Time (<=3 days)
+CA-2016-147123,2.0,On Time (<=3 days)
+CA-2015-142055,2.0,On Time (<=3 days)
+CA-2017-136609,5.0,Acceptable (4-5 days)
+CA-2017-160885,4.0,Acceptable (4-5 days)
+US-2016-167472,1.0,Same/Next Day
+US-2016-167472,1.0,Same/Next Day
+US-2016-167472,1.0,Same/Next Day
+US-2016-167472,1.0,Same/Next Day
+US-2016-167472,1.0,Same/Next Day
+US-2016-167472,1.0,Same/Next Day
+US-2016-167472,1.0,Same/Next Day
+CA-2017-151008,1.0,Same/Next Day
+CA-2017-151008,1.0,Same/Next Day
+US-2014-159618,0.0,Same/Next Day
+US-2014-159618,0.0,Same/Next Day
+US-2014-159618,0.0,Same/Next Day
+US-2014-159618,0.0,Same/Next Day
+US-2014-159618,0.0,Same/Next Day
+CA-2017-116113,4.0,Acceptable (4-5 days)
+US-2015-114741,4.0,Acceptable (4-5 days)
+US-2015-114741,4.0,Acceptable (4-5 days)
+US-2015-114741,4.0,Acceptable (4-5 days)
+CA-2014-151162,4.0,Acceptable (4-5 days)
+CA-2014-151162,4.0,Acceptable (4-5 days)
+CA-2014-151162,4.0,Acceptable (4-5 days)
+CA-2014-151162,4.0,Acceptable (4-5 days)
+CA-2014-151162,4.0,Acceptable (4-5 days)
+CA-2017-163818,4.0,Acceptable (4-5 days)
+CA-2016-161158,0.0,Same/Next Day
+CA-2016-115224,3.0,On Time (<=3 days)
+CA-2016-115224,3.0,On Time (<=3 days)
+CA-2014-108903,0.0,Same/Next Day
+CA-2014-108903,0.0,Same/Next Day
+CA-2014-108903,0.0,Same/Next Day
+CA-2015-142475,4.0,Acceptable (4-5 days)
+CA-2015-168634,5.0,Acceptable (4-5 days)
+CA-2015-145828,2.0,On Time (<=3 days)
+CA-2016-147431,5.0,Acceptable (4-5 days)
+CA-2014-127614,0.0,Same/Next Day
+CA-2014-127614,0.0,Same/Next Day
+CA-2014-127614,0.0,Same/Next Day
+CA-2015-134943,1.0,Same/Next Day
+CA-2017-123022,5.0,Acceptable (4-5 days)
+CA-2017-123022,5.0,Acceptable (4-5 days)
+CA-2017-106355,3.0,On Time (<=3 days)
+CA-2016-127985,4.0,Acceptable (4-5 days)
+CA-2015-104241,5.0,Acceptable (4-5 days)
+CA-2017-168179,5.0,Acceptable (4-5 days)
+CA-2017-109099,5.0,Acceptable (4-5 days)
+US-2014-134187,7.0,Delayed (6-7 days)
+CA-2016-142405,0.0,Same/Next Day
+CA-2016-142405,0.0,Same/Next Day
+CA-2016-142405,0.0,Same/Next Day
+CA-2015-141012,2.0,On Time (<=3 days)
+CA-2015-141012,2.0,On Time (<=3 days)
+CA-2014-164315,6.0,Delayed (6-7 days)
+CA-2014-164315,6.0,Delayed (6-7 days)
+CA-2014-164315,6.0,Delayed (6-7 days)
+CA-2015-131072,0.0,Same/Next Day
+CA-2016-126165,2.0,On Time (<=3 days)
+CA-2016-143441,0.0,Same/Next Day
+CA-2017-148320,5.0,Acceptable (4-5 days)
+CA-2014-155593,5.0,Acceptable (4-5 days)
+US-2015-160857,0.0,Same/Next Day
+US-2015-160857,0.0,Same/Next Day
+US-2015-160857,0.0,Same/Next Day
+US-2015-160857,0.0,Same/Next Day
+US-2015-160857,0.0,Same/Next Day
+US-2014-143707,4.0,Acceptable (4-5 days)
+CA-2015-124107,3.0,On Time (<=3 days)
+CA-2015-124107,3.0,On Time (<=3 days)
+CA-2015-124107,3.0,On Time (<=3 days)
+CA-2015-124107,3.0,On Time (<=3 days)
+CA-2015-110548,4.0,Acceptable (4-5 days)
+CA-2016-113733,4.0,Acceptable (4-5 days)
+CA-2016-113733,4.0,Acceptable (4-5 days)
+CA-2016-113733,4.0,Acceptable (4-5 days)
+CA-2016-118514,7.0,Delayed (6-7 days)
+CA-2015-119634,0.0,Same/Next Day
+CA-2017-158169,0.0,Same/Next Day
+CA-2017-158169,0.0,Same/Next Day
+CA-2015-162047,2.0,On Time (<=3 days)
+CA-2015-117772,2.0,On Time (<=3 days)
+CA-2017-126396,4.0,Acceptable (4-5 days)
+CA-2016-142398,0.0,Same/Next Day
+CA-2016-142398,0.0,Same/Next Day
+CA-2016-105277,4.0,Acceptable (4-5 days)
+CA-2016-112060,5.0,Acceptable (4-5 days)
+US-2015-159513,7.0,Delayed (6-7 days)
+CA-2017-141117,6.0,Delayed (6-7 days)
+CA-2017-141117,6.0,Delayed (6-7 days)
+CA-2017-141117,6.0,Delayed (6-7 days)
+CA-2017-141117,6.0,Delayed (6-7 days)
+CA-2017-115070,0.0,Same/Next Day
+CA-2017-115070,0.0,Same/Next Day
+CA-2014-123225,0.0,Same/Next Day
+CA-2014-123225,0.0,Same/Next Day
+US-2017-106796,0.0,Same/Next Day
+CA-2016-149783,3.0,On Time (<=3 days)
+CA-2016-149783,3.0,On Time (<=3 days)
+CA-2016-149783,3.0,On Time (<=3 days)
+CA-2016-125017,5.0,Acceptable (4-5 days)
+CA-2015-150196,1.0,Same/Next Day
+CA-2017-117632,0.0,Same/Next Day
+CA-2017-117632,0.0,Same/Next Day
+CA-2017-117632,0.0,Same/Next Day
+CA-2017-117632,0.0,Same/Next Day
+CA-2014-115056,0.0,Same/Next Day
+CA-2017-161067,3.0,On Time (<=3 days)
+CA-2017-161067,3.0,On Time (<=3 days)
+CA-2017-161067,3.0,On Time (<=3 days)
+CA-2017-161067,3.0,On Time (<=3 days)
+CA-2016-122063,4.0,Acceptable (4-5 days)
+CA-2016-122063,4.0,Acceptable (4-5 days)
+CA-2015-101868,0.0,Same/Next Day
+CA-2015-101868,0.0,Same/Next Day
+CA-2015-101868,0.0,Same/Next Day
+US-2014-138835,0.0,Same/Next Day
+CA-2015-112214,6.0,Delayed (6-7 days)
+CA-2015-112214,6.0,Delayed (6-7 days)
+CA-2015-112214,6.0,Delayed (6-7 days)
+CA-2015-112214,6.0,Delayed (6-7 days)
+US-2017-153255,4.0,Acceptable (4-5 days)
+CA-2015-108119,7.0,Delayed (6-7 days)
+CA-2016-101525,3.0,On Time (<=3 days)
+CA-2016-101525,3.0,On Time (<=3 days)
+CA-2016-101525,3.0,On Time (<=3 days)
+US-2014-117968,2.0,On Time (<=3 days)
+US-2014-117968,2.0,On Time (<=3 days)
+US-2014-117968,2.0,On Time (<=3 days)
+CA-2016-158211,4.0,Acceptable (4-5 days)
+CA-2016-158211,4.0,Acceptable (4-5 days)
+CA-2016-152247,5.0,Acceptable (4-5 days)
+CA-2017-133095,0.0,Same/Next Day
+CA-2017-133095,0.0,Same/Next Day
+CA-2015-130554,2.0,On Time (<=3 days)
+CA-2016-133319,6.0,Delayed (6-7 days)
+CA-2017-151596,3.0,On Time (<=3 days)
+CA-2015-147879,5.0,Acceptable (4-5 days)
+CA-2017-159954,0.0,Same/Next Day
+CA-2014-168305,7.0,Delayed (6-7 days)
+CA-2014-168305,7.0,Delayed (6-7 days)
+CA-2016-167682,6.0,Delayed (6-7 days)
+CA-2016-167682,6.0,Delayed (6-7 days)
+CA-2017-108000,0.0,Same/Next Day
+US-2017-153948,0.0,Same/Next Day
+US-2017-153948,0.0,Same/Next Day
+US-2017-153948,0.0,Same/Next Day
+US-2017-153948,0.0,Same/Next Day
+US-2017-153948,0.0,Same/Next Day
+US-2016-113985,5.0,Acceptable (4-5 days)
+US-2016-113985,5.0,Acceptable (4-5 days)
+US-2016-113985,5.0,Acceptable (4-5 days)
+US-2016-113985,5.0,Acceptable (4-5 days)
+CA-2017-150420,5.0,Acceptable (4-5 days)
+US-2014-118997,4.0,Acceptable (4-5 days)
+CA-2014-114314,0.0,Same/Next Day
+CA-2014-114314,0.0,Same/Next Day
+US-2017-169551,2.0,On Time (<=3 days)
+US-2017-169551,2.0,On Time (<=3 days)
+US-2017-169551,2.0,On Time (<=3 days)
+US-2017-169551,2.0,On Time (<=3 days)
+US-2017-169551,2.0,On Time (<=3 days)
+US-2017-169551,2.0,On Time (<=3 days)
+CA-2016-103107,0.0,Same/Next Day
+CA-2016-103107,0.0,Same/Next Day
+CA-2016-103107,0.0,Same/Next Day
+CA-2017-112431,0.0,Same/Next Day
+CA-2017-112431,0.0,Same/Next Day
+CA-2017-161046,0.0,Same/Next Day
+CA-2017-161046,0.0,Same/Next Day
+CA-2017-161046,0.0,Same/Next Day
+CA-2017-161046,0.0,Same/Next Day
+CA-2016-127138,0.0,Same/Next Day
+CA-2016-127138,0.0,Same/Next Day
+CA-2016-127138,0.0,Same/Next Day
+CA-2016-127138,0.0,Same/Next Day
+CA-2017-150602,0.0,Same/Next Day
+CA-2017-115105,5.0,Acceptable (4-5 days)
+CA-2016-162187,0.0,Same/Next Day
+CA-2016-162187,0.0,Same/Next Day
+CA-2016-162187,0.0,Same/Next Day
+CA-2016-162187,0.0,Same/Next Day
+CA-2016-162187,0.0,Same/Next Day
+CA-2017-107244,4.0,Acceptable (4-5 days)
+CA-2015-100657,5.0,Acceptable (4-5 days)
+CA-2017-129028,2.0,On Time (<=3 days)
+CA-2016-159016,1.0,Same/Next Day
+CA-2016-159016,1.0,Same/Next Day
+CA-2014-102652,6.0,Delayed (6-7 days)
+CA-2014-102652,6.0,Delayed (6-7 days)
+CA-2014-102652,6.0,Delayed (6-7 days)
+CA-2014-102652,6.0,Delayed (6-7 days)
+CA-2014-152422,5.0,Acceptable (4-5 days)
+US-2017-152492,0.0,Same/Next Day
+CA-2016-131205,4.0,Acceptable (4-5 days)
+CA-2016-131205,4.0,Acceptable (4-5 days)
+CA-2016-131205,4.0,Acceptable (4-5 days)
+CA-2016-131205,4.0,Acceptable (4-5 days)
+CA-2016-117912,4.0,Acceptable (4-5 days)
+CA-2015-113215,5.0,Acceptable (4-5 days)
+CA-2016-154662,0.0,Same/Next Day
+CA-2015-105571,4.0,Acceptable (4-5 days)
+CA-2015-105571,4.0,Acceptable (4-5 days)
+CA-2014-107524,6.0,Delayed (6-7 days)
+CA-2014-107524,6.0,Delayed (6-7 days)
+CA-2015-134201,0.0,Same/Next Day
+CA-2015-134201,0.0,Same/Next Day
+CA-2015-119942,2.0,On Time (<=3 days)
+CA-2016-151561,6.0,Delayed (6-7 days)
+CA-2016-151561,6.0,Delayed (6-7 days)
+CA-2016-151561,6.0,Delayed (6-7 days)
+CA-2016-151561,6.0,Delayed (6-7 days)
+CA-2017-154676,3.0,On Time (<=3 days)
+CA-2016-150007,0.0,Same/Next Day
+CA-2016-150007,0.0,Same/Next Day
+CA-2016-124590,0.0,Same/Next Day
+CA-2016-124590,0.0,Same/Next Day
+CA-2016-124590,0.0,Same/Next Day
+CA-2016-124590,0.0,Same/Next Day
+CA-2016-124590,0.0,Same/Next Day
+CA-2017-152660,5.0,Acceptable (4-5 days)
+CA-2017-145772,4.0,Acceptable (4-5 days)
+CA-2017-145772,4.0,Acceptable (4-5 days)
+CA-2017-145772,4.0,Acceptable (4-5 days)
+CA-2016-146766,0.0,Same/Next Day
+CA-2017-121083,0.0,Same/Next Day
+CA-2017-121083,0.0,Same/Next Day
+CA-2017-121083,0.0,Same/Next Day
+CA-2017-121083,0.0,Same/Next Day
+US-2016-106600,3.0,On Time (<=3 days)
+CA-2017-139437,5.0,Acceptable (4-5 days)
+CA-2016-104150,2.0,On Time (<=3 days)
+CA-2016-104150,2.0,On Time (<=3 days)
+CA-2016-161025,6.0,Delayed (6-7 days)
+US-2014-106299,6.0,Delayed (6-7 days)
+US-2014-106299,6.0,Delayed (6-7 days)
+US-2014-106299,6.0,Delayed (6-7 days)
+CA-2015-138331,5.0,Acceptable (4-5 days)
+CA-2017-157903,4.0,Acceptable (4-5 days)
+CA-2017-145660,2.0,On Time (<=3 days)
+CA-2017-149944,0.0,Same/Next Day
+CA-2017-149944,0.0,Same/Next Day
+CA-2014-128538,0.0,Same/Next Day
+CA-2015-133445,4.0,Acceptable (4-5 days)
+CA-2015-133445,4.0,Acceptable (4-5 days)
+CA-2014-148782,5.0,Acceptable (4-5 days)
+CA-2017-127656,0.0,Same/Next Day
+US-2017-142188,0.0,Same/Next Day
+US-2017-142188,0.0,Same/Next Day
+US-2017-142188,0.0,Same/Next Day
+US-2017-142188,0.0,Same/Next Day
+US-2017-142188,0.0,Same/Next Day
+CA-2014-101147,2.0,On Time (<=3 days)
+CA-2014-165806,0.0,Same/Next Day
+CA-2014-165806,0.0,Same/Next Day
+CA-2015-133977,2.0,On Time (<=3 days)
+CA-2017-141425,4.0,Acceptable (4-5 days)
+CA-2015-162607,0.0,Same/Next Day
+CA-2017-160724,5.0,Acceptable (4-5 days)
+US-2016-115952,0.0,Same/Next Day
+CA-2014-146731,5.0,Acceptable (4-5 days)
+CA-2014-146731,5.0,Acceptable (4-5 days)
+CA-2015-115392,3.0,On Time (<=3 days)
+CA-2015-115392,3.0,On Time (<=3 days)
+CA-2017-102379,4.0,Acceptable (4-5 days)
+CA-2017-102379,4.0,Acceptable (4-5 days)
+CA-2017-102379,4.0,Acceptable (4-5 days)
+CA-2017-149706,1.0,Same/Next Day
+CA-2017-152226,0.0,Same/Next Day
+CA-2014-100090,4.0,Acceptable (4-5 days)
+CA-2014-100090,4.0,Acceptable (4-5 days)
+CA-2017-143756,3.0,On Time (<=3 days)
+US-2014-161305,6.0,Delayed (6-7 days)
+US-2014-161305,6.0,Delayed (6-7 days)
+CA-2017-107552,0.0,Same/Next Day
+CA-2016-163328,2.0,On Time (<=3 days)
+CA-2016-163328,2.0,On Time (<=3 days)
+CA-2016-163328,2.0,On Time (<=3 days)
+CA-2016-163328,2.0,On Time (<=3 days)
+CA-2016-163328,2.0,On Time (<=3 days)
+CA-2016-163328,2.0,On Time (<=3 days)
+CA-2014-112837,0.0,Same/Next Day
+CA-2014-141299,4.0,Acceptable (4-5 days)
+CA-2014-133305,0.0,Same/Next Day
+CA-2014-133305,0.0,Same/Next Day
+CA-2017-143112,4.0,Acceptable (4-5 days)
+CA-2017-143112,4.0,Acceptable (4-5 days)
+CA-2017-143112,4.0,Acceptable (4-5 days)
+CA-2015-146255,3.0,On Time (<=3 days)
+CA-2015-146255,3.0,On Time (<=3 days)
+CA-2015-146255,3.0,On Time (<=3 days)
+CA-2015-146255,3.0,On Time (<=3 days)
+CA-2015-104486,5.0,Acceptable (4-5 days)
+CA-2015-104486,5.0,Acceptable (4-5 days)
+CA-2015-104486,5.0,Acceptable (4-5 days)
+CA-2017-161557,5.0,Acceptable (4-5 days)
+CA-2017-161130,5.0,Acceptable (4-5 days)
+US-2015-109015,6.0,Delayed (6-7 days)
+US-2015-109015,6.0,Delayed (6-7 days)
+CA-2017-144848,1.0,Same/Next Day
+CA-2017-144848,1.0,Same/Next Day
+CA-2017-144848,1.0,Same/Next Day
+CA-2016-103919,4.0,Acceptable (4-5 days)
+CA-2017-143035,2.0,On Time (<=3 days)
+CA-2017-143035,2.0,On Time (<=3 days)
+CA-2017-143035,2.0,On Time (<=3 days)
+CA-2016-163216,3.0,On Time (<=3 days)
+CA-2017-150623,0.0,Same/Next Day
+CA-2017-150623,0.0,Same/Next Day
+US-2014-163797,0.0,Same/Next Day
+CA-2015-147529,4.0,Acceptable (4-5 days)
+CA-2015-147529,4.0,Acceptable (4-5 days)
+CA-2017-151981,6.0,Delayed (6-7 days)
+CA-2017-151981,6.0,Delayed (6-7 days)
+CA-2017-151981,6.0,Delayed (6-7 days)
+CA-2016-111976,4.0,Acceptable (4-5 days)
+CA-2016-111976,4.0,Acceptable (4-5 days)
+CA-2014-165764,4.0,Acceptable (4-5 days)
+CA-2014-165764,4.0,Acceptable (4-5 days)
+CA-2014-165764,4.0,Acceptable (4-5 days)
+CA-2014-165764,4.0,Acceptable (4-5 days)
+CA-2014-166891,2.0,On Time (<=3 days)
+CA-2015-151785,5.0,Acceptable (4-5 days)
+US-2017-119816,2.0,On Time (<=3 days)
+US-2017-119816,2.0,On Time (<=3 days)
+US-2017-119816,2.0,On Time (<=3 days)
+CA-2014-110065,6.0,Delayed (6-7 days)
+CA-2014-110065,6.0,Delayed (6-7 days)
+CA-2016-163804,6.0,Delayed (6-7 days)
+CA-2016-163804,6.0,Delayed (6-7 days)
+CA-2016-163804,6.0,Delayed (6-7 days)
+CA-2014-151897,4.0,Acceptable (4-5 days)
+CA-2017-140872,7.0,Delayed (6-7 days)
+CA-2017-140872,7.0,Delayed (6-7 days)
+CA-2017-140872,7.0,Delayed (6-7 days)
+CA-2017-140872,7.0,Delayed (6-7 days)
+CA-2017-140872,7.0,Delayed (6-7 days)
+CA-2017-140872,7.0,Delayed (6-7 days)
+CA-2017-140872,7.0,Delayed (6-7 days)
+CA-2017-140872,7.0,Delayed (6-7 days)
+CA-2017-113908,6.0,Delayed (6-7 days)
+CA-2017-113908,6.0,Delayed (6-7 days)
+CA-2017-113908,6.0,Delayed (6-7 days)
+CA-2014-129147,4.0,Acceptable (4-5 days)
+CA-2014-129147,4.0,Acceptable (4-5 days)
+CA-2014-129147,4.0,Acceptable (4-5 days)
+US-2016-128909,2.0,On Time (<=3 days)
+US-2016-128909,2.0,On Time (<=3 days)
+CA-2017-167640,4.0,Acceptable (4-5 days)
+CA-2017-167640,4.0,Acceptable (4-5 days)
+CA-2017-167640,4.0,Acceptable (4-5 days)
+CA-2017-167640,4.0,Acceptable (4-5 days)
+US-2017-107384,4.0,Acceptable (4-5 days)
+US-2017-107384,4.0,Acceptable (4-5 days)
+US-2017-107384,4.0,Acceptable (4-5 days)
+CA-2014-113880,4.0,Acceptable (4-5 days)
+CA-2014-113880,4.0,Acceptable (4-5 days)
+CA-2015-126739,2.0,On Time (<=3 days)
+CA-2015-166947,5.0,Acceptable (4-5 days)
+CA-2014-166086,5.0,Acceptable (4-5 days)
+CA-2014-166086,5.0,Acceptable (4-5 days)
+CA-2014-166086,5.0,Acceptable (4-5 days)
+CA-2014-166086,5.0,Acceptable (4-5 days)
+CA-2017-131282,3.0,On Time (<=3 days)
+CA-2017-131282,3.0,On Time (<=3 days)
+CA-2016-161543,0.0,Same/Next Day
+CA-2017-123085,5.0,Acceptable (4-5 days)
+CA-2017-123085,5.0,Acceptable (4-5 days)
+CA-2015-153752,5.0,Acceptable (4-5 days)
+CA-2016-148516,4.0,Acceptable (4-5 days)
+CA-2015-146290,7.0,Delayed (6-7 days)
+CA-2014-169257,6.0,Delayed (6-7 days)
+CA-2014-169257,6.0,Delayed (6-7 days)
+CA-2014-154095,5.0,Acceptable (4-5 days)
+CA-2014-154095,5.0,Acceptable (4-5 days)
+CA-2014-154095,5.0,Acceptable (4-5 days)
+CA-2014-154095,5.0,Acceptable (4-5 days)
+US-2015-118906,0.0,Same/Next Day
+CA-2014-130449,3.0,On Time (<=3 days)
+CA-2014-130449,3.0,On Time (<=3 days)
+CA-2015-125696,4.0,Acceptable (4-5 days)
+US-2016-146857,2.0,On Time (<=3 days)
+CA-2017-144498,0.0,Same/Next Day
+CA-2017-144498,0.0,Same/Next Day
+CA-2017-144498,0.0,Same/Next Day
+CA-2017-128328,4.0,Acceptable (4-5 days)
+CA-2017-128328,4.0,Acceptable (4-5 days)
+CA-2017-128328,4.0,Acceptable (4-5 days)
+US-2015-156496,0.0,Same/Next Day
+US-2015-156496,0.0,Same/Next Day
+US-2015-156496,0.0,Same/Next Day
+US-2017-124779,3.0,On Time (<=3 days)
+US-2017-124779,3.0,On Time (<=3 days)
+US-2017-124779,3.0,On Time (<=3 days)
+US-2017-124779,3.0,On Time (<=3 days)
+US-2017-124779,3.0,On Time (<=3 days)
+US-2017-124779,3.0,On Time (<=3 days)
+CA-2015-129322,2.0,On Time (<=3 days)
+CA-2015-129322,2.0,On Time (<=3 days)
+CA-2015-129322,2.0,On Time (<=3 days)
+CA-2017-122175,0.0,Same/Next Day
+CA-2017-122175,0.0,Same/Next Day
+CA-2017-122175,0.0,Same/Next Day
+CA-2017-122175,0.0,Same/Next Day
+CA-2015-153794,0.0,Same/Next Day
+CA-2015-135510,7.0,Delayed (6-7 days)
+CA-2017-145037,5.0,Acceptable (4-5 days)
+CA-2017-145037,5.0,Acceptable (4-5 days)
+CA-2017-145037,5.0,Acceptable (4-5 days)
+CA-2017-154466,1.0,Same/Next Day
+CA-2014-109134,5.0,Acceptable (4-5 days)
+CA-2017-140494,0.0,Same/Next Day
+CA-2017-104108,7.0,Delayed (6-7 days)
+CA-2017-160899,0.0,Same/Next Day
+US-2016-155103,5.0,Acceptable (4-5 days)
+US-2016-155103,5.0,Acceptable (4-5 days)
+US-2016-155103,5.0,Acceptable (4-5 days)
+CA-2016-112277,0.0,Same/Next Day
+CA-2016-149503,3.0,On Time (<=3 days)
+CA-2016-134789,0.0,Same/Next Day
+CA-2016-134789,0.0,Same/Next Day
+CA-2016-134789,0.0,Same/Next Day
+US-2017-166394,2.0,On Time (<=3 days)
+CA-2016-128811,0.0,Same/Next Day
+CA-2016-128811,0.0,Same/Next Day
+CA-2016-128811,0.0,Same/Next Day
+CA-2017-145443,0.0,Same/Next Day
+CA-2016-165827,5.0,Acceptable (4-5 days)
+CA-2014-120096,3.0,On Time (<=3 days)
+CA-2014-120096,3.0,On Time (<=3 days)
+CA-2016-123358,0.0,Same/Next Day
+CA-2016-123358,0.0,Same/Next Day
+CA-2016-123358,0.0,Same/Next Day
+CA-2016-123358,0.0,Same/Next Day
+US-2017-101784,5.0,Acceptable (4-5 days)
+CA-2017-165715,6.0,Delayed (6-7 days)
+CA-2016-144764,6.0,Delayed (6-7 days)
+CA-2016-144764,6.0,Delayed (6-7 days)
+CA-2016-144764,6.0,Delayed (6-7 days)
+CA-2014-109302,0.0,Same/Next Day
+CA-2016-119018,4.0,Acceptable (4-5 days)
+CA-2016-119018,4.0,Acceptable (4-5 days)
+CA-2016-119018,4.0,Acceptable (4-5 days)
+US-2016-152373,6.0,Delayed (6-7 days)
+US-2016-147711,5.0,Acceptable (4-5 days)
+US-2016-147711,5.0,Acceptable (4-5 days)
+US-2016-147711,5.0,Acceptable (4-5 days)
+US-2016-147711,5.0,Acceptable (4-5 days)
+CA-2015-161445,2.0,On Time (<=3 days)
+CA-2014-152233,1.0,Same/Next Day
+US-2017-115609,5.0,Acceptable (4-5 days)
+CA-2016-118689,7.0,Delayed (6-7 days)
+CA-2016-118689,7.0,Delayed (6-7 days)
+CA-2016-118689,7.0,Delayed (6-7 days)
+CA-2016-118689,7.0,Delayed (6-7 days)
+CA-2016-118689,7.0,Delayed (6-7 days)
+CA-2016-153101,0.0,Same/Next Day
+CA-2015-116260,6.0,Delayed (6-7 days)
+CA-2017-107517,4.0,Acceptable (4-5 days)
+CA-2017-107517,4.0,Acceptable (4-5 days)
+CA-2015-166338,1.0,Same/Next Day
+CA-2016-123946,0.0,Same/Next Day
+CA-2016-123946,0.0,Same/Next Day
+CA-2016-123946,0.0,Same/Next Day
+CA-2016-123946,0.0,Same/Next Day
+CA-2014-147543,6.0,Delayed (6-7 days)
+US-2016-159093,0.0,Same/Next Day
+US-2016-100461,4.0,Acceptable (4-5 days)
+US-2016-100461,4.0,Acceptable (4-5 days)
+CA-2017-138618,7.0,Delayed (6-7 days)
+CA-2016-145009,3.0,On Time (<=3 days)
+US-2016-121013,5.0,Acceptable (4-5 days)
+US-2016-121013,5.0,Acceptable (4-5 days)
+CA-2015-137113,4.0,Acceptable (4-5 days)
+CA-2015-137113,4.0,Acceptable (4-5 days)
+CA-2015-137113,4.0,Acceptable (4-5 days)
+CA-2015-137113,4.0,Acceptable (4-5 days)
+CA-2015-137113,4.0,Acceptable (4-5 days)
+CA-2017-123036,0.0,Same/Next Day
+CA-2017-123036,0.0,Same/Next Day
+CA-2015-140557,4.0,Acceptable (4-5 days)
+CA-2017-111220,6.0,Delayed (6-7 days)
+CA-2017-111220,6.0,Delayed (6-7 days)
+CA-2017-111220,6.0,Delayed (6-7 days)
+US-2017-149006,2.0,On Time (<=3 days)
+CA-2017-168942,4.0,Acceptable (4-5 days)
+US-2017-128398,3.0,On Time (<=3 days)
+CA-2015-104115,0.0,Same/Next Day
+CA-2017-109211,6.0,Delayed (6-7 days)
+CA-2016-129847,2.0,On Time (<=3 days)
+CA-2016-125094,4.0,Acceptable (4-5 days)
+CA-2015-129917,1.0,Same/Next Day
+CA-2015-129917,1.0,Same/Next Day
+CA-2015-129917,1.0,Same/Next Day
+CA-2017-162096,0.0,Same/Next Day
+CA-2016-163937,0.0,Same/Next Day
+CA-2014-146990,1.0,Same/Next Day
+CA-2014-146990,1.0,Same/Next Day
+CA-2016-116526,4.0,Acceptable (4-5 days)
+CA-2016-116526,4.0,Acceptable (4-5 days)
+CA-2016-116526,4.0,Acceptable (4-5 days)
+CA-2016-116526,4.0,Acceptable (4-5 days)
+CA-2016-116526,4.0,Acceptable (4-5 days)
+CA-2016-116526,4.0,Acceptable (4-5 days)
+CA-2015-141740,4.0,Acceptable (4-5 days)
+CA-2017-141201,2.0,On Time (<=3 days)
+CA-2014-114790,0.0,Same/Next Day
+CA-2014-114790,0.0,Same/Next Day
+CA-2014-114790,0.0,Same/Next Day
+CA-2014-114790,0.0,Same/Next Day
+US-2017-101840,6.0,Delayed (6-7 days)
+US-2017-101840,6.0,Delayed (6-7 days)
+CA-2014-124618,2.0,On Time (<=3 days)
+CA-2016-160136,6.0,Delayed (6-7 days)
+CA-2014-150581,4.0,Acceptable (4-5 days)
+CA-2014-150581,4.0,Acceptable (4-5 days)
+CA-2016-165330,0.0,Same/Next Day
+CA-2016-165330,0.0,Same/Next Day
+CA-2016-165330,0.0,Same/Next Day
+CA-2016-165330,0.0,Same/Next Day
+CA-2016-165330,0.0,Same/Next Day
+CA-2016-165330,0.0,Same/Next Day
+CA-2016-165330,0.0,Same/Next Day
+CA-2016-165330,0.0,Same/Next Day
+CA-2016-165330,0.0,Same/Next Day
+CA-2016-165330,0.0,Same/Next Day
+CA-2016-165330,0.0,Same/Next Day
+CA-2015-132633,2.0,On Time (<=3 days)
+CA-2017-169474,5.0,Acceptable (4-5 days)
+CA-2014-106726,2.0,On Time (<=3 days)
+CA-2014-141901,0.0,Same/Next Day
+CA-2016-164490,5.0,Acceptable (4-5 days)
+CA-2016-167416,0.0,Same/Next Day
+CA-2016-106950,4.0,Acceptable (4-5 days)
+CA-2016-106950,4.0,Acceptable (4-5 days)
+CA-2016-106950,4.0,Acceptable (4-5 days)
+CA-2016-106950,4.0,Acceptable (4-5 days)
+CA-2016-106950,4.0,Acceptable (4-5 days)
+CA-2016-106950,4.0,Acceptable (4-5 days)
+US-2017-143175,3.0,On Time (<=3 days)
+CA-2015-119480,0.0,Same/Next Day
+CA-2015-119480,0.0,Same/Next Day
+CA-2015-119480,0.0,Same/Next Day
+CA-2015-119480,0.0,Same/Next Day
+US-2015-153374,0.0,Same/Next Day
+CA-2017-144596,4.0,Acceptable (4-5 days)
+CA-2016-144337,4.0,Acceptable (4-5 days)
+CA-2017-147410,4.0,Acceptable (4-5 days)
+US-2016-102239,1.0,Same/Next Day
+US-2016-102239,1.0,Same/Next Day
+CA-2017-166926,7.0,Delayed (6-7 days)
+CA-2017-166926,7.0,Delayed (6-7 days)
+CA-2015-128013,0.0,Same/Next Day
+CA-2015-128013,0.0,Same/Next Day
+CA-2017-128783,0.0,Same/Next Day
+CA-2017-128783,0.0,Same/Next Day
+US-2017-141558,0.0,Same/Next Day
+US-2017-141558,0.0,Same/Next Day
+US-2017-141558,0.0,Same/Next Day
+US-2017-141558,0.0,Same/Next Day
+CA-2016-139941,0.0,Same/Next Day
+CA-2016-139941,0.0,Same/Next Day
+CA-2014-138709,5.0,Acceptable (4-5 days)
+CA-2014-138709,5.0,Acceptable (4-5 days)
+CA-2017-133067,6.0,Delayed (6-7 days)
+CA-2017-133067,6.0,Delayed (6-7 days)
+CA-2014-106054,1.0,Same/Next Day
+CA-2016-164399,0.0,Same/Next Day
+CA-2016-164399,0.0,Same/Next Day
+CA-2016-116918,5.0,Acceptable (4-5 days)
+CA-2016-116918,5.0,Acceptable (4-5 days)
+CA-2016-110492,0.0,Same/Next Day
+CA-2016-110492,0.0,Same/Next Day
+US-2015-156797,0.0,Same/Next Day
+US-2015-156797,0.0,Same/Next Day
+CA-2015-136658,0.0,Same/Next Day
+CA-2017-137414,4.0,Acceptable (4-5 days)
+CA-2017-137414,4.0,Acceptable (4-5 days)
+CA-2016-143476,0.0,Same/Next Day
+CA-2016-143476,0.0,Same/Next Day
+CA-2016-143476,0.0,Same/Next Day
+US-2016-119046,4.0,Acceptable (4-5 days)
+US-2016-119046,4.0,Acceptable (4-5 days)
+US-2016-119046,4.0,Acceptable (4-5 days)
+CA-2015-150770,3.0,On Time (<=3 days)
+CA-2015-150770,3.0,On Time (<=3 days)
+CA-2015-150770,3.0,On Time (<=3 days)
+CA-2015-150770,3.0,On Time (<=3 days)
+CA-2017-154760,0.0,Same/Next Day
+CA-2017-113075,4.0,Acceptable (4-5 days)
+CA-2016-137337,4.0,Acceptable (4-5 days)
+CA-2016-137337,4.0,Acceptable (4-5 days)
+CA-2016-137337,4.0,Acceptable (4-5 days)
+CA-2014-138737,3.0,On Time (<=3 days)
+CA-2016-164924,0.0,Same/Next Day
+CA-2017-145807,0.0,Same/Next Day
+US-2014-127978,5.0,Acceptable (4-5 days)
+US-2014-127978,5.0,Acceptable (4-5 days)
+US-2014-127978,5.0,Acceptable (4-5 days)
+CA-2015-158491,5.0,Acceptable (4-5 days)
+CA-2015-158491,5.0,Acceptable (4-5 days)
+CA-2016-152457,0.0,Same/Next Day
+CA-2017-137001,0.0,Same/Next Day
+CA-2014-120670,4.0,Acceptable (4-5 days)
+CA-2014-158281,5.0,Acceptable (4-5 days)
+CA-2017-109183,5.0,Acceptable (4-5 days)
+CA-2014-111899,1.0,Same/Next Day
+CA-2014-111899,1.0,Same/Next Day
+CA-2015-101126,0.0,Same/Next Day
+US-2017-117450,4.0,Acceptable (4-5 days)
+US-2017-117450,4.0,Acceptable (4-5 days)
+CA-2016-144092,2.0,On Time (<=3 days)
+CA-2016-144092,2.0,On Time (<=3 days)
+CA-2016-144092,2.0,On Time (<=3 days)
+CA-2017-112172,0.0,Same/Next Day
+CA-2015-121699,0.0,Same/Next Day
+CA-2017-115322,0.0,Same/Next Day
+CA-2017-167626,4.0,Acceptable (4-5 days)
+CA-2017-167626,4.0,Acceptable (4-5 days)
+US-2017-126053,3.0,On Time (<=3 days)
+US-2017-126053,3.0,On Time (<=3 days)
+CA-2016-149349,0.0,Same/Next Day
+CA-2015-125563,0.0,Same/Next Day
+CA-2015-125563,0.0,Same/Next Day
+CA-2014-130421,4.0,Acceptable (4-5 days)
+CA-2017-154102,0.0,Same/Next Day
+CA-2016-163594,0.0,Same/Next Day
+CA-2016-163594,0.0,Same/Next Day
+CA-2016-163594,0.0,Same/Next Day
+CA-2015-110345,2.0,On Time (<=3 days)
+US-2017-123862,2.0,On Time (<=3 days)
+US-2017-123862,2.0,On Time (<=3 days)
+US-2017-123862,2.0,On Time (<=3 days)
+US-2017-123862,2.0,On Time (<=3 days)
+US-2017-145597,3.0,On Time (<=3 days)
+CA-2017-160031,3.0,On Time (<=3 days)
+CA-2017-147844,4.0,Acceptable (4-5 days)
+CA-2017-147844,4.0,Acceptable (4-5 days)
+CA-2017-147844,4.0,Acceptable (4-5 days)
+CA-2014-124807,0.0,Same/Next Day
+CA-2014-124807,0.0,Same/Next Day
+CA-2017-168172,4.0,Acceptable (4-5 days)
+CA-2014-121769,4.0,Acceptable (4-5 days)
+CA-2017-135069,0.0,Same/Next Day
+CA-2017-135069,0.0,Same/Next Day
+CA-2014-161249,0.0,Same/Next Day
+CA-2014-161249,0.0,Same/Next Day
+US-2017-163657,4.0,Acceptable (4-5 days)
+US-2017-163657,4.0,Acceptable (4-5 days)
+CA-2014-109932,2.0,On Time (<=3 days)
+CA-2014-109932,2.0,On Time (<=3 days)
+CA-2017-127474,4.0,Acceptable (4-5 days)
+CA-2017-127474,4.0,Acceptable (4-5 days)
+CA-2017-127474,4.0,Acceptable (4-5 days)
+CA-2017-127474,4.0,Acceptable (4-5 days)
+US-2015-136987,0.0,Same/Next Day
+US-2015-136987,0.0,Same/Next Day
+CA-2016-139997,2.0,On Time (<=3 days)
+CA-2016-109652,0.0,Same/Next Day
+CA-2014-167199,4.0,Acceptable (4-5 days)
+CA-2014-167199,4.0,Acceptable (4-5 days)
+CA-2014-167199,4.0,Acceptable (4-5 days)
+CA-2014-167199,4.0,Acceptable (4-5 days)
+CA-2014-167199,4.0,Acceptable (4-5 days)
+CA-2014-167199,4.0,Acceptable (4-5 days)
+CA-2014-167199,4.0,Acceptable (4-5 days)
+CA-2016-124583,2.0,On Time (<=3 days)
+CA-2017-157196,4.0,Acceptable (4-5 days)
+CA-2015-108672,0.0,Same/Next Day
+US-2017-160836,0.0,Same/Next Day
+US-2017-160836,0.0,Same/Next Day
+US-2017-160836,0.0,Same/Next Day
+US-2017-106579,0.0,Same/Next Day
+CA-2014-115889,4.0,Acceptable (4-5 days)
+CA-2014-115889,4.0,Acceptable (4-5 days)
+US-2017-167920,3.0,On Time (<=3 days)
+US-2017-167920,3.0,On Time (<=3 days)
+US-2017-167920,3.0,On Time (<=3 days)
+US-2017-167920,3.0,On Time (<=3 days)
+US-2017-167920,3.0,On Time (<=3 days)
+US-2017-167920,3.0,On Time (<=3 days)
+US-2017-167920,3.0,On Time (<=3 days)
+CA-2016-162383,6.0,Delayed (6-7 days)
+CA-2016-162383,6.0,Delayed (6-7 days)
+CA-2016-162383,6.0,Delayed (6-7 days)
+CA-2014-125731,0.0,Same/Next Day
+CA-2014-125731,0.0,Same/Next Day
+CA-2017-103415,5.0,Acceptable (4-5 days)
+US-2017-112347,4.0,Acceptable (4-5 days)
+US-2017-112347,4.0,Acceptable (4-5 days)
+US-2017-112347,4.0,Acceptable (4-5 days)
+US-2017-112347,4.0,Acceptable (4-5 days)
+US-2017-112347,4.0,Acceptable (4-5 days)
+US-2017-112347,4.0,Acceptable (4-5 days)
+US-2017-112347,4.0,Acceptable (4-5 days)
+CA-2016-136595,2.0,On Time (<=3 days)
+CA-2014-114181,0.0,Same/Next Day
+CA-2014-114181,0.0,Same/Next Day
+US-2014-137155,4.0,Acceptable (4-5 days)
+US-2014-137155,4.0,Acceptable (4-5 days)
+US-2014-137155,4.0,Acceptable (4-5 days)
+US-2016-104815,4.0,Acceptable (4-5 days)
+CA-2017-157672,2.0,On Time (<=3 days)
+CA-2014-133830,5.0,Acceptable (4-5 days)
+CA-2014-133830,5.0,Acceptable (4-5 days)
+CA-2014-133830,5.0,Acceptable (4-5 days)
+CA-2015-129532,4.0,Acceptable (4-5 days)
+CA-2015-129532,4.0,Acceptable (4-5 days)
+CA-2014-134726,5.0,Acceptable (4-5 days)
+CA-2014-134726,5.0,Acceptable (4-5 days)
+CA-2016-158778,4.0,Acceptable (4-5 days)
+CA-2016-158778,4.0,Acceptable (4-5 days)
+CA-2016-158778,4.0,Acceptable (4-5 days)
+CA-2016-158778,4.0,Acceptable (4-5 days)
+CA-2016-152520,4.0,Acceptable (4-5 days)
+CA-2017-163209,4.0,Acceptable (4-5 days)
+CA-2017-163209,4.0,Acceptable (4-5 days)
+US-2015-130491,3.0,On Time (<=3 days)
+US-2015-130491,3.0,On Time (<=3 days)
+US-2015-130491,3.0,On Time (<=3 days)
+CA-2017-104885,6.0,Delayed (6-7 days)
+CA-2017-104885,6.0,Delayed (6-7 days)
+CA-2017-104885,6.0,Delayed (6-7 days)
+CA-2017-104885,6.0,Delayed (6-7 days)
+US-2016-157490,1.0,Same/Next Day
+US-2016-157490,1.0,Same/Next Day
+US-2016-157490,1.0,Same/Next Day
+US-2016-157490,1.0,Same/Next Day
+CA-2015-161452,6.0,Delayed (6-7 days)
+CA-2017-110821,1.0,Same/Next Day
+CA-2017-110821,1.0,Same/Next Day
+CA-2017-146493,4.0,Acceptable (4-5 days)
+CA-2014-105417,5.0,Acceptable (4-5 days)
+CA-2014-105417,5.0,Acceptable (4-5 days)
+US-2016-140158,4.0,Acceptable (4-5 days)
+US-2016-140158,4.0,Acceptable (4-5 days)
+US-2016-140158,4.0,Acceptable (4-5 days)
+CA-2017-133487,3.0,On Time (<=3 days)
+CA-2014-142951,0.0,Same/Next Day
+CA-2017-107958,3.0,On Time (<=3 days)
+CA-2017-107958,3.0,On Time (<=3 days)
+US-2015-142811,5.0,Acceptable (4-5 days)
+CA-2014-150203,2.0,On Time (<=3 days)
+US-2017-101518,5.0,Acceptable (4-5 days)
+CA-2015-149636,6.0,Delayed (6-7 days)
+CA-2015-149636,6.0,Delayed (6-7 days)
+CA-2015-108588,5.0,Acceptable (4-5 days)
+CA-2015-108588,5.0,Acceptable (4-5 days)
+CA-2015-108588,5.0,Acceptable (4-5 days)
+CA-2015-139374,0.0,Same/Next Day
+CA-2017-143294,6.0,Delayed (6-7 days)
+CA-2014-155390,5.0,Acceptable (4-5 days)
+CA-2017-123071,3.0,On Time (<=3 days)
+CA-2015-103093,4.0,Acceptable (4-5 days)
+US-2017-118941,0.0,Same/Next Day
+US-2017-118941,0.0,Same/Next Day
+US-2017-118941,0.0,Same/Next Day
+CA-2017-154088,0.0,Same/Next Day
+CA-2016-155978,0.0,Same/Next Day
+CA-2016-155978,0.0,Same/Next Day
+CA-2015-132136,4.0,Acceptable (4-5 days)
+CA-2016-162236,2.0,On Time (<=3 days)
+CA-2016-162236,2.0,On Time (<=3 days)
+CA-2016-162236,2.0,On Time (<=3 days)
+CA-2017-169362,0.0,Same/Next Day
+CA-2015-112711,0.0,Same/Next Day
+US-2015-145121,4.0,Acceptable (4-5 days)
+CA-2017-157413,5.0,Acceptable (4-5 days)
+US-2016-137295,0.0,Same/Next Day
+US-2016-137295,0.0,Same/Next Day
+US-2016-137295,0.0,Same/Next Day
+US-2017-109316,2.0,On Time (<=3 days)
+US-2017-109316,2.0,On Time (<=3 days)
+CA-2017-152436,2.0,On Time (<=3 days)
+CA-2015-127327,4.0,Acceptable (4-5 days)
+CA-2016-112382,0.0,Same/Next Day
+CA-2016-104311,4.0,Acceptable (4-5 days)
+CA-2016-104311,4.0,Acceptable (4-5 days)
+CA-2016-104311,4.0,Acceptable (4-5 days)
+CA-2017-135587,5.0,Acceptable (4-5 days)
+CA-2017-135587,5.0,Acceptable (4-5 days)
+CA-2017-152261,4.0,Acceptable (4-5 days)
+CA-2015-142993,0.0,Same/Next Day
+CA-2015-142993,0.0,Same/Next Day
+US-2017-166233,6.0,Delayed (6-7 days)
+CA-2016-101672,4.0,Acceptable (4-5 days)
+CA-2016-101672,4.0,Acceptable (4-5 days)
+CA-2016-101672,4.0,Acceptable (4-5 days)
+CA-2016-101672,4.0,Acceptable (4-5 days)
+CA-2015-148705,0.0,Same/Next Day
+CA-2017-118017,3.0,On Time (<=3 days)
+CA-2017-118017,3.0,On Time (<=3 days)
+CA-2017-118017,3.0,On Time (<=3 days)
+CA-2017-118017,3.0,On Time (<=3 days)
+CA-2017-118017,3.0,On Time (<=3 days)
+CA-2017-118017,3.0,On Time (<=3 days)
+CA-2017-118017,3.0,On Time (<=3 days)
+CA-2017-118017,3.0,On Time (<=3 days)
+CA-2016-149762,4.0,Acceptable (4-5 days)
+CA-2016-149762,4.0,Acceptable (4-5 days)
+CA-2016-149762,4.0,Acceptable (4-5 days)
+CA-2016-149762,4.0,Acceptable (4-5 days)
+CA-2017-100783,4.0,Acceptable (4-5 days)
+CA-2015-152513,4.0,Acceptable (4-5 days)
+CA-2014-131009,4.0,Acceptable (4-5 days)
+CA-2014-131009,4.0,Acceptable (4-5 days)
+CA-2014-131009,4.0,Acceptable (4-5 days)
+CA-2014-131009,4.0,Acceptable (4-5 days)
+CA-2014-138359,5.0,Acceptable (4-5 days)
+CA-2014-138359,5.0,Acceptable (4-5 days)
+CA-2017-131807,5.0,Acceptable (4-5 days)
+CA-2017-131807,5.0,Acceptable (4-5 days)
+CA-2017-131807,5.0,Acceptable (4-5 days)
+CA-2017-131807,5.0,Acceptable (4-5 days)
+CA-2017-131807,5.0,Acceptable (4-5 days)
+CA-2017-131807,5.0,Acceptable (4-5 days)
+CA-2016-157707,2.0,On Time (<=3 days)
+CA-2016-157707,2.0,On Time (<=3 days)
+CA-2016-157707,2.0,On Time (<=3 days)
+CA-2014-103800,4.0,Acceptable (4-5 days)
+CA-2014-113383,0.0,Same/Next Day
+CA-2014-113383,0.0,Same/Next Day
+US-2017-105998,2.0,On Time (<=3 days)
+US-2017-105998,2.0,On Time (<=3 days)
+US-2014-148194,3.0,On Time (<=3 days)
+US-2014-148194,3.0,On Time (<=3 days)
+US-2015-151407,4.0,Acceptable (4-5 days)
+CA-2014-143210,2.0,On Time (<=3 days)
+CA-2014-143210,2.0,On Time (<=3 days)
+CA-2014-143210,2.0,On Time (<=3 days)
+CA-2016-139808,4.0,Acceptable (4-5 days)
+US-2014-131870,2.0,On Time (<=3 days)
+US-2014-131870,2.0,On Time (<=3 days)
+CA-2017-167227,3.0,On Time (<=3 days)
+CA-2017-167227,3.0,On Time (<=3 days)
+CA-2015-132465,0.0,Same/Next Day
+CA-2015-132465,0.0,Same/Next Day
+CA-2015-132465,0.0,Same/Next Day
+CA-2015-132465,0.0,Same/Next Day
+CA-2016-158806,4.0,Acceptable (4-5 days)
+CA-2016-158806,4.0,Acceptable (4-5 days)
+CA-2017-169012,0.0,Same/Next Day
+US-2017-133081,0.0,Same/Next Day
+US-2017-133081,0.0,Same/Next Day
+CA-2017-130834,3.0,On Time (<=3 days)
+CA-2016-168543,4.0,Acceptable (4-5 days)
+CA-2016-132997,2.0,On Time (<=3 days)
+CA-2016-132997,2.0,On Time (<=3 days)
+CA-2016-132997,2.0,On Time (<=3 days)
+CA-2016-132997,2.0,On Time (<=3 days)
+CA-2016-132997,2.0,On Time (<=3 days)
+CA-2017-151750,4.0,Acceptable (4-5 days)
+CA-2017-151750,4.0,Acceptable (4-5 days)
+CA-2017-151750,4.0,Acceptable (4-5 days)
+CA-2017-151750,4.0,Acceptable (4-5 days)
+CA-2017-151750,4.0,Acceptable (4-5 days)
+CA-2017-151750,4.0,Acceptable (4-5 days)
+CA-2017-151750,4.0,Acceptable (4-5 days)
+CA-2015-107020,0.0,Same/Next Day
+US-2015-117492,2.0,On Time (<=3 days)
+CA-2016-169663,0.0,Same/Next Day
+CA-2016-169663,0.0,Same/Next Day
+CA-2016-130393,2.0,On Time (<=3 days)
+CA-2016-130393,2.0,On Time (<=3 days)
+CA-2016-130393,2.0,On Time (<=3 days)
+CA-2017-144820,4.0,Acceptable (4-5 days)
+US-2017-150070,5.0,Acceptable (4-5 days)
+CA-2015-137064,0.0,Same/Next Day
+CA-2015-137064,0.0,Same/Next Day
+CA-2015-137064,0.0,Same/Next Day
+CA-2016-118073,0.0,Same/Next Day
+CA-2016-100993,5.0,Acceptable (4-5 days)
+CA-2016-100993,5.0,Acceptable (4-5 days)
+CA-2016-100993,5.0,Acceptable (4-5 days)
+CA-2016-100993,5.0,Acceptable (4-5 days)
+US-2017-146822,0.0,Same/Next Day
+CA-2016-131296,5.0,Acceptable (4-5 days)
+CA-2016-120803,0.0,Same/Next Day
+CA-2015-168207,4.0,Acceptable (4-5 days)
+CA-2015-168207,4.0,Acceptable (4-5 days)
+CA-2015-168207,4.0,Acceptable (4-5 days)
+CA-2015-168207,4.0,Acceptable (4-5 days)
+CA-2014-114125,0.0,Same/Next Day
+CA-2014-114125,0.0,Same/Next Day
+CA-2014-114125,0.0,Same/Next Day
+CA-2016-166429,6.0,Delayed (6-7 days)
+CA-2015-112767,4.0,Acceptable (4-5 days)
+CA-2015-140375,3.0,On Time (<=3 days)
+CA-2015-140375,3.0,On Time (<=3 days)
+CA-2015-136700,5.0,Acceptable (4-5 days)
+CA-2017-102736,4.0,Acceptable (4-5 days)
+CA-2017-102736,4.0,Acceptable (4-5 days)
+CA-2017-102736,4.0,Acceptable (4-5 days)
+CA-2015-114811,0.0,Same/Next Day
+CA-2015-114811,0.0,Same/Next Day
+CA-2015-114811,0.0,Same/Next Day
+CA-2015-114811,0.0,Same/Next Day
+CA-2015-114811,0.0,Same/Next Day
+CA-2017-128769,5.0,Acceptable (4-5 days)
+CA-2016-116337,5.0,Acceptable (4-5 days)
+CA-2016-116337,5.0,Acceptable (4-5 days)
+CA-2014-120775,4.0,Acceptable (4-5 days)
+CA-2014-120775,4.0,Acceptable (4-5 days)
+CA-2014-120775,4.0,Acceptable (4-5 days)
+CA-2014-120775,4.0,Acceptable (4-5 days)
+CA-2014-120775,4.0,Acceptable (4-5 days)
+CA-2016-104633,0.0,Same/Next Day
+CA-2016-104633,0.0,Same/Next Day
+CA-2017-104136,3.0,On Time (<=3 days)
+CA-2017-104136,3.0,On Time (<=3 days)
+CA-2016-123050,4.0,Acceptable (4-5 days)
+CA-2016-123050,4.0,Acceptable (4-5 days)
+CA-2016-123050,4.0,Acceptable (4-5 days)
+CA-2017-102204,5.0,Acceptable (4-5 days)
+CA-2017-102204,5.0,Acceptable (4-5 days)
+CA-2017-102204,5.0,Acceptable (4-5 days)
+CA-2014-109855,4.0,Acceptable (4-5 days)
+CA-2014-109855,4.0,Acceptable (4-5 days)
+CA-2014-109897,0.0,Same/Next Day
+CA-2014-109897,0.0,Same/Next Day
+CA-2015-129217,0.0,Same/Next Day
+CA-2015-129217,0.0,Same/Next Day
+CA-2016-133816,0.0,Same/Next Day
+CA-2015-140221,4.0,Acceptable (4-5 days)
+CA-2015-140221,4.0,Acceptable (4-5 days)
+CA-2015-140221,4.0,Acceptable (4-5 days)
+CA-2015-140221,4.0,Acceptable (4-5 days)
+CA-2017-152310,0.0,Same/Next Day
+CA-2017-152310,0.0,Same/Next Day
+CA-2017-152310,0.0,Same/Next Day
+CA-2017-152310,0.0,Same/Next Day
+CA-2017-152310,0.0,Same/Next Day
+CA-2017-152310,0.0,Same/Next Day
+CA-2017-134810,1.0,Same/Next Day
+CA-2017-134810,1.0,Same/Next Day
+CA-2014-156244,0.0,Same/Next Day
+CA-2014-156244,0.0,Same/Next Day
+CA-2014-156244,0.0,Same/Next Day
+CA-2014-156244,0.0,Same/Next Day
+CA-2014-156244,0.0,Same/Next Day
+CA-2014-156244,0.0,Same/Next Day
+US-2017-168802,4.0,Acceptable (4-5 days)
+US-2015-158911,6.0,Delayed (6-7 days)
+US-2015-158911,6.0,Delayed (6-7 days)
+US-2014-103338,0.0,Same/Next Day
+CA-2017-135419,6.0,Delayed (6-7 days)
+CA-2016-128671,0.0,Same/Next Day
+CA-2016-128671,0.0,Same/Next Day
+CA-2016-128671,0.0,Same/Next Day
+CA-2014-168312,6.0,Delayed (6-7 days)
+CA-2014-168312,6.0,Delayed (6-7 days)
+CA-2014-161508,0.0,Same/Next Day
+CA-2014-161508,0.0,Same/Next Day
+CA-2014-161508,0.0,Same/Next Day
+CA-2014-161508,0.0,Same/Next Day
+CA-2017-130904,0.0,Same/Next Day
+CA-2017-130904,0.0,Same/Next Day
+CA-2015-142937,1.0,Same/Next Day
+CA-2017-144456,1.0,Same/Next Day
+CA-2017-144456,1.0,Same/Next Day
+CA-2017-118577,5.0,Acceptable (4-5 days)
+CA-2017-118577,5.0,Acceptable (4-5 days)
+CA-2017-113572,4.0,Acceptable (4-5 days)
+CA-2016-153269,3.0,On Time (<=3 days)
+CA-2016-153269,3.0,On Time (<=3 days)
+CA-2016-153269,3.0,On Time (<=3 days)
+CA-2016-153269,3.0,On Time (<=3 days)
+CA-2016-101469,6.0,Delayed (6-7 days)
+CA-2017-141481,0.0,Same/Next Day
+CA-2017-132199,5.0,Acceptable (4-5 days)
+CA-2017-132199,5.0,Acceptable (4-5 days)
+CA-2017-132199,5.0,Acceptable (4-5 days)
+CA-2017-132199,5.0,Acceptable (4-5 days)
+CA-2017-132199,5.0,Acceptable (4-5 days)
+CA-2014-110555,0.0,Same/Next Day
+CA-2014-110555,0.0,Same/Next Day
+CA-2014-110555,0.0,Same/Next Day
+CA-2017-147207,2.0,On Time (<=3 days)
+CA-2017-147207,2.0,On Time (<=3 days)
+CA-2017-147207,2.0,On Time (<=3 days)
+CA-2017-147207,2.0,On Time (<=3 days)
+CA-2014-109918,5.0,Acceptable (4-5 days)
+CA-2014-109918,5.0,Acceptable (4-5 days)
+CA-2014-109918,5.0,Acceptable (4-5 days)
+CA-2016-118745,0.0,Same/Next Day
+CA-2015-158701,5.0,Acceptable (4-5 days)
+CA-2015-158701,5.0,Acceptable (4-5 days)
+CA-2015-162964,0.0,Same/Next Day
+CA-2015-162964,0.0,Same/Next Day
+CA-2015-162964,0.0,Same/Next Day
+CA-2016-163048,0.0,Same/Next Day
+CA-2017-137582,4.0,Acceptable (4-5 days)
+CA-2014-139423,4.0,Acceptable (4-5 days)
+CA-2017-153227,2.0,On Time (<=3 days)
+CA-2016-142594,5.0,Acceptable (4-5 days)
+CA-2016-142594,5.0,Acceptable (4-5 days)
+CA-2016-142594,5.0,Acceptable (4-5 days)
+CA-2016-142594,5.0,Acceptable (4-5 days)
+US-2014-120236,1.0,Same/Next Day
+CA-2017-120061,5.0,Acceptable (4-5 days)
+CA-2015-110814,4.0,Acceptable (4-5 days)
+CA-2015-110814,4.0,Acceptable (4-5 days)
+CA-2015-110814,4.0,Acceptable (4-5 days)
+CA-2016-154067,6.0,Delayed (6-7 days)
+CA-2017-140480,4.0,Acceptable (4-5 days)
+CA-2017-140480,4.0,Acceptable (4-5 days)
+CA-2017-140480,4.0,Acceptable (4-5 days)
+CA-2017-140480,4.0,Acceptable (4-5 days)
+CA-2017-140480,4.0,Acceptable (4-5 days)
+CA-2016-159765,3.0,On Time (<=3 days)
+CA-2017-132290,0.0,Same/Next Day
+CA-2017-107265,6.0,Delayed (6-7 days)
+CA-2017-118199,2.0,On Time (<=3 days)
+CA-2017-118199,2.0,On Time (<=3 days)
+CA-2017-118199,2.0,On Time (<=3 days)
+CA-2017-118199,2.0,On Time (<=3 days)
+CA-2017-118199,2.0,On Time (<=3 days)
+CA-2017-150091,0.0,Same/Next Day
+CA-2017-150091,0.0,Same/Next Day
+CA-2017-150091,0.0,Same/Next Day
+CA-2017-150091,0.0,Same/Next Day
+CA-2015-128356,5.0,Acceptable (4-5 days)
+US-2017-132220,0.0,Same/Next Day
+CA-2016-158302,4.0,Acceptable (4-5 days)
+CA-2017-145779,4.0,Acceptable (4-5 days)
+US-2016-155173,4.0,Acceptable (4-5 days)
+US-2016-155173,4.0,Acceptable (4-5 days)
+US-2016-155173,4.0,Acceptable (4-5 days)
+CA-2015-169537,4.0,Acceptable (4-5 days)
+CA-2015-144043,0.0,Same/Next Day
+CA-2015-116512,0.0,Same/Next Day
+CA-2015-101000,0.0,Same/Next Day
+CA-2017-169404,0.0,Same/Next Day
+CA-2017-169404,0.0,Same/Next Day
+US-2016-119270,0.0,Same/Next Day
+US-2017-118535,0.0,Same/Next Day
+CA-2016-158841,2.0,On Time (<=3 days)
+CA-2016-158841,2.0,On Time (<=3 days)
+CA-2016-158841,2.0,On Time (<=3 days)
+CA-2017-106824,4.0,Acceptable (4-5 days)
+CA-2016-143154,6.0,Delayed (6-7 days)
+CA-2014-169061,3.0,On Time (<=3 days)
+CA-2014-169061,3.0,On Time (<=3 days)
+CA-2014-169061,3.0,On Time (<=3 days)
+CA-2014-169061,3.0,On Time (<=3 days)
+CA-2014-169061,3.0,On Time (<=3 days)
+CA-2015-102316,2.0,On Time (<=3 days)
+CA-2015-102316,2.0,On Time (<=3 days)
+CA-2016-109400,4.0,Acceptable (4-5 days)
+CA-2016-130400,4.0,Acceptable (4-5 days)
+CA-2016-130400,4.0,Acceptable (4-5 days)
+CA-2016-130400,4.0,Acceptable (4-5 days)
+CA-2016-144645,6.0,Delayed (6-7 days)
+CA-2017-141614,4.0,Acceptable (4-5 days)
+CA-2016-132899,4.0,Acceptable (4-5 days)
+CA-2017-149720,3.0,On Time (<=3 days)
+CA-2017-118003,6.0,Delayed (6-7 days)
+CA-2017-118003,6.0,Delayed (6-7 days)
+CA-2017-118003,6.0,Delayed (6-7 days)
+CA-2016-141887,0.0,Same/Next Day
+US-2016-160206,6.0,Delayed (6-7 days)
+CA-2015-157343,4.0,Acceptable (4-5 days)
+CA-2015-157343,4.0,Acceptable (4-5 days)
+CA-2015-157343,4.0,Acceptable (4-5 days)
+CA-2017-147354,0.0,Same/Next Day
+CA-2017-147354,0.0,Same/Next Day
+CA-2014-137575,5.0,Acceptable (4-5 days)
+CA-2015-149566,5.0,Acceptable (4-5 days)
+CA-2015-149566,5.0,Acceptable (4-5 days)
+CA-2015-126186,1.0,Same/Next Day
+CA-2016-102092,2.0,On Time (<=3 days)
+CA-2016-123540,4.0,Acceptable (4-5 days)
+US-2016-136581,2.0,On Time (<=3 days)
+CA-2016-162390,6.0,Delayed (6-7 days)
+CA-2016-162390,6.0,Delayed (6-7 days)
+CA-2016-162390,6.0,Delayed (6-7 days)
+CA-2016-162222,0.0,Same/Next Day
+CA-2017-106747,1.0,Same/Next Day
+CA-2014-104808,4.0,Acceptable (4-5 days)
+CA-2017-162015,0.0,Same/Next Day
+CA-2017-162015,0.0,Same/Next Day
+CA-2014-111934,2.0,On Time (<=3 days)
+CA-2014-111934,2.0,On Time (<=3 days)
+US-2016-116365,5.0,Acceptable (4-5 days)
+US-2016-116365,5.0,Acceptable (4-5 days)
+US-2016-116365,5.0,Acceptable (4-5 days)
+CA-2014-151946,5.0,Acceptable (4-5 days)
+CA-2014-151946,5.0,Acceptable (4-5 days)
+CA-2014-151946,5.0,Acceptable (4-5 days)
+CA-2014-151946,5.0,Acceptable (4-5 days)
+CA-2016-165918,0.0,Same/Next Day
+CA-2016-165918,0.0,Same/Next Day
+CA-2016-165918,0.0,Same/Next Day
+CA-2016-165918,0.0,Same/Next Day
+CA-2017-117513,5.0,Acceptable (4-5 days)
+US-2017-119319,3.0,On Time (<=3 days)
+CA-2015-156118,4.0,Acceptable (4-5 days)
+CA-2015-164084,5.0,Acceptable (4-5 days)
+CA-2015-164084,5.0,Acceptable (4-5 days)
+CA-2015-164084,5.0,Acceptable (4-5 days)
+CA-2015-164084,5.0,Acceptable (4-5 days)
+CA-2015-164084,5.0,Acceptable (4-5 days)
+US-2017-148551,0.0,Same/Next Day
+CA-2017-147767,0.0,Same/Next Day
+US-2015-131842,3.0,On Time (<=3 days)
+CA-2016-153185,5.0,Acceptable (4-5 days)
+CA-2015-131856,0.0,Same/Next Day
+CA-2015-131856,0.0,Same/Next Day
+CA-2015-131856,0.0,Same/Next Day
+CA-2016-112739,5.0,Acceptable (4-5 days)
+CA-2016-112739,5.0,Acceptable (4-5 days)
+CA-2016-143805,2.0,On Time (<=3 days)
+CA-2016-143805,2.0,On Time (<=3 days)
+CA-2014-133634,5.0,Acceptable (4-5 days)
+CA-2015-133494,4.0,Acceptable (4-5 days)
+US-2014-132745,4.0,Acceptable (4-5 days)
+CA-2014-105648,4.0,Acceptable (4-5 days)
+US-2015-145422,4.0,Acceptable (4-5 days)
+CA-2017-136623,0.0,Same/Next Day
+CA-2017-136623,0.0,Same/Next Day
+CA-2016-120824,0.0,Same/Next Day
+CA-2016-120824,0.0,Same/Next Day
+CA-2016-120824,0.0,Same/Next Day
+CA-2016-120824,0.0,Same/Next Day
+CA-2016-120824,0.0,Same/Next Day
+CA-2016-120824,0.0,Same/Next Day
+CA-2016-120824,0.0,Same/Next Day
+US-2014-169390,3.0,On Time (<=3 days)
+CA-2016-168774,5.0,Acceptable (4-5 days)
+CA-2017-161592,4.0,Acceptable (4-5 days)
+US-2017-131961,3.0,On Time (<=3 days)
+US-2017-131961,3.0,On Time (<=3 days)
+CA-2015-113222,0.0,Same/Next Day
+US-2015-144771,2.0,On Time (<=3 days)
+US-2015-144771,2.0,On Time (<=3 days)
+CA-2017-128076,5.0,Acceptable (4-5 days)
+CA-2017-128076,5.0,Acceptable (4-5 days)
+CA-2017-128076,5.0,Acceptable (4-5 days)
+CA-2016-105662,4.0,Acceptable (4-5 days)
+CA-2016-105662,4.0,Acceptable (4-5 days)
+CA-2017-152198,1.0,Same/Next Day
+CA-2017-152198,1.0,Same/Next Day
+CA-2017-152198,1.0,Same/Next Day
+CA-2015-151722,4.0,Acceptable (4-5 days)
+CA-2016-151148,0.0,Same/Next Day
+CA-2016-151148,0.0,Same/Next Day
+CA-2016-163636,4.0,Acceptable (4-5 days)
+CA-2016-102813,1.0,Same/Next Day
+CA-2016-102813,1.0,Same/Next Day
+CA-2015-133585,3.0,On Time (<=3 days)
+CA-2015-133585,3.0,On Time (<=3 days)
+CA-2015-169572,6.0,Delayed (6-7 days)
+US-2016-150140,4.0,Acceptable (4-5 days)
+CA-2014-116666,2.0,On Time (<=3 days)
+CA-2016-140935,2.0,On Time (<=3 days)
+CA-2016-140935,2.0,On Time (<=3 days)
+CA-2016-113082,0.0,Same/Next Day
+US-2016-140172,0.0,Same/Next Day
+US-2016-140172,0.0,Same/Next Day
+CA-2017-100622,4.0,Acceptable (4-5 days)
+CA-2017-100622,4.0,Acceptable (4-5 days)
+CA-2017-100622,4.0,Acceptable (4-5 days)
+CA-2017-100622,4.0,Acceptable (4-5 days)
+US-2014-157847,4.0,Acceptable (4-5 days)
+US-2014-157847,4.0,Acceptable (4-5 days)
+CA-2015-115168,4.0,Acceptable (4-5 days)
+CA-2014-109680,3.0,On Time (<=3 days)
+CA-2014-153808,4.0,Acceptable (4-5 days)
+CA-2014-153808,4.0,Acceptable (4-5 days)
+CA-2014-153808,4.0,Acceptable (4-5 days)
+US-2016-112396,0.0,Same/Next Day
+US-2016-112396,0.0,Same/Next Day
+CA-2015-140718,2.0,On Time (<=3 days)
+CA-2015-140718,2.0,On Time (<=3 days)
+CA-2015-140718,2.0,On Time (<=3 days)
+CA-2015-140718,2.0,On Time (<=3 days)
+CA-2015-125934,0.0,Same/Next Day
+CA-2015-125934,0.0,Same/Next Day
+CA-2015-125934,0.0,Same/Next Day
+CA-2015-125934,0.0,Same/Next Day
+CA-2015-125934,0.0,Same/Next Day
+CA-2016-158260,4.0,Acceptable (4-5 days)
+CA-2017-101805,5.0,Acceptable (4-5 days)
+CA-2017-101805,5.0,Acceptable (4-5 days)
+CA-2017-101805,5.0,Acceptable (4-5 days)
+US-2014-105137,0.0,Same/Next Day
+US-2014-105137,0.0,Same/Next Day
+CA-2017-103968,6.0,Delayed (6-7 days)
+CA-2015-111038,5.0,Acceptable (4-5 days)
+CA-2014-124723,7.0,Delayed (6-7 days)
+CA-2015-163237,2.0,On Time (<=3 days)
+CA-2015-163237,2.0,On Time (<=3 days)
+US-2016-126431,0.0,Same/Next Day
+US-2016-126431,0.0,Same/Next Day
+US-2016-126431,0.0,Same/Next Day
+CA-2017-102610,4.0,Acceptable (4-5 days)
+CA-2017-102610,4.0,Acceptable (4-5 days)
+CA-2017-102610,4.0,Acceptable (4-5 days)
+CA-2017-102610,4.0,Acceptable (4-5 days)
+US-2016-144057,0.0,Same/Next Day
+US-2016-144057,0.0,Same/Next Day
+US-2016-144057,0.0,Same/Next Day
+US-2016-144057,0.0,Same/Next Day
+US-2016-144057,0.0,Same/Next Day
+CA-2014-160276,6.0,Delayed (6-7 days)
+CA-2016-145709,4.0,Acceptable (4-5 days)
+CA-2016-145709,4.0,Acceptable (4-5 days)
+CA-2017-133928,0.0,Same/Next Day
+CA-2016-159023,2.0,On Time (<=3 days)
+CA-2016-159023,2.0,On Time (<=3 days)
+CA-2014-154592,1.0,Same/Next Day
+CA-2014-156790,2.0,On Time (<=3 days)
+CA-2016-157280,2.0,On Time (<=3 days)
+CA-2016-157280,2.0,On Time (<=3 days)
+CA-2016-157280,2.0,On Time (<=3 days)
+CA-2017-106691,6.0,Delayed (6-7 days)
+CA-2016-134180,4.0,Acceptable (4-5 days)
+CA-2016-134180,4.0,Acceptable (4-5 days)
+CA-2017-157469,5.0,Acceptable (4-5 days)
+CA-2017-157469,5.0,Acceptable (4-5 days)
+CA-2014-119529,2.0,On Time (<=3 days)
+CA-2014-108182,4.0,Acceptable (4-5 days)
+CA-2016-110898,6.0,Delayed (6-7 days)
+CA-2016-110898,6.0,Delayed (6-7 days)
+CA-2016-110898,6.0,Delayed (6-7 days)
+CA-2016-110898,6.0,Delayed (6-7 days)
+CA-2015-123092,4.0,Acceptable (4-5 days)
+CA-2015-123092,4.0,Acceptable (4-5 days)
+CA-2015-123092,4.0,Acceptable (4-5 days)
+CA-2015-123092,4.0,Acceptable (4-5 days)
+US-2017-139577,5.0,Acceptable (4-5 days)
+CA-2014-103807,7.0,Delayed (6-7 days)
+CA-2014-103807,7.0,Delayed (6-7 days)
+CA-2015-102855,1.0,Same/Next Day
+CA-2015-102855,1.0,Same/Next Day
+CA-2017-106047,0.0,Same/Next Day
+CA-2017-128041,0.0,Same/Next Day
+CA-2017-128041,0.0,Same/Next Day
+CA-2014-152268,5.0,Acceptable (4-5 days)
+CA-2015-148873,4.0,Acceptable (4-5 days)
+CA-2015-148873,4.0,Acceptable (4-5 days)
+CA-2015-166492,3.0,On Time (<=3 days)
+CA-2015-166492,3.0,On Time (<=3 days)
+CA-2015-128993,0.0,Same/Next Day
+CA-2015-160227,2.0,On Time (<=3 days)
+CA-2016-150077,6.0,Delayed (6-7 days)
+CA-2016-106278,3.0,On Time (<=3 days)
+CA-2016-106278,3.0,On Time (<=3 days)
+CA-2017-147550,1.0,Same/Next Day
+CA-2015-136105,0.0,Same/Next Day
+CA-2016-142524,4.0,Acceptable (4-5 days)
+CA-2016-142524,4.0,Acceptable (4-5 days)
+US-2015-136259,3.0,On Time (<=3 days)
+US-2015-136259,3.0,On Time (<=3 days)
+US-2014-124625,4.0,Acceptable (4-5 days)
+CA-2017-166898,0.0,Same/Next Day
+CA-2017-166898,0.0,Same/Next Day
+CA-2017-169005,4.0,Acceptable (4-5 days)
+CA-2015-104038,2.0,On Time (<=3 days)
+CA-2015-104038,2.0,On Time (<=3 days)
+CA-2016-126102,2.0,On Time (<=3 days)
+US-2015-132836,4.0,Acceptable (4-5 days)
+US-2015-132836,4.0,Acceptable (4-5 days)
+US-2015-132836,4.0,Acceptable (4-5 days)
+US-2015-132836,4.0,Acceptable (4-5 days)
+US-2014-158365,0.0,Same/Next Day
+CA-2017-152933,0.0,Same/Next Day
+CA-2017-152933,0.0,Same/Next Day
+CA-2017-152933,0.0,Same/Next Day
+CA-2015-163181,5.0,Acceptable (4-5 days)
+CA-2015-163181,5.0,Acceptable (4-5 days)
+CA-2015-163181,5.0,Acceptable (4-5 days)
+CA-2015-163181,5.0,Acceptable (4-5 days)
+CA-2015-163181,5.0,Acceptable (4-5 days)
+CA-2015-163181,5.0,Acceptable (4-5 days)
+CA-2016-135461,3.0,On Time (<=3 days)
+US-2016-155971,6.0,Delayed (6-7 days)
+US-2016-155971,6.0,Delayed (6-7 days)
+US-2017-147655,1.0,Same/Next Day
+CA-2016-124254,0.0,Same/Next Day
+CA-2016-124254,0.0,Same/Next Day
+CA-2016-124254,0.0,Same/Next Day
+CA-2014-123400,7.0,Delayed (6-7 days)
+CA-2014-123400,7.0,Delayed (6-7 days)
+CA-2014-106971,6.0,Delayed (6-7 days)
+CA-2016-139409,2.0,On Time (<=3 days)
+US-2014-157070,5.0,Acceptable (4-5 days)
+US-2014-157070,5.0,Acceptable (4-5 days)
+CA-2016-132990,2.0,On Time (<=3 days)
+CA-2014-134215,4.0,Acceptable (4-5 days)
+CA-2014-134215,4.0,Acceptable (4-5 days)
+CA-2014-134215,4.0,Acceptable (4-5 days)
+CA-2016-118934,0.0,Same/Next Day
+CA-2016-118934,0.0,Same/Next Day
+CA-2016-160108,4.0,Acceptable (4-5 days)
+CA-2016-160108,4.0,Acceptable (4-5 days)
+CA-2015-164007,4.0,Acceptable (4-5 days)
+CA-2015-164007,4.0,Acceptable (4-5 days)
+US-2016-155768,0.0,Same/Next Day
+US-2016-155768,0.0,Same/Next Day
+US-2016-155768,0.0,Same/Next Day
+US-2016-155768,0.0,Same/Next Day
+CA-2017-119424,0.0,Same/Next Day
+CA-2017-119424,0.0,Same/Next Day
+CA-2017-156776,4.0,Acceptable (4-5 days)
+CA-2017-156776,4.0,Acceptable (4-5 days)
+CA-2017-156776,4.0,Acceptable (4-5 days)
+CA-2017-156776,4.0,Acceptable (4-5 days)
+CA-2017-156776,4.0,Acceptable (4-5 days)
+CA-2017-156776,4.0,Acceptable (4-5 days)
+CA-2017-156776,4.0,Acceptable (4-5 days)
+CA-2017-156776,4.0,Acceptable (4-5 days)
+CA-2015-141810,5.0,Acceptable (4-5 days)
+CA-2015-141810,5.0,Acceptable (4-5 days)
+CA-2014-103310,0.0,Same/Next Day
+CA-2014-103310,0.0,Same/Next Day
+CA-2014-103310,0.0,Same/Next Day
+CA-2014-103310,0.0,Same/Next Day
+CA-2016-104689,4.0,Acceptable (4-5 days)
+CA-2017-140781,4.0,Acceptable (4-5 days)
+CA-2017-141747,5.0,Acceptable (4-5 days)
+CA-2017-121160,0.0,Same/Next Day
+CA-2017-121160,0.0,Same/Next Day
+CA-2017-121160,0.0,Same/Next Day
+CA-2017-121160,0.0,Same/Next Day
+CA-2014-153619,0.0,Same/Next Day
+CA-2016-126732,4.0,Acceptable (4-5 days)
+CA-2016-126732,4.0,Acceptable (4-5 days)
+CA-2016-126732,4.0,Acceptable (4-5 days)
+CA-2016-126732,4.0,Acceptable (4-5 days)
+CA-2016-126732,4.0,Acceptable (4-5 days)
+CA-2016-126732,4.0,Acceptable (4-5 days)
+CA-2017-138156,0.0,Same/Next Day
+CA-2014-113271,0.0,Same/Next Day
+CA-2014-113271,0.0,Same/Next Day
+CA-2014-113271,0.0,Same/Next Day
+CA-2014-113271,0.0,Same/Next Day
+CA-2016-105354,4.0,Acceptable (4-5 days)
+CA-2017-155712,6.0,Delayed (6-7 days)
+CA-2014-168368,0.0,Same/Next Day
+CA-2014-168368,0.0,Same/Next Day
+CA-2014-168368,0.0,Same/Next Day
+CA-2014-168368,0.0,Same/Next Day
+CA-2014-168368,0.0,Same/Next Day
+CA-2014-168368,0.0,Same/Next Day
+CA-2017-111388,0.0,Same/Next Day
+CA-2014-125759,1.0,Same/Next Day
+CA-2016-100510,0.0,Same/Next Day
+CA-2016-100510,0.0,Same/Next Day
+CA-2017-146983,4.0,Acceptable (4-5 days)
+US-2014-134054,0.0,Same/Next Day
+CA-2017-122539,4.0,Acceptable (4-5 days)
+CA-2017-122539,4.0,Acceptable (4-5 days)
+CA-2017-122539,4.0,Acceptable (4-5 days)
+US-2017-152898,0.0,Same/Next Day
+CA-2017-102218,2.0,On Time (<=3 days)
+CA-2017-124114,0.0,Same/Next Day
+CA-2017-148642,6.0,Delayed (6-7 days)
+CA-2017-148642,6.0,Delayed (6-7 days)
+CA-2015-111948,0.0,Same/Next Day
+CA-2015-111948,0.0,Same/Next Day
+CA-2016-161907,4.0,Acceptable (4-5 days)
+CA-2016-161907,4.0,Acceptable (4-5 days)
+US-2016-111563,4.0,Acceptable (4-5 days)
+US-2016-111563,4.0,Acceptable (4-5 days)
+US-2017-130687,3.0,On Time (<=3 days)
+US-2017-130687,3.0,On Time (<=3 days)
+US-2017-130687,3.0,On Time (<=3 days)
+US-2015-153283,0.0,Same/Next Day
+CA-2017-127726,0.0,Same/Next Day
+CA-2017-127726,0.0,Same/Next Day
+CA-2017-110198,1.0,Same/Next Day
+CA-2017-110198,1.0,Same/Next Day
+CA-2015-110324,4.0,Acceptable (4-5 days)
+CA-2015-110324,4.0,Acceptable (4-5 days)
+CA-2015-110324,4.0,Acceptable (4-5 days)
+CA-2014-108147,0.0,Same/Next Day
+CA-2014-108147,0.0,Same/Next Day
+CA-2016-154998,2.0,On Time (<=3 days)
+CA-2017-113460,2.0,On Time (<=3 days)
+CA-2017-102820,4.0,Acceptable (4-5 days)
+CA-2016-149671,4.0,Acceptable (4-5 days)
+CA-2016-117625,0.0,Same/Next Day
+CA-2017-100433,0.0,Same/Next Day
+CA-2016-105459,0.0,Same/Next Day
+CA-2016-105459,0.0,Same/Next Day
+CA-2016-108959,0.0,Same/Next Day
+CA-2017-152926,2.0,On Time (<=3 days)
+CA-2017-152926,2.0,On Time (<=3 days)
+CA-2014-116246,0.0,Same/Next Day
+CA-2014-152100,0.0,Same/Next Day
+US-2014-154655,0.0,Same/Next Day
+CA-2017-165904,4.0,Acceptable (4-5 days)
+CA-2017-165904,4.0,Acceptable (4-5 days)
+CA-2015-104052,1.0,Same/Next Day
+CA-2017-145506,4.0,Acceptable (4-5 days)
+CA-2017-102925,5.0,Acceptable (4-5 days)
+CA-2017-102925,5.0,Acceptable (4-5 days)
+CA-2017-102925,5.0,Acceptable (4-5 days)
+CA-2017-102925,5.0,Acceptable (4-5 days)
+CA-2017-102925,5.0,Acceptable (4-5 days)
+CA-2017-102925,5.0,Acceptable (4-5 days)
+CA-2017-102925,5.0,Acceptable (4-5 days)
+CA-2017-102925,5.0,Acceptable (4-5 days)
+CA-2017-150504,6.0,Delayed (6-7 days)
+CA-2016-164770,2.0,On Time (<=3 days)
+CA-2016-164770,2.0,On Time (<=3 days)
+CA-2017-130505,0.0,Same/Next Day
+CA-2015-156566,3.0,On Time (<=3 days)
+US-2016-102232,6.0,Delayed (6-7 days)
+CA-2017-111738,4.0,Acceptable (4-5 days)
+CA-2017-111738,4.0,Acceptable (4-5 days)
+CA-2017-163188,0.0,Same/Next Day
+CA-2016-105207,5.0,Acceptable (4-5 days)
+CA-2016-105207,5.0,Acceptable (4-5 days)
+US-2016-123610,0.0,Same/Next Day
+US-2016-123610,0.0,Same/Next Day
+CA-2017-118213,2.0,On Time (<=3 days)
+CA-2017-118213,2.0,On Time (<=3 days)
+CA-2017-118213,2.0,On Time (<=3 days)
+CA-2014-149104,2.0,On Time (<=3 days)
+CA-2014-149104,2.0,On Time (<=3 days)
+CA-2014-149104,2.0,On Time (<=3 days)
+CA-2014-149104,2.0,On Time (<=3 days)
+CA-2016-105263,5.0,Acceptable (4-5 days)
+US-2017-104451,4.0,Acceptable (4-5 days)
+CA-2016-101189,5.0,Acceptable (4-5 days)
+CA-2017-156958,1.0,Same/Next Day
+CA-2017-156958,1.0,Same/Next Day
+CA-2017-156958,1.0,Same/Next Day
+CA-2017-156958,1.0,Same/Next Day
+CA-2017-156958,1.0,Same/Next Day
+CA-2017-111759,4.0,Acceptable (4-5 days)
+CA-2017-124191,0.0,Same/Next Day
+US-2017-169488,2.0,On Time (<=3 days)
+US-2017-169488,2.0,On Time (<=3 days)
+CA-2015-135727,0.0,Same/Next Day
+CA-2015-135251,4.0,Acceptable (4-5 days)
+CA-2015-135251,4.0,Acceptable (4-5 days)
+CA-2015-135251,4.0,Acceptable (4-5 days)
+CA-2015-135251,4.0,Acceptable (4-5 days)
+CA-2015-160864,3.0,On Time (<=3 days)
+CA-2015-156853,2.0,On Time (<=3 days)
+CA-2016-129280,2.0,On Time (<=3 days)
+CA-2016-129280,2.0,On Time (<=3 days)
+CA-2016-129280,2.0,On Time (<=3 days)
+CA-2016-129280,2.0,On Time (<=3 days)
+CA-2016-129280,2.0,On Time (<=3 days)
+CA-2016-129280,2.0,On Time (<=3 days)
+CA-2015-161242,7.0,Delayed (6-7 days)
+CA-2017-104388,2.0,On Time (<=3 days)
+CA-2016-107475,4.0,Acceptable (4-5 days)
+CA-2014-119172,0.0,Same/Next Day
+CA-2014-119172,0.0,Same/Next Day
+CA-2017-107797,3.0,On Time (<=3 days)
+CA-2016-117604,5.0,Acceptable (4-5 days)
+CA-2015-138625,3.0,On Time (<=3 days)
+US-2017-122672,5.0,Acceptable (4-5 days)
+US-2017-122672,5.0,Acceptable (4-5 days)
+CA-2017-117128,3.0,On Time (<=3 days)
+CA-2017-117128,3.0,On Time (<=3 days)
+US-2017-125808,0.0,Same/Next Day
+CA-2014-104563,5.0,Acceptable (4-5 days)
+CA-2014-104563,5.0,Acceptable (4-5 days)
+CA-2014-104563,5.0,Acceptable (4-5 days)
+CA-2014-104563,5.0,Acceptable (4-5 days)
+US-2017-107979,0.0,Same/Next Day
+US-2017-107979,0.0,Same/Next Day
+US-2017-107979,0.0,Same/Next Day
+CA-2016-160717,5.0,Acceptable (4-5 days)
+CA-2016-160717,5.0,Acceptable (4-5 days)
+CA-2016-160717,5.0,Acceptable (4-5 days)
+US-2015-120957,0.0,Same/Next Day
+CA-2017-145275,4.0,Acceptable (4-5 days)
+CA-2016-137393,4.0,Acceptable (4-5 days)
+CA-2017-118668,2.0,On Time (<=3 days)
+CA-2017-140536,1.0,Same/Next Day
+CA-2014-144281,0.0,Same/Next Day
+CA-2016-122511,0.0,Same/Next Day
+CA-2014-114251,5.0,Acceptable (4-5 days)
+CA-2014-114251,5.0,Acceptable (4-5 days)
+CA-2014-114251,5.0,Acceptable (4-5 days)
+CA-2014-114251,5.0,Acceptable (4-5 days)
+CA-2014-114251,5.0,Acceptable (4-5 days)
+CA-2016-116379,5.0,Acceptable (4-5 days)
+US-2016-144477,0.0,Same/Next Day
+CA-2017-166835,0.0,Same/Next Day
+CA-2015-117898,6.0,Delayed (6-7 days)
+CA-2017-167395,2.0,On Time (<=3 days)
+CA-2017-167395,2.0,On Time (<=3 days)
+CA-2017-167395,2.0,On Time (<=3 days)
+CA-2015-117086,4.0,Acceptable (4-5 days)
+CA-2016-158358,4.0,Acceptable (4-5 days)
+CA-2016-113390,0.0,Same/Next Day
+CA-2016-113390,0.0,Same/Next Day
+US-2016-158680,1.0,Same/Next Day
+CA-2017-159135,4.0,Acceptable (4-5 days)
+CA-2016-104983,0.0,Same/Next Day
+CA-2015-155635,0.0,Same/Next Day
+US-2014-114377,0.0,Same/Next Day
+CA-2015-128608,0.0,Same/Next Day
+CA-2015-128608,0.0,Same/Next Day
+CA-2015-128608,0.0,Same/Next Day
+CA-2015-128608,0.0,Same/Next Day
+CA-2015-128608,0.0,Same/Next Day
+US-2014-139640,4.0,Acceptable (4-5 days)
+US-2014-139640,4.0,Acceptable (4-5 days)
+CA-2015-162201,4.0,Acceptable (4-5 days)
+CA-2015-162201,4.0,Acceptable (4-5 days)
+CA-2015-162201,4.0,Acceptable (4-5 days)
+CA-2015-162201,4.0,Acceptable (4-5 days)
+CA-2015-162201,4.0,Acceptable (4-5 days)
+CA-2015-162201,4.0,Acceptable (4-5 days)
+CA-2015-162201,4.0,Acceptable (4-5 days)
+CA-2016-126627,2.0,On Time (<=3 days)
+CA-2016-126627,2.0,On Time (<=3 days)
+CA-2014-163867,3.0,On Time (<=3 days)
+CA-2014-163867,3.0,On Time (<=3 days)
+CA-2014-163867,3.0,On Time (<=3 days)
+CA-2017-169327,2.0,On Time (<=3 days)
+CA-2017-169327,2.0,On Time (<=3 days)
+CA-2017-169327,2.0,On Time (<=3 days)
+CA-2014-142979,0.0,Same/Next Day
+CA-2016-158155,4.0,Acceptable (4-5 days)
+CA-2016-158155,4.0,Acceptable (4-5 days)
+CA-2016-158155,4.0,Acceptable (4-5 days)
+CA-2016-158155,4.0,Acceptable (4-5 days)
+CA-2014-120950,5.0,Acceptable (4-5 days)
+CA-2014-114195,2.0,On Time (<=3 days)
+CA-2014-114195,2.0,On Time (<=3 days)
+CA-2014-114195,2.0,On Time (<=3 days)
+CA-2017-146269,0.0,Same/Next Day
+CA-2017-146269,0.0,Same/Next Day
+CA-2014-153927,0.0,Same/Next Day
+CA-2014-153927,0.0,Same/Next Day
+CA-2014-112291,5.0,Acceptable (4-5 days)
+CA-2014-112291,5.0,Acceptable (4-5 days)
+CA-2014-112291,5.0,Acceptable (4-5 days)
+CA-2017-169607,0.0,Same/Next Day
+CA-2015-127544,4.0,Acceptable (4-5 days)
+CA-2016-112830,4.0,Acceptable (4-5 days)
+CA-2016-112830,4.0,Acceptable (4-5 days)
+CA-2014-122609,0.0,Same/Next Day
+CA-2014-122609,0.0,Same/Next Day
+US-2014-157231,4.0,Acceptable (4-5 days)
+CA-2015-132388,2.0,On Time (<=3 days)
+CA-2015-132388,2.0,On Time (<=3 days)
+US-2017-162124,4.0,Acceptable (4-5 days)
+CA-2016-129630,0.0,Same/Next Day
+CA-2016-129630,0.0,Same/Next Day
+CA-2014-166555,0.0,Same/Next Day
+CA-2016-114405,5.0,Acceptable (4-5 days)
+CA-2016-114405,5.0,Acceptable (4-5 days)
+CA-2016-164889,3.0,On Time (<=3 days)
+CA-2015-145415,0.0,Same/Next Day
+CA-2014-111157,4.0,Acceptable (4-5 days)
+CA-2014-111157,4.0,Acceptable (4-5 days)
+CA-2017-121559,2.0,On Time (<=3 days)
+CA-2017-121559,2.0,On Time (<=3 days)
+CA-2017-121559,2.0,On Time (<=3 days)
+CA-2017-121559,2.0,On Time (<=3 days)
+CA-2017-121559,2.0,On Time (<=3 days)
+CA-2017-137421,5.0,Acceptable (4-5 days)
+CA-2016-146374,5.0,Acceptable (4-5 days)
+CA-2016-146374,5.0,Acceptable (4-5 days)
+CA-2016-146374,5.0,Acceptable (4-5 days)
+CA-2016-130225,0.0,Same/Next Day
+US-2016-103674,4.0,Acceptable (4-5 days)
+US-2016-103674,4.0,Acceptable (4-5 days)
+US-2016-103674,4.0,Acceptable (4-5 days)
+US-2016-103674,4.0,Acceptable (4-5 days)
+US-2016-103674,4.0,Acceptable (4-5 days)
+US-2016-103674,4.0,Acceptable (4-5 days)
+US-2016-103674,4.0,Acceptable (4-5 days)
+US-2015-151435,3.0,On Time (<=3 days)
+CA-2017-163566,3.0,On Time (<=3 days)
+CA-2017-119914,5.0,Acceptable (4-5 days)
