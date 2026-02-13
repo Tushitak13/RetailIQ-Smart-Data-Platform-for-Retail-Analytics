@@ -1,0 +1,30 @@
+[
+  {
+    "timestamp": "2026-02-13T14:53:02.186957",
+    "user_id": "analyst_001",
+    "table": "dim_customer",
+    "action": "SELECT",
+    "rows_accessed": 738
+  },
+  {
+    "timestamp": "2026-02-13T14:53:02.187096",
+    "user_id": "store_manager_west",
+    "table": "fact_sales",
+    "action": "SELECT",
+    "rows_accessed": 1200
+  },
+  {
+    "timestamp": "2026-02-13T14:53:02.187201",
+    "user_id": "admin_001",
+    "table": "dim_customer",
+    "action": "UPDATE",
+    "rows_accessed": 1
+  },
+  {
+    "timestamp": "2026-02-13T14:53:02.187396",
+    "user_id": "analyst_002",
+    "table": "fact_sales",
+    "action": "SELECT",
+    "rows_accessed": 4042
+  }
+]
