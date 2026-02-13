@@ -1,0 +1,1622 @@
+product_sk,Product_Name,Category,Sub_Category,Inventory_Turnover_Ratio,Days_Inventory_Outstanding,Sales,COGS,Quantity
+1,Bush Somerset Collection Bookcase,Furniture,Bookcases,4.0,91.25,1132.98,679.788,10
+2,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",Furniture,Chairs,4.0,91.25,8148.93,4889.358,38
+3,Self-Adhesive Address Labels for Typewriters by Universal,Office Supplies,Labels,4.0,91.25,68.71,41.22599999999999,11
+4,Bretford CR4500 Series Slim Rectangular Table,Furniture,Tables,4.0,91.25,957.58,574.548,5
+5,Eldon Fold 'N Roll Cart System,Office Supplies,Storage,4.0,91.25,176.15,105.69,13
+6,"Eldon Expressions Wood and Plastic Desk Accessories, Cherry Wood",Furniture,Furnishings,4.0,91.25,111.68,67.008,16
+7,Newell 322,Office Supplies,Art,4.0,91.25,15.290000000000001,9.174,9
+8,Mitel 5320 IP Phone VoIP phone,Technology,Phones,4.0,91.25,1209.53,725.718,8
+9,DXL Angle-View Binders with Locking Rings by Samsill,Office Supplies,Binders,4.0,91.25,82.49,49.49399999999999,13
+10,Belkin F5C206VTEL 6 Outlet Surge,Office Supplies,Appliances,4.0,91.25,349.3,209.58,17
+11,Chromcraft Rectangular Conference Tables,Furniture,Tables,4.0,91.25,2274.91,1364.946,12
+12,Konftel 250 Conference phone - Charcoal black,Technology,Phones,4.0,91.25,1367.1299999999999,820.2779999999999,6
+13,Fellowes PB200 Plastic Comb Binding Machine,Office Supplies,Binders,4.0,91.25,1257.93,754.758,9
+14,"Stur-D-Stor Shelving, Vertical 5-Shelf: 72""H x 36""W x 18 1/2""D",Office Supplies,Storage,4.0,91.25,1220.78,732.468,11
+15,Newell 318,Office Supplies,Art,4.0,91.25,36.14,21.684,13
+16,"Acco Six-Outlet Power Strip, 4' Cord Length",Office Supplies,Appliances,4.0,91.25,181.02,108.61200000000001,21
+17,GE 30524EE4,Technology,Phones,4.0,91.25,3802.21,2281.326,23
+18,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",Furniture,Furnishings,4.0,91.25,190.92,114.55199999999999,5
+19,Panasonic Kx-TS550,Technology,Phones,4.0,91.25,423.11,253.86599999999999,10
+20,"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 25/Pack",Technology,Accessories,4.0,91.25,174.71999999999997,104.83199999999998,8
+21,Wilson Jones Leather-Like Binders with DublLock Round Rings,Office Supplies,Binders,4.0,91.25,133.57,80.142,31
+22,Advantus Push Pins,Office Supplies,Fasteners,4.0,91.25,19.62,11.772,9
+23,AT&T CL83451 4-Handset Telephone,Technology,Phones,4.0,91.25,1359.53,815.718,7
+24,"Hunt BOSTON Model 1606 High-Volume Electric Pencil Sharpener, Beige",Office Supplies,Art,4.0,91.25,1113.02,667.812,8
+25,netTALK DUO VoIP Telephone Service,Technology,Phones,4.0,91.25,713.87,428.322,17
+26,"Snap-A-Way Black Print Carbonless Ruled Speed Letter, Triplicate",Office Supplies,Paper,4.0,91.25,447.69,268.614,13
+27,Economy Binders,Office Supplies,Binders,4.0,91.25,26.630000000000003,15.978000000000002,17
+28,"6"" Cubicle Wall Clock, Black",Furniture,Furnishings,4.0,91.25,124.59,74.754,19
+29,"SimpliFile Personal File, Black Granite, 15w x 6-15/16d x 11-1/4h",Office Supplies,Storage,4.0,91.25,79.44999999999999,47.669999999999995,8
+30,"1.7 Cubic Foot Compact ""Cube"" Office Refrigerators",Office Supplies,Appliances,4.0,91.25,707.74,424.644,4
+31,Avery Heavy-Duty EZD  Binder With Locking Rings,Office Supplies,Binders,4.0,91.25,16.74,10.043999999999999,3
+32,"Premium Writing Pencils, Soft, #2 by Central Association for the Blind",Office Supplies,Art,4.0,91.25,20.86,12.516,7
+33,"Sortfiler Multipurpose Personal File Organizer, Black",Office Supplies,Storage,4.0,91.25,89.84,53.904,5
+34,Jet-Pak Recycled Peel 'N' Seal Padded Mailers,Office Supplies,Envelopes,4.0,91.25,236.87,142.12199999999999,8
+35,Eldon Portable Mobile Manager,Office Supplies,Storage,4.0,91.25,333.71000000000004,200.22600000000003,14
+36,Flexible Leather- Look Classic Collection Ring Binder,Office Supplies,Binders,4.0,91.25,17.04,10.223999999999998,4
+37,9-3/4 Diameter Round Wall Clock,Furniture,Furnishings,4.0,91.25,317.17,190.302,24
+38,Fellowes Basic Home/Office Series Surge Protectors,Office Supplies,Appliances,4.0,91.25,212.87,127.722,17
+39,Universal Premium White Copier/Laser Paper (20Lb. and 87 Bright),Office Supplies,Paper,4.0,91.25,23.92,14.352,4
+40,"Hunt PowerHouse Electric Pencil Sharpener, Blue",Office Supplies,Art,4.0,91.25,1230.55,738.3299999999999,33
+41,"Avery Durable Plastic 1"" Binders",Office Supplies,Binders,4.0,91.25,81.72,49.032,21
+42,Hon Racetrack Conference Tables,Furniture,Tables,4.0,91.25,2205.09,1323.054,12
+43,GBC DocuBind 300 Electric Binding Machine,Office Supplies,Binders,4.0,91.25,4155.24,2493.144,13
+44,Artistic Insta-Plaque,Furniture,Furnishings,4.0,91.25,94.08,56.448,6
+45,"Companion Letter/Legal File, Black",Office Supplies,Storage,4.0,91.25,347.4,208.43999999999997,10
+46,Globe Weis Peel & Seel First Class Envelopes,Office Supplies,Envelopes,4.0,91.25,311.83,187.09799999999998,25
+47,KLD Oscar II Style Snap-on Ultra Thin Side Flip Synthetic Leather Cover Case for HTC One HTC M7,Technology,Phones,4.0,91.25,97.2,58.32,10
+48,"Avery Durable Slant Ring Binders, No Labels",Office Supplies,Binders,4.0,91.25,81.99000000000001,49.194,29
+49,"Trav-L-File Heavy-Duty Shuttle II, Black",Office Supplies,Storage,4.0,91.25,644.8299999999999,386.89799999999997,17
+50,"Global Task Chair, Black",Furniture,Chairs,4.0,91.25,1042.03,625.218,22
+51,Eldon Cleatmat Plus Chair Mats for High Pile Carpets,Furniture,Furnishings,4.0,91.25,397.6,238.56,8
+52,Anker 36W 4-Port USB Wall Charger Travel Power Adapter for iPhone 5s 5c 5,Technology,Phones,4.0,91.25,163.92,98.35199999999999,11
+53,Xerox 1916,Office Supplies,Paper,4.0,91.25,307.87,184.722,17
+54,Staples,Office Supplies,Fasteners,4.0,91.25,61.99,37.194,24
+55,"Howard Miller 13-3/4"" Diameter Brushed Chrome Round Wall Clock",Furniture,Furnishings,4.0,91.25,582.5600000000001,349.536,22
+56,Safco Industrial Wire Shelving,Office Supplies,Storage,4.0,91.25,671.93,403.15799999999996,7
+57,Plantronics Cordless Phone Headset with In-line Volume - M214C,Technology,Phones,4.0,91.25,664.05,398.42999999999995,19
+58,Anker Astro 15000mAh USB Portable Charger,Technology,Phones,4.0,91.25,599.88,359.928,13
+59,GBC Prestige Therm-A-Bind Covers,Office Supplies,Binders,4.0,91.25,473.48,284.088,16
+60,Global Deluxe High-Back Manager's Chair,Furniture,Chairs,4.0,91.25,5948.39,3569.034,22
+61,Xerox 1920,Office Supplies,Paper,4.0,91.25,53.82,32.292,9
+62,Wilson Jones International Size A4 Ring Binders,Office Supplies,Binders,4.0,91.25,27.68,16.608,2
+63,BIC Brite Liner Highlighters,Office Supplies,Art,4.0,91.25,23.189999999999998,13.913999999999998,7
+64,Lexmark MX611dhe Monochrome Laser Printer,Technology,Machines,4.0,91.25,11219.93,6731.958,10
+65,Space Solutions HD Industrial Steel Shelving.,Office Supplies,Storage,4.0,91.25,1310.66,786.3960000000001,12
+66,SAFCO Arco Folding Chair,Furniture,Chairs,4.0,91.25,3369.64,2021.7839999999999,17
+67,Sanford Liquid Accent Highlighters,Office Supplies,Art,4.0,91.25,45.42,27.252,8
+68,Kensington 7 Outlet MasterPiece Power Center,Office Supplies,Appliances,4.0,91.25,1281.46,768.876,12
+69,JBL Micro Wireless Portable Bluetooth Speaker,Technology,Phones,4.0,91.25,527.91,316.746,11
+70,"Adams Phone Message Book, Professional, 400 Message Capacity, 5 3/6 x 11",Office Supplies,Paper,4.0,91.25,182.53,109.518,19
+71,Xerox 1913,Office Supplies,Paper,4.0,91.25,277.4,166.43999999999997,5
+72,"Global Value Steno Chair, Gray",Furniture,Chairs,4.0,91.25,680.28,408.16799999999995,13
+73,"Tenex File Box, Personal Filing Tote with Lid, Black",Office Supplies,Storage,4.0,91.25,152.0,91.2,11
+74,Imation Secure+ Hardware Encrypted USB 2.0 Flash Drive; 16GB,Technology,Accessories,4.0,91.25,934.26,560.5559999999999,16
+75,"Atlantic Metals Mobile 4-Shelf Bookcases, Custom Colors",Furniture,Bookcases,4.0,91.25,899.14,539.4839999999999,4
+76,I Need's 3d Hello Kitty Hybrid Silicone Case Cover for HTC One X 4g with 3d Hello Kitty Stylus Pen Green/pink,Technology,Phones,4.0,91.25,165.05,99.03,17
+77,Xerox 205,Office Supplies,Paper,4.0,91.25,98.5,59.099999999999994,16
+78,"Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",Furniture,Bookcases,4.0,91.25,2714.19,1628.514,13
+79,4009 Highlighters by Sanford,Office Supplies,Art,4.0,91.25,57.31,34.386,15
+80,Decoflex Hanging Personal Folder File,Office Supplies,Storage,4.0,91.25,46.26,27.755999999999997,3
+81,"Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Light Blue",Office Supplies,Binders,4.0,91.25,28.479999999999997,17.087999999999997,19
+82,"Wirebound Message Books, 5-1/2 x 4 Forms, 2 or 4 Forms per Page",Office Supplies,Paper,4.0,91.25,32.12,19.272,6
+83,BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables,Furniture,Tables,4.0,91.25,1706.26,1023.756,15
+84,"Bravo II Megaboss 12-Amp Hard Body Upright, Replacement Belts, 2 Belts per Pack",Office Supplies,Appliances,4.0,91.25,48.75,29.25,17
+85,"Eldon 200 Class Desk Accessories, Burgundy",Furniture,Furnishings,4.0,91.25,50.24,30.144,10
+86,Nortel Business Series Terminal T7208 Digital phone,Technology,Phones,4.0,91.25,778.3499999999999,467.00999999999993,7
+87,"Tennsco Lockers, Gray",Office Supplies,Storage,4.0,91.25,209.8,125.88,11
+88,Panasonic KX-TG6844B Expandable Digital Cordless Telephone,Technology,Phones,4.0,91.25,607.11,364.266,12
+89,"Advantus Push Pins, Aluminum Head",Office Supplies,Fasteners,4.0,91.25,58.1,34.86,10
+90,"Gould Plastics 18-Pocket Panel Bin, 34w x 5-1/4d x 20-1/2h",Office Supplies,Storage,4.0,91.25,459.95000000000005,275.97,6
+91,Memorex Micro Travel Drive 8 GB,Technology,Accessories,4.0,91.25,184.6,110.75999999999999,16
+92,Avery 505,Office Supplies,Labels,4.0,91.25,192.4,115.44,14
+93,O'Sullivan 2-Door Barrister Bookcase in Odessa Pine,Furniture,Bookcases,4.0,91.25,814.41,488.64599999999996,7
+94,Speck Products Candyshell Flip Case,Technology,Phones,4.0,91.25,160.95,96.57,7
+95,Cisco 9971 IP Video Phone Charcoal,Technology,Machines,4.0,91.25,1188.0,712.8,9
+96,Sony Micro Vault Click 16 GB USB 2.0 Flash Drive,Technology,Accessories,4.0,91.25,839.8499999999999,503.9099999999999,16
+97,"Sanford Uni-Blazer View Highlighters, Chisel Tip, Yellow",Office Supplies,Art,4.0,91.25,2.2,1.32,1
+98,Bevis 36 x 72 Conference Tables,Furniture,Tables,4.0,91.25,2290.62,1374.3719999999998,23
+99,Rogers Deluxe File Chest,Office Supplies,Storage,4.0,91.25,268.16,160.89600000000002,14
+100,Bush Advantage Collection Round Conference Table,Furniture,Tables,4.0,91.25,2147.26,1288.356,11
+101,Bretford Rectangular Conference Table Tops,Furniture,Tables,4.0,91.25,5435.07,3261.042,19
+102,GBC Instant Index System for Binding Systems,Office Supplies,Binders,4.0,91.25,5.33,3.198,2
+103,"Tenex Contemporary Contur Chairmats for Low and Medium Pile Carpet, Computer, 39"" x 49""",Furniture,Furnishings,4.0,91.25,258.07,154.84199999999998,3
+104,Logitech P710e Mobile Speakerphone,Technology,Accessories,4.0,91.25,5982.24,3589.3439999999996,40
+105,Xerox 4200 Series MultiUse Premium Copy Paper (20Lb. and 84 Bright),Office Supplies,Paper,4.0,91.25,51.74,31.044,11
+106,Xerox 1957,Office Supplies,Paper,4.0,91.25,82.94,49.763999999999996,15
+107,Luxo Professional Fluorescent Magnifier Lamp with Clamp-Mount Base,Furniture,Furnishings,4.0,91.25,419.68,251.808,5
+108,Staple-based wall hangings,Furniture,Furnishings,4.0,91.25,64.28999999999999,38.57399999999999,9
+109,PureGear Roll-On Screen Protector,Technology,Phones,4.0,91.25,31.98,19.188,2
+110,KI Conference Tables,Furniture,Tables,4.0,91.25,843.6,506.15999999999997,18
+111,Eldon 100 Class Desk Accessories,Furniture,Furnishings,4.0,91.25,4.04,2.424,3
+112,"Binney & Smith Crayola Metallic Colored Pencils, 8-Color Set",Office Supplies,Art,4.0,91.25,67.60000000000001,40.56,15
+113,Safco Steel Mobile File Cart,Office Supplies,Storage,4.0,91.25,250.07999999999998,150.04799999999997,3
+114,"Adams Telephone Message Book w/Frequently-Called Numbers Space, 400 Messages per Book",Office Supplies,Paper,4.0,91.25,127.68,76.608,16
+115,Honeywell Enviracaire Portable HEPA Air Cleaner for 17' x 22' Room,Office Supplies,Appliances,4.0,91.25,6914.95,4148.969999999999,23
+116,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",Furniture,Chairs,4.0,91.25,2070.1,1242.06,13
+117,"Wirebound Message Books, Two 4 1/4"" x 5"" Forms per Page",Office Supplies,Paper,4.0,91.25,45.660000000000004,27.396,6
+118,"Fellowes Personal Hanging Folder Files, Navy",Office Supplies,Storage,4.0,91.25,287.73,172.638,23
+119,Tyvek Side-Opening Peel & Seel Expanding Envelopes,Office Supplies,Envelopes,4.0,91.25,633.36,380.016,7
+120,Sabrent 4-Port USB 2.0 Hub,Technology,Accessories,4.0,91.25,27.16,16.296,4
+121,Safco Industrial Shelving,Office Supplies,Storage,4.0,91.25,339.71000000000004,203.82600000000002,5
+122,Acco 3-Hole Punch,Office Supplies,Binders,4.0,91.25,31.54,18.924,9
+123,Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac,Office Supplies,Appliances,4.0,91.25,1.62,0.972,2
+124,Cisco Small Business SPA 502G VoIP phone,Technology,Phones,4.0,91.25,574.39,344.63399999999996,7
+125,Microsoft Sculpt Comfort Mouse,Technology,Accessories,4.0,91.25,759.05,455.42999999999995,20
+126,Safco Commercial Shelving,Office Supplies,Storage,4.0,91.25,437.2,262.32,10
+127,"Recycled Interoffice Envelopes with String and Button Closure, 10 x 13",Office Supplies,Envelopes,4.0,91.25,57.58,34.547999999999995,3
+128,"Bevis Round Bullnose 29"" High Table Top",Furniture,Tables,4.0,91.25,1038.84,623.304,5
+129,Electrix 20W Halogen Replacement Bulb for Zoom-In Desk Lamp,Furniture,Furnishings,4.0,91.25,40.2,24.12,3
+130,"GBC Clear Cover, 8-1/2 x 11, unpunched, 25 covers per pack",Office Supplies,Binders,4.0,91.25,63.67,38.202,7
+131,Boston Heavy-Duty Trimline Electric Pencil Sharpeners,Office Supplies,Art,4.0,91.25,780.84,468.504,17
+132,C-Line Cubicle Keepers Polyproplyene Holder With Velcro Backings,Furniture,Furnishings,4.0,91.25,59.6,35.76,14
+133,Hon 4070 Series Pagoda Armless Upholstered Stacking Chairs,Furniture,Chairs,4.0,91.25,2333.84,1400.304,9
+134,"Eldon Expressions Desk Accessory, Wood Photo Frame, Mahogany",Furniture,Furnishings,4.0,91.25,76.16,45.696,9
+135,Avery 509,Office Supplies,Labels,4.0,91.25,24.53,14.718,10
+136,AT&T 1070 Corded Phone,Technology,Phones,4.0,91.25,624.3399999999999,374.6039999999999,7
+137,Xerox 21,Office Supplies,Paper,4.0,91.25,36.29,21.773999999999997,7
+138,DMI Arturo Collection Mission-style Design Wood Chair,Furniture,Chairs,4.0,91.25,1419.21,851.526,12
+139,Canon imageCLASS MF7460 Monochrome Digital Laser Multifunction Copier,Technology,Machines,4.0,91.25,3991.98,2395.188,2
+140,NETGEAR N750 Dual Band Wi-Fi Gigabit Router,Technology,Accessories,4.0,91.25,1170.0,702.0,14
+141,Telescoping Adjustable Floor Lamp,Furniture,Furnishings,4.0,91.25,127.93,76.758,8
+142,Storex Dura Pro Binders,Office Supplies,Binders,4.0,91.25,118.80000000000001,71.28,25
+143,Hewlett Packard LaserJet 3310 Copier,Technology,Copiers,4.0,91.25,8159.86,4895.915999999999,16
+144,Avery Non-Stick Binders,Office Supplies,Binders,4.0,91.25,38.61,23.166,14
+145,Tuff Stuff Recycled Round Ring Binders,Office Supplies,Binders,4.0,91.25,31.330000000000002,18.798000000000002,11
+146,Hon 5100 Series Wood Tables,Furniture,Tables,4.0,91.25,3840.93,2304.558,15
+147,"Binney & Smith inkTank Erasable Desk Highlighter, Chisel Tip, Yellow, 12/Box",Office Supplies,Art,4.0,91.25,7.56,4.536,3
+148,Easy-staple paper,Office Supplies,Paper,4.0,91.25,93.33,55.998,8
+149,"BIC Brite Liner Highlighters, Chisel Tip",Office Supplies,Art,4.0,91.25,64.8,38.879999999999995,12
+150,Xerox 1881,Office Supplies,Paper,4.0,91.25,944.0899999999999,566.454,37
+151,Acco Hanging Data Binders,Office Supplies,Binders,4.0,91.25,24.39,14.634,8
+152,GBC DocuBind P400 Electric Binding System,Office Supplies,Binders,4.0,91.25,5443.96,3266.3759999999997,8
+153,Sauder Barrister Bookcases,Furniture,Bookcases,4.0,91.25,388.7,233.21999999999997,6
+154,"#10 Gummed Flap White Envelopes, 100/Box",Office Supplies,Envelopes,4.0,91.25,14.870000000000001,8.922,4
+155,"Dixon Prang Watercolor Pencils, 10-Color Set with Brush",Office Supplies,Art,4.0,91.25,71.57,42.94199999999999,17
+156,"Adams Phone Message Book, 200 Message Capacity, 8 1/16 x 11",Office Supplies,Paper,4.0,91.25,199.51999999999998,119.71199999999999,29
+157,Belkin 8 Outlet SurgeMaster II Gold Surge Protector with Phone Protection,Office Supplies,Appliances,4.0,91.25,647.84,388.704,8
+158,"Avery Address/Shipping Labels for Typewriters, 4"" x 2""",Office Supplies,Labels,4.0,91.25,20.7,12.42,2
+159,Lexmark MarkNet N8150 Wireless Print Server,Technology,Machines,4.0,91.25,482.34,289.404,4
+160,3M Hangers With Command Adhesive,Furniture,Furnishings,4.0,91.25,39.96,23.976,11
+161,"Angle-D Binders with Locking Rings, Label Holders",Office Supplies,Binders,4.0,91.25,84.67999999999999,50.80799999999999,16
+162,Logitech LS21 Speaker System - PC Multimedia - 2.1-CH - Wired,Technology,Accessories,4.0,91.25,79.96,47.97599999999999,4
+163,Wilson Jones Century Plastic Molded Ring Binders,Office Supplies,Binders,4.0,91.25,340.62,204.37199999999999,31
+164,Super Decoflex Portable Personal File,Office Supplies,Storage,4.0,91.25,140.81,84.486,10
+165,"Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",Furniture,Bookcases,4.0,91.25,8298.84,4979.304,11
+166,"Contico 72""H Heavy-Duty Storage System",Office Supplies,Storage,4.0,91.25,418.0,250.79999999999998,11
+167,Sony 64GB Class 10 Micro SDHC R40 Memory Card,Technology,Accessories,4.0,91.25,237.52999999999997,142.51799999999997,7
+168,Sharp AL-1530CS Digital Copier,Technology,Copiers,4.0,91.25,5199.9,3119.9399999999996,13
+169,"Wirebound Message Book, 4 per Page",Office Supplies,Paper,4.0,91.25,59.73,35.837999999999994,12
+170,"Bevis Round Conference Table Top, X-Base",Furniture,Tables,4.0,91.25,2061.84,1237.104,16
+171,"Wirebound Service Call Books, 5 1/2"" x 4""",Office Supplies,Paper,4.0,91.25,9.68,5.808,1
+172,Self-Adhesive Removable Labels,Office Supplies,Labels,4.0,91.25,37.8,22.679999999999996,12
+173,O'Sullivan 4-Shelf Bookcase in Odessa Pine,Furniture,Bookcases,4.0,91.25,1857.04,1114.224,24
+174,Novimex High-Tech Fabric Mesh Task Chair,Furniture,Chairs,4.0,91.25,184.55,110.73,3
+175,Xerox 191,Office Supplies,Paper,4.0,91.25,427.57,256.542,22
+176,Global Deluxe Office Fabric Chairs,Furniture,Chairs,4.0,91.25,307.14,184.284,4
+177,Xerox 1987,Office Supplies,Paper,4.0,91.25,40.46,24.276,7
+178,American Pencil,Office Supplies,Art,4.0,91.25,20.97,12.581999999999999,9
+179,"White Envelopes, White Envelopes with Clear Poly Window",Office Supplies,Envelopes,4.0,91.25,76.25,45.75,6
+180,"Epson WorkForce WF-2530 All-in-One Printer, Copier Scanner",Technology,Machines,4.0,91.25,279.96,167.97599999999997,4
+181,Design Ebony Sketching Pencil,Office Supplies,Art,4.0,91.25,6.67,4.002,6
+182,Letter Size Cart,Office Supplies,Storage,4.0,91.25,2114.33,1268.598,15
+183,"Canon Color ImageCLASS MF8580Cdw Wireless Laser All-In-One Printer, Copier, Scanner",Technology,Machines,4.0,91.25,1007.98,604.788,3
+184,Aluminum Document Frame,Furniture,Furnishings,4.0,91.25,85.53999999999999,51.32399999999999,7
+185,Fellowes Bankers Box Staxonsteel Drawer File/Stacking System,Office Supplies,Storage,4.0,91.25,1156.64,693.984,18
+186,Eldon Mobile Mega Data Cart  Mega Stackable  Add-On Trays,Office Supplies,Storage,4.0,91.25,70.95,42.57,3
+187,"Xerox Color Copier Paper, 11"" x 17"", Ream",Office Supplies,Paper,4.0,91.25,296.92,178.15200000000002,13
+188,Office Star - Ergonomically Designed Knee Chair,Furniture,Chairs,4.0,91.25,882.6800000000001,529.6080000000001,12
+189,Avery 520,Office Supplies,Labels,4.0,91.25,44.1,26.46,14
+190,Newell 345,Office Supplies,Art,4.0,91.25,230.15,138.09,13
+191,Fellowes Bankers Box Recycled Super Stor/Drawer,Office Supplies,Storage,4.0,91.25,593.78,356.268,13
+192,Boston 1645 Deluxe Heavier-Duty Electric Pencil Sharpener,Office Supplies,Art,4.0,91.25,765.26,459.156,19
+193,50 Colored Long Pencils,Office Supplies,Art,4.0,91.25,87.38,52.428,9
+194,Newell 342,Office Supplies,Art,4.0,91.25,9.84,5.904,3
+195,Belkin Grip Candy Sheer Case / Cover for iPhone 5 and 5S,Technology,Phones,4.0,91.25,64.97,38.982,8
+196,"Global Geo Office Task Chair, Gray",Furniture,Chairs,4.0,91.25,534.46,320.676,8
+197,SAFCO Boltless Steel Shelving,Office Supplies,Storage,4.0,91.25,1068.22,640.932,11
+198,"Sauder Mission Library with Doors, Fruitwood Finish",Furniture,Bookcases,4.0,91.25,846.13,507.678,9
+199,Samsung Galaxy Note 3,Technology,Phones,4.0,91.25,1495.93,897.558,10
+200,"Decoflex Hanging Personal Folder File, Blue",Office Supplies,Storage,4.0,91.25,246.72,148.03199999999998,17
+201,"Recycled Desk Saver Line ""While You Were Out"" Book, 5 1/2"" X 4""",Office Supplies,Paper,4.0,91.25,107.4,64.44,12
+202,Xerox 1912,Office Supplies,Paper,4.0,91.25,163.14,97.88399999999999,9
+203,Cisco SPA525G2 IP Phone - Wireless,Technology,Phones,4.0,91.25,163.59,98.154,11
+204,Imation USB 2.0 Swivel Flash Drive USB flash drive - 4 GB - Pink,Technology,Accessories,4.0,91.25,9.09,5.454,3
+205,Alphabetical Labels for Top Tab Filing,Office Supplies,Labels,4.0,91.25,201.27999999999997,120.76799999999997,14
+206,O'Sullivan Living Dimensions 2-Shelf Bookcases,Furniture,Bookcases,4.0,91.25,1028.34,617.0039999999999,10
+207,iHome FM Clock Radio with Lightning Dock,Technology,Phones,4.0,91.25,363.95,218.36999999999998,7
+208,Square Credit Card Reader,Technology,Phones,4.0,91.25,105.89,63.534,14
+209,Logitech M510 Wireless Mouse,Technology,Accessories,4.0,91.25,159.96,95.976,5
+210,Sony Micro Vault Click 8 GB USB 2.0 Flash Drive,Technology,Accessories,4.0,91.25,93.98,56.388,2
+211,Eldon Gobal File Keepers,Office Supplies,Storage,4.0,91.25,187.74,112.644,13
+212,Martin Yale Chadless Opener Electric Letter Opener,Office Supplies,Supplies,4.0,91.25,4830.3,2898.18,6
+213,"White Business Envelopes with Contemporary Seam, Recycled White Business Envelopes",Office Supplies,Envelopes,4.0,91.25,150.97,90.582,15
+214,Safco Contoured Stacking Chairs,Furniture,Chairs,4.0,91.25,2240.96,1344.576,10
+215,Tenex Chairmats For Use With Carpeted Floors,Furniture,Furnishings,4.0,91.25,79.9,47.940000000000005,5
+216,Sterilite Officeware Hinged File Box,Office Supplies,Storage,4.0,91.25,117.38,70.428,12
+217,"Premier Elliptical Ring Binder, Black",Office Supplies,Binders,4.0,91.25,286.13,171.678,36
+218,Cardinal Poly Pocket Divider Pockets for Ring Binders,Office Supplies,Binders,4.0,91.25,10.75,6.45,4
+219,Eureka The Boss Cordless Rechargeable Stick Vac,Office Supplies,Appliances,4.0,91.25,744.31,446.58599999999996,15
+220,"Situations Contoured Folding Chairs, 4/Set",Furniture,Chairs,4.0,91.25,1696.41,1017.846,29
+221,Enermax Aurora Lite Keyboard,Technology,Accessories,4.0,91.25,1641.1499999999999,984.6899999999998,21
+222,SanDisk Cruzer 64 GB USB Flash Drive,Technology,Accessories,4.0,91.25,661.02,396.61199999999997,19
+223,Xblue XB-1670-86 X16 Small Office Telephone - Titanium,Technology,Phones,4.0,91.25,604.75,362.84999999999997,5
+224,"Deflect-o EconoMat Studded, No Bevel Mat for Low Pile Carpeting",Furniture,Furnishings,4.0,91.25,826.39,495.83399999999995,26
+225,"Howard Miller 11-1/2"" Diameter Grantwood Wall Clock",Furniture,Furnishings,4.0,91.25,448.55,269.13,11
+226,Zebra Zazzle Fluorescent Highlighters,Office Supplies,Art,4.0,91.25,57.16,34.296,11
+227,Avery 473,Office Supplies,Labels,4.0,91.25,113.85,68.30999999999999,11
+228,Bretford Just In Time Height-Adjustable Multi-Task Work Tables,Furniture,Tables,4.0,91.25,3005.2799999999997,1803.168,8
+229,Xerox 226,Office Supplies,Paper,4.0,91.25,187.92000000000002,112.75200000000001,29
+230,"Alliance Big Bands Rubber Bands, 12/Pack",Office Supplies,Fasteners,4.0,91.25,17.82,10.692,9
+231,Cisco SPA301,Technology,Phones,4.0,91.25,1715.88,1029.528,14
+232,Personal Creations Ink Jet Cards and Labels,Office Supplies,Paper,4.0,91.25,91.84,55.104,8
+233,"GBC White Gloss Covers, Plain Front",Office Supplies,Binders,4.0,91.25,246.16000000000003,147.696,23
+234,Xerox 222,Office Supplies,Paper,4.0,91.25,72.58,43.547999999999995,12
+235,Hon Every-Day Series Multi-Task Chairs,Furniture,Chairs,4.0,91.25,3740.8,2244.48,22
+236,Newell 332,Office Supplies,Art,4.0,91.25,43.51,26.105999999999998,16
+237,Martin-Yale Premier Letter Opener,Office Supplies,Supplies,4.0,91.25,82.43,49.458000000000006,7
+238,AT&T SB67148 SynJ,Technology,Phones,4.0,91.25,475.11999999999995,285.07199999999995,8
+239,Recycled Pressboard Report Cover with Reinforced Top Hinge,Office Supplies,Binders,4.0,91.25,26.810000000000002,16.086000000000002,16
+240,Jabra BIZ 2300 Duo QD Duo Corded Headset,Technology,Phones,4.0,91.25,406.37,243.822,4
+241,"Dot Matrix Printer Tape Reel Labels, White, 5000/Box",Office Supplies,Labels,4.0,91.25,2398.76,1439.256,26
+242,Newell 312,Office Supplies,Art,4.0,91.25,120.3,72.17999999999999,25
+243,Fellowes Superior 10 Outlet Split Surge Protector,Office Supplies,Appliances,4.0,91.25,258.8,155.28,10
+244,Dana Halogen Swing-Arm Architect Lamp,Furniture,Furnishings,4.0,91.25,327.76,196.65599999999998,8
+245,Xerox 1972,Office Supplies,Paper,4.0,91.25,8.45,5.069999999999999,2
+246,Cisco 8x8 Inc. 6753i IP Business Phone System,Technology,Phones,4.0,91.25,1619.88,971.928,17
+247,Tennsco Regal Shelving Units,Office Supplies,Storage,4.0,91.25,243.38,146.028,3
+248,Imation 32GB Pocket Pro USB 3.0 Flash Drive - 32 GB - Black - 1 P ...,Technology,Accessories,4.0,91.25,239.6,143.76,10
+249,Jabra SPEAK 410,Technology,Phones,4.0,91.25,1560.2399999999998,936.1439999999998,19
+250,Office Star - Mesh Screen back chair with Vinyl seat,Furniture,Chairs,4.0,91.25,392.94,235.76399999999998,3
+251,Staples,Office Supplies,Fasteners,4.0,91.25,58.39,35.034,9
+252,Belkin F9H710-06 7 Outlet SurgeMaster Surge Protector,Office Supplies,Appliances,4.0,91.25,169.56,101.736,10
+253,AT&T TR1909W,Technology,Phones,4.0,91.25,932.33,559.398,8
+254,First Data FD10 PIN Pad,Technology,Accessories,4.0,91.25,316.0,189.6,4
+255,"OIC Colored Binder Clips, Assorted Sizes",Office Supplies,Fasteners,4.0,91.25,28.64,17.184,8
+256,Acme Tagit Stainless Steel Antibacterial Scissors,Office Supplies,Supplies,4.0,91.25,23.76,14.256,3
+257,Easy-staple paper,Office Supplies,Paper,4.0,91.25,609.5699999999999,365.74199999999996,18
+258,ClearOne Communications CHAT 70 OC Speaker Phone,Technology,Phones,4.0,91.25,381.58,228.94799999999998,3
+259,12-1/2 Diameter Round Wall Clock,Furniture,Furnishings,4.0,91.25,167.84,100.704,15
+260,"Chromcraft Bull-Nose Wood Round Conference Table Top, Wood Base",Furniture,Tables,4.0,91.25,762.48,457.488,4
+261,Kensington 6 Outlet Guardian Standard Surge Protector,Office Supplies,Appliances,4.0,91.25,266.24,159.744,13
+262,"Southworth 100% Résumé Paper, 24lb.",Office Supplies,Paper,4.0,91.25,210.06,126.036,27
+263,Cubify CubeX 3D Printer Triple Head Print,Technology,Machines,4.0,91.25,7999.98,4799.987999999999,4
+264,"Eureka The Boss Plus 12-Amp Hard Box Upright Vacuum, Red",Office Supplies,Appliances,4.0,91.25,941.85,565.11,13
+265,NETGEAR AC1750 Dual Band Gigabit Smart WiFi Router,Technology,Accessories,4.0,91.25,1119.93,671.958,7
+266,Avery 516,Office Supplies,Labels,4.0,91.25,73.1,43.85999999999999,10
+267,Xerox 1995,Office Supplies,Paper,4.0,91.25,73.87,44.322,13
+268,"Tenex ""The Solids"" Textured Chair Mats",Furniture,Furnishings,4.0,91.25,923.47,554.082,15
+269,Laminate Occasional Tables,Furniture,Tables,4.0,91.25,1233.04,739.824,11
+270,Xerox 220,Office Supplies,Paper,4.0,91.25,89.42,53.652,16
+271,Fellowes 8 Outlet Superior Workstation Surge Protector,Office Supplies,Appliances,4.0,91.25,633.99,380.394,17
+272,SanDisk Cruzer 32 GB USB Flash Drive,Technology,Accessories,4.0,91.25,15.22,9.132,1
+273,Logitech 910-002974 M325 Wireless Mouse for Web Scrolling,Technology,Accessories,4.0,91.25,269.90999999999997,161.94599999999997,9
+274,O'Sullivan Living Dimensions 5-Shelf Bookcases,Furniture,Bookcases,4.0,91.25,2766.67,1660.002,17
+275,"Eaton Premium Continuous-Feed Paper, 25% Cotton, Letter Size, White, 1000 Shts/Box",Office Supplies,Paper,4.0,91.25,510.41999999999996,306.25199999999995,10
+276,"#10- 4 1/8"" x 9 1/2"" Security-Tint Envelopes",Office Supplies,Envelopes,4.0,91.25,97.78999999999999,58.67399999999999,14
+277,Cardinal Holdit Business Card Pockets,Office Supplies,Binders,4.0,91.25,43.82,26.291999999999998,11
+278,"DAX Value U-Channel Document Frames, Easel Back",Furniture,Furnishings,4.0,91.25,69.58,41.748,14
+279,GBC Standard Therm-A-Bind Covers,Office Supplies,Binders,4.0,91.25,323.97,194.382,23
+280,"Seth Thomas 16"" Steel Case Clock",Furniture,Furnishings,4.0,91.25,207.87,124.722,8
+281,Acme Softgrip Scissors,Office Supplies,Supplies,4.0,91.25,125.35,75.21,18
+282,Xerox 1964,Office Supplies,Paper,4.0,91.25,356.3,213.78,17
+283,"Bevis Traditional Conference Table Top, Plinth Base",Furniture,Tables,4.0,91.25,2033.5,1220.1,9
+284,"Personal Folder Holder, Ebony",Office Supplies,Storage,4.0,91.25,44.84,26.904,4
+285,Logitech Wireless Touch Keyboard K400,Technology,Accessories,4.0,91.25,89.96,53.97599999999999,4
+286,Avery 508,Office Supplies,Labels,4.0,91.25,38.29,22.974,9
+287,GBC Standard Plastic Binding Systems Combs,Office Supplies,Binders,4.0,91.25,3.54,2.124,2
+288,GBC Durable Plastic Covers,Office Supplies,Binders,4.0,91.25,89.00999999999999,53.40599999999999,5
+289,Nu-Dell Leatherette Frames,Furniture,Furnishings,4.0,91.25,203.63,122.178,15
+290,"Avery Hi-Liter EverBold Pen Style Fluorescent Highlighters, 4/Pack",Office Supplies,Art,4.0,91.25,76.52,45.912,10
+291,Avery Durable Binders,Office Supplies,Binders,4.0,91.25,13.82,8.292,9
+292,Hewlett Packard 610 Color Digital Copier / Printer,Technology,Copiers,4.0,91.25,3999.92,2399.9519999999998,9
+293,Avery 476,Office Supplies,Labels,4.0,91.25,52.86,31.715999999999998,15
+294,Acco D-Ring Binder w/DublLock,Office Supplies,Binders,4.0,91.25,64.14,38.484,10
+295,Imation 8gb Micro Traveldrive Usb 2.0 Flash Drive,Technology,Accessories,4.0,91.25,93.0,55.8,7
+296,"Safco Value Mate Series Steel Bookcases, Baked Enamel Finish on Steel, Gray",Furniture,Bookcases,4.0,91.25,156.16,93.696,3
+297,Microsoft Natural Ergonomic Keyboard 4000,Technology,Accessories,4.0,91.25,257.90999999999997,154.74599999999998,9
+298,"Lifetime Advantage Folding Chairs, 4/Carton",Furniture,Chairs,4.0,91.25,1744.64,1046.784,9
+299,Xerox 218,Office Supplies,Paper,4.0,91.25,25.92,15.552,4
+300,Model L Table or Wall-Mount Pencil Sharpener,Office Supplies,Art,4.0,91.25,349.01,209.40599999999998,21
+301,ClearOne CHATAttach 160 - speaker phone,Technology,Phones,4.0,91.25,5207.92,3124.752,10
+302,Coloredge Poster Frame,Furniture,Furnishings,4.0,91.25,227.2,136.32,16
+303,Kensington SlimBlade Notebook Wireless Mouse with Nano Receiver,Technology,Accessories,4.0,91.25,429.90999999999997,257.94599999999997,10
+304,Kingston Digital DataTraveler 32GB USB 2.0,Technology,Accessories,4.0,91.25,186.45,111.86999999999999,12
+305,GBC ProClick Punch Binding System,Office Supplies,Binders,4.0,91.25,627.0,376.2,13
+306,"Adams Telephone Message Books, 5 1/4 x 11",Office Supplies,Paper,4.0,91.25,9.66,5.796,2
+307,Fellowes Binding Cases,Office Supplies,Binders,4.0,91.25,262.08,157.248,27
+308,Ibico Plastic and Wire Spiral Binding Combs,Office Supplies,Binders,4.0,91.25,107.91,64.746,15
+309,Acme Preferred Stainless Steel Scissors,Office Supplies,Supplies,4.0,91.25,34.08,20.447999999999997,6
+310,Avery 486,Office Supplies,Labels,4.0,91.25,95.03,57.018,13
+311,"Linden 10"" Round Wall Clock, Black",Furniture,Furnishings,4.0,91.25,223.09,133.85399999999998,19
+312,Maxell DVD-RAM Discs,Technology,Accessories,4.0,91.25,148.32,88.99199999999999,9
+313,Xerox 1884,Office Supplies,Paper,4.0,91.25,375.63,225.378,23
+314,Acme Box Cutter Scissors,Office Supplies,Supplies,4.0,91.25,163.68,98.208,16
+315,Staple magnet,Office Supplies,Storage,4.0,91.25,32.04,19.224,3
+316,OIC Binder Clips,Office Supplies,Fasteners,4.0,91.25,38.66,23.195999999999998,13
+317,Staple remover,Office Supplies,Supplies,4.0,91.25,56.67,34.002,17
+318,Deluxe Chalkboard Eraser Cleaner,Office Supplies,Art,4.0,91.25,60.06,36.036,6
+319,Logitech MX Performance Wireless Mouse,Technology,Accessories,4.0,91.25,789.82,473.892,23
+320,Newell 337,Office Supplies,Art,4.0,91.25,10.5,6.3,4
+321,"Logitech B530 USB Headset - headset - Full size, Binaural",Technology,Phones,4.0,91.25,399.5,239.7,13
+322,Avery 482,Office Supplies,Labels,4.0,91.25,11.56,6.936,4
+323,"Howard Miller 11-1/2"" Diameter Ridgewood Wall Clock",Furniture,Furnishings,4.0,91.25,934.92,560.952,18
+324,Large Capacity Hanging Post Binders,Office Supplies,Binders,4.0,91.25,114.77,68.862,12
+325,GBC Ibimaster 500 Manual ProClick Binding System,Office Supplies,Binders,4.0,91.25,4718.08,2830.848,19
+326,"Adams Write n' Stick Phone Message Book, 11"" X 5 1/4"", 200 Messages",Office Supplies,Paper,4.0,91.25,11.36,6.816,2
+327,Poly Designer Cover & Back,Office Supplies,Binders,4.0,91.25,305.74,183.444,23
+328,File Shuttle I and Handi-File,Office Supplies,Storage,4.0,91.25,209.24,125.544,10
+329,Binding Machine Supplies,Office Supplies,Binders,4.0,91.25,128.35000000000002,77.01,5
+330,Staple envelope,Office Supplies,Envelopes,4.0,91.25,91.92999999999999,55.157999999999994,11
+331,Wilson Jones Hanging Recycled Pressboard Data Binders,Office Supplies,Binders,4.0,91.25,32.64,19.584,4
+332,Permanent Self-Adhesive File Folder Labels for Typewriters by Universal,Office Supplies,Labels,4.0,91.25,20.88,12.527999999999999,9
+333,Deluxe Heavy-Duty Vinyl Round Ring Binder,Office Supplies,Binders,4.0,91.25,279.63,167.778,17
+334,Xerox 1923,Office Supplies,Paper,4.0,91.25,37.41,22.445999999999998,6
+335,Fellowes Neat Ideas Storage Cubes,Office Supplies,Storage,4.0,91.25,337.78999999999996,202.67399999999998,11
+336,Xerox 1931,Office Supplies,Paper,4.0,91.25,38.88,23.328,6
+337,Polycom CX600 IP Phone VoIP phone,Technology,Phones,4.0,91.25,1199.8,719.88,4
+338,Maxell iVDR EX 500GB Cartridge,Technology,Accessories,4.0,91.25,2755.4,1653.24,10
+339,Fellowes High-Stak Drawer Files,Office Supplies,Storage,4.0,91.25,2114.2799999999997,1268.5679999999998,14
+340,Cameo Buff Policy Envelopes,Office Supplies,Envelopes,4.0,91.25,908.56,545.136,17
+341,Acco Perma 4000 Stacking Storage Drawers,Office Supplies,Storage,4.0,91.25,328.04999999999995,196.82999999999996,23
+342,Recycled Eldon Regeneration Jumbo File,Office Supplies,Storage,4.0,91.25,49.12,29.471999999999998,4
+343,Maxell 4.7GB DVD-R,Technology,Accessories,4.0,91.25,1004.65,602.79,39
+344,OtterBox Commuter Series Case - iPhone 5 & 5s,Technology,Phones,4.0,91.25,208.36,125.016,5
+345,Kensington 4 Outlet MasterPiece Compact Power Control Center,Office Supplies,Appliances,4.0,91.25,1301.1200000000001,780.672,16
+346,Newell 324,Office Supplies,Art,4.0,91.25,127.05000000000001,76.23,11
+347,Holmes Odor Grabber,Office Supplies,Appliances,4.0,91.25,187.46,112.476,13
+348,"RSVP Cards & Envelopes, Blank White, 8-1/2"" X 11"", 24 Cards/25 Envelopes/Set",Office Supplies,Paper,4.0,91.25,83.68,50.208000000000006,17
+349,Staple-based wall hangings,Furniture,Furnishings,4.0,91.25,130.54,78.324,22
+350,Color-Coded Legal Exhibit Labels,Office Supplies,Labels,4.0,91.25,9.82,5.892,2
+351,Bulldog Vacuum Base Pencil Sharpener,Office Supplies,Art,4.0,91.25,199.03,119.41799999999999,20
+352,Xerox 212,Office Supplies,Paper,4.0,91.25,38.88,23.328,7
+353,Computer Printout Paper with Letter-Trim Fine Perforations,Office Supplies,Paper,4.0,91.25,191.6,114.96,4
+354,Avery File Folder Labels,Office Supplies,Labels,4.0,91.25,28.230000000000004,16.938000000000002,11
+355,Office Impressions Heavy Duty Welded Shelving & Multimedia Storage Drawers,Office Supplies,Storage,4.0,91.25,501.81,301.086,3
+356,Motorola HK250 Universal Bluetooth Headset,Technology,Phones,4.0,91.25,478.19,286.914,23
+357,Tuf-Vin Binders,Office Supplies,Binders,4.0,91.25,341.07,204.642,15
+358,Wilson Jones Easy Flow II Sheet Lifters,Office Supplies,Binders,4.0,91.25,11.52,6.912,8
+359,Xerox 188,Office Supplies,Paper,4.0,91.25,129.28,77.568,12
+360,Office Star - Contemporary Task Swivel Chair,Furniture,Chairs,4.0,91.25,1087.6,652.56,12
+361,"BIC Brite Liner Grip Highlighters, Assorted, 5/Pack",Office Supplies,Art,4.0,91.25,50.88,30.528,13
+362,Samsung Galaxy S III - 16GB - pebble blue (T-Mobile),Technology,Phones,4.0,91.25,1259.96,755.976,4
+363,"Global Airflow Leather Mesh Back Chair, Black",Furniture,Chairs,4.0,91.25,1404.11,842.4659999999999,12
+364,Acco Suede Grain Vinyl Round Ring Binder,Office Supplies,Binders,4.0,91.25,17.509999999999998,10.505999999999998,12
+365,Cardinal EasyOpen D-Ring Binders,Office Supplies,Binders,4.0,91.25,74.95,44.97,19
+366,"Redi-Strip #10 Envelopes, 4 1/8 x 9 1/2",Office Supplies,Envelopes,4.0,91.25,28.32,16.992,12
+367,UniKeep View Case Binders,Office Supplies,Binders,4.0,91.25,11.24,6.744,7
+368,G.E. Halogen Desk Lamp Bulbs,Furniture,Furnishings,4.0,91.25,27.92,16.752,4
+369,OtterBox Commuter Series Case - Samsung Galaxy S4,Technology,Phones,4.0,91.25,264.89,158.934,12
+370,Iceberg Mobile Mega Data/Printer Cart,Office Supplies,Storage,4.0,91.25,1780.88,1068.528,16
+371,Xerox 2,Office Supplies,Paper,4.0,91.25,131.71,79.026,11
+372,Xerox 1935,Office Supplies,Paper,4.0,91.25,538.15,322.89,21
+373,Cyber Acoustics AC-202b Speech Recognition Stereo Headset,Technology,Phones,4.0,91.25,98.73,59.238,9
+374,Cisco SPA508G,Technology,Phones,4.0,91.25,659.9,395.94,10
+375,Global Commerce Series High-Back Swivel/Tilt Chairs,Furniture,Chairs,4.0,91.25,4759.16,2855.4959999999996,19
+376,Avery 514,Office Supplies,Labels,4.0,91.25,33.410000000000004,20.046000000000003,12
+377,Maxell 4.7GB DVD+RW 3/Pack,Technology,Accessories,4.0,91.25,238.95,143.36999999999998,15
+378,"Atlantic Metals Mobile 5-Shelf Bookcases, Custom Colors",Furniture,Bookcases,4.0,91.25,3470.3,2082.18,15
+379,"Quartet Alpha White Chalk, 12/Pack",Office Supplies,Art,4.0,91.25,15.469999999999999,9.281999999999998,8
+380,Belkin F9S820V06 8 Outlet Surge,Office Supplies,Appliances,4.0,91.25,201.37,120.822,15
+381,"Global Stack Chair without Arms, Black",Furniture,Chairs,4.0,91.25,524.8,314.87999999999994,27
+382,Cisco Unified IP Phone 7945G VoIP phone,Technology,Phones,4.0,91.25,3546.3,2127.78,13
+383,"Deflect-o DuraMat Lighweight, Studded, Beveled Mat for Low Pile Carpeting",Furniture,Furnishings,4.0,91.25,358.26,214.956,9
+384,Eldon Antistatic Chair Mats for Low to Medium Pile Carpets,Furniture,Furnishings,4.0,91.25,905.4900000000001,543.2940000000001,9
+385,"Important Message Pads, 50 4-1/4 x 5-1/2 Forms per Pad",Office Supplies,Paper,4.0,91.25,42.0,25.2,12
+386,"Howard Miller 12"" Round Wall Clock",Furniture,Furnishings,4.0,91.25,282.89,169.73399999999998,9
+387,DIXON Ticonderoga Erasable Checking Pencils,Office Supplies,Art,4.0,91.25,63.61,38.166,13
+388,Eldon Advantage Foldable Chair Mats for Low Pile Carpets,Furniture,Furnishings,4.0,91.25,216.8,130.08,7
+389,Avery Round Ring Poly Binders,Office Supplies,Binders,4.0,91.25,11.65,6.99,7
+390,Avery Hole Reinforcements,Office Supplies,Binders,4.0,91.25,74.15,44.49,21
+391,"Wilson Jones Ledger-Size, Piano-Hinge Binder, 2"", Blue",Office Supplies,Binders,4.0,91.25,667.97,400.782,25
+392,Avery Durable Slant Ring Binders With Label Holder,Office Supplies,Binders,4.0,91.25,26.34,15.803999999999998,11
+393,Round Ring Binders,Office Supplies,Binders,4.0,91.25,4.37,2.622,7
+394,Micropad Numeric Keypads,Technology,Accessories,4.0,91.25,91.95,55.17,5
+395,Chromcraft Round Conference Tables,Furniture,Tables,4.0,91.25,4130.68,2478.408,33
+396,Easy-staple paper,Office Supplies,Paper,4.0,91.25,158.28,94.968,6
+397,Adjustable Depth Letter/Legal Cart,Office Supplies,Storage,4.0,91.25,5298.63,3179.178,31
+398,Ativa V4110MDD Micro-Cut Shredder,Technology,Machines,4.0,91.25,4899.93,2939.958,7
+399,Xerox 224,Office Supplies,Paper,4.0,91.25,16.85,10.110000000000001,3
+400,Innergie mMini Combo Duo USB Travel Charging Kit,Technology,Phones,4.0,91.25,71.98,43.188,2
+401,Stanley Contemporary Battery Pencil Sharpeners,Office Supplies,Art,4.0,91.25,253.65,152.19,21
+402,AT&T 1080 Corded phone,Technology,Phones,4.0,91.25,1452.0900000000001,871.254,13
+403,Logitech G19 Programmable Gaming Keyboard,Technology,Accessories,4.0,91.25,5800.2300000000005,3480.1380000000004,32
+404,"Ampad Evidence Wirebond Steno Books, 6"" x 9""",Office Supplies,Paper,4.0,91.25,7.8500000000000005,4.71,4
+405,Security-Tint Envelopes,Office Supplies,Envelopes,4.0,91.25,73.34,44.004,10
+406,Brown Kraft Recycled Envelopes,Office Supplies,Envelopes,4.0,91.25,118.86,71.316,7
+407,KI Adjustable-Height Table,Furniture,Tables,4.0,91.25,1736.79,1042.0739999999998,26
+408,Xerox 1945,Office Supplies,Paper,4.0,91.25,606.65,363.98999999999995,17
+409,Xerox 216,Office Supplies,Paper,4.0,91.25,102.38,61.428,19
+410,"Eldon Base for stackable storage shelf, platinum",Office Supplies,Storage,4.0,91.25,334.89,200.934,10
+411,Avery 502,Office Supplies,Labels,4.0,91.25,12.6,7.56,5
+412,Steel Personal Filing/Posting Tote,Office Supplies,Storage,4.0,91.25,227.26,136.356,7
+413,"Tyvek  Top-Opening Peel & Seel  Envelopes, Gray",Office Supplies,Envelopes,4.0,91.25,287.52,172.51199999999997,8
+414,Xerox 1896,Office Supplies,Paper,4.0,91.25,49.95,29.97,5
+415,Cardinal Slant-D Ring Binders,Office Supplies,Binders,4.0,91.25,45.19,27.113999999999997,8
+416,Hoover Shoulder Vac Commercial Portable Vacuum,Office Supplies,Appliances,4.0,91.25,1502.85,901.7099999999999,6
+417,Staples,Office Supplies,Fasteners,4.0,91.25,10.51,6.306,4
+418,Acco Expandable Hanging Binders,Office Supplies,Binders,4.0,91.25,25.52,15.312,4
+419,Shocksock Galaxy S4 Armband,Technology,Phones,4.0,91.25,63.510000000000005,38.106,7
+420,Brother DCP1000 Digital 3 in 1 Multifunction Machine,Technology,Copiers,4.0,91.25,1559.94,935.9639999999999,6
+421,"Eldon Regeneration Recycled Desk Accessories, Smoke",Furniture,Furnishings,4.0,91.25,27.49,16.494,17
+422,Hon Deluxe Fabric Upholstered Stacking Chairs,Furniture,Chairs,4.0,91.25,707.54,424.52399999999994,4
+423,"BOSTON Model 1800 Electric Pencil Sharpeners, Putty/Woodgrain",Office Supplies,Art,4.0,91.25,140.24,84.144,9
+424,PowerGen Dual USB Car Charger,Technology,Phones,4.0,91.25,79.92,47.952,8
+425,Ibico Laser Imprintable Binding System Covers,Office Supplies,Binders,4.0,91.25,707.4,424.44,19
+426,"Cardinal HOLDit! Binder Insert Strips,Extra Strips",Office Supplies,Binders,4.0,91.25,50.64,30.384,18
+427,Logitech K350 2.4Ghz Wireless Keyboard,Technology,Accessories,4.0,91.25,567.38,340.428,12
+428,"C-Line Cubicle Keepers Polyproplyene Holder w/Velcro Back, 8-1/2x11, 25/Bx",Furniture,Furnishings,4.0,91.25,109.48,65.688,2
+429,Safco Industrial Wire Shelving System,Office Supplies,Storage,4.0,91.25,272.94,163.76399999999998,3
+430,Xerox 1996,Office Supplies,Paper,4.0,91.25,98.5,59.099999999999994,16
+431,Iris Project Case,Office Supplies,Storage,4.0,91.25,63.84,38.304,8
+432,"Geographics Note Cards, Blank, White, 8 1/2"" x 11""",Office Supplies,Paper,4.0,91.25,40.28,24.168,4
+433,Harbour Creations Steel Folding Chair,Furniture,Chairs,4.0,91.25,1190.25,714.15,18
+434,Kensington Orbit Wireless Mobile Trackball for PC and Mac,Technology,Accessories,4.0,91.25,671.89,403.13399999999996,14
+435,Global Chrome Stack Chair,Furniture,Chairs,4.0,91.25,623.89,374.334,25
+436,Nortel Networks T7316 E Nt8 B27,Technology,Phones,4.0,91.25,380.74,228.444,7
+437,Global Low Back Tilter Chair,Furniture,Chairs,4.0,91.25,858.3299999999999,514.9979999999999,10
+438,Wilson Jones Standard D-Ring Binders,Office Supplies,Binders,4.0,91.25,19.73,11.838,8
+439,"GBC Prepunched Paper, 19-Hole, for Binding Systems, 24-lb",Office Supplies,Binders,4.0,91.25,52.53,31.518,5
+440,"Quartet Omega Colored Chalk, 12/Pack",Office Supplies,Art,4.0,91.25,16.35,9.81,3
+441,"Eldon Expressions Punched Metal & Wood Desk Accessories, Pewter & Cherry",Furniture,Furnishings,4.0,91.25,70.22,42.132,7
+442,Plantronics S12 Corded Telephone Headset System,Technology,Accessories,4.0,91.25,582.0699999999999,349.24199999999996,6
+443,Samsung Galaxy Note 2,Technology,Phones,4.0,91.25,2966.07,1779.642,13
+444,Fellowes Super Stor/Drawer,Office Supplies,Storage,4.0,91.25,333.0,199.79999999999998,12
+445,GE DSL Phone Line Filter,Technology,Phones,4.0,91.25,415.9,249.53999999999996,13
+446,"Eldon Delta Triangular Chair Mat, 52"" x 58"", Clear",Furniture,Furnishings,4.0,91.25,235.17000000000002,141.102,7
+447,Peel & Stick Add-On Corner Pockets,Office Supplies,Binders,4.0,91.25,8.64,5.184,8
+448,Easy-staple paper,Office Supplies,Paper,4.0,91.25,129.79000000000002,77.87400000000001,15
+449,Carina Media Storage Towers in Natural & Black,Office Supplies,Storage,4.0,91.25,182.94,109.764,3
+450,Fellowes Econo/Stor Drawers,Office Supplies,Storage,4.0,91.25,581.58,348.94800000000004,7
+451,Dax Clear Box Frame,Furniture,Furnishings,4.0,91.25,68.09,40.854,9
+452,SANFORD Liquid Accent Tank-Style Highlighters,Office Supplies,Art,4.0,91.25,11.36,6.816,4
+453,"Eldon Image Series Desk Accessories, Ebony",Furniture,Furnishings,4.0,91.25,32.11,19.266,3
+454,Sanford 52201 APSCO Electric Pencil Sharpener,Office Supplies,Art,4.0,91.25,73.75,44.25,2
+455,"Vinyl Coated Wire Paper Clips in Organizer Box, 800/Box",Office Supplies,Fasteners,4.0,91.25,114.80000000000001,68.88000000000001,11
+456,Hon Non-Folding Utility Tables,Furniture,Tables,4.0,91.25,1656.83,994.098,13
+457,Bestar Classic Bookcase,Furniture,Bookcases,4.0,91.25,972.9,583.74,21
+458,Mitel MiVoice 5330e IP Phone,Technology,Phones,4.0,91.25,1649.94,989.9639999999999,6
+459,Westinghouse Clip-On Gooseneck Lamps,Furniture,Furnishings,4.0,91.25,170.75,102.45,22
+460,Howard Miller Distant Time Traveler Alarm Clock,Furniture,Furnishings,4.0,91.25,318.07,190.84199999999998,12
+461,Wilson Jones Active Use Binders,Office Supplies,Binders,4.0,91.25,74.25999999999999,44.55599999999999,15
+462,Pencil and Crayon Sharpener,Office Supplies,Art,4.0,91.25,8.32,4.992,4
+463,"Ampad Phone Message Book, Recycled, 400 Message Capacity, 5 ¾ x 11",Office Supplies,Paper,4.0,91.25,49.92,29.951999999999998,8
+464,Panasonic KP-380BK Classic Electric Pencil Sharpener,Office Supplies,Art,4.0,91.25,546.89,328.13399999999996,17
+465,Memorex Froggy Flash Drive 4 GB,Technology,Accessories,4.0,91.25,101.11,60.666,10
+466,"Maxell 74 Minute CD-R Spindle, 50/Pack",Technology,Accessories,4.0,91.25,461.34000000000003,276.80400000000003,22
+467,Geemarc AmpliPOWER60,Technology,Phones,4.0,91.25,1540.48,924.288,20
+468,Avery 48,Office Supplies,Labels,4.0,91.25,15.12,9.072,3
+469,Avery Arch Ring Binders,Office Supplies,Binders,4.0,91.25,1193.3200000000002,715.9920000000001,43
+470,Xerox 1915,Office Supplies,Paper,4.0,91.25,461.34,276.804,5
+471,Avery Reinforcements for Hole-Punch Pages,Office Supplies,Binders,4.0,91.25,6.93,4.1579999999999995,14
+472,Colorific Watercolor Pencils,Office Supplies,Art,4.0,91.25,36.120000000000005,21.672,8
+473,"ACCOHIDE 3-Ring Binder, Blue, 1""",Office Supplies,Binders,4.0,91.25,70.21000000000001,42.126000000000005,20
+474,"Tenex Personal Project File with Scoop Front Design, Black",Office Supplies,Storage,4.0,91.25,37.74,22.644000000000002,3
+475,"Westinghouse Floor Lamp with Metal Mesh Shade, Black",Furniture,Furnishings,4.0,91.25,95.96,57.57599999999999,4
+476,Pyle PMP37LED,Technology,Phones,4.0,91.25,2226.97,1336.1819999999998,27
+477,Avery 517,Office Supplies,Labels,4.0,91.25,3.69,2.214,1
+478,Avery 477,Office Supplies,Labels,4.0,91.25,152.65,91.59,5
+479,Memorex Froggy Flash Drive 8 GB,Technology,Accessories,4.0,91.25,99.4,59.64,7
+480,Wilson SignalBoost 841262 DB PRO Amplifier Kit,Technology,Phones,4.0,91.25,2807.61,1684.566,9
+481,Fellowes Black Plastic Comb Bindings,Office Supplies,Binders,4.0,91.25,23.830000000000002,14.298,7
+482,"Hot File 7-Pocket, Floor Stand",Office Supplies,Storage,4.0,91.25,2569.97,1541.9819999999997,16
+483,Acco 6 Outlet Guardian Premium Surge Suppressor,Office Supplies,Appliances,4.0,91.25,353.81,212.286,29
+484,Avoid Verbal Orders Carbonless Minifold Book,Office Supplies,Paper,4.0,91.25,41.239999999999995,24.743999999999996,13
+485,Cush Cases Heavy Duty Rugged Cover Case for Samsung Galaxy S5 - Purple,Technology,Phones,4.0,91.25,30.69,18.414,9
+486,Advantus Rolling Storage Box,Office Supplies,Storage,4.0,91.25,96.03999999999999,57.623999999999995,7
+487,Wilson Jones Legal Size Ring Binders,Office Supplies,Binders,4.0,91.25,347.44,208.464,23
+488,Cisco CP-7937G Unified IP Conference Station Phone,Technology,Machines,4.0,91.25,1391.4,834.84,4
+489,"Avery 3 1/2"" Diskette Storage Pages, 10/Pack",Office Supplies,Binders,4.0,91.25,25.060000000000002,15.036000000000001,8
+490,Avery Recycled Flexi-View Covers for Binding Systems,Office Supplies,Binders,4.0,91.25,109.0,65.39999999999999,23
+491,"Global High-Back Leather Tilter, Burgundy",Furniture,Chairs,4.0,91.25,651.8499999999999,391.10999999999996,7
+492,Motorola L804,Technology,Phones,4.0,91.25,183.96,110.376,5
+493,Things To Do Today Pad,Office Supplies,Paper,4.0,91.25,36.39,21.834,7
+494,Fellowes Bankers Box Stor/Drawer Steel Plus,Office Supplies,Storage,4.0,91.25,486.09000000000003,291.654,19
+495,Xerox 1909,Office Supplies,Paper,4.0,91.25,306.01,183.606,12
+496,DYMO CardScan Personal V9 Business Card Scanner,Technology,Machines,4.0,91.25,95.99,57.593999999999994,2
+497,Case Logic 2.4GHz Wireless Keyboard,Technology,Accessories,4.0,91.25,489.9,293.94,11
+498,Adtran 1202752G1,Technology,Phones,4.0,91.25,1083.51,650.106,9
+499,Hon 2090 Pillow Soft Series Mid Back Swivel/Tilt Chairs,Furniture,Chairs,4.0,91.25,2472.63,1483.578,11
+500,"Deflect-o SuperTray Unbreakable Stackable Tray, Letter, Black",Furniture,Furnishings,4.0,91.25,350.16,210.096,15
+501,Logitech Desktop MK120 Mouse and keyboard Combo,Technology,Accessories,4.0,91.25,140.7,84.41999999999999,9
+502,Avery 490,Office Supplies,Labels,4.0,91.25,41.44,24.863999999999997,3
+503,"Pressboard Data Binder, Crimson, 12"" X 8 1/2""",Office Supplies,Binders,4.0,91.25,17.09,10.254,4
+504,Hoover WindTunnel Plus Canister Vacuum,Office Supplies,Appliances,4.0,91.25,2179.5,1307.7,6
+505,Xerox 1934,Office Supplies,Paper,4.0,91.25,705.3499999999999,423.2099999999999,13
+506,Newell 329,Office Supplies,Art,4.0,91.25,24.27,14.562,8
+507,Panasonic KX T7731-B Digital phone,Technology,Phones,4.0,91.25,616.74,370.044,7
+508,"Safco Wire Cube Shelving System, For Use as 4 or 5 14"" Cubes, Black",Office Supplies,Storage,4.0,91.25,222.46,133.476,7
+509,Ibico Standard Transparent Covers,Office Supplies,Binders,4.0,91.25,166.44,99.86399999999999,17
+510,"Carina 42""Hx23 3/4""W Media Storage Unit",Office Supplies,Storage,4.0,91.25,647.8299999999999,388.6979999999999,9
+511,White Computer Printout Paper by Universal,Office Supplies,Paper,4.0,91.25,441.85999999999996,265.116,12
+512,Revere Boxed Rubber Bands by Revere,Office Supplies,Fasteners,4.0,91.25,9.45,5.669999999999999,5
+513,"Eldon 200 Class Desk Accessories, Black",Furniture,Furnishings,4.0,91.25,75.36,45.216,12
+514,"Bush Andora Bookcase, Maple/Graphite Gray Finish",Furniture,Bookcases,4.0,91.25,803.9300000000001,482.358,7
+515,Ames Color-File Green Diamond Border X-ray Mailers,Office Supplies,Envelopes,4.0,91.25,167.96,100.776,2
+516,Aastra 57i VoIP phone,Technology,Phones,4.0,91.25,2100.9300000000003,1260.5580000000002,13
+517,"White Dual Perf Computer Printout Paper, 2700 Sheets, 1 Part, Heavyweight, 20 lbs., 14 7/8 x 11",Office Supplies,Paper,4.0,91.25,753.88,452.328,18
+518,"Belkin 19"" Vented Equipment Shelf, Black",Office Supplies,Storage,4.0,91.25,586.87,352.122,13
+519,Xerox 1943,Office Supplies,Paper,4.0,91.25,342.37,205.422,7
+520,"Bevis Oval Conference Table, Walnut",Furniture,Tables,4.0,91.25,2714.19,1628.514,15
+521,Hon 61000 Series Interactive Training Tables,Furniture,Tables,4.0,91.25,288.8,173.28,10
+522,"LF Elite 3D Dazzle Designer Hard Case Cover, Lf Stylus Pen and Wiper For Apple Iphone 5c Mini Lite",Technology,Phones,4.0,91.25,119.9,71.94,12
+523,Airmail Envelopes,Office Supplies,Envelopes,4.0,91.25,453.22,271.932,6
+524,KI Adjustable-Height Table,Furniture,Tables,4.0,91.25,825.4,495.23999999999995,12
+525,Panasonic KP-150 Electric Pencil Sharpener,Office Supplies,Art,4.0,91.25,196.25,117.75,6
+526,Hon GuestStacker Chair,Furniture,Chairs,4.0,91.25,3128.0499999999997,1876.8299999999997,15
+527,Storex Dura Pro Binders,Office Supplies,Binders,4.0,91.25,80.19,48.114,20
+528,Xerox 1948,Office Supplies,Paper,4.0,91.25,39.96,23.976,4
+529,OtterBox Defender Series Case - iPhone 5c,Technology,Phones,4.0,91.25,88.75,53.25,3
+530,Ibico Plastic Spiral Binding Combs,Office Supplies,Binders,4.0,91.25,270.56,162.33599999999998,12
+531,"Iceberg OfficeWorks 42"" Round Tables",Furniture,Tables,4.0,91.25,1811.7599999999998,1087.0559999999998,12
+532,DAX Wood Document Frame,Furniture,Furnishings,4.0,91.25,329.52,197.712,25
+533,Wilson Jones Heavy-Duty Casebound Ring Binders with Metal Hinges,Office Supplies,Binders,4.0,91.25,263.26,157.956,8
+534,SanDisk Ultra 64 GB MicroSDHC Class 10 Memory Card,Technology,Accessories,4.0,91.25,735.8199999999999,441.49199999999996,19
+535,Global Executive Mid-Back Manager's Chair,Furniture,Chairs,4.0,91.25,2327.84,1396.704,8
+536,Xerox 1946,Office Supplies,Paper,4.0,91.25,33.7,20.220000000000002,6
+537,"Eldon Image Series Desk Accessories, Burgundy",Furniture,Furnishings,4.0,91.25,289.95,173.97,38
+538,Xerox 192,Office Supplies,Paper,4.0,91.25,71.28,42.768,11
+539,HP Office Recycled Paper (20Lb. and 87 Bright),Office Supplies,Paper,4.0,91.25,92.48,55.488,16
+540,X-Rack File for Hanging Folders,Office Supplies,Storage,4.0,91.25,214.51,128.706,19
+541,Cisco IP Phone 7961G-GE VoIP phone,Technology,Phones,4.0,91.25,1472.75,883.65,9
+542,Logitech Trackman Marble Mouse,Technology,Accessories,4.0,91.25,419.86,251.916,14
+543,"Crayola Anti Dust Chalk, 12/Pack",Office Supplies,Art,4.0,91.25,13.1,7.859999999999999,9
+544,Acco Perma 3000 Stacking Storage Drawers,Office Supplies,Storage,4.0,91.25,292.09000000000003,175.25400000000002,19
+545,"Sanford Colorific Eraseable Coloring Pencils, 12 Count",Office Supplies,Art,4.0,91.25,13.12,7.871999999999999,5
+546,Xerox 197,Office Supplies,Paper,4.0,91.25,346.98,208.18800000000002,13
+547,Tennsco Double-Tier Lockers,Office Supplies,Storage,4.0,91.25,4545.41,2727.2459999999996,22
+548,Prang Dustless Chalk Sticks,Office Supplies,Art,4.0,91.25,31.919999999999998,19.151999999999997,19
+549,Hon 2111 Invitation Series Corner Table,Furniture,Tables,4.0,91.25,2763.69,1658.214,15
+550,Ibico Covers for Plastic or Wire Binding Elements,Office Supplies,Binders,4.0,91.25,103.5,62.099999999999994,13
+551,"Leather Task Chair, Black",Furniture,Chairs,4.0,91.25,63.69,38.214,1
+552,Avery Durable Poly Binders,Office Supplies,Binders,4.0,91.25,40.92,24.552,24
+553,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Dark Blue",Office Supplies,Binders,4.0,91.25,47.629999999999995,28.577999999999996,20
+554,"Howard Miller 13"" Diameter Pewter Finish Round Wall Clock",Furniture,Furnishings,4.0,91.25,489.51,293.70599999999996,13
+555,Xerox 1970,Office Supplies,Paper,4.0,91.25,44.82,26.892,10
+556,Xerox 1960,Office Supplies,Paper,4.0,91.25,570.03,342.018,20
+557,Rubber Band Ball,Office Supplies,Fasteners,4.0,91.25,47.120000000000005,28.272000000000002,13
+558,Loose Memo Sheets,Office Supplies,Paper,4.0,91.25,7.3,4.38,2
+559,Belkin OmniView SE Rackmount Kit,Office Supplies,Storage,4.0,91.25,248.35999999999999,149.016,7
+560,Eldon Wave Desk Accessories,Furniture,Furnishings,4.0,91.25,8.32,4.992,5
+561,Stockwell Push Pins,Office Supplies,Fasteners,4.0,91.25,35.75,21.45,18
+562,GBC Recycled Grain Textured Covers,Office Supplies,Binders,4.0,91.25,193.43,116.05799999999999,7
+563,"Message Book, Standard Line ""While You Were Out"", 5 1/2"" X 4"", 200 Sets/Book",Office Supplies,Paper,4.0,91.25,34.24,20.544,4
+564,Canon Imageclass D680 Copier / Fax,Technology,Copiers,4.0,91.25,5319.92,3191.9519999999998,9
+565,Avery 481,Office Supplies,Labels,4.0,91.25,51.129999999999995,30.677999999999997,17
+566,Newell 310,Office Supplies,Art,4.0,91.25,15.490000000000002,9.294,9
+567,Staple envelope,Office Supplies,Envelopes,4.0,91.25,79.42,47.652,7
+568,Newell 319,Office Supplies,Art,4.0,91.25,253.95,152.36999999999998,15
+569,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Light Blue",Office Supplies,Binders,4.0,91.25,84.95,50.97,23
+570,Avery 518,Office Supplies,Labels,4.0,91.25,62.37,37.422,21
+571,Newell 333,Office Supplies,Art,4.0,91.25,38.92,23.352,15
+572,"While You Were Out Pads, 50 per Pad, 4 x 5 1/4, Green Cycle",Office Supplies,Paper,4.0,91.25,16.08,9.647999999999998,4
+573,Sensible Storage WireTech Storage Systems,Office Supplies,Storage,4.0,91.25,709.8,425.87999999999994,10
+574,Nortel Meridian M3904 Professional Digital phone,Technology,Phones,4.0,91.25,1570.7,942.42,11
+575,Longer-Life Soft White Bulbs,Furniture,Furnishings,4.0,91.25,36.96,22.176,12
+576,Panasonic KX-TG9471B,Technology,Phones,4.0,91.25,2351.88,1411.128,12
+577,Xerox 1886,Office Supplies,Paper,4.0,91.25,651.4399999999999,390.864,14
+578,"Acco Clips to Go Binder Clips, 24 Clips in Two Sizes",Office Supplies,Fasteners,4.0,91.25,30.53,18.318,9
+579,Belkin QODE FastFit Bluetooth Keyboard,Technology,Accessories,4.0,91.25,247.8,148.68,4
+580,Rogers Handheld Barrel Pencil Sharpener,Office Supplies,Art,4.0,91.25,66.31,39.786,26
+581,"Tenex 46"" x 60"" Computer Anti-Static Chairmat, Rectangular Shaped",Furniture,Furnishings,4.0,91.25,890.23,534.138,10
+582,Prang Drawing Pencil Set,Office Supplies,Art,4.0,91.25,31.689999999999998,19.014,12
+583,Avery 480,Office Supplies,Labels,4.0,91.25,18.75,11.25,5
+584,Avery 489,Office Supplies,Labels,4.0,91.25,62.099999999999994,37.26,6
+585,Peel-Off China Markers,Office Supplies,Art,4.0,91.25,29.79,17.874,3
+586,Acco Perma 2700 Stacking Storage Drawers,Office Supplies,Storage,4.0,91.25,89.22,53.532,3
+587,"Wirebound Message Books, Four 2 3/4 x 5 White Forms per Page",Office Supplies,Paper,4.0,91.25,120.42,72.252,18
+588,"GE 48"" Fluorescent Tube, Cool White Energy Saver, 34 Watts, 30/Box",Furniture,Furnishings,4.0,91.25,436.61,261.966,5
+589,Micro Innovations USB RF Wireless Keyboard with Mouse,Technology,Accessories,4.0,91.25,150.0,90.0,6
+590,Smead Adjustable Mobile File Trolley with Lockable Top,Office Supplies,Storage,4.0,91.25,1844.44,1106.664,5
+591,Xerox 1898,Office Supplies,Paper,4.0,91.25,37.41,22.445999999999998,7
+592,Hanging Personal Folder File,Office Supplies,Storage,4.0,91.25,219.8,131.88,15
+593,SanDisk Ultra 32 GB MicroSDHC Class 10 Memory Card,Technology,Accessories,4.0,91.25,344.76,206.856,18
+594,"Brites Rubber Bands, 1 1/2 oz. Box",Office Supplies,Fasteners,4.0,91.25,13.07,7.842,7
+595,Bush Advantage Collection Racetrack Conference Table,Furniture,Tables,4.0,91.25,2205.89,1323.5339999999999,9
+596,invisibleSHIELD by ZAGG Smudge-Free Screen Protector,Technology,Phones,4.0,91.25,75.56,45.336,6
+597,DAX Natural Wood-Tone Poster Frame,Furniture,Furnishings,4.0,91.25,301.88,181.128,15
+598,StarTech.com 10/100 VDSL2 Ethernet Extender Kit,Technology,Machines,4.0,91.25,399.54,239.724,4
+599,"C-Line Magnetic Cubicle Keepers, Clear Polypropylene",Furniture,Furnishings,4.0,91.25,59.28,35.568,12
+600,Xerox 210,Office Supplies,Paper,4.0,91.25,38.88,23.328,7
+601,Electrix Halogen Magnifier Lamp,Furniture,Furnishings,4.0,91.25,854.92,512.952,6
+602,Staples,Office Supplies,Fasteners,4.0,91.25,42.980000000000004,25.788,19
+603,"GBC Standard Recycled Report Covers, Clear Plastic Sheets",Office Supplies,Binders,4.0,91.25,135.83,81.498,20
+604,O'Sullivan Manor Hill 2-Door Library in Brianna Oak,Furniture,Bookcases,4.0,91.25,676.87,406.122,5
+605,"Fellowes Strictly Business Drawer File, Letter/Legal Size",Office Supplies,Storage,4.0,91.25,901.44,540.864,7
+606,Kingston Digital DataTraveler 16GB USB 2.0,Technology,Accessories,4.0,91.25,289.98,173.988,34
+607,"TRENDnet 56K USB 2.0 Phone, Internet and Fax Modem",Technology,Accessories,4.0,91.25,388.34999999999997,233.00999999999996,15
+608,Avery 494,Office Supplies,Labels,4.0,91.25,27.14,16.284,11
+609,"Fellowes Mobile File Cart, Black",Office Supplies,Storage,4.0,91.25,1231.1599999999999,738.6959999999999,21
+610,Xerox 1940,Office Supplies,Paper,4.0,91.25,109.92,65.952,2
+611,Xerox 1962,Office Supplies,Paper,4.0,91.25,79.61,47.766,21
+612,Wilson Electronics DB Pro Signal Booster,Technology,Phones,4.0,91.25,5298.4,3179.0399999999995,19
+613,Logitech ClearChat Comfort/USB Headset H390,Technology,Accessories,4.0,91.25,398.34000000000003,239.00400000000002,14
+614,"Sauder Camden County Barrister Bookcase, Planked Cherry Finish",Furniture,Bookcases,4.0,91.25,411.33,246.79799999999997,4
+615,"DXL Angle-View Binders with Locking Rings, Black",Office Supplies,Binders,4.0,91.25,47.92,28.752,10
+616,"Sauder Camden County Collection Libraries, Planked Cherry Finish",Furniture,Bookcases,4.0,91.25,1098.06,658.8359999999999,10
+617,"Acme 10"" Easy Grip Assistive Scissors",Office Supplies,Supplies,4.0,91.25,140.24,84.144,8
+618,Advantus Panel Wall Certificate Holder - 8.5x11,Furniture,Furnishings,4.0,91.25,129.32,77.592,11
+619,Avery 478,Office Supplies,Labels,4.0,91.25,9.82,5.892,2
+620,Staple remover,Office Supplies,Supplies,4.0,91.25,11.34,6.803999999999999,6
+621,Tops Wirebound Message Log Books,Office Supplies,Paper,4.0,91.25,30.270000000000003,18.162000000000003,11
+622,Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat,Furniture,Chairs,4.0,91.25,3509.8,2105.88,10
+623,"Hunt BOSTON Vista Battery-Operated Pencil Sharpener, Black",Office Supplies,Art,4.0,91.25,55.97,33.582,5
+624,OIC Bulk Pack Metal Binder Clips,Office Supplies,Fasteners,4.0,91.25,46.77,28.062,16
+625,"Ink Jet Note and Greeting Cards, 8-1/2"" x 5-1/2"" Card Size",Office Supplies,Paper,4.0,91.25,53.95,32.37,3
+626,Mediabridge Sport Armband iPhone 5s,Technology,Phones,4.0,91.25,117.89000000000001,70.73400000000001,14
+627,Bevis 44 x 96 Conference Tables,Furniture,Tables,4.0,91.25,2223.72,1334.2319999999997,12
+628,Avery 501,Office Supplies,Labels,4.0,91.25,42.8,25.679999999999996,14
+629,Samsung Galaxy S4 Mini,Technology,Phones,4.0,91.25,1127.98,676.788,3
+630,Bady BDG101FRU Card Printer,Technology,Machines,4.0,91.25,5439.93,3263.958,8
+631,Xerox 1998,Office Supplies,Paper,4.0,91.25,46.66,27.996,9
+632,Honeywell Quietcare HEPA Air Cleaner,Office Supplies,Appliances,4.0,91.25,377.52000000000004,226.51200000000003,5
+633,Round Specialty Laser Printer Labels,Office Supplies,Labels,4.0,91.25,140.34,84.204,14
+634,"Dana Fluorescent Magnifying Lamp, White, 36""",Furniture,Furnishings,4.0,91.25,295.68,177.408,7
+635,Xerox 195,Office Supplies,Paper,4.0,91.25,66.8,40.08,11
+636,Flat Face Poster Frame,Furniture,Furnishings,4.0,91.25,97.97,58.782,10
+637,"Wilson Jones Elliptical Ring 3 1/2"" Capacity Binders, 800 sheets",Office Supplies,Binders,4.0,91.25,410.88,246.528,20
+638,"Holmes Replacement Filter for HEPA Air Cleaner, Very Large Room, HEPA Filter",Office Supplies,Appliances,4.0,91.25,433.51,260.106,7
+639,Classic Ivory Antique Telephone ZL1810,Technology,Phones,4.0,91.25,341.67,205.002,4
+640,"Personal Filing Tote with Lid, Black/Gray",Office Supplies,Storage,4.0,91.25,127.18,76.308,9
+641,Jabra SPEAK 410 Multidevice Speakerphone,Technology,Phones,4.0,91.25,1194.74,716.8439999999999,8
+642,Staple envelope,Office Supplies,Envelopes,4.0,91.25,39.12,23.471999999999998,4
+643,Newell 309,Office Supplies,Art,4.0,91.25,62.37,37.422,6
+644,GBC DocuBind TL300 Electric Binding System,Office Supplies,Binders,4.0,91.25,8521.41,5112.846,17
+645,Hand-Finished Solid Wood Document Frame,Furniture,Furnishings,4.0,91.25,191.69,115.014,6
+646,Xerox 1891,Office Supplies,Paper,4.0,91.25,958.64,575.184,21
+647,Hewlett-Packard Deskjet 5550 Printer,Technology,Machines,4.0,91.25,597.13,358.27799999999996,3
+648,Staple magnet,Office Supplies,Storage,4.0,91.25,148.21,88.926,19
+649,Cisco SPA 502G IP Phone,Technology,Phones,4.0,91.25,1247.48,748.4879999999999,13
+650,Logitech Wireless Headset h800,Technology,Accessories,4.0,91.25,1079.8899999999999,647.9339999999999,12
+651,Avaya 4621SW VoIP phone,Technology,Phones,4.0,91.25,532.4399999999999,319.46399999999994,9
+652,O'Sullivan 2-Shelf Heavy-Duty Bookcases,Furniture,Bookcases,4.0,91.25,301.20000000000005,180.72000000000003,7
+653,GBC Twin Loop Wire Binding Elements,Office Supplies,Binders,4.0,91.25,222.98000000000002,133.788,14
+654,"Perma STOR-ALL Hanging File Box, 13 1/8""W x 12 1/4""D x 10 1/2""H",Office Supplies,Storage,4.0,91.25,162.66,97.59599999999999,30
+655,DAX Cubicle Frames - 8x10,Furniture,Furnishings,4.0,91.25,92.32,55.391999999999996,16
+656,BIC Brite Liner Grip Highlighters,Office Supplies,Art,4.0,91.25,14.1,8.459999999999999,10
+657,WD My Passport Ultra 2TB Portable External Hard Drive,Technology,Accessories,4.0,91.25,1190.0,714.0,10
+658,3M Organizer Strips,Office Supplies,Binders,4.0,91.25,61.56,36.936,21
+659,"Holmes Replacement Filter for HEPA Air Cleaner, Medium Room",Office Supplies,Appliances,4.0,91.25,90.64,54.384,8
+660,Logitech G105 Gaming Keyboard,Technology,Accessories,4.0,91.25,617.45,370.47,11
+661,Imation Clip USB flash drive - 8 GB,Technology,Accessories,4.0,91.25,142.88,85.728,8
+662,Newell 3-Hole Punched Plastic Slotted Magazine Holders for Binders,Office Supplies,Binders,4.0,91.25,34.730000000000004,20.838,10
+663,Fellowes Stor/Drawer Steel Plus Storage Drawers,Office Supplies,Storage,4.0,91.25,1049.73,629.838,11
+664,Acco 6 Outlet Guardian Standard Surge Suppressor,Office Supplies,Appliances,4.0,91.25,24.18,14.508,2
+665,Blackstonian Pencils,Office Supplies,Art,4.0,91.25,43.790000000000006,26.274000000000004,17
+666,Newell 321,Office Supplies,Art,4.0,91.25,49.2,29.52,17
+667,Jabra Supreme Plus Driver Edition Headset,Technology,Phones,4.0,91.25,2063.83,1238.298,21
+668,Binder Posts,Office Supplies,Binders,4.0,91.25,35.59,21.354000000000003,7
+669,Bevis Round Conference Table Top & Single Column Base,Furniture,Tables,4.0,91.25,1536.5700000000002,921.942,12
+670,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Office Supplies,Envelopes,4.0,91.25,26.22,15.732,3
+671,Xerox 1978,Office Supplies,Paper,4.0,91.25,72.83,43.698,15
+672,3.6 Cubic Foot Counter Height Office Refrigerator,Office Supplies,Appliances,4.0,91.25,1944.4899999999998,1166.6939999999997,13
+673,Advantus Panel Wall Acrylic Frame,Furniture,Furnishings,4.0,91.25,52.51,31.505999999999997,12
+674,AT&T CL82213,Technology,Phones,4.0,91.25,394.26,236.55599999999998,14
+675,"Dixon Ticonderoga Erasable Colored Pencil Set, 12-Color",Office Supplies,Art,4.0,91.25,41.86,25.116,7
+676,"O'Sullivan Elevations Bookcase, Cherry Finish",Furniture,Bookcases,4.0,91.25,497.72,298.632,5
+677,Logitech Wireless Performance Mouse MX for PC and Mac,Technology,Accessories,4.0,91.25,399.96,239.97599999999997,5
+678,Eldon ProFile File 'N Store Portable File Tub Letter/Legal Size Black,Office Supplies,Storage,4.0,91.25,393.92,236.352,22
+679,"Square Ring Data Binders, Rigid 75 Pt. Covers, 11"" x 14-7/8""",Office Supplies,Binders,4.0,91.25,115.58000000000001,69.348,7
+680,Premium Transparent Presentation Covers by GBC,Office Supplies,Binders,4.0,91.25,310.51,186.30599999999998,18
+681,GBC Personal VeloBind Strips,Office Supplies,Binders,4.0,91.25,79.06,47.436,12
+682,Novimex Fabric Task Chair,Furniture,Chairs,4.0,91.25,585.41,351.246,13
+683,"Master Big Foot Doorstop, Beige",Furniture,Furnishings,4.0,91.25,93.98,56.388,19
+684,Anker Ultra-Slim Mini Bluetooth 3.0 Wireless Keyboard,Technology,Accessories,4.0,91.25,107.94999999999999,64.77,6
+685,"Plantronics CS 50-USB - headset - Convertible, Monaural",Technology,Phones,4.0,91.25,897.53,538.5179999999999,8
+686,"Floodlight Indoor Halogen Bulbs, 1 Bulb per Pack, 60 Watts",Furniture,Furnishings,4.0,91.25,65.96000000000001,39.576,4
+687,Xerox 1939,Office Supplies,Paper,4.0,91.25,360.42999999999995,216.25799999999995,19
+688,Logitech Wireless Marathon Mouse M705,Technology,Accessories,4.0,91.25,779.84,467.904,17
+689,Tennsco 6- and 18-Compartment Lockers,Office Supplies,Storage,4.0,91.25,5674.639999999999,3404.7839999999997,22
+690,"BOSTON Ranger #55 Pencil Sharpener, Black",Office Supplies,Art,4.0,91.25,145.55,87.33,7
+691,"SAFCO PlanMaster Heigh-Adjustable Drafting Table Base, 43w x 30d x 30-37h, Black",Furniture,Tables,4.0,91.25,698.9,419.34,3
+692,Zipper Ring Binder Pockets,Office Supplies,Binders,4.0,91.25,45.25,27.15,21
+693,"Global Leather Task Chair, Black",Furniture,Chairs,4.0,91.25,935.9100000000001,561.546,13
+694,Quality Park Security Envelopes,Office Supplies,Envelopes,4.0,91.25,104.68,62.808,5
+695,"Belkin SportFit Armband For iPhone 5s/5c, Fuchsia",Technology,Phones,4.0,91.25,122.92,73.752,12
+696,"DataProducts Ampli Magnifier Task Lamp, Black,",Furniture,Furnishings,4.0,91.25,243.54000000000002,146.124,10
+697,Acme Office Executive Series Stainless Steel Trimmers,Office Supplies,Supplies,4.0,91.25,37.71,22.626,5
+698,"Chromcraft Bull-Nose Wood 48"" x 96"" Rectangular Conference Tables",Furniture,Tables,4.0,91.25,3250.7799999999997,1950.4679999999998,8
+699,"Telephone Message Books with Fax/Mobile Section, 5 1/2"" x 3 3/16""",Office Supplies,Paper,4.0,91.25,30.48,18.288,6
+700,Eldon Advantage Chair Mats for Low to Medium Pile Carpets,Furniture,Furnishings,4.0,91.25,173.24,103.944,4
+701,"XtraLife ClearVue Slant-D Ring Binder, White, 3""",Office Supplies,Binders,4.0,91.25,286.26,171.756,28
+702,Panasonic KP-350BK Electric Pencil Sharpener with Auto Stop,Office Supplies,Art,4.0,91.25,89.91,53.946,3
+703,Wilson Jones data.warehouse D-Ring Binders with DublLock,Office Supplies,Binders,4.0,91.25,32.92,19.752,5
+704,"GBC Twin Loop Wire Binding Elements, 9/16"" Spine, Black",Office Supplies,Binders,4.0,91.25,140.03,84.018,14
+705,Hon Mobius Operator's Chair,Furniture,Chairs,4.0,91.25,1303.69,782.214,11
+706,"Tenex Traditional Chairmats for Medium Pile Carpet, Standard Lip, 36"" x 48""",Furniture,Furnishings,4.0,91.25,739.93,443.95799999999997,14
+707,GBC DocuBind P50 Personal Binding Machine,Office Supplies,Binders,4.0,91.25,697.38,418.428,15
+708,Holmes HEPA Air Purifier,Office Supplies,Appliances,4.0,91.25,65.34,39.204,3
+709,Xerox 1988,Office Supplies,Paper,4.0,91.25,216.86,130.116,7
+710,Harmony HEPA Quiet Air Purifiers,Office Supplies,Appliances,4.0,91.25,81.9,49.14,7
+711,Newell 343,Office Supplies,Art,4.0,91.25,29.98,17.988,12
+712,"Howard Miller 16"" Diameter Gallery Wall Clock",Furniture,Furnishings,4.0,91.25,447.58,268.548,7
+713,"Boston Model 1800 Electric Pencil Sharpener, Gray",Office Supplies,Art,4.0,91.25,264.61,158.766,10
+714,"Belkin 325VA UPS Surge Protector, 6'",Office Supplies,Appliances,4.0,91.25,1016.24,609.744,10
+715,"Metal Folding Chairs, Beige, 4/Carton",Furniture,Chairs,4.0,91.25,156.13,93.678,6
+716,Polycom SoundStation2 EX Conference phone,Technology,Phones,4.0,91.25,485.94,291.56399999999996,2
+717,Recycled Steel Personal File for Hanging File Folders,Office Supplies,Storage,4.0,91.25,766.88,460.128,15
+718,Advantus Plastic Paper Clips,Office Supplies,Fasteners,4.0,91.25,139.0,83.39999999999999,29
+719,Xerox 1989,Office Supplies,Paper,4.0,91.25,7.97,4.782,2
+720,Deflect-o Glass Clear Studded Chair Mats,Furniture,Furnishings,4.0,91.25,1119.24,671.544,18
+721,Canon PC1060 Personal Laser Copier,Technology,Copiers,4.0,91.25,6719.9,4031.9399999999996,12
+722,Bevis Round Conference Room Tables and Bases,Furniture,Tables,4.0,91.25,519.94,311.964,4
+723,"Global Deluxe Stacking Chair, Gray",Furniture,Chairs,4.0,91.25,570.97,342.582,14
+724,Staple holder,Office Supplies,Appliances,4.0,91.25,90.17,54.102,11
+725,Xerox 1965,Office Supplies,Paper,4.0,91.25,26.310000000000002,15.786000000000001,5
+726,"Eureka Sanitaire  Multi-Pro Heavy-Duty Upright, Disposable Bags",Office Supplies,Appliances,4.0,91.25,41.95,25.17,12
+727,Newell 351,Office Supplies,Art,4.0,91.25,16.4,9.839999999999998,5
+728,Balt Solid Wood Round Tables,Furniture,Tables,4.0,91.25,3571.92,2143.152,8
+729,Plantronics MX500i Earset,Technology,Phones,4.0,91.25,300.65,180.39,7
+730,Razer Tiamat Over Ear 7.1 Surround Sound PC Gaming Headset,Technology,Accessories,4.0,91.25,1999.9,1199.94,10
+731,Global Leather Executive Chair,Furniture,Chairs,4.0,91.25,280.79,168.47400000000002,1
+732,Boston 16801 Nautilus Battery Pencil Sharpener,Office Supplies,Art,4.0,91.25,176.08,105.64800000000001,9
+733,Fellowes Officeware Wire Shelving,Office Supplies,Storage,4.0,91.25,844.4,506.64,10
+734,Convenience Packs of Business Envelopes,Office Supplies,Envelopes,4.0,91.25,34.03,20.418,11
+735,Tripp Lite Isotel 6 Outlet Surge Protector with Fax/Modem Protection,Office Supplies,Appliances,4.0,91.25,621.89,373.13399999999996,11
+736,Newell 315,Office Supplies,Art,4.0,91.25,53.82,32.292,9
+737,3-ring staple pack,Office Supplies,Binders,4.0,91.25,16.54,9.924,11
+738,Satellite Sectional Post Binders,Office Supplies,Binders,4.0,91.25,746.66,447.996,21
+739,Fellowes Advanced Computer Series Surge Protectors,Office Supplies,Appliances,4.0,91.25,158.94,95.36399999999999,6
+740,Hypercom P1300 Pinpad,Technology,Accessories,4.0,91.25,504.0,302.4,9
+741,Acco Hot Clips Clips to Go,Office Supplies,Fasteners,4.0,91.25,26.32,15.792,10
+742,Global Ergonomic Managers Chair,Furniture,Chairs,4.0,91.25,1122.0700000000002,673.2420000000001,7
+743,"Message Book, Phone, Wirebound Standard Line Memo, 2 3/4"" X 5""",Office Supplies,Paper,4.0,91.25,32.75,19.65,5
+744,Advantus T-Pin Paper Clips,Office Supplies,Fasteners,4.0,91.25,7.22,4.332,2
+745,Xerox 1951,Office Supplies,Paper,4.0,91.25,285.02,171.01199999999997,11
+746,Staples,Office Supplies,Fasteners,4.0,91.25,7.86,4.716,2
+747,Recycled Premium Regency Composition Covers,Office Supplies,Binders,4.0,91.25,24.45,14.669999999999998,2
+748,Xerox 219,Office Supplies,Paper,4.0,91.25,38.879999999999995,23.327999999999996,6
+749,Xerox 1903,Office Supplies,Paper,4.0,91.25,41.86,25.116,7
+750,Logitech VX Revolution Cordless Laser Mouse for Notebooks (Black),Technology,Accessories,4.0,91.25,2951.84,1771.104,17
+751,"Seth Thomas 14"" Day/Date Wall Clock",Furniture,Furnishings,4.0,91.25,256.32,153.792,9
+752,Staple envelope,Office Supplies,Envelopes,4.0,91.25,39.76,23.855999999999998,7
+753,"Square Credit Card Reader, 4 1/2"" x 4 1/2"" x 1"", White",Technology,Phones,4.0,91.25,95.9,57.54,12
+754,Xerox 1974,Office Supplies,Paper,4.0,91.25,11.96,7.176,2
+755,Bevis Boat-Shaped Conference Table,Furniture,Tables,4.0,91.25,629.06,377.436,3
+756,Bush Mission Pointe Library,Furniture,Bookcases,4.0,91.25,543.53,326.118,4
+757,Razer Kraken 7.1 Surround Sound Over Ear USB Gaming Headset,Technology,Accessories,4.0,91.25,1399.8600000000001,839.916,16
+758,Computer Printout Index Tabs,Office Supplies,Binders,4.0,91.25,8.06,4.836,9
+759,GBC Wire Binding Combs,Office Supplies,Binders,4.0,91.25,82.72,49.632,13
+760,"Stacking Tray, Side-Loading, Legal, Smoke",Furniture,Furnishings,4.0,91.25,21.5,12.9,9
+761,Cardinal Holdit Data Disk Pockets,Office Supplies,Binders,4.0,91.25,29.12,17.472,5
+762,GBC Premium Transparent Covers with Diagonal Lined Pattern,Office Supplies,Binders,4.0,91.25,314.7,188.82,24
+763,SpineVue Locking Slant-D Ring Binders by Cardinal,Office Supplies,Binders,4.0,91.25,30.16,18.096,6
+764,"Black Print Carbonless Snap-Off Rapid Letter, 8 1/2"" x 7""",Office Supplies,Paper,4.0,91.25,45.55,27.33,5
+765,Xerox 23,Office Supplies,Paper,4.0,91.25,45.36,27.215999999999998,7
+766,"Tenex Personal Self-Stacking Standard File Box, Black/Gray",Office Supplies,Storage,4.0,91.25,16.91,10.145999999999999,1
+767,Global Deluxe High-Back Office Chair in Storm,Furniture,Chairs,4.0,91.25,652.75,391.65,6
+768,Kensington K72356US Mouse-in-a-Box USB Desktop Mouse,Technology,Accessories,4.0,91.25,139.36,83.616,9
+769,Avery 50,Office Supplies,Labels,4.0,91.25,235.56,141.33599999999998,20
+770,Honeywell Enviracaire Portable HEPA Air Cleaner for 16' x 20' Room,Office Supplies,Appliances,4.0,91.25,1101.48,660.888,4
+771,Chromcraft Bull-Nose Wood Oval Conference Tables & Bases,Furniture,Tables,4.0,91.25,3636.47,2181.8819999999996,10
+772,"SAFCO Mobile Desk Side File, Wire Frame",Office Supplies,Storage,4.0,91.25,256.56,153.936,6
+773,Newell 313,Office Supplies,Art,4.0,91.25,22.96,13.776,8
+774,Xerox 1959,Office Supplies,Paper,4.0,91.25,20.04,12.024,3
+775,Jawbone JAMBOX Wireless Bluetooth Speaker,Technology,Phones,4.0,91.25,2022.27,1213.3619999999999,14
+776,Xerox 1895,Office Supplies,Paper,4.0,91.25,56.21,33.726,10
+777,Polycom VVX 310 VoIP phone,Technology,Phones,4.0,91.25,1727.91,1036.746,12
+778,Belkin 8 Outlet Surge Protector,Office Supplies,Appliances,4.0,91.25,565.52,339.31199999999995,17
+779,Panasonic KX TS3282B Corded phone,Technology,Phones,4.0,91.25,393.56,236.136,6
+780,Logitech G13 Programmable Gameboard with LCD Display,Technology,Accessories,4.0,91.25,735.91,441.546,10
+781,Belkin F8E887 USB Wired Ergonomic Keyboard,Technology,Accessories,4.0,91.25,233.92,140.35199999999998,9
+782,Economy Rollaway Files,Office Supplies,Storage,4.0,91.25,264.32,158.59199999999998,2
+783,Maxell 4.7GB DVD-RW 3/Pack,Technology,Accessories,4.0,91.25,309.64,185.784,15
+784,"Fellowes Twister Kit, Gray/Clear, 3/pkg",Office Supplies,Binders,4.0,91.25,122.21000000000001,73.32600000000001,27
+785,Xerox 1949,Office Supplies,Paper,4.0,91.25,43.83,26.298,11
+786,Memorex Mini Travel Drive 8 GB USB 2.0 Flash Drive,Technology,Accessories,4.0,91.25,101.91,61.145999999999994,10
+787,"Bush Westfield Collection Bookcases, Dark Cherry Finish",Furniture,Bookcases,4.0,91.25,649.38,389.628,14
+788,Avery 52,Office Supplies,Labels,4.0,91.25,25.83,15.497999999999998,7
+789,Contemporary Wood/Metal Frame,Furniture,Furnishings,4.0,91.25,148.67,89.20199999999998,14
+790,GBC Standard Plastic Binding Systems' Combs,Office Supplies,Binders,4.0,91.25,58.410000000000004,35.046,20
+791,Hon 94000 Series Round Tables,Furniture,Tables,4.0,91.25,4087.2799999999997,2452.368,15
+792,"Advantus 10-Drawer Portable Organizer, Chrome Metal Frame, Smoke Drawers",Office Supplies,Storage,4.0,91.25,896.4,537.8399999999999,15
+793,Logitech diNovo Edge Keyboard,Technology,Accessories,4.0,91.25,3649.85,2189.91,16
+794,"Executive Impressions 12"" Wall Clock",Furniture,Furnishings,4.0,91.25,98.95,59.37,9
+795,Bretford CR8500 Series Meeting Room Furniture,Furniture,Tables,4.0,91.25,1884.6100000000001,1130.766,7
+796,Easy-staple paper,Office Supplies,Paper,4.0,91.25,61.75,37.05,13
+797,Panasonic KX MC6040 Color Laser Multifunction Printer,Technology,Machines,4.0,91.25,1349.85,809.91,3
+798,Sauder Inglewood Library Bookcases,Furniture,Bookcases,4.0,91.25,136.78,82.068,1
+799,Berol Giant Pencil Sharpener,Office Supplies,Art,4.0,91.25,112.13,67.27799999999999,8
+800,Avery 498,Office Supplies,Labels,4.0,91.25,5.78,3.468,2
+801,Xerox 214,Office Supplies,Paper,4.0,91.25,81.65,48.99,14
+802,Xerox 1952,Office Supplies,Paper,4.0,91.25,44.34,26.604000000000003,8
+803,Stackable Trays,Furniture,Furnishings,4.0,91.25,22.18,13.308,9
+804,Wilson Jones Turn Tabs Binder Tool for Ring Binders,Office Supplies,Binders,4.0,91.25,141.22,84.732,37
+805,"TOPS Voice Message Log Book, Flash Format",Office Supplies,Paper,4.0,91.25,19.04,11.424,4
+806,Angle-D Ring Binders,Office Supplies,Binders,4.0,91.25,18.05,10.83,6
+807,Boston 1730 StandUp Electric Pencil Sharpener,Office Supplies,Art,4.0,91.25,106.9,64.14,5
+808,"GBC Laser Imprintable Binding System Covers, Desert Sand",Office Supplies,Binders,4.0,91.25,42.81,25.686,3
+809,Xerox 2000,Office Supplies,Paper,4.0,91.25,53.14,31.884,9
+810,"3M Polarizing Task Lamp with Clamp Arm, Light Gray",Furniture,Furnishings,4.0,91.25,1369.8,821.88,10
+811,Avery 499,Office Supplies,Labels,4.0,91.25,105.57000000000001,63.342,24
+812,Global Italian Leather Office Chair,Furniture,Chairs,4.0,91.25,785.88,471.52799999999996,6
+813,Advantus Motivational Note Cards,Office Supplies,Paper,4.0,91.25,68.12,40.872,6
+814,"Blue String-Tie & Button Interoffice Envelopes, 10 x 13",Office Supplies,Envelopes,4.0,91.25,319.84,191.90399999999997,10
+815,Pressboard Data Binders by Wilson Jones,Office Supplies,Binders,4.0,91.25,37.379999999999995,22.427999999999997,10
+816,Ibico Presentation Index for Binding Systems,Office Supplies,Binders,4.0,91.25,26.270000000000003,15.762,12
+817,"Adams ""While You Were Out"" Message Pads",Office Supplies,Paper,4.0,91.25,40.82,24.492,13
+818,Plantronics Voyager Pro HD - Bluetooth Headset,Technology,Phones,4.0,91.25,545.92,327.55199999999996,9
+819,AT&T EL51110 DECT,Technology,Phones,4.0,91.25,377.97,226.782,3
+820,Avery 512,Office Supplies,Labels,4.0,91.25,26.009999999999998,15.605999999999998,9
+821,GBC Recycled Regency Composition Covers,Office Supplies,Binders,4.0,91.25,573.89,344.334,10
+822,Bevis Rectangular Conference Tables,Furniture,Tables,4.0,91.25,861.28,516.7679999999999,11
+823,Logitech G700s Rechargeable Gaming Mouse,Technology,Accessories,4.0,91.25,879.91,527.9459999999999,9
+824,"Hon Deluxe Fabric Upholstered Stacking Chairs, Squared Back",Furniture,Chairs,4.0,91.25,1268.69,761.214,7
+825,Advantus Rolling Drawer Organizers,Office Supplies,Storage,4.0,91.25,815.78,489.46799999999996,22
+826,Razer Kraken PRO Over Ear PC and Music Headset,Technology,Accessories,4.0,91.25,1311.83,787.098,18
+827,Maxell 4.7GB DVD-R 5/Pack,Technology,Accessories,4.0,91.25,0.99,0.594,1
+828,Canvas Sectional Post Binders,Office Supplies,Binders,4.0,91.25,122.21000000000001,73.32600000000001,6
+829,APC 7 Outlet Network SurgeArrest Surge Protector,Office Supplies,Appliances,4.0,91.25,96.57,57.94199999999999,6
+830,Crate-A-Files,Office Supplies,Storage,4.0,91.25,74.12,44.472,7
+831,Digium D40 VoIP phone,Technology,Phones,4.0,91.25,2218.62,1331.1719999999998,19
+832,Anker Astro Mini 3000mAh Ultra-Compact Portable Charger,Technology,Phones,4.0,91.25,23.99,14.393999999999998,2
+833,Lumber Crayons,Office Supplies,Art,4.0,91.25,31.52,18.912,4
+834,Xerox 1953,Office Supplies,Paper,4.0,91.25,35.95,21.57,9
+835,"Carina Mini System Audio Rack, Model AR050B",Office Supplies,Storage,4.0,91.25,887.84,532.704,9
+836,Belkin 6 Outlet Metallic Surge Strip,Office Supplies,Appliances,4.0,91.25,103.46000000000001,62.076,12
+837,Xerox 201,Office Supplies,Paper,4.0,91.25,97.2,58.32,17
+838,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,Office Supplies,Binders,4.0,91.25,2796.17,1677.702,5
+839,"Eldon Expressions Punched Metal & Wood Desk Accessories, Black & Cherry",Furniture,Furnishings,4.0,91.25,71.29,42.774,10
+840,Carina Double Wide Media Storage Towers in Natural & Black,Office Supplies,Storage,4.0,91.25,1052.74,631.644,14
+841,Dana Swing-Arm Lamps,Furniture,Furnishings,4.0,91.25,17.09,10.254,2
+842,"Wirebound Message Books, Four 2 3/4 x 5 Forms per Page, 200 Sets per Book",Office Supplies,Paper,4.0,91.25,80.14,48.083999999999996,17
+843,Hewlett Packard 310 Color Digital Copier,Technology,Copiers,4.0,91.25,3719.87,2231.922,14
+844,Xerox 1971,Office Supplies,Paper,4.0,91.25,22.25,13.35,6
+845,Avery 513,Office Supplies,Labels,4.0,91.25,78.69,47.214,19
+846,AT&T 17929 Lendline Telephone,Technology,Phones,4.0,91.25,922.9000000000001,553.74,24
+847,Samsung Rugby III,Technology,Phones,4.0,91.25,633.51,380.106,11
+848,"Holmes Cool Mist Humidifier for the Whole House with 8-Gallon Output per Day, Extended Life Filter",Office Supplies,Appliances,4.0,91.25,79.6,47.76,4
+849,"Tenex Carpeted, Granite-Look or Clear Contemporary Contour Shape Chair Mats",Furniture,Furnishings,4.0,91.25,212.13,127.27799999999999,6
+850,"Eldon 200 Class Desk Accessories, Smoke",Furniture,Furnishings,4.0,91.25,18.84,11.304,3
+851,Newell 346,Office Supplies,Art,4.0,91.25,8.64,5.184,3
+852,Presstex Flexible Ring Binders,Office Supplies,Binders,4.0,91.25,59.160000000000004,35.496,22
+853,Google Nexus 5,Technology,Phones,4.0,91.25,431.98,259.188,3
+854,Xerox 1880,Office Supplies,Paper,4.0,91.25,248.08,148.848,7
+855,Harbour Creations 67200 Series Stacking Chairs,Furniture,Chairs,4.0,91.25,854.16,512.496,13
+856,"Tenex V2T-RE Standard Weight Series Chair Mat, 45"" x 53"", Lip 25"" x 12""",Furniture,Furnishings,4.0,91.25,326.51,195.90599999999998,5
+857,Samsung Galaxy Mega 6.3,Technology,Phones,4.0,91.25,3695.91,2217.546,11
+858,Xerox 198,Office Supplies,Paper,4.0,91.25,30.88,18.528,7
+859,"Safco Chair Connectors, 6/Carton",Furniture,Chairs,4.0,91.25,311.69,187.01399999999998,11
+860,Xerox 1997,Office Supplies,Paper,4.0,91.25,81.65,48.99,15
+861,Self-Adhesive Ring Binder Labels,Office Supplies,Binders,4.0,91.25,12.67,7.601999999999999,6
+862,GBC DocuBind TL200 Manual Binding Machine,Office Supplies,Binders,4.0,91.25,895.92,537.5519999999999,4
+863,VariCap6 Expandable Binder,Office Supplies,Binders,4.0,91.25,149.96,89.976,15
+864,Durable Pressboard Binders,Office Supplies,Binders,4.0,91.25,37.239999999999995,22.343999999999998,11
+865,Kensington 7 Outlet MasterPiece Power Center with Fax/Phone Line Protection,Office Supplies,Appliances,4.0,91.25,207.48,124.48799999999999,1
+866,Alliance Rubber Bands,Office Supplies,Fasteners,4.0,91.25,5.04,3.024,3
+867,"Executive Impressions 14"" Contract Wall Clock",Furniture,Furnishings,4.0,91.25,235.64,141.384,12
+868,Great White Multi-Use Recycled Paper (20Lb. and 84 Bright),Office Supplies,Paper,4.0,91.25,33.49,20.094,6
+869,"SlimView Poly Binder, 3/8""",Office Supplies,Binders,4.0,91.25,87.53999999999999,52.523999999999994,19
+870,"Boston Electric Pencil Sharpener, Model 1818, Charcoal Black",Office Supplies,Art,4.0,91.25,225.2,135.11999999999998,9
+871,DAX Clear Channel Poster Frame,Furniture,Furnishings,4.0,91.25,102.06,61.236,7
+872,"Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table",Furniture,Tables,4.0,91.25,1056.28,633.7679999999999,19
+873,#10 Self-Seal White Envelopes,Office Supplies,Envelopes,4.0,91.25,42.14,25.284,4
+874,Hon Pagoda Stacking Chairs,Furniture,Chairs,4.0,91.25,2311.05,1386.63,9
+875,Newell 339,Office Supplies,Art,4.0,91.25,13.9,8.34,5
+876,36X48 HARDFLOOR CHAIRMAT,Furniture,Furnishings,4.0,91.25,159.45,95.66999999999999,8
+877,"Conquest 14 Commercial Heavy-Duty Upright Vacuum, Collection System, Accessory Kit",Office Supplies,Appliances,4.0,91.25,341.76,205.05599999999998,6
+878,Computer Printout Paper with Letter-Trim Perforations,Office Supplies,Paper,4.0,91.25,132.79,79.67399999999999,7
+879,Nortel Meridian M5316 Digital phone,Technology,Phones,4.0,91.25,2589.5,1553.7,12
+880,Storex Flexible Poly Binders with Double Pockets,Office Supplies,Binders,4.0,91.25,5.28,3.168,2
+881,Plantronics Audio 478 Stereo USB Headset,Technology,Accessories,4.0,91.25,259.95000000000005,155.97000000000003,6
+882,GBC ProClick 150 Presentation Binding System,Office Supplies,Binders,4.0,91.25,2275.05,1365.03,12
+883,Stacking Trays by OIC,Furniture,Furnishings,4.0,91.25,3.98,2.388,2
+884,Xerox 194,Office Supplies,Paper,4.0,91.25,399.46,239.676,8
+885,"Universal Recycled Hanging Pressboard Report Binders, Letter Size",Office Supplies,Binders,4.0,91.25,14.190000000000001,8.514000000000001,8
+886,"Seth Thomas 8 1/2"" Cubicle Clock",Furniture,Furnishings,4.0,91.25,89.23,53.538000000000004,5
+887,Tennsco 16-Compartment Lockers with Coat Rack,Office Supplies,Storage,4.0,91.25,3628.18,2176.908,6
+888,Xerox 1907,Office Supplies,Paper,4.0,91.25,98.24,58.943999999999996,8
+889,Surelock Post Binders,Office Supplies,Binders,4.0,91.25,250.6,150.35999999999999,14
+890,Panasonic KX TS3282W Corded phone,Technology,Phones,4.0,91.25,271.96999999999997,163.182,4
+891,Maxell LTO Ultrium - 800 GB,Technology,Accessories,4.0,91.25,330.28,198.16799999999998,13
+892,"Global Leather and Oak Executive Chair, Black",Furniture,Chairs,4.0,91.25,2919.5099999999998,1751.706,13
+893,Wilson Jones Impact Binders,Office Supplies,Binders,4.0,91.25,19.68,11.808,11
+894,Boston 1799 Powerhouse Electric Pencil Sharpener,Office Supplies,Art,4.0,91.25,207.84,124.704,8
+895,"Rediform S.O.S. 1-Up Phone Message Bk, 4-1/4x3-1/16 Bk, 1 Form/Pg, 40 Messages/Bk, 3/Pk",Office Supplies,Paper,4.0,91.25,18.76,11.256,2
+896,"Seth Thomas 14"" Putty-Colored Wall Clock",Furniture,Furnishings,4.0,91.25,58.68,35.208,2
+897,Staple envelope,Office Supplies,Envelopes,4.0,91.25,74.35,44.60999999999999,3
+898,Plantronics 81402,Technology,Phones,4.0,91.25,65.99,39.593999999999994,1
+899,Prestige Round Ring Binders,Office Supplies,Binders,4.0,91.25,36.48,21.887999999999998,9
+900,"Alliance Super-Size Bands, Assorted Sizes",Office Supplies,Fasteners,4.0,91.25,197.61,118.566,27
+901,Accohide Poly Flexible Ring Binders,Office Supplies,Binders,4.0,91.25,6.36,3.816,7
+902,"BlueLounge Milo Smartphone Stand, White/Metallic",Technology,Phones,4.0,91.25,95.97,57.582,4
+903,Luxo Economy Swing Arm Lamp,Furniture,Furnishings,4.0,91.25,79.76,47.856,4
+904,Avery White Multi-Purpose Labels,Office Supplies,Labels,4.0,91.25,54.78,32.868,11
+905,Logitech G500s Laser Gaming Mouse with Adjustable Weight Tuning,Technology,Accessories,4.0,91.25,349.95,209.97,5
+906,Avery 485,Office Supplies,Labels,4.0,91.25,75.18,45.108000000000004,6
+907,Fellowes PB300 Plastic Comb Binding Machine,Office Supplies,Binders,4.0,91.25,931.18,558.708,3
+908,"Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4""X8 1/2"", 300/Messages",Office Supplies,Paper,4.0,91.25,44.69,26.813999999999997,8
+909,Bose SoundLink Bluetooth Speaker,Technology,Phones,4.0,91.25,796.0,477.59999999999997,5
+910,Letter or Legal Size Expandable Poly String Tie Envelopes,Office Supplies,Envelopes,4.0,91.25,18.09,10.854,8
+911,Stiletto Hand Letter Openers,Office Supplies,Supplies,4.0,91.25,107.52000000000001,64.512,14
+912,Tennsco Single-Tier Lockers,Office Supplies,Storage,4.0,91.25,2176.9700000000003,1306.182,7
+913,"Seth Thomas 12"" Clock w/ Goldtone Case",Furniture,Furnishings,4.0,91.25,114.9,68.94,5
+914,Cisco SPA112 2 Port Phone Adapter,Technology,Phones,4.0,91.25,384.65,230.78999999999996,8
+915,Col-Erase Pencils with Erasers,Office Supplies,Art,4.0,91.25,18.24,10.943999999999999,3
+916,Logitech Mobile Speakerphone P710e - speaker phone,Technology,Phones,4.0,91.25,107.98,64.788,1
+917,Staples,Office Supplies,Fasteners,4.0,91.25,36.48,21.887999999999998,6
+918,Crayola Colored Pencils,Office Supplies,Art,4.0,91.25,38.7,23.220000000000002,12
+919,Fellowes Powershred HS-440 4-Sheet High Security Shredder,Technology,Machines,4.0,91.25,2169.86,1301.916,14
+920,"Wilson Jones 1"" Hanging DublLock Ring Binders",Office Supplies,Binders,4.0,91.25,62.83,37.698,18
+921,Tenex Antistatic Computer Chair Mats,Furniture,Furnishings,4.0,91.25,1573.02,943.8119999999999,14
+922,Boston 19500 Mighty Mite Electric Pencil Sharpener,Office Supplies,Art,4.0,91.25,181.35,108.80999999999999,9
+923,Avery 474,Office Supplies,Labels,4.0,91.25,8.64,5.184,3
+924,Xerox 1893,Office Supplies,Paper,4.0,91.25,860.79,516.4739999999999,24
+925,Insertable Tab Post Binder Dividers,Office Supplies,Binders,4.0,91.25,23.26,13.956000000000001,7
+926,"Executive Impressions 10"" Spectator Wall Clock",Furniture,Furnishings,4.0,91.25,70.56,42.336,6
+927,"Eureka Recycled Copy Paper 8 1/2"" x 11"", Ream",Office Supplies,Paper,4.0,91.25,25.92,15.552,5
+928,"DAX Two-Tone Rosewood/Black Document Frame, Desktop, 5 x 7",Furniture,Furnishings,4.0,91.25,54.99,32.994,8
+929,Wausau Papers Astrobrights Colored Envelopes,Office Supplies,Envelopes,4.0,91.25,17.94,10.764000000000001,3
+930,"Global Armless Task Chair, Royal Blue",Furniture,Chairs,4.0,91.25,1000.07,600.042,20
+931,Toshiba IPT2010-SD IP Telephone,Technology,Phones,4.0,91.25,555.96,333.576,5
+932,"Performers Binder/Pad Holder, Black",Office Supplies,Binders,4.0,91.25,476.5,285.9,24
+933,Jawbone MINI JAMBOX Wireless Bluetooth Speaker,Technology,Phones,4.0,91.25,219.17,131.50199999999998,2
+934,"REDIFORM Incoming/Outgoing Call Register, 11"" X 8 1/2"", 100 Messages",Office Supplies,Paper,4.0,91.25,90.07,54.041999999999994,12
+935,Colored Push Pins,Office Supplies,Fasteners,4.0,91.25,6.15,3.69,4
+936,"Message Book, Wirebound, Four 5 1/2"" X 4"" Forms/Pg., 200 Dupl. Sets/Book",Office Supplies,Paper,4.0,91.25,86.36,51.815999999999995,10
+937,"Wirebound Four 2-3/4 x 5 Forms per Page, 400 Sets per Book",Office Supplies,Paper,4.0,91.25,85.14,51.083999999999996,16
+938,Akro-Mils 12-Gallon Tote,Office Supplies,Storage,4.0,91.25,49.65,29.79,5
+939,"Tenex Traditional Chairmats for Hard Floors, Average Lip, 36"" x 48""",Furniture,Furnishings,4.0,91.25,128.9,77.34,2
+940,Xerox 1968,Office Supplies,Paper,4.0,91.25,86.84,52.104,14
+941,"OIC #2 Pencils, Medium Soft",Office Supplies,Art,4.0,91.25,18.8,11.28,10
+942,GBC Recycled VeloBinder Covers,Office Supplies,Binders,4.0,91.25,328.87,197.322,25
+943,Pizazz Global Quick File,Office Supplies,Storage,4.0,91.25,104.78999999999999,62.873999999999995,7
+944,Ideal Clamps,Office Supplies,Fasteners,4.0,91.25,13.67,8.202,8
+945,"Binney & Smith inkTank Desk Highlighter, Chisel Tip, Yellow, 12/Box",Office Supplies,Art,4.0,91.25,12.9,7.74,7
+946,Euro-Pro Shark Turbo Vacuum,Office Supplies,Appliances,4.0,91.25,371.76,223.05599999999998,12
+947,Strathmore Photo Mount Cards,Office Supplies,Paper,4.0,91.25,94.91999999999999,56.95199999999999,15
+948,"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 10/Pack",Technology,Accessories,4.0,91.25,18.54,11.123999999999999,2
+949,Newell 341,Office Supplies,Art,4.0,91.25,8.56,5.136,2
+950,Xerox 204,Office Supplies,Paper,4.0,91.25,64.8,38.879999999999995,10
+951,"Global Wood Trimmed Manager's Task Chair, Khaki",Furniture,Chairs,4.0,91.25,1337.41,802.446,19
+952,"Chromcraft 48"" x 96"" Racetrack Double Pedestal Table",Furniture,Tables,4.0,91.25,1571.13,942.678,7
+953,Xerox 1894,Office Supplies,Paper,4.0,91.25,127.00999999999999,76.20599999999999,20
+954,"Bush Birmingham Collection Bookcase, Dark Cherry",Furniture,Bookcases,4.0,91.25,825.17,495.102,9
+955,"It's Hot Message Books with Stickers, 2 3/4"" x 5""",Office Supplies,Paper,4.0,91.25,47.36,28.416,8
+956,"Sanford Colorific Colored Pencils, 12/Box",Office Supplies,Art,4.0,91.25,43.51,26.105999999999998,17
+957,Xerox 199,Office Supplies,Paper,4.0,91.25,43.66,26.195999999999998,12
+958,Apple EarPods with Remote and Mic,Technology,Phones,4.0,91.25,44.78,26.868,2
+959,HP Standard 104 key PS/2 Keyboard,Technology,Accessories,4.0,91.25,194.3,116.58,14
+960,Avery Metallic Poly Binders,Office Supplies,Binders,4.0,91.25,68.76,41.256,13
+961,Avery 506,Office Supplies,Labels,4.0,91.25,20.65,12.389999999999999,5
+962,Weyerhaeuser First Choice Laser/Copy Paper (20Lb. and 88 Bright),Office Supplies,Paper,4.0,91.25,45.36,27.215999999999998,7
+963,Xerox 1905,Office Supplies,Paper,4.0,91.25,84.24000000000001,50.544000000000004,13
+964,Avery Self-Adhesive Photo Pockets for Polaroid Photos,Office Supplies,Binders,4.0,91.25,43.58,26.148,15
+965,Plantronics Audio 995 Wireless Stereo Headset,Technology,Accessories,4.0,91.25,1539.3,923.5799999999999,14
+966,DIXON Oriole Pencils,Office Supplies,Art,4.0,91.25,32.51,19.505999999999997,14
+967,"Telephone Message Books with Fax/Mobile Section, 4 1/4"" x 6""",Office Supplies,Paper,4.0,91.25,33.120000000000005,19.872000000000003,10
+968,Xerox 200,Office Supplies,Paper,4.0,91.25,49.25,29.549999999999997,9
+969,Okidata MB491 Multifunction Printer,Technology,Machines,4.0,91.25,2395.2,1437.12,6
+970,Staples in misc. colors,Office Supplies,Art,4.0,91.25,104.8,62.879999999999995,10
+971,Avery Hanging File Binders,Office Supplies,Binders,4.0,91.25,77.14,46.284,20
+972,Global Super Steno Chair,Furniture,Chairs,4.0,91.25,364.72,218.83200000000002,4
+973,"Dual Level, Single-Width Filing Carts",Office Supplies,Storage,4.0,91.25,1302.5,781.5,9
+974,Rosewill 107 Normal Keys USB Wired Standard Keyboard,Technology,Accessories,4.0,91.25,105.14,63.083999999999996,9
+975,"Master Caster Door Stop, Large Neon Orange",Furniture,Furnishings,4.0,91.25,69.89,41.934,12
+976,Polycom SoundPoint IP 450 VoIP phone,Technology,Phones,4.0,91.25,496.9,298.14,3
+977,"C-Line Peel & Stick Add-On Filing Pockets, 8-3/4 x 5-1/8, 10/Pack",Office Supplies,Binders,4.0,91.25,9.56,5.736,5
+978,Ibico Hi-Tech Manual Binding System,Office Supplies,Binders,4.0,91.25,2037.98,1222.788,25
+979,QVS USB Car Charger 2-Port 2.1Amp for iPod/iPhone/iPad/iPad 2/iPad 3,Technology,Phones,4.0,91.25,5.56,3.336,1
+980,Ibico Ibimaster 300 Manual Binding System,Office Supplies,Binders,4.0,91.25,5593.44,3356.064,18
+981,"Multi-Use Personal File Cart and Caster Set, Three Stacking Bins",Office Supplies,Storage,4.0,91.25,278.08,166.84799999999998,8
+982,Xerox 1882,Office Supplies,Paper,4.0,91.25,313.49,188.094,6
+983,"Wirebound Message Books, Four 2 3/4"" x 5"" Forms per Page, 600 Sets per Book",Office Supplies,Paper,4.0,91.25,163.15,97.89,19
+984,Xerox 1924,Office Supplies,Paper,4.0,91.25,32.36,19.416,7
+985,"Maxell Pro 80 Minute CD-R, 10/Pack",Technology,Accessories,4.0,91.25,192.28,115.368,11
+986,BIC Liqua Brite Liner,Office Supplies,Art,4.0,91.25,34.7,20.82,5
+987,Imation Swivel Flash Drive USB flash drive - 8 GB,Technology,Accessories,4.0,91.25,9.1,5.46,1
+988,"Eldon Expressions Desk Accessory, Wood Pencil Holder, Oak",Furniture,Furnishings,4.0,91.25,30.88,18.528,4
+989,Acrylic Self-Standing Desk Frames,Furniture,Furnishings,4.0,91.25,46.46,27.876,18
+990,"Acco PRESSTEX Data Binder with Storage Hooks, Dark Blue, 9 1/2"" X 11""",Office Supplies,Binders,4.0,91.25,15.07,9.042,12
+991,Samsung HM1900 Bluetooth Headset,Technology,Phones,4.0,91.25,280.96,168.576,15
+992,Acco Side-Punched Conventional Columnar Pads,Office Supplies,Supplies,4.0,91.25,36.09,21.654,13
+993,SanDisk Ultra 16 GB MicroSDHC Class 10 Memory Card,Technology,Accessories,4.0,91.25,166.27,99.762,16
+994,Avery 492,Office Supplies,Labels,4.0,91.25,21.89,13.134,9
+995,Xerox 232,Office Supplies,Paper,4.0,91.25,10.37,6.2219999999999995,2
+996,Adjustable Personal File Tote,Office Supplies,Storage,4.0,91.25,156.29000000000002,93.77400000000002,11
+997,Catalog Binders with Expanding Posts,Office Supplies,Binders,4.0,91.25,740.08,444.048,16
+998,Advantus Map Pennant Flags and Round Head Tacks,Office Supplies,Fasteners,4.0,91.25,52.14,31.284,15
+999,Eldon ClusterMat Chair Mat with Cordless Antistatic Protection,Furniture,Furnishings,4.0,91.25,181.96,109.176,2
+1000,"Avery 05222 Permanent Self-Adhesive File Folder Labels for Typewriters, on Rolls, White, 250/Roll",Office Supplies,Labels,4.0,91.25,12.39,7.434,3
+1001,Prismacolor Color Pencil Set,Office Supplies,Art,4.0,91.25,309.5,185.7,16
+1002,Project Tote Personal File,Office Supplies,Storage,4.0,91.25,98.21,58.925999999999995,7
+1003,"Manila Recycled Extra-Heavyweight Clasp Envelopes, 6"" x 9""",Office Supplies,Envelopes,4.0,91.25,107.6,64.55999999999999,11
+1004,Prang Colored Pencils,Office Supplies,Art,4.0,91.25,39.4,23.639999999999997,14
+1005,Standard Rollaway File with Lock,Office Supplies,Storage,4.0,91.25,3423.6099999999997,2054.1659999999997,20
+1006,Newell 314,Office Supplies,Art,4.0,91.25,50.22,30.131999999999998,9
+1007,Xerox 1883,Office Supplies,Paper,4.0,91.25,400.98,240.588,16
+1008,"Rediform Wirebound ""Phone Memo"" Message Book, 11 x 5-3/4",Office Supplies,Paper,4.0,91.25,67.23,40.338,11
+1009,Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms,Furniture,Chairs,4.0,91.25,3171.3099999999995,1902.7859999999996,24
+1010,Nokia Lumia 521 (T-Mobile),Technology,Phones,4.0,91.25,173.94,104.36399999999999,8
+1011,"Acco Banker's Clasps, 5 3/4""-Long",Office Supplies,Fasteners,4.0,91.25,9.21,5.526000000000001,4
+1012,Logitech Wireless Gaming Headset G930,Technology,Accessories,4.0,91.25,1343.92,806.352,9
+1013,Logitech Wireless Anywhere Mouse MX for PC and Mac,Technology,Accessories,4.0,91.25,455.92,273.552,9
+1014,"Rubbermaid ClusterMat Chairmats, Mat Size- 66"" x 60"", Lip 20"" x 11"" -90 Degree Angle",Furniture,Furnishings,4.0,91.25,998.8199999999999,599.2919999999999,9
+1015,Panasonic KX-TG9541B DECT 6.0 Digital 2-Line Expandable Cordless Phone With Digital Answering System,Technology,Phones,4.0,91.25,269.98,161.988,3
+1016,Faber Castell Col-Erase Pencils,Office Supplies,Art,4.0,91.25,18.58,11.147999999999998,4
+1017,Vinyl Sectional Post Binders,Office Supplies,Binders,4.0,91.25,542.88,325.728,21
+1018,Motorola Moto X,Technology,Phones,4.0,91.25,1359.96,815.976,5
+1019,Newell 317,Office Supplies,Art,4.0,91.25,27.64,16.584,11
+1020,"Office Star - Contemporary Task Swivel chair with Loop Arms, Charcoal",Furniture,Chairs,4.0,91.25,2043.28,1225.9679999999998,20
+1021,VTech DS6151,Technology,Phones,4.0,91.25,1814.25,1088.55,16
+1022,"Global Push Button Manager's Chair, Indigo",Furniture,Chairs,4.0,91.25,846.38,507.828,19
+1023,Avery 515,Office Supplies,Labels,4.0,91.25,25.06,15.035999999999998,2
+1024,Xerox 1921,Office Supplies,Paper,4.0,91.25,31.96,19.176,4
+1025,"TOPS 4 x 6 Fluorescent Color Memo Sheets, 500 Sheets per Pack",Office Supplies,Paper,4.0,91.25,18.98,11.388,2
+1026,SAFCO Optional Arm Kit for Workspace Cribbage Stacking Chair,Furniture,Chairs,4.0,91.25,26.64,15.984,1
+1027,Belkin Premiere Surge Master II 8-outlet surge protector,Office Supplies,Appliances,4.0,91.25,87.44,52.464,2
+1028,Binder Clips by OIC,Office Supplies,Fasteners,4.0,91.25,18.939999999999998,11.363999999999999,15
+1029,Things To Do Today Spiral Book,Office Supplies,Paper,4.0,91.25,44.35,26.61,7
+1030,"Eldon 300 Class Desk Accessories, Black",Furniture,Furnishings,4.0,91.25,4.95,2.97,1
+1031,Sterilite Show Offs Storage Containers,Office Supplies,Storage,4.0,91.25,39.07,23.442,8
+1032,GBC Poly Designer Binding Covers,Office Supplies,Binders,4.0,91.25,93.75,56.25,7
+1033,Plantronics Encore H101 Dual Earpieces Headset,Technology,Phones,4.0,91.25,359.6,215.76000000000002,8
+1034,"Sanford Colorific Scented Colored Pencils, 12/Pack",Office Supplies,Art,4.0,91.25,8.56,5.136,2
+1035,Mophie Juice Pack Helium for iPhone,Technology,Phones,4.0,91.25,815.9,489.53999999999996,12
+1036,"Maxell 74 Minute CDR, 10/Pack",Technology,Accessories,4.0,91.25,72.37,43.422000000000004,8
+1037,Logitech G602 Wireless Gaming Mouse,Technology,Accessories,4.0,91.25,991.87,595.122,15
+1038,Bionaire 99.97% HEPA Air Cleaner,Office Supplies,Appliances,4.0,91.25,164.69,98.814,14
+1039,"DAX Charcoal/Nickel-Tone Document Frame, 5 x 7",Furniture,Furnishings,4.0,91.25,60.67,36.402,11
+1040,"Bush Heritage Pine Collection 5-Shelf Bookcase, Albany Pine Finish, *Special Order",Furniture,Bookcases,4.0,91.25,711.9499999999999,427.16999999999996,8
+1041,LG G3,Technology,Phones,4.0,91.25,1058.35,635.0099999999999,6
+1042,"GBC Pre-Punched Binding Paper, Plastic, White, 8-1/2"" x 11""",Office Supplies,Binders,4.0,91.25,92.74000000000001,55.644000000000005,10
+1043,Ooma Telo VoIP Home Phone System,Technology,Phones,4.0,91.25,201.58,120.94800000000001,2
+1044,RCA ViSYS 25423RE1 Corded phone,Technology,Phones,4.0,91.25,159.98,95.98799999999999,2
+1045,Newell 350,Office Supplies,Art,4.0,91.25,37.39,22.434,12
+1046,Avery Poly Binder Pockets,Office Supplies,Binders,4.0,91.25,53.7,32.22,24
+1047,Xerox 1928,Office Supplies,Paper,4.0,91.25,68.64,41.184,15
+1048,i.Sound Portable Power - 8000 mAh,Technology,Phones,4.0,91.25,84.78,50.868,2
+1049,Xerox 1942,Office Supplies,Paper,4.0,91.25,391.52,234.91199999999998,8
+1050,Black & Decker Filter for Double Action Dustbuster Cordless Vac BLDV7210,Office Supplies,Appliances,4.0,91.25,171.16000000000003,102.69600000000001,21
+1051,Compact Automatic Electric Letter Opener,Office Supplies,Supplies,4.0,91.25,1240.82,744.492,11
+1052,DAX Black Cherry Wood-Tone Poster Frame,Furniture,Furnishings,4.0,91.25,227.72,136.632,14
+1053,"Fiskars 8"" Scissors, 2/Pack",Office Supplies,Supplies,4.0,91.25,41.38,24.828,3
+1054,"Rush Hierlooms Collection 1"" Thick Stackable Bookcases",Furniture,Bookcases,4.0,91.25,512.94,307.764,3
+1055,Boston 1900 Electric Pencil Sharpener,Office Supplies,Art,4.0,91.25,14.98,8.988,1
+1056,WD My Passport Ultra 1TB Portable External Hard Drive,Technology,Accessories,4.0,91.25,786.6,471.96,13
+1057,"Office Impressions End Table, 20-1/2""H x 24""W x 20""D",Furniture,Tables,4.0,91.25,637.9,382.73999999999995,3
+1058,Canon PC170 Desktop Personal Copier,Technology,Machines,4.0,91.25,575.82,345.492,6
+1059,Staples in misc. colors,Office Supplies,Art,4.0,91.25,8.9,5.34,6
+1060,"Memorex 25GB 6X Branded Blu-Ray Recordable Disc, 15/Pack",Technology,Accessories,4.0,91.25,210.68,126.408,14
+1061,"Howard Miller 11-1/2"" Diameter Brentwood Wall Clock",Furniture,Furnishings,4.0,91.25,603.8199999999999,362.292,14
+1062,Aluminum Screw Posts,Office Supplies,Binders,4.0,91.25,146.48999999999998,87.89399999999999,21
+1063,Staples,Office Supplies,Fasteners,4.0,91.25,7.52,4.512,5
+1064,Newell 320,Office Supplies,Art,4.0,91.25,41.09,24.654,12
+1065,Cisco IP Phone 7961G VoIP phone - Dark gray,Technology,Phones,4.0,91.25,1250.74,750.444,11
+1066,Acme Value Line Scissors,Office Supplies,Supplies,4.0,91.25,29.2,17.52,8
+1067,Avery Printable Repositionable Plastic Tabs,Office Supplies,Binders,4.0,91.25,13.76,8.256,2
+1068,Eldon Shelf Savers Cubes and Bins,Office Supplies,Storage,4.0,91.25,128.43,77.058,20
+1069,Anderson Hickey Conga Table Tops & Accessories,Furniture,Tables,4.0,91.25,27.41,16.445999999999998,3
+1070,Kingston Digital DataTraveler 8GB USB 2.0,Technology,Accessories,4.0,91.25,44.03,26.418,9
+1071,"Acco Flexible ACCOHIDE Square Ring Data Binder, Dark Blue, 11 1/2"" X 14"" 7/8""",Office Supplies,Binders,4.0,91.25,152.93,91.758,16
+1072,Staple holder,Office Supplies,Appliances,4.0,91.25,38.3,22.979999999999997,4
+1073,Dixon Ticonderoga Core-Lock Colored Pencils,Office Supplies,Art,4.0,91.25,76.52,45.912,9
+1074,"Ultra Door Kickplate, 8""H x 34""W",Furniture,Furnishings,4.0,91.25,79.12,47.472,5
+1075,Avery 519,Office Supplies,Labels,4.0,91.25,70.17999999999999,42.108,11
+1076,Poly String Tie Envelopes,Office Supplies,Envelopes,4.0,91.25,17.14,10.284,9
+1077,Southworth Parchment Paper & Envelopes,Office Supplies,Paper,4.0,91.25,44.48,26.688,8
+1078,Global Enterprise Series Seating High-Back Swivel/Tilt Chairs,Furniture,Chairs,4.0,91.25,1463.29,877.9739999999999,7
+1079,"Wilson Jones Hanging View Binder, White, 1""",Office Supplies,Binders,4.0,91.25,42.599999999999994,25.559999999999995,6
+1080,Storex DuraTech Recycled Plastic Frosted Binders,Office Supplies,Binders,4.0,91.25,42.4,25.439999999999998,14
+1081,Logitech G430 Surround Sound Gaming Headset with Dolby 7.1 Technology,Technology,Accessories,4.0,91.25,719.91,431.94599999999997,9
+1082,O'Sullivan 5-Shelf Heavy-Duty Bookcases,Furniture,Bookcases,4.0,91.25,81.94,49.163999999999994,1
+1083,Xerox 1990,Office Supplies,Paper,4.0,91.25,36.96,22.176,8
+1084,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 Room,Office Supplies,Appliances,4.0,91.25,764.96,458.976,7
+1085,Xerox 1933,Office Supplies,Paper,4.0,91.25,135.07999999999998,81.04799999999999,11
+1086,"Green Canvas Binder for 8-1/2"" x 14"" Sheets",Office Supplies,Binders,4.0,91.25,432.28,259.368,15
+1087,"Safco Value Mate Steel Bookcase, Baked Enamel Finish on Steel, Black",Furniture,Bookcases,4.0,91.25,681.4000000000001,408.84000000000003,12
+1088,Cubify CubeX 3D Printer Double Head Print,Technology,Machines,4.0,91.25,4799.98,2879.988,2
+1089,Cisco Desktop Collaboration Experience DX650 IP Video Phone,Technology,Machines,4.0,91.25,385.8,231.48,5
+1090,O'Sullivan 3-Shelf Heavy-Duty Bookcases,Furniture,Bookcases,4.0,91.25,409.89,245.93399999999997,9
+1091,Global Deluxe Steno Chair,Furniture,Chairs,4.0,91.25,461.87,277.122,8
+1092,"Deflect-o RollaMat Studded, Beveled Mat for Medium Pile Carpeting",Furniture,Furnishings,4.0,91.25,553.38,332.02799999999996,13
+1093,Xerox 1975,Office Supplies,Paper,4.0,91.25,31.1,18.66,6
+1094,Memorex Micro Travel Drive 16 GB,Technology,Accessories,4.0,91.25,332.59000000000003,199.554,25
+1095,"Mead 1st Gear 2"" Zipper Binder, Asst. Colors",Office Supplies,Binders,4.0,91.25,42.8,25.679999999999996,6
+1096,O'Sullivan Plantations 2-Door Library in Landvery Oak,Furniture,Bookcases,4.0,91.25,956.66,573.996,7
+1097,Logitech Wireless Headset H600 Over-The-Head Design,Technology,Accessories,4.0,91.25,171.96,103.176,5
+1098,"Acco 7-Outlet Masterpiece Power Center, Wihtout Fax/Phone Line Protection",Office Supplies,Appliances,4.0,91.25,291.79,175.074,4
+1099,Harmony Air Purifier,Office Supplies,Appliances,4.0,91.25,189.0,113.39999999999999,1
+1100,"Rogers Jumbo File, Granite",Office Supplies,Storage,4.0,91.25,162.96,97.776,12
+1101,Laser & Ink Jet Business Envelopes,Office Supplies,Envelopes,4.0,91.25,102.43,61.458,11
+1102,Polycom SoundPoint Pro SE-225 Corded phone,Technology,Phones,4.0,91.25,666.34,399.80400000000003,7
+1103,Hewlett-Packard Deskjet D4360 Printer,Technology,Machines,4.0,91.25,447.97,268.782,4
+1104,DAX Wood Document Frame.,Furniture,Furnishings,4.0,91.25,115.33,69.198,12
+1105,Xerox 208,Office Supplies,Paper,4.0,91.25,54.43000000000001,32.658,9
+1106,Hoover Portapower Portable Vacuum,Office Supplies,Appliances,4.0,91.25,17.92,10.752,5
+1107,Jackery Bar Premium Fast-charging Portable Charger,Technology,Phones,4.0,91.25,191.68,115.008,8
+1108,Xerox 225,Office Supplies,Paper,4.0,91.25,51.84,31.104,8
+1109,GuestStacker Chair with Chrome Finish Legs,Furniture,Chairs,4.0,91.25,5576.39,3345.8340000000003,19
+1110,Xerox 1927,Office Supplies,Paper,4.0,91.25,27.39,16.434,8
+1111,Avery 503,Office Supplies,Labels,4.0,91.25,155.25,93.14999999999999,15
+1112,SANFORD Major Accent Highlighters,Office Supplies,Art,4.0,91.25,21.24,12.743999999999998,3
+1113,Staple-on labels,Office Supplies,Labels,4.0,91.25,5.78,3.468,2
+1114,Economy #2 Pencils,Office Supplies,Art,4.0,91.25,15.96,9.576,6
+1115,Magna Visual Magnetic Picture Hangers,Furniture,Furnishings,4.0,91.25,43.38,26.028000000000002,10
+1116,Boston 16750 Black Compact Battery Pencil Sharpener,Office Supplies,Art,4.0,91.25,8.75,5.25,1
+1117,Global Adaptabilities Conference Tables,Furniture,Tables,4.0,91.25,3203.17,1921.902,12
+1118,Heavy-Duty E-Z-D Binders,Office Supplies,Binders,4.0,91.25,128.73,77.23799999999999,21
+1119,Newell 316,Office Supplies,Art,4.0,91.25,27.38,16.427999999999997,7
+1120,Acco Smartsocket Color-Coded Six-Outlet AC Adapter Model Surge Protectors,Office Supplies,Appliances,4.0,91.25,237.66,142.596,9
+1121,"Master Caster Door Stop, Brown",Furniture,Furnishings,4.0,91.25,58.93,35.358,12
+1122,"Inter-Office Recycled Envelopes, Brown Kraft, Button-String,10"" x 13"" , 100/Box",Office Supplies,Envelopes,4.0,91.25,109.9,65.94,5
+1123,Holmes 99% HEPA Air Purifier,Office Supplies,Appliances,4.0,91.25,43.32,25.992,2
+1124,Xerox 1892,Office Supplies,Paper,4.0,91.25,116.28,69.768,3
+1125,Multicolor Computer Printout Paper,Office Supplies,Paper,4.0,91.25,733.95,440.37,8
+1126,"Acco Four Pocket Poly Ring Binder with Label Holder, Smoke, 1""",Office Supplies,Binders,4.0,91.25,44.7,26.82,15
+1127,Sharp 1540cs Digital Laser Copier,Technology,Copiers,4.0,91.25,1759.97,1055.982,4
+1128,Hon Multipurpose Stacking Arm Chairs,Furniture,Chairs,4.0,91.25,2989.08,1793.4479999999999,18
+1129,Xerox 227,Office Supplies,Paper,4.0,91.25,64.8,38.879999999999995,12
+1130,"Wilson Jones Clip & Carry Folder Binder Tool for Ring Binders, Clear",Office Supplies,Binders,4.0,91.25,23.2,13.92,5
+1131,3M Polarizing Light Filter Sleeves,Furniture,Furnishings,4.0,91.25,149.2,89.52,8
+1132,"24 Capacity Maxi Data Binder Racks, Pearl",Office Supplies,Storage,4.0,91.25,1768.62,1061.1719999999998,10
+1133,Tensor Computer Mounted Lamp,Furniture,Furnishings,4.0,91.25,89.34,53.604,6
+1134,Memorex Micro Travel Drive 32 GB,Technology,Accessories,4.0,91.25,175.25,105.14999999999999,6
+1135,GBC VeloBinder Manual Binding System,Office Supplies,Binders,4.0,91.25,345.5,207.29999999999998,12
+1136,Vtech CS6719,Technology,Phones,4.0,91.25,844.71,506.826,11
+1137,Newell 32,Office Supplies,Art,4.0,91.25,15.55,9.33,6
+1138,GE 2-Jack Phone Line Splitter,Technology,Phones,4.0,91.25,659.17,395.50199999999995,4
+1139,Jensen SMPS-640 - speaker phone,Technology,Phones,4.0,91.25,248.29,148.974,6
+1140,"Master Caster Door Stop, Large Brown",Furniture,Furnishings,4.0,91.25,50.96,30.576,7
+1141,Fellowes Desktop Hanging File Manager,Office Supplies,Storage,4.0,91.25,94.01,56.406,7
+1142,Avery 487,Office Supplies,Labels,4.0,91.25,42.07,25.242,13
+1143,Nontoxic Chalk,Office Supplies,Art,4.0,91.25,28.86,17.316,18
+1144,GBC Therma-A-Bind 250T Electric Binding System,Office Supplies,Binders,4.0,91.25,1180.7,708.42,12
+1145,"Super Bands, 12/Pack",Office Supplies,Fasteners,4.0,91.25,10.04,6.023999999999999,6
+1146,Document Clip Frames,Furniture,Furnishings,4.0,91.25,25.02,15.011999999999999,3
+1147,Space Solutions Commercial Steel Shelving,Office Supplies,Storage,4.0,91.25,452.55,271.53,7
+1148,Eldon Wave Desk Accessories,Furniture,Furnishings,4.0,91.25,141.36,84.816,26
+1149,Fellowes Super Stor/Drawer Files,Office Supplies,Storage,4.0,91.25,775.44,465.264,6
+1150,Canon PC-428 Personal Copier,Technology,Copiers,4.0,91.25,2559.87,1535.9219999999998,14
+1151,Okidata C331dn Printer,Technology,Machines,4.0,91.25,1396.0,837.6,5
+1152,"Sanford Prismacolor Professional Thick Lead Art Pencils, 36-Color Set",Office Supplies,Art,4.0,91.25,59.9,35.94,2
+1153,"Holmes Replacement Filter for HEPA Air Cleaner, Large Room",Office Supplies,Appliances,4.0,91.25,68.13,40.87799999999999,5
+1154,Xerox 1897,Office Supplies,Paper,4.0,91.25,7.97,4.782,2
+1155,SanDisk Cruzer 16 GB USB Flash Drive,Technology,Accessories,4.0,91.25,84.95,50.97,8
+1156,24-Hour Round Wall Clock,Furniture,Furnishings,4.0,91.25,259.74,155.844,15
+1157,Logitech Media Keyboard K200,Technology,Accessories,4.0,91.25,69.98,41.988,2
+1158,Fellowes Staxonsteel Drawer Files,Office Supplies,Storage,4.0,91.25,3283.89,1970.3339999999998,18
+1159,Newell 348,Office Supplies,Art,4.0,91.25,5.25,3.15,2
+1160,Staples in misc. colors,Office Supplies,Art,4.0,91.25,37.9,22.74,5
+1161,Sanyo 2.5 Cubic Foot Mid-Size Office Refrigerators,Office Supplies,Appliances,4.0,91.25,671.54,402.924,3
+1162,Avery 483,Office Supplies,Labels,4.0,91.25,67.73,40.638,15
+1163,"Dixon Ticonderoga Maple Cedar Pencil, #2",Office Supplies,Art,4.0,91.25,9.21,5.526000000000001,3
+1164,Acme Forged Steel Scissors with Black Enamel Handles,Office Supplies,Supplies,4.0,91.25,46.55,27.929999999999996,5
+1165,Recycled Steel Personal File for Standard File Folders,Office Supplies,Storage,4.0,91.25,353.86,212.316,7
+1166,"Elite 5"" Scissors",Office Supplies,Supplies,4.0,91.25,86.19,51.714,12
+1167,ARKON Windshield Dashboard Air Vent Car Mount Holder,Technology,Phones,4.0,91.25,40.68,24.407999999999998,3
+1168,AmazonBasics 3-Button USB Wired Mouse,Technology,Accessories,4.0,91.25,53.13,31.878,9
+1169,GBC Instant Report Kit,Office Supplies,Binders,4.0,91.25,46.58,27.947999999999997,14
+1170,14-7/8 x 11 Blue Bar Computer Printout Paper,Office Supplies,Paper,4.0,91.25,326.68,196.008,8
+1171,Panasonic KX T7736-B Digital phone,Technology,Phones,4.0,91.25,539.8199999999999,323.89199999999994,5
+1172,"Avery Triangle Shaped Sheet Lifters, Black, 2/Pack",Office Supplies,Binders,4.0,91.25,1.48,0.888,3
+1173,Acme Stainless Steel Office Snips,Office Supplies,Supplies,4.0,91.25,40.71,24.426,7
+1174,Newell 326,Office Supplies,Art,4.0,91.25,11.26,6.755999999999999,7
+1175,Logitech Keyboard K120,Technology,Accessories,4.0,91.25,130.68,78.408,9
+1176,Avery Personal Creations Heavyweight Cards,Office Supplies,Paper,4.0,91.25,27.7,16.619999999999997,3
+1177,Hoover Upright Vacuum With Dirt Cup,Office Supplies,Appliances,4.0,91.25,1621.37,972.8219999999999,13
+1178,Portable Personal File Box,Office Supplies,Storage,4.0,91.25,73.26,43.956,6
+1179,"Avery Framed View Binder, EZD Ring (Locking), Navy, 1 1/2""",Office Supplies,Binders,4.0,91.25,51.900000000000006,31.14,9
+1180,Woodgrain Magazine Files by Perma,Office Supplies,Storage,4.0,91.25,8.94,5.364,3
+1181,Newell 323,Office Supplies,Art,4.0,91.25,3.36,2.016,2
+1182,"Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",Office Supplies,Labels,4.0,91.25,274.77,164.862,10
+1183,Hon 4070 Series Pagoda Round Back Stacking Chairs,Furniture,Chairs,4.0,91.25,4397.42,2638.4519999999998,16
+1184,Hon Every-Day Chair Series Swivel Task Chairs,Furniture,Chairs,4.0,91.25,254.06,152.436,3
+1185,"Bush Westfield Collection Bookcases, Medium Cherry Finish",Furniture,Bookcases,4.0,91.25,173.94,104.36399999999999,3
+1186,GE 30522EE2,Technology,Phones,4.0,91.25,231.98,139.188,2
+1187,"Eberhard Faber 3 1/2"" Golf Pencils",Office Supplies,Art,4.0,91.25,29.76,17.856,4
+1188,Global Comet Stacking Armless Chair,Furniture,Chairs,4.0,91.25,1614.87,968.9219999999999,6
+1189,Office Star - Contemporary Swivel Chair with Padded Adjustable Arms and Flex Back,Furniture,Chairs,4.0,91.25,1607.17,964.302,12
+1190,"Hon Metal Bookcases, Putty",Furniture,Bookcases,4.0,91.25,425.88,255.528,6
+1191,Belkin 8-Outlet Premiere SurgeMaster II Surge Protectors,Office Supplies,Appliances,4.0,91.25,69.48,41.688,1
+1192,"Executive Impressions 13-1/2"" Indoor/Outdoor Wall Clock",Furniture,Furnishings,4.0,91.25,37.4,22.439999999999998,2
+1193,Newell 330,Office Supplies,Art,4.0,91.25,29.900000000000002,17.94,5
+1194,Office Star Flex Back Scooter Chair with White Frame,Furniture,Chairs,4.0,91.25,266.35,159.81,3
+1195,High-Back Leather Manager's Chair,Furniture,Chairs,4.0,91.25,597.95,358.77000000000004,5
+1196,Embossed Ink Jet Note Cards,Office Supplies,Paper,4.0,91.25,103.82,62.291999999999994,5
+1197,Assorted Color Push Pins,Office Supplies,Fasteners,4.0,91.25,14.48,8.688,9
+1198,Ibico EPK-21 Electric Binding System,Office Supplies,Binders,4.0,91.25,1889.99,1133.994,5
+1199,Euro Pro Shark Stick Mini Vacuum,Office Supplies,Appliances,4.0,91.25,97.56,58.536,5
+1200,Logitech G600 MMO Gaming Mouse,Technology,Accessories,4.0,91.25,319.96,191.97599999999997,4
+1201,Astroparche Fine Business Paper,Office Supplies,Paper,4.0,91.25,119.33,71.598,23
+1202,Zebra ZM400 Thermal Label Printer,Technology,Machines,4.0,91.25,6965.700000000001,4179.42,6
+1203,GBC Wire Binding Strips,Office Supplies,Binders,4.0,91.25,9.52,5.712,1
+1204,O'Sullivan Cherrywood Estates Traditional Barrister Bookcase,Furniture,Bookcases,4.0,91.25,687.4,412.44,5
+1205,Newell 338,Office Supplies,Art,4.0,91.25,14.7,8.819999999999999,5
+1206,Enermax Acrylux Wireless Keyboard,Technology,Accessories,4.0,91.25,398.4,239.03999999999996,5
+1207,"GBC Velobind Prepunched Cover Sets, Regency Series",Office Supplies,Binders,4.0,91.25,395.68999999999994,237.41399999999996,19
+1208,"Acco Smartsocket Table Surge Protector, 6 Color-Coded Adapter Outlets",Office Supplies,Appliances,4.0,91.25,167.54,100.52399999999999,3
+1209,Nu-Dell Float Frame 11 x 14 1/2,Furniture,Furnishings,4.0,91.25,79.03,47.418,11
+1210,Motorola Droid Maxx,Technology,Phones,4.0,91.25,2069.86,1241.916,15
+1211,Petty Cash Envelope,Office Supplies,Paper,4.0,91.25,64.7,38.82,3
+1212,Samsung Convoy 3,Technology,Phones,4.0,91.25,688.14,412.88399999999996,9
+1213,Sony 16GB Class 10 Micro SDHC R40 Memory Card,Technology,Accessories,4.0,91.25,61.870000000000005,37.122,6
+1214,Hammermill CopyPlus Copy Paper (20Lb. and 84 Bright),Office Supplies,Paper,4.0,91.25,7.97,4.782,2
+1215,Cardinal Hold-It CD Pocket,Office Supplies,Binders,4.0,91.25,19.15,11.489999999999998,3
+1216,Xerox 209,Office Supplies,Paper,4.0,91.25,84.24,50.544,13
+1217,Microsoft Arc Touch Mouse,Technology,Accessories,4.0,91.25,119.9,71.94,2
+1218,Staple remover,Office Supplies,Supplies,4.0,91.25,63.84,38.304,8
+1219,"File Shuttle II and Handi-File, Black",Office Supplies,Storage,4.0,91.25,67.78,40.668,2
+1220,Novimex Turbo Task Chair,Furniture,Chairs,4.0,91.25,340.7,204.42,6
+1221,"Peel & Seel Recycled Catalog Envelopes, Brown",Office Supplies,Envelopes,4.0,91.25,23.16,13.895999999999999,2
+1222,"Strathmore #10 Envelopes, Ultimate White",Office Supplies,Envelopes,4.0,91.25,316.26,189.756,6
+1223,High Speed Automatic Electric Letter Opener,Office Supplies,Supplies,4.0,91.25,3930.07,2358.042,3
+1224,"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 1/Pack",Technology,Accessories,4.0,91.25,65.56,39.336,11
+1225,"Gould Plastics 9-Pocket Panel Bin, 18-3/8w x 5-1/4d x 20-1/2h, Black",Office Supplies,Storage,4.0,91.25,190.76,114.45599999999999,4
+1226,"OIC Binder Clips, Mini, 1/4"" Capacity, Black",Office Supplies,Fasteners,4.0,91.25,3.7199999999999998,2.2319999999999998,3
+1227,"Tyvek  Top-Opening Peel & Seel Envelopes, Plain White",Office Supplies,Envelopes,4.0,91.25,173.95000000000002,104.37,7
+1228,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Office Supplies,Envelopes,4.0,91.25,48.94,29.363999999999997,6
+1229,"Barricks Non-Folding Utility Table with Steel Legs, Laminate Tops",Furniture,Tables,4.0,91.25,136.46,81.876,2
+1230,XtraLife ClearVue Slant-D Ring Binders by Cardinal,Office Supplies,Binders,4.0,91.25,12.54,7.523999999999999,2
+1231,Xerox 1954,Office Supplies,Paper,4.0,91.25,10.56,6.336,2
+1232,"Wirebound Message Books, 2 7/8"" x 5"", 3 Forms per Page",Office Supplies,Paper,4.0,91.25,35.2,21.12,5
+1233,"Riverside Furniture Oval Coffee Table, Oval End Table, End Table with Drawer",Furniture,Tables,4.0,91.25,487.65000000000003,292.59000000000003,2
+1234,Belkin Standard 104 key USB Keyboard,Technology,Accessories,4.0,91.25,195.51,117.30599999999998,15
+1235,"Eldon Expressions Wood Desk Accessories, Oak",Furniture,Furnishings,4.0,91.25,64.95,38.97,14
+1236,Eldon 500 Class Desk Accessories,Furniture,Furnishings,4.0,91.25,813.9300000000001,488.358,26
+1237,Lock-Up Easel 'Spel-Binder',Office Supplies,Binders,4.0,91.25,34.24,20.544,4
+1238,Avery Hi-Liter Fluorescent Desk Style Markers,Office Supplies,Art,4.0,91.25,16.9,10.139999999999999,5
+1239,Plastic Binding Combs,Office Supplies,Binders,4.0,91.25,166.65,99.99,12
+1240,Tennsco Industrial Shelving,Office Supplies,Storage,4.0,91.25,929.29,557.574,20
+1241,Akro Stacking Bins,Office Supplies,Storage,4.0,91.25,58.39,35.034,8
+1242,Boston KS Multi-Size Manual Pencil Sharpener,Office Supplies,Art,4.0,91.25,128.74,77.244,6
+1243,Xerox 1906,Office Supplies,Paper,4.0,91.25,637.92,382.75199999999995,19
+1244,Luxo Professional Combination Clamp-On Lamps,Furniture,Furnishings,4.0,91.25,920.7,552.42,9
+1245,Xerox 202,Office Supplies,Paper,4.0,91.25,90.72,54.431999999999995,15
+1246,Xerox 1930,Office Supplies,Paper,4.0,91.25,73.87,44.322,13
+1247,Avery Non-Stick Binders,Office Supplies,Binders,4.0,91.25,84.41,50.645999999999994,20
+1248,GBC Imprintable Covers,Office Supplies,Binders,4.0,91.25,81.25,48.75,8
+1249,Standard Line While You Were Out Hardbound Telephone Message Book,Office Supplies,Paper,4.0,91.25,123.80000000000001,74.28,10
+1250,GBC VeloBinder Strips,Office Supplies,Binders,4.0,91.25,34.56,20.736,12
+1251,Xerox 1963,Office Supplies,Paper,4.0,91.25,68.64,41.184,15
+1252,Logitech Z-906 Speaker sys - home theater - 5.1-CH,Technology,Accessories,4.0,91.25,2639.92,1583.952,8
+1253,Wilson Jones Four-Pocket Poly Binders,Office Supplies,Binders,4.0,91.25,15.040000000000001,9.024000000000001,9
+1254,Luxo Adjustable Task Clamp Lamp,Furniture,Furnishings,4.0,91.25,746.26,447.756,9
+1255,Unpadded Memo Slips,Office Supplies,Paper,4.0,91.25,6.37,3.822,2
+1256,GBC DocuBind P100 Manual Binding Machine,Office Supplies,Binders,4.0,91.25,331.96,199.176,2
+1257,"Bush Cubix Conference Tables, Fully Assembled",Furniture,Tables,4.0,91.25,2171.21,1302.7259999999999,11
+1258,KeyTronic E03601U1 - Keyboard - Beige,Technology,Accessories,4.0,91.25,234.0,140.4,13
+1259,Logitech Illuminated - Keyboard,Technology,Accessories,4.0,91.25,419.93,251.958,7
+1260,Tennsco Commercial Shelving,Office Supplies,Storage,4.0,91.25,101.7,61.019999999999996,5
+1261,Avery Heavy-Duty EZD View Binder with Locking Rings,Office Supplies,Binders,4.0,91.25,11.49,6.894,7
+1262,Eldon Image Series Black Desk Accessories,Furniture,Furnishings,4.0,91.25,3.31,1.986,1
+1263,Colored Envelopes,Office Supplies,Envelopes,4.0,91.25,8.86,5.316,3
+1264,Xerox 1925,Office Supplies,Paper,4.0,91.25,185.88,111.52799999999999,7
+1265,Ampad #10 Peel & Seel Holiday Envelopes,Office Supplies,Envelopes,4.0,91.25,17.92,10.752,4
+1266,Xerox 1956,Office Supplies,Paper,4.0,91.25,23.92,14.352,5
+1267,Trimflex Flexible Post Binders,Office Supplies,Binders,4.0,91.25,286.49,171.894,16
+1268,Avery Binder Labels,Office Supplies,Binders,4.0,91.25,11.67,7.002,3
+1269,Xerox 230,Office Supplies,Paper,4.0,91.25,12.96,7.776,2
+1270,"DAX Copper Panel Document Frame, 5 x 7 Size",Furniture,Furnishings,4.0,91.25,25.16,15.096,2
+1271,Motorla HX550 Universal Bluetooth Headset,Technology,Phones,4.0,91.25,126.56,75.93599999999999,4
+1272,Avery Fluorescent Highlighter Four-Color Set,Office Supplies,Art,4.0,91.25,24.049999999999997,14.429999999999998,9
+1273,"Master Caster Door Stop, Gray",Furniture,Furnishings,4.0,91.25,10.16,6.096,2
+1274,Xerox 20,Office Supplies,Paper,4.0,91.25,6.48,3.888,1
+1275,"Black Print Carbonless 8 1/2"" x 8 1/4"" Rapid Memo Book",Office Supplies,Paper,4.0,91.25,52.41,31.445999999999998,9
+1276,Lunatik TT5L-002 Taktik Strike Impact Protection System for iPhone 5,Technology,Phones,4.0,91.25,183.69,110.214,4
+1277,Newell 35,Office Supplies,Art,4.0,91.25,6.56,3.9359999999999995,2
+1278,Sanford Pocket Accent Highlighters,Office Supplies,Art,4.0,91.25,19.2,11.52,12
+1279,Hunt Boston Vacuum Mount KS Pencil Sharpener,Office Supplies,Art,4.0,91.25,286.90999999999997,172.146,9
+1280,"Commercial WindTunnel Clean Air Upright Vacuum, Replacement Belts, Filtration Bags",Office Supplies,Appliances,4.0,91.25,35.010000000000005,21.006000000000004,13
+1281,"Belkin 19"" Center-Weighted Shelf, Gray",Office Supplies,Storage,4.0,91.25,707.76,424.656,13
+1282,Kensington Expert Mouse Optical USB Trackball for PC or Mac,Technology,Accessories,4.0,91.25,284.97,170.982,3
+1283,Regeneration Desk Collection,Furniture,Furnishings,4.0,91.25,7.04,4.224,4
+1284,Logitech G35 7.1-Channel Surround Sound Headset,Technology,Accessories,4.0,91.25,389.97,233.982,3
+1285,Dexim XPower Skin Super-Thin Power Case for iPhone 5 - Black,Technology,Phones,4.0,91.25,257.36,154.416,5
+1286,"Avery Trapezoid Ring Binder, 3"" Capacity, Black, 1040 sheets",Office Supplies,Binders,4.0,91.25,200.79999999999998,120.47999999999999,9
+1287,Manco Dry-Lighter Erasable Highlighter,Office Supplies,Art,4.0,91.25,54.72,32.832,19
+1288,Acme Kleen Earth Office Shears,Office Supplies,Supplies,4.0,91.25,11.64,6.984,3
+1289,Sannysis Cute Owl Design Soft Skin Case Cover for Samsung Galaxy S4,Technology,Phones,4.0,91.25,5.94,3.564,3
+1290,Staple envelope,Office Supplies,Envelopes,4.0,91.25,207.0,124.19999999999999,25
+1291,ShoreTel ShorePhone IP 230 VoIP phone,Technology,Phones,4.0,91.25,1284.3200000000002,770.5920000000001,9
+1292,Imation 30456 USB Flash Drive 8GB,Technology,Accessories,4.0,91.25,37.26,22.355999999999998,6
+1293,Avanti 4.4 Cu. Ft. Refrigerator,Office Supplies,Appliances,4.0,91.25,723.9200000000001,434.35200000000003,8
+1294,Hon Comfortask Task/Swivel Chairs,Furniture,Chairs,4.0,91.25,1082.81,649.6859999999999,12
+1295,JM Magazine Binder,Office Supplies,Binders,4.0,91.25,52.83,31.697999999999997,4
+1296,Hon Olson Stacker Stools,Furniture,Chairs,4.0,91.25,112.65,67.59,1
+1297,"Vtech AT&T CL2940 Corded Speakerphone, Black",Technology,Machines,4.0,91.25,71.98,43.188,3
+1298,Newell 311,Office Supplies,Art,4.0,91.25,5.75,3.4499999999999997,3
+1299,Peel & Seel Envelopes,Office Supplies,Envelopes,4.0,91.25,37.25,22.349999999999998,11
+1300,Newell 347,Office Supplies,Art,4.0,91.25,10.27,6.162,3
+1301,Belkin 5 Outlet SurgeMaster Power Centers,Office Supplies,Appliances,4.0,91.25,305.09000000000003,183.054,6
+1302,Hoover Commercial Soft Guard Upright Vacuum And Disposable Filtration Bags,Office Supplies,Appliances,4.0,91.25,7.77,4.662,1
+1303,Xerox 189,Office Supplies,Paper,4.0,91.25,838.8,503.28,9
+1304,Office Star Flex Back Scooter Chair with Aluminum Finish Frame,Furniture,Chairs,4.0,91.25,90.8,54.48,1
+1305,"Global Stack Chair with Arms, Black",Furniture,Chairs,4.0,91.25,419.72,251.832,14
+1306,Xerox 1914,Office Supplies,Paper,4.0,91.25,384.72,230.832,7
+1307,Xerox 1994,Office Supplies,Paper,4.0,91.25,19.44,11.664,3
+1308,"Binney & Smith inkTank Erasable Pocket Highlighter, Chisel Tip, Yellow",Office Supplies,Art,4.0,91.25,20.52,12.312,9
+1309,Global Troy Executive Leather Low-Back Tilter,Furniture,Chairs,4.0,91.25,3607.0600000000004,2164.2360000000003,9
+1310,GBC VeloBind Cover Sets,Office Supplies,Binders,4.0,91.25,169.84,101.904,19
+1311,Insertable Tab Indexes For Data Binders,Office Supplies,Binders,4.0,91.25,11.45,6.869999999999999,6
+1312,Newell 331,Office Supplies,Art,4.0,91.25,11.74,7.044,3
+1313,Xerox 1885,Office Supplies,Paper,4.0,91.25,336.28,201.76799999999997,7
+1314,Xerox 1902,Office Supplies,Paper,4.0,91.25,45.68,27.407999999999998,2
+1315,Wilson Jones Suede Grain Vinyl Binders,Office Supplies,Binders,4.0,91.25,2.78,1.668,1
+1316,Fellowes Bases and Tops For Staxonsteel/High-Stak Systems,Office Supplies,Storage,4.0,91.25,199.74,119.844,6
+1317,Avery 475,Office Supplies,Labels,4.0,91.25,177.6,106.55999999999999,12
+1318,Easy-staple paper,Office Supplies,Paper,4.0,91.25,21.4,12.839999999999998,5
+1319,"Seth Thomas 13 1/2"" Wall Clock",Furniture,Furnishings,4.0,91.25,177.8,106.68,10
+1320,Easy-staple paper,Office Supplies,Paper,4.0,91.25,113.4,68.04,10
+1321,"Eldon Regeneration Recycled Desk Accessories, Black",Furniture,Furnishings,4.0,91.25,14.52,8.712,3
+1322,"SAFCO PlanMaster Boards, 60w x 37-1/2d, White Melamine",Furniture,Tables,4.0,91.25,1702.29,1021.3739999999999,12
+1323,Eldon Pizzaz Desk Accessories,Furniture,Furnishings,4.0,91.25,17.84,10.703999999999999,8
+1324,Apple iPhone 5S,Technology,Phones,4.0,91.25,683.99,410.394,2
+1325,Plastic Stacking Crates & Casters,Office Supplies,Storage,4.0,91.25,13.39,8.034,3
+1326,Plantronics CS510 - Over-the-Head monaural Wireless Headset System,Technology,Accessories,4.0,91.25,1319.8,791.88,5
+1327,OtterBox Defender Series Case - Samsung Galaxy S4,Technology,Phones,4.0,91.25,287.91,172.746,12
+1328,Kensington 7 Outlet MasterPiece HOMEOFFICE Power Control Center,Office Supplies,Appliances,4.0,91.25,262.24,157.344,2
+1329,"GE 4 Foot Flourescent Tube, 40 Watt",Furniture,Furnishings,4.0,91.25,23.97,14.382,2
+1330,"Tennsco Stur-D-Stor Boltless Shelving, 5 Shelves, 24"" Deep, Sand",Office Supplies,Storage,4.0,91.25,1542.53,925.5179999999999,12
+1331,Xerox 1979,Office Supplies,Paper,4.0,91.25,123.92,74.352,4
+1332,"Padded Folding Chairs, Black, 4/Carton",Furniture,Chairs,4.0,91.25,161.96,97.176,2
+1333,"Lesro Round Back Collection Coffee Table, End Table",Furniture,Tables,4.0,91.25,474.63,284.77799999999996,4
+1334,Rediform Voice Mail Log Books,Office Supplies,Paper,4.0,91.25,14.9,8.94,5
+1335,Apple iPhone 5,Technology,Phones,4.0,91.25,5198.639999999999,3119.1839999999997,10
+1336,Tenex B1-RE Series Chair Mats for Low Pile Carpets,Furniture,Furnishings,4.0,91.25,91.96,55.175999999999995,2
+1337,Xerox 211,Office Supplies,Paper,4.0,91.25,19.44,11.664,3
+1338,"Array Parchment Paper, Assorted Colors",Office Supplies,Paper,4.0,91.25,80.08,48.047999999999995,11
+1339,Memorex Mini Travel Drive 64 GB USB 2.0 Flash Drive,Technology,Accessories,4.0,91.25,289.92,173.952,8
+1340,"Tennsco Lockers, Sand",Office Supplies,Storage,4.0,91.25,151.06,90.636,9
+1341,Smead Alpha-Z Color-Coded Name Labels First Letter Starter Set,Office Supplies,Labels,4.0,91.25,22.5,13.5,7
+1342,Xerox 1947,Office Supplies,Paper,4.0,91.25,136.35,81.80999999999999,25
+1343,"Hon Metal Bookcases, Black",Furniture,Bookcases,4.0,91.25,354.9,212.93999999999997,5
+1344,Sony Micro Vault Click 4 GB USB 2.0 Flash Drive,Technology,Accessories,4.0,91.25,223.04,133.82399999999998,16
+1345,Wilson Jones 14 Line Acrylic Coated Pressboard Data Binders,Office Supplies,Binders,4.0,91.25,26.7,16.02,5
+1346,Memorex Micro Travel Drive 4 GB,Technology,Accessories,4.0,91.25,21.2,12.719999999999999,2
+1347,"Global Fabric Manager's Chair, Dark Gray",Furniture,Chairs,4.0,91.25,494.8,296.88,6
+1348,"Bush Cubix Collection Bookcases, Fully Assembled",Furniture,Bookcases,4.0,91.25,508.25,304.95,3
+1349,Global Highback Leather Tilter in Burgundy,Furniture,Chairs,4.0,91.25,891.7,535.02,11
+1350,iOttie XL Car Mount,Technology,Phones,4.0,91.25,223.89,134.33399999999997,14
+1351,Eldon Cleatmat Chair Mats for Medium Pile Carpets,Furniture,Furnishings,4.0,91.25,188.7,113.21999999999998,4
+1352,RCA Visys Integrated PBX 8-Line Router,Technology,Phones,4.0,91.25,200.97,120.582,3
+1353,Avery 511,Office Supplies,Labels,4.0,91.25,19.72,11.831999999999999,8
+1354,GBC Plasticlear Binding Covers,Office Supplies,Binders,4.0,91.25,30.990000000000002,18.594,9
+1355,Premier Automatic Letter Opener,Office Supplies,Supplies,4.0,91.25,1394.1399999999999,836.4839999999999,7
+1356,Enermax Briskie RF Wireless Keyboard and Mouse Combo,Technology,Accessories,4.0,91.25,178.62,107.172,10
+1357,Serrated Blade or Curved Handle Hand Letter Openers,Office Supplies,Supplies,4.0,91.25,17.58,10.547999999999998,7
+1358,Southworth 25% Cotton Premium Laser Paper and Envelopes,Office Supplies,Paper,4.0,91.25,347.65,208.58999999999997,18
+1359,Xerox 1887,Office Supplies,Paper,4.0,91.25,15.18,9.107999999999999,1
+1360,"3D Systems Cube Printer, 2nd Generation, Magenta",Technology,Machines,4.0,91.25,5199.96,3119.976,4
+1361,Eldon Simplefile Box Office,Office Supplies,Storage,4.0,91.25,124.4,74.64,10
+1362,Panasonic KX - TS880B Telephone,Technology,Phones,4.0,91.25,41.22,24.732,1
+1363,LG Electronics Tone+ HBS-730 Bluetooth Headset,Technology,Phones,4.0,91.25,226.14,135.684,5
+1364,Magnifier Swing Arm Lamp,Furniture,Furnishings,4.0,91.25,167.84,100.704,8
+1365,"Ativa D5772 2-Line 5.8GHz Digital Expandable Corded/Cordless Phone System with Answering & Caller ID/Call Waiting, Black/Silver",Technology,Phones,4.0,91.25,1319.92,791.952,8
+1366,Avery 497,Office Supplies,Labels,4.0,91.25,2.46,1.476,1
+1367,Deluxe Rollaway Locking File with Drawer,Office Supplies,Storage,4.0,91.25,2079.4,1247.64,5
+1368,Xerox 206,Office Supplies,Paper,4.0,91.25,34.99,20.994,6
+1369,Hewlett-Packard 300S Scientific Calculator,Technology,Machines,4.0,91.25,78.66,47.196,6
+1370,Polycom CX300 Desktop Phone USB VoIP phone,Technology,Phones,4.0,91.25,839.94,503.964,8
+1371,Luxo Professional Magnifying Clamp-On Fluorescent Lamps,Furniture,Furnishings,4.0,91.25,332.83,199.69799999999998,4
+1372,Fluorescent Highlighters by Dixon,Office Supplies,Art,4.0,91.25,58.91,35.346,17
+1373,Avery 49,Office Supplies,Labels,4.0,91.25,14.399999999999999,8.639999999999999,5
+1374,"Permanent Self-Adhesive File Folder Labels for Typewriters, 1 1/8 x 3 1/2, White",Office Supplies,Labels,4.0,91.25,15.120000000000001,9.072000000000001,3
+1375,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Executive Red",Office Supplies,Binders,4.0,91.25,11.81,7.086,11
+1376,First Data TMFD35 PIN Pad,Technology,Accessories,4.0,91.25,142.8,85.68,1
+1377,Novimex Swivel Fabric Task Chair,Furniture,Chairs,4.0,91.25,634.12,380.472,6
+1378,"Acco PRESSTEX Data Binder with Storage Hooks, Dark Blue, 14 7/8"" X 11""",Office Supplies,Binders,4.0,91.25,94.69,56.814,20
+1379,Balt Split Level Computer Training Table,Furniture,Tables,4.0,91.25,638.25,382.95,8
+1380,Newell 335,Office Supplies,Art,4.0,91.25,8.64,5.184,3
+1381,Imation Bio 2GB USB Flash Drive Imation Corp,Technology,Accessories,4.0,91.25,1049.44,629.664,8
+1382,Xerox 1944,Office Supplies,Paper,4.0,91.25,62.02,37.212,2
+1383,"DAX Metal Frame, Desktop, Stepped-Edge",Furniture,Furnishings,4.0,91.25,60.72,36.431999999999995,3
+1384,Pressboard Hanging Data Binders for Unburst Sheets,Office Supplies,Binders,4.0,91.25,48.72,29.232,26
+1385,"Boston 1827 Commercial Additional Cutter, Drive Gear & Gear Rack for 1606",Office Supplies,Art,4.0,91.25,39.66,23.795999999999996,2
+1386,"DAX Cubicle Frames, 8-1/2 x 11",Furniture,Furnishings,4.0,91.25,42.85,25.71,5
+1387,Smead Alpha-Z Color-Coded Second Alphabetical Labels and Starter Set,Office Supplies,Labels,4.0,91.25,17.25,10.35,6
+1388,Acme Titanium Bonded Scissors,Office Supplies,Supplies,4.0,91.25,69.7,41.82,9
+1389,Tensor Brushed Steel Torchiere Floor Lamp,Furniture,Furnishings,4.0,91.25,81.55,48.93,6
+1390,Xerox 1890,Office Supplies,Paper,4.0,91.25,146.82,88.092,3
+1391,OIC Stacking Trays,Furniture,Furnishings,4.0,91.25,40.08,24.048,12
+1392,Ibico EB-19 Dual Function Manual Binding System,Office Supplies,Binders,4.0,91.25,1937.48,1162.488,14
+1393,Green Bar Computer Printout Paper,Office Supplies,Paper,4.0,91.25,219.84,131.904,4
+1394,Xerox 1993,Office Supplies,Paper,4.0,91.25,49.25,29.549999999999997,8
+1395,Eldon Radial Chair Mat for Low to Medium Pile Carpets,Furniture,Furnishings,4.0,91.25,359.82,215.892,9
+1396,Ultra Door Pull Handle,Furniture,Furnishings,4.0,91.25,145.18,87.108,15
+1397,Fellowes Mighty 8 Compact Surge Protector,Office Supplies,Appliances,4.0,91.25,113.50999999999999,68.106,6
+1398,3M Replacement Filter for Office Air Cleaner for 20' x 33' Room,Office Supplies,Appliances,4.0,91.25,166.85000000000002,100.11000000000001,10
+1399,Rogers Profile Extra Capacity Storage Tub,Office Supplies,Storage,4.0,91.25,334.79999999999995,200.87999999999997,20
+1400,Clear Mylar Reinforcing Strips,Office Supplies,Binders,4.0,91.25,26.16,15.696,3
+1401,Okidata C610n Printer,Technology,Machines,4.0,91.25,1362.9,817.74,3
+1402,"Acco Recycled 2"" Capacity Laser Printer Hanging Data Binders",Office Supplies,Binders,4.0,91.25,59.25,35.55,7
+1403,Acco Economy Flexible Poly Round Ring Binder,Office Supplies,Binders,4.0,91.25,7.31,4.385999999999999,3
+1404,Xerox 229,Office Supplies,Paper,4.0,91.25,69.98,41.988,12
+1405,"Eldon Expressions Wood and Plastic Desk Accessories, Oak",Furniture,Furnishings,4.0,91.25,9.98,5.988,1
+1406,Fellowes 8 Outlet Superior Workstation Surge Protector w/o Phone/Fax/Modem Protection,Office Supplies,Appliances,4.0,91.25,336.2,201.72,10
+1407,Canon imageCLASS 2200 Advanced Copier,Technology,Copiers,4.0,91.25,17499.95,10499.97,5
+1408,Stanley Bostitch Contemporary Electric Pencil Sharpeners,Office Supplies,Art,4.0,91.25,101.88,61.12799999999999,7
+1409,"Sanyo Counter Height Refrigerator with Crisper, 3.6 Cubic Foot, Stainless Steel/Black",Office Supplies,Appliances,4.0,91.25,1640.7,984.42,5
+1410,Staples,Office Supplies,Fasteners,4.0,91.25,11.34,6.803999999999999,3
+1411,Hon Olson Stacker Chairs,Furniture,Chairs,4.0,91.25,3680.44,2208.264,15
+1412,"TOPS Money Receipt Book, Consecutively Numbered in Red,",Office Supplies,Paper,4.0,91.25,32.04,19.224,4
+1413,Belkin 7-Outlet SurgeMaster Home Series,Office Supplies,Appliances,4.0,91.25,92.21,55.32599999999999,9
+1414,Deflect-o DuraMat Antistatic Studded Beveled Mat for Medium Pile Carpeting,Furniture,Furnishings,4.0,91.25,294.95,176.97,4
+1415,Cherry 142-key Programmable Keyboard,Technology,Accessories,4.0,91.25,479.72,287.832,4
+1416,HTC One Mini,Technology,Phones,4.0,91.25,503.96,302.376,5
+1417,12 Colored Short Pencils,Office Supplies,Art,4.0,91.25,7.8,4.68,3
+1418,Riverleaf Stik-Withit Designer Note Cubes,Office Supplies,Paper,4.0,91.25,60.36,36.216,6
+1419,GBC Plastic Binding Combs,Office Supplies,Binders,4.0,91.25,36.9,22.139999999999997,5
+1420,Hoover Commercial Lightweight Upright Vacuum,Office Supplies,Appliances,4.0,91.25,1.39,0.834,2
+1421,"Fellowes Premier Superior Surge Suppressor, 10-Outlet, With Phone and Remote",Office Supplies,Appliances,4.0,91.25,342.44,205.464,7
+1422,Grandstream GXP1160 VoIP phone,Technology,Phones,4.0,91.25,538.32,322.992,17
+1423,"Boston School Pro Electric Pencil Sharpener, 1670",Office Supplies,Art,4.0,91.25,92.94,55.763999999999996,3
+1424,Boston 16765 Mini Stand Up Battery Pencil Sharpener,Office Supplies,Art,4.0,91.25,60.63,36.378,6
+1425,"IBM Multi-Purpose Copy Paper, 8 1/2 x 11"", Case",Office Supplies,Paper,4.0,91.25,384.15,230.48999999999998,13
+1426,Recycled Easel Ring Binders,Office Supplies,Binders,4.0,91.25,62.66,37.596,9
+1427,"Black Avery Memo-Size 3-Ring Binder, 5 1/2"" x 8 1/2""",Office Supplies,Binders,4.0,91.25,8.07,4.842,4
+1428,Xerox 196,Office Supplies,Paper,4.0,91.25,9.25,5.55,2
+1429,Belkin F9M820V08 8 Outlet Surge,Office Supplies,Appliances,4.0,91.25,524.36,314.616,14
+1430,"Speediset Carbonless Redi-Letter 7"" x 8 1/2""",Office Supplies,Paper,4.0,91.25,51.55,30.929999999999996,5
+1431,Desktop 3-Pocket Hot File,Office Supplies,Storage,4.0,91.25,43.28,25.968,1
+1432,Southworth Structures Collection,Office Supplies,Paper,4.0,91.25,21.84,13.104,3
+1433,Staples in misc. colors,Office Supplies,Art,4.0,91.25,30.98,18.588,8
+1434,AT&T 841000 Phone,Technology,Phones,4.0,91.25,138.0,82.8,2
+1435,Ricoh - Ink Collector Unit for GX3000 Series Printers,Technology,Machines,4.0,91.25,369.16,221.496,11
+1436,Xerox 1976,Office Supplies,Paper,4.0,91.25,20.74,12.443999999999999,4
+1437,Acco Translucent Poly Ring Binders,Office Supplies,Binders,4.0,91.25,43.989999999999995,26.393999999999995,11
+1438,Logitech Gaming G510s - Keyboard,Technology,Accessories,4.0,91.25,815.9,489.53999999999996,11
+1439,GBC Linen Binding Covers,Office Supplies,Binders,4.0,91.25,49.57,29.741999999999997,2
+1440,"Brother MFC-9340CDW LED All-In-One Printer, Copier Scanner",Technology,Machines,4.0,91.25,341.99,205.194,3
+1441,Avery 495,Office Supplies,Labels,4.0,91.25,15.12,9.072,3
+1442,Xerox 1991,Office Supplies,Paper,4.0,91.25,68.52,41.111999999999995,3
+1443,"Sanford EarthWrite Recycled Pencils, Medium Soft, #2",Office Supplies,Art,4.0,91.25,14.7,8.819999999999999,7
+1444,Epson TM-T88V Direct Thermal Printer - Monochrome - Desktop,Technology,Machines,4.0,91.25,559.71,335.826,3
+1445,Okidata C610n Printer,Technology,Machines,4.0,91.25,649.0,389.4,2
+1446,Boston Home & Office Model 2000 Electric Pencil Sharpeners,Office Supplies,Art,4.0,91.25,108.79,65.274,5
+1447,OIC Thumb-Tacks,Office Supplies,Fasteners,4.0,91.25,5.47,3.2819999999999996,6
+1448,Xerox 213,Office Supplies,Paper,4.0,91.25,55.73,33.437999999999995,9
+1449,Plymouth Boxed Rubber Bands by Plymouth,Office Supplies,Fasteners,4.0,91.25,32.97,19.782,8
+1450,Avery Hi-Liter Smear-Safe Highlighters,Office Supplies,Art,4.0,91.25,46.72,28.032,10
+1451,Panasonic KP-4ABK Battery-Operated Pencil Sharpener,Office Supplies,Art,4.0,91.25,43.92,26.352,3
+1452,"""While you Were Out"" Message Book, One Form per Page",Office Supplies,Paper,4.0,91.25,8.9,5.34,3
+1453,"Eureka The Boss Lite 10-Amp Upright Vacuum, Blue",Office Supplies,Appliances,4.0,91.25,721.44,432.86400000000003,9
+1454,Executive Impressions Supervisor Wall Clock,Furniture,Furnishings,4.0,91.25,67.36,40.416,2
+1455,"Executive Impressions 14"" Two-Color Numerals Wall Clock",Furniture,Furnishings,4.0,91.25,54.53,32.717999999999996,3
+1456,Memorex Mini Travel Drive 16 GB USB 2.0 Flash Drive,Technology,Accessories,4.0,91.25,175.67000000000002,105.402,11
+1457,Acme Galleria Hot Forged Steel Scissors with Colored Handles,Office Supplies,Supplies,4.0,91.25,110.11,66.066,7
+1458,Newell 34,Office Supplies,Art,4.0,91.25,178.56,107.136,9
+1459,"Ampad Gold Fibre Wirebound Steno Books, 6"" x 9"", Gregg Ruled",Office Supplies,Paper,4.0,91.25,45.86,27.516,11
+1460,Riverside Furniture Stanwyck Manor Table Series,Furniture,Tables,4.0,91.25,172.11,103.266,1
+1461,Hon 2111 Invitation Series Straight Table,Furniture,Tables,4.0,91.25,236.53,141.918,2
+1462,"Recycled Data-Pak for Archival Bound Computer Printouts, 12-1/2 x 12-1/2 x 16",Office Supplies,Storage,4.0,91.25,829.84,497.904,9
+1463,Xerox 1900,Office Supplies,Paper,4.0,91.25,42.800000000000004,25.680000000000003,10
+1464,"Mini 13-1/2 Capacity Data Binder Rack, Pearl",Office Supplies,Storage,4.0,91.25,680.53,408.318,6
+1465,Wireless Extenders zBoost YX545 SOHO Signal Booster,Technology,Phones,4.0,91.25,755.96,453.576,4
+1466,Southworth 25% Cotton Granite Paper & Envelopes,Office Supplies,Paper,4.0,91.25,6.54,3.924,1
+1467,Hon 4-Shelf Metal Bookcases,Furniture,Bookcases,4.0,91.25,242.35,145.41,8
+1468,Seidio BD2-HK3IPH5-BK DILEX Case and Holster Combo for Apple iPhone 5/5s - Black,Technology,Phones,4.0,91.25,49.62,29.772,2
+1469,Macally Suction Cup Mount,Technology,Phones,4.0,91.25,57.36,34.416,6
+1470,WD My Passport Ultra 500GB Portable External Hard Drive,Technology,Accessories,4.0,91.25,236.0,141.6,4
+1471,Global Comet Stacking Arm Chair,Furniture,Chairs,4.0,91.25,887.27,532.362,3
+1472,Zebra GK420t Direct Thermal/Thermal Transfer Printer,Technology,Machines,4.0,91.25,703.71,422.226,6
+1473,"3D Systems Cube Printer, 2nd Generation, White",Technology,Machines,4.0,91.25,1299.99,779.994,2
+1474,Letter Size File,Office Supplies,Storage,4.0,91.25,119.1,71.46,3
+1475,Microsoft Wireless Mobile Mouse 4000,Technology,Accessories,4.0,91.25,159.96,95.976,4
+1476,Global Commerce Series Low-Back Swivel/Tilt Chairs,Furniture,Chairs,4.0,91.25,179.89,107.93399999999998,1
+1477,Xerox 1977,Office Supplies,Paper,4.0,91.25,24.049999999999997,14.429999999999998,4
+1478,Hon 4700 Series Mobuis Mid-Back Task Chairs with Adjustable Arms,Furniture,Chairs,4.0,91.25,1779.9,1067.94,5
+1479,Avery Premier Heavy-Duty Binder with Round Locking Rings,Office Supplies,Binders,4.0,91.25,42.84,25.704,6
+1480,BPI Conference Tables,Furniture,Tables,4.0,91.25,1438.59,863.1539999999999,17
+1481,Premier Electric Letter Opener,Office Supplies,Supplies,4.0,91.25,185.38,111.228,2
+1482,Avaya 5410 Digital phone,Technology,Phones,4.0,91.25,380.74,228.444,7
+1483,Tripp Lite TLP810NET Broadband Surge for Modem/Fax,Office Supplies,Appliances,4.0,91.25,20.39,12.234,2
+1484,Newell 344,Office Supplies,Art,4.0,91.25,17.79,10.674,8
+1485,DAX Two-Tone Silver Metal Document Frame,Furniture,Furnishings,4.0,91.25,137.63,82.57799999999999,7
+1486,Hon 4060 Series Tables,Furniture,Tables,4.0,91.25,268.7,161.22,3
+1487,"Hoover Replacement Belts For Soft Guard & Commercial Ltweight Upright Vacs, 2/Pk",Office Supplies,Appliances,4.0,91.25,15.8,9.48,4
+1488,"Bush Westfield Collection Bookcases, Dark Cherry Finish, Fully Assembled",Furniture,Bookcases,4.0,91.25,90.88,54.528,3
+1489,iOttie HLCRIO102 Car Mount,Technology,Phones,4.0,91.25,31.98,19.188,2
+1490,"Global Manager's Adjustable Task Chair, Storm",Furniture,Chairs,4.0,91.25,120.78,72.468,1
+1491,Ultra Door Push Plate,Furniture,Furnishings,4.0,91.25,64.81,38.886,16
+1492,Nu-Dell Executive Frame,Furniture,Furnishings,4.0,91.25,91.01,54.606,12
+1493,Space Solutions Industrial Galvanized Steel Shelving.,Office Supplies,Storage,4.0,91.25,78.8,47.279999999999994,1
+1494,"Executive Impressions 16-1/2"" Circular Wall Clock",Furniture,Furnishings,4.0,91.25,26.72,16.032,1
+1495,Avanti 1.7 Cu. Ft. Refrigerator,Office Supplies,Appliances,4.0,91.25,706.86,424.116,7
+1496,Panasonic KP-310 Heavy-Duty Electric Pencil Sharpener,Office Supplies,Art,4.0,91.25,109.9,65.94,5
+1497,Okidata MB760 Printer,Technology,Machines,4.0,91.25,3357.6,2014.56,3
+1498,Canon PC940 Copier,Technology,Copiers,4.0,91.25,1079.98,647.9879999999999,4
+1499,"Tennsco Snap-Together Open Shelving Units, Starter Sets and Add-On Units",Office Supplies,Storage,4.0,91.25,2347.63,1408.578,9
+1500,"Bush Andora Conference Table, Maple/Graphite Gray Finish",Furniture,Tables,4.0,91.25,239.37,143.62199999999999,2
+1501,O'Sullivan Living Dimensions 3-Shelf Bookcases,Furniture,Bookcases,4.0,91.25,512.5,307.5,3
+1502,Spiral Phone Message Books with Labels by Adams,Office Supplies,Paper,4.0,91.25,8.96,5.376,2
+1503,Nu-Dell EZ-Mount Plastic Wall Frames,Furniture,Furnishings,4.0,91.25,11.82,7.092,3
+1504,"Executive Impressions 14"" Contract Wall Clock with Quartz Movement",Furniture,Furnishings,4.0,91.25,44.46,26.676,5
+1505,Avery Hidden Tab Dividers for Binding Systems,Office Supplies,Binders,4.0,91.25,16.09,9.654,9
+1506,Sterling Rubber Bands by Alliance,Office Supplies,Fasteners,4.0,91.25,19.78,11.868,5
+1507,Xerox 228,Office Supplies,Paper,4.0,91.25,12.96,7.776,2
+1508,Kleencut Forged Office Shears by Acme United Corporation,Office Supplies,Supplies,4.0,91.25,3.33,1.998,2
+1509,HON 5400 Series Task Chairs for Big and Tall,Furniture,Chairs,4.0,91.25,6589.21,3953.526,11
+1510,BlackBerry Q10,Technology,Phones,4.0,91.25,1814.26,1088.556,16
+1511,Tripp Lite Isotel 8 Ultra 8 Outlet Metal Surge,Office Supplies,Appliances,4.0,91.25,70.97,42.582,5
+1512,Xerox 1937,Office Supplies,Paper,4.0,91.25,192.16,115.29599999999999,4
+1513,"Perixx PERIBOARD-512B, Ergonomic Split Keyboard",Technology,Accessories,4.0,91.25,174.95,104.96999999999998,5
+1514,Avery Legal 4-Ring Binder,Office Supplies,Binders,4.0,91.25,184.62,110.772,11
+1515,"Premium Transparent Presentation Covers, No Pattern/Clear, 8 1/2"" x 11""",Office Supplies,Binders,4.0,91.25,77.56,46.536,2
+1516,Xerox 217,Office Supplies,Paper,4.0,91.25,6.48,3.888,1
+1517,Maxell CD-R Discs,Technology,Accessories,4.0,91.25,7.88,4.728,4
+1518,Xerox 193,Office Supplies,Paper,4.0,91.25,17.94,10.764000000000001,3
+1519,Avery Hi-Liter Pen Style Six-Color Fluorescent Set,Office Supplies,Art,4.0,91.25,7.7,4.62,2
+1520,"Career Cubicle Clock, 8 1/4"", Black",Furniture,Furnishings,4.0,91.25,133.85000000000002,80.31000000000002,7
+1521,Hoover Commercial SteamVac,Office Supplies,Appliances,4.0,91.25,73.33000000000001,43.998000000000005,7
+1522,"Acme Design Line 8"" Stainless Steel Bent Scissors w/Champagne Handles, 3-1/8"" Cut",Office Supplies,Supplies,4.0,91.25,38.3,22.979999999999997,6
+1523,"Ampad Poly Cover Wirebound Steno Book, 6"" x 9"" Assorted Colors, Gregg Ruled",Office Supplies,Paper,4.0,91.25,10.9,6.54,3
+1524,"Executive Impressions 14""",Furniture,Furnishings,4.0,91.25,111.15,66.69,5
+1525,Tensor Track Tree Floor Lamp,Furniture,Furnishings,4.0,91.25,39.98,23.987999999999996,2
+1526,Newell 325,Office Supplies,Art,4.0,91.25,28.91,17.346,7
+1527,Home/Office Personal File Carts,Office Supplies,Storage,4.0,91.25,104.28,62.568,3
+1528,"Global Adaptabilites Bookcase, Cherry/Storm Gray Finish",Furniture,Bookcases,4.0,91.25,2154.9,1292.94,5
+1529,Hammermill Color Copier Paper (28Lb. and 96 Bright),Office Supplies,Paper,4.0,91.25,19.98,11.988,2
+1530,"HP Designjet T520 Inkjet Large Format Printer - 24"" Color",Technology,Machines,4.0,91.25,8749.95,5249.97,5
+1531,"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 3/Pack",Technology,Accessories,4.0,91.25,27.96,16.776,5
+1532,"Tyvek Interoffice Envelopes, 9 1/2"" x 12 1/2"", 100/Box",Office Supplies,Envelopes,4.0,91.25,146.35,87.80999999999999,3
+1533,"Tensor ""Hersey Kiss"" Styled Floor Lamp",Furniture,Furnishings,4.0,91.25,12.99,7.794,1
+1534,"Global Leather & Oak Executive Chair, Burgundy",Furniture,Chairs,4.0,91.25,603.56,362.13599999999997,5
+1535,Avery 488,Office Supplies,Labels,4.0,91.25,34.65,20.79,11
+1536,Deflect-O Glasstique Clear Desk Accessories,Furniture,Furnishings,4.0,91.25,24.64,14.783999999999999,4
+1537,Motorola L703CM,Technology,Phones,4.0,91.25,1123.13,673.878,9
+1538,Mobile Personal File Cube,Office Supplies,Storage,4.0,91.25,70.26,42.156,3
+1539,"Acco Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Executive Red",Office Supplies,Binders,4.0,91.25,6.1,3.6599999999999997,2
+1540,Hoover Replacement Belt for Commercial Guardsman Heavy-Duty Upright Vacuum,Office Supplies,Appliances,4.0,91.25,3.55,2.13,2
+1541,"Sauder Forest Hills Library, Woodland Oak Finish",Furniture,Bookcases,4.0,91.25,359.5,215.7,3
+1542,Belkin iPhone and iPad Lightning Cable,Technology,Phones,4.0,91.25,71.95,43.17,6
+1543,"HP Officejet Pro 8600 e-All-In-One Printer, Copier, Scanner, Fax",Technology,Machines,4.0,91.25,239.98,143.988,2
+1544,"Snap-A-Way Black Print Carbonless Speed Message, No Reply Area, Duplicate",Office Supplies,Paper,4.0,91.25,93.25,55.949999999999996,4
+1545,"Acco Data Flex Cable Posts For Top & Bottom Load Binders, 6"" Capacity",Office Supplies,Binders,4.0,91.25,6.26,3.756,2
+1546,"Sauder Facets Collection Library, Sky Alder Finish",Furniture,Bookcases,4.0,91.25,341.96,205.176,2
+1547,"DAX Contemporary Wood Frame with Silver Metal Mat, Desktop, 11 x 14 Size",Furniture,Furnishings,4.0,91.25,40.48,24.287999999999997,2
+1548,Honeywell Enviracaire Portable Air Cleaner for up to 8 x 10 Room,Office Supplies,Appliances,4.0,91.25,207.14,124.28399999999999,3
+1549,Prang Drawing Pencil Set,Office Supplies,Art,4.0,91.25,13.9,8.34,5
+1550,Canon Image Class D660 Copier,Technology,Copiers,4.0,91.25,959.98,575.9879999999999,2
+1551,Xerox 1981,Office Supplies,Paper,4.0,91.25,10.56,6.336,2
+1552,Fellowes Advanced 8 Outlet Surge Suppressor with Phone/Fax Protection,Office Supplies,Appliances,4.0,91.25,111.04,66.624,4
+1553,Okidata B400 Printer,Technology,Machines,4.0,91.25,686.4,411.84,2
+1554,Hewlett-Packard Deskjet F4180 All-in-One Color Ink-jet - Printer / copier / scanner,Technology,Machines,4.0,91.25,101.99,61.193999999999996,2
+1555,KeyTronic KT400U2 - Keyboard - Black,Technology,Accessories,4.0,91.25,30.84,18.503999999999998,3
+1556,Southworth 25% Cotton Antique Laid Paper & Envelopes,Office Supplies,Paper,4.0,91.25,75.06,45.036,9
+1557,Xerox 1911,Office Supplies,Paper,4.0,91.25,76.64,45.984,2
+1558,Okidata B401 Printer,Technology,Machines,4.0,91.25,179.99,107.994,3
+1559,"Tenex Chairmat w/ Average Lip, 45"" x 53""",Furniture,Furnishings,4.0,91.25,756.8,454.08,5
+1560,Bevis Steel Folding Chairs,Furniture,Chairs,4.0,91.25,470.16,282.096,7
+1561,"Avery Flip-Chart Easel Binder, Black",Office Supplies,Binders,4.0,91.25,8.95,5.369999999999999,2
+1562,Sony 32GB Class 10 Micro SDHC R40 Memory Card,Technology,Accessories,4.0,91.25,104.75,62.849999999999994,5
+1563,Dixon Ticonderoga Pencils,Office Supplies,Art,4.0,91.25,23.84,14.304,8
+1564,Lenovo 17-Key USB Numeric Keypad,Technology,Accessories,4.0,91.25,108.77,65.262,4
+1565,"iKross Bluetooth Portable Keyboard + Cell Phone Stand Holder + Brush for Apple iPhone 5S 5C 5, 4S 4",Technology,Phones,4.0,91.25,41.9,25.139999999999997,2
+1566,Avery 491,Office Supplies,Labels,4.0,91.25,28.91,17.346,7
+1567,Clarity 53712,Technology,Phones,4.0,91.25,369.54,221.72400000000002,7
+1568,Tenex Chairmats For Use with Hard Floors,Furniture,Furnishings,4.0,91.25,64.96,38.97599999999999,5
+1569,Fellowes Recycled Storage Drawers,Office Supplies,Storage,4.0,91.25,177.65,106.59,2
+1570,Xerox Blank Computer Paper,Office Supplies,Paper,4.0,91.25,99.9,59.94,5
+1571,"Avery Trapezoid Extra Heavy Duty 4"" Binders",Office Supplies,Binders,4.0,91.25,88.07,52.84199999999999,7
+1572,"TOPS ""Important Message"" Pads, Canary, 4-1/4 x 5-1/2, 50 Sheets per Pad",Office Supplies,Paper,4.0,91.25,10.27,6.162,3
+1573,Avery Durable Slant Ring Binders,Office Supplies,Binders,4.0,91.25,11.88,7.128,5
+1574,Maxell 4.7GB DVD+R 5/Pack,Technology,Accessories,4.0,91.25,2.38,1.428,3
+1575,"Sauder Facets Collection Locker/File Cabinet, Sky Alder Finish",Office Supplies,Storage,4.0,91.25,1112.94,667.764,3
+1576,Xerox 203,Office Supplies,Paper,4.0,91.25,19.44,11.664,3
+1577,Polycom VoiceStation 500 Conference phone,Technology,Phones,4.0,91.25,707.88,424.728,3
+1578,Global Enterprise Series Seating Low-Back Swivel/Tilt Chairs,Furniture,Chairs,4.0,91.25,207.18,124.30799999999999,1
+1579,Acme Design Stainless Steel Bent Scissors,Office Supplies,Supplies,4.0,91.25,41.04,24.624,6
+1580,"Letter/Legal File Tote with Clear Snap-On Lid, Black Granite",Office Supplies,Storage,4.0,91.25,16.06,9.636,1
+1581,Pastel Pink Envelopes,Office Supplies,Envelopes,4.0,91.25,7.28,4.368,1
+1582,Xerox 1967,Office Supplies,Paper,4.0,91.25,32.4,19.439999999999998,5
+1583,Belkin 8 Outlet SurgeMaster II Gold Surge Protector,Office Supplies,Appliances,4.0,91.25,269.91,161.946,5
+1584,"Dixon Ticonderoga Core-Lock Colored Pencils, 48-Color Set",Office Supplies,Art,4.0,91.25,255.85,153.51,7
+1585,Clearsounds A400,Technology,Phones,4.0,91.25,118.78,71.268,3
+1586,Staple envelope,Office Supplies,Envelopes,4.0,91.25,15.56,9.336,2
+1587,Xerox 207,Office Supplies,Paper,4.0,91.25,19.44,11.664,3
+1588,Newell 307,Office Supplies,Art,4.0,91.25,3.64,2.184,2
+1589,Blue Parrot B250XT Professional Grade Wireless Bluetooth Headset with,Technology,Phones,4.0,91.25,419.94,251.964,7
+1590,Grip Seal Envelopes,Office Supplies,Envelopes,4.0,91.25,7.07,4.242,2
+1591,"Contract Clock, 14"", Brown",Furniture,Furnishings,4.0,91.25,149.46,89.676,12
+1592,Acco 6 Outlet Guardian Premium Plus Surge Suppressor,Office Supplies,Appliances,4.0,91.25,21.98,13.188,6
+1593,"Acme Hot Forged Carbon Steel Scissors with Nickel-Plated Handles, 3 7/8"" Cut, 8""L",Office Supplies,Supplies,4.0,91.25,22.24,13.344,2
+1594,"Acco PRESSTEX Data Binder with Storage Hooks, Light Blue, 9 1/2"" X 11""",Office Supplies,Binders,4.0,91.25,8.61,5.1659999999999995,2
+1595,Sauder Camden County Collection Library,Furniture,Bookcases,4.0,91.25,781.86,469.116,10
+1596,"Hon Practical Foundations 30 x 60 Training Table, Light Gray/Charcoal",Furniture,Tables,4.0,91.25,1592.85,955.7099999999999,7
+1597,Memorex Mini Travel Drive 32 GB USB 2.0 Flash Drive,Technology,Accessories,4.0,91.25,120.0,72.0,6
+1598,Easy-staple paper,Office Supplies,Paper,4.0,91.25,167.94,100.764,3
+1599,"Computer Room Manger, 14""",Furniture,Furnishings,4.0,91.25,51.97,31.182,2
+1600,Cisco 8961 IP Phone Charcoal,Technology,Machines,4.0,91.25,224.94,134.964,3
+1601,Avery 496,Office Supplies,Labels,4.0,91.25,6.0,3.5999999999999996,2
+1602,"Eureka Hand Vacuum, Bagless",Office Supplies,Appliances,4.0,91.25,197.72,118.63199999999999,4
+1603,Xerox 1899,Office Supplies,Paper,4.0,91.25,11.56,6.936,2
+1604,Newell Chalk Holder,Office Supplies,Art,4.0,91.25,20.65,12.389999999999999,5
+1605,Office Star - Task Chair with Contemporary Loop Arms,Furniture,Chairs,4.0,91.25,436.7,262.02,6
+1606,GBC VeloBinder Electric Binding Machine,Office Supplies,Binders,4.0,91.25,72.59,43.554,2
+1607,"Executive Impressions 8-1/2"" Career Panel/Partition Cubicle Clock",Furniture,Furnishings,4.0,91.25,41.6,24.96,4
+1608,"SAFCO Commercial Wire Shelving, Black",Office Supplies,Storage,4.0,91.25,221.02,132.612,2
+1609,Anker 24W Portable Micro USB Car Charger,Technology,Phones,4.0,91.25,26.38,15.828,4
+1610,SanDisk Cruzer 4 GB USB Flash Drive,Technology,Accessories,4.0,91.25,10.38,6.228000000000001,2
+1611,"Advantus Employee of the Month Certificate Frame, 11 x 13-1/2",Furniture,Furnishings,4.0,91.25,173.21,103.926,7
+1612,"Eldon 400 Class Desk Accessories, Black Carbon",Furniture,Furnishings,4.0,91.25,14.0,8.4,4
+1613,Eldon 200 Class Desk Accessories,Furniture,Furnishings,4.0,91.25,12.56,7.536,2
+1614,Staples in misc. colors,Office Supplies,Art,4.0,91.25,19.15,11.489999999999998,2
+1615,Xerox 221,Office Supplies,Paper,4.0,91.25,6.48,3.888,1
+1616,Staple envelope,Office Supplies,Envelopes,4.0,91.25,11.16,6.696,2
+1617,"Deflect-o EconoMat Nonstudded, No Bevel Mat",Furniture,Furnishings,4.0,91.25,82.64,49.583999999999996,2
+1618,"GE General Use Halogen Bulbs, 100 Watts, 1 Bulb per Pack",Furniture,Furnishings,4.0,91.25,25.13,15.078,3
+1619,Eldon Jumbo ProFile Portable File Boxes Graphite/Black,Office Supplies,Storage,4.0,91.25,36.74,22.044,3
+1620,Fiskars Home & Office Scissors,Office Supplies,Supplies,4.0,91.25,35.52,21.312,4
+1621,"#10 White Business Envelopes,4 1/8 x 9 1/2",Office Supplies,Envelopes,4.0,91.25,109.69,65.814,7
